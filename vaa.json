@@ -1,5 +1,61 @@
 [
   {
+    "txHash": "0x0588d6fb13db78607a5c7c4118053cfea3b6c90d934312288bf07262c84a0e93",
+    "contractAddress": "0xa1d462Ccff349BCd13390AC33Ee0f01B5473Bfce",
+    "tokenId": "276",
+    "collectionName": "OzempApes ",
+    "timestamp": 1749747531,
+    "blockNumber": 18033944,
+    "logIndex": 0,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xa1d462Ccff349BCd13390AC33Ee0f01B5473Bfce276/64",
+    "isFree": true,
+    "totalContractMints": 1,
+    "analysis": {
+      "contractAddress": "0xa1d462Ccff349BCd13390AC33Ee0f01B5473Bfce",
+      "metadataStatus": "ok",
+      "fetchedMetadata": {
+        "name": "OzempApes  #276",
+        "description": "OzempApes: The Lean Revolution \n\nIn a not-so-distant future, apes have discovered the ultimate bio-hack of using meds to enhance their bodies and eventually becoming Ozempapes—an experimental weight-loss enhancer originally created for humans. After one rogue lab monkey injected himself, his transformation sparked an ape-wide trend. Now, these apes aren’t just skinny—they’re overdosed, becoming sick, and addicted to the point of becoming undead. From fitness influencers to pharma hustlers, these 2,000 apes have formed the most deadly, unhealthy, and stylish crew the blockchain has ever seen.\n\n",
+        "attributes": [
+          {
+            "trait_type": "Background",
+            "value": "Judge Gray"
+          },
+          {
+            "trait_type": "Fur",
+            "value": "Brown Fur"
+          },
+          {
+            "trait_type": "Clothes",
+            "value": "Torn Shirt"
+          },
+          {
+            "trait_type": "Mouth",
+            "value": "Pizza Mouth"
+          },
+          {
+            "trait_type": "Hat",
+            "value": "Bandages"
+          },
+          {
+            "trait_type": "Trait Count",
+            "value": "5"
+          }
+        ],
+        "compiler": "nfts2me.com",
+        "image": "ipfs://bafybeie6oe57jbnoerukgpk2ilrmxlm6yaa57xbmua54puoqof5ouounma/276.webp"
+      },
+      "nameSymbolStatus": "ok",
+      "collectionNameFromAnalyzer": "OzempApes",
+      "collectionSymbolFromAnalyzer": "OZE",
+      "finalStatus": "OK",
+      "statusReasons": [
+        "Metadata fetched successfully."
+      ]
+    },
+    "displayStatus": "OK"
+  },
+  {
     "txHash": "0xc14f05db149b848e2662f999e90f0ac5c2038e5b37e1cb74c68a40d818f21478",
     "contractAddress": "0x56974f917a22fE2Ff2b82252cE74B2d3e4023B66",
     "tokenId": "31",
