@@ -2,29 +2,29 @@
   {
     "txHash": "0xbd945dd94a60168e1586ed4d66096daeadcdd62c66af8853e2a97df58665d1ae",
     "contractAddress": "0x79AF118867B1D1C5781fecD12B8198A7c2f138eB",
-    "tokenId": "866",
+    "tokenId": "867",
     "collectionName": "Chimpix On Ape",
     "timestamp": 1749748043,
     "blockNumber": 18034455,
-    "logIndex": 0,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x79AF118867B1D1C5781fecD12B8198A7c2f138eB866/64",
+    "logIndex": 1,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x79AF118867B1D1C5781fecD12B8198A7c2f138eB867/64",
     "isFree": false,
     "valueWei": "3150000000000000000",
-    "totalContractMints": 1,
+    "totalContractMints": 2,
     "analysis": {
       "contractAddress": "0x79AF118867B1D1C5781fecD12B8198A7c2f138eB",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "Chimpix On Ape #866",
+        "name": "Chimpix On Ape #867",
         "description": "Chimpix on Ape is a bunch of fun loving apes invading the apechain.\nThey are PFPs that make you smile. No roadmap Just PFPs atm Looking into other avenues as well.",
         "attributes": [
           {
             "trait_type": "Backgrond",
-            "value": "Sulu"
+            "value": "Blue Bell"
           },
           {
             "trait_type": "Fur",
-            "value": "Kona Blue Tats"
+            "value": "Orange Fur"
           },
           {
             "trait_type": "Face",
@@ -32,23 +32,23 @@
           },
           {
             "trait_type": "Clothing",
-            "value": "Sweatshirtt Green"
+            "value": "Black On Top Hoodie"
           },
           {
             "trait_type": "Head",
-            "value": "Ape Snapback Black"
+            "value": "Tennis Visor Red"
           },
           {
             "trait_type": "Mouth",
-            "value": "Golden Teeth"
+            "value": "Curved Upper lip"
           },
           {
             "trait_type": "Eyes",
-            "value": "Red Laser Eyes 2"
+            "value": "Sleepy Eyes Purple"
           },
           {
             "trait_type": "Jewelry",
-            "value": "Gold Stud w diamond"
+            "value": "No Jewelry"
           },
           {
             "trait_type": "Trait Count",
@@ -56,7 +56,7 @@
           }
         ],
         "compiler": "nfts2me.com",
-        "image": "ipfs://bafybeics2i5vpxgy3jine476kw6ltzfdw5kj3qk7wjq3hrgfkddon6seoi/866.webp"
+        "image": "ipfs://bafybeics2i5vpxgy3jine476kw6ltzfdw5kj3qk7wjq3hrgfkddon6seoi/867.webp"
       },
       "nameSymbolStatus": "ok",
       "collectionNameFromAnalyzer": "Chimpix On Ape",
