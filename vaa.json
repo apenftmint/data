@@ -1,5 +1,72 @@
 [
   {
+    "txHash": "0x75db9f66e4d3b43fb64be642793b5accef8e9ac94ebea3cc4cd58e84e2459e35",
+    "contractAddress": "0x9712A64cce19Cc3436572F101294461e9bd1991F",
+    "tokenId": "13",
+    "collectionName": "Cultural Solemate",
+    "timestamp": 1749748490,
+    "blockNumber": 18034824,
+    "logIndex": 0,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x9712A64cce19Cc3436572F101294461e9bd1991F13/64",
+    "isFree": false,
+    "valueWei": "2000000000000000000",
+    "totalContractMints": 2,
+    "analysis": {
+      "contractAddress": "0x9712A64cce19Cc3436572F101294461e9bd1991F",
+      "metadataStatus": "ok",
+      "fetchedMetadata": {
+        "name": "Cultural Solemate: Vans Sk8-Hi 'True White'",
+        "description": "A unique NFT representing 0x46A6...AAC5's Cultural Solemate match. This Vans Sk8-Hi 'True White' was selected based on their personality, cultural background, and style preferences, making it a perfect representation of their sneaker culture identity.",
+        "image": "data:image/svg+xml;base64,CiAgICA8c3ZnIHdpZHRoPSI0MDAiIGhlaWdodD0iNDAwIiB2aWV3Qm94PSIwIDAgNDAwIDQwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICAgICAgPGRlZnM+CiAgICAgICAgPCEtLSBHcmFkaWVudCBiYWNrZ3JvdW5kIC0tPgogICAgICAgIDxsaW5lYXJHcmFkaWVudCBpZD0iYmdHcmFkaWVudCIgeDE9IjAlIiB5MT0iMCUiIHgyPSIxMDAlIiB5Mj0iMTAwJSI+CiAgICAgICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdHlsZT0ic3RvcC1jb2xvcjojM0I4MkY2O3N0b3Atb3BhY2l0eToxIiAvPgogICAgICAgICAgPHN0b3Agb2Zmc2V0PSI1MCUiIHN0eWxlPSJzdG9wLWNvbG9yOiM4QjVDRjY7c3RvcC1vcGFjaXR5OjEiIC8+CiAgICAgICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0eWxlPSJzdG9wLWNvbG9yOiNFRjQ0NDQ7c3RvcC1vcGFjaXR5OjEiIC8+CiAgICAgICAgPC9saW5lYXJHcmFkaWVudD4KICAgICAgICAKICAgICAgICA8IS0tIElubmVyIGNhcmQgZ3JhZGllbnQgLS0+CiAgICAgICAgPGxpbmVhckdyYWRpZW50IGlkPSJjYXJkR3JhZGllbnQiIHgxPSIwJSIgeTE9IjAlIiB4Mj0iMTAwJSIgeTI9IjEwMCUiPgogICAgICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3R5bGU9InN0b3AtY29sb3I6cmdiYSgyNTUsMjU1LDI1NSwwLjE1KTtzdG9wLW9wYWNpdHk6MSIgLz4KICAgICAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3R5bGU9InN0b3AtY29sb3I6cmdiYSgyNTUsMjU1LDI1NSwwLjA1KTtzdG9wLW9wYWNpdHk6MSIgLz4KICAgICAgICA8L2xpbmVhckdyYWRpZW50PgogICAgICA8L2RlZnM+CiAgICAgIAogICAgICA8IS0tIEJhY2tncm91bmQgLS0+CiAgICAgIDxyZWN0IHdpZHRoPSI0MDAiIGhlaWdodD0iNDAwIiBmaWxsPSJ1cmwoI2JnR3JhZGllbnQpIiByeD0iMjAiLz4KICAgICAgCiAgICAgIDwhLS0gRGVjb3JhdGl2ZSBjaXJjbGVzIC0tPgogICAgICA8Y2lyY2xlIGN4PSI2MCIgY3k9IjYwIiByPSIyNSIgZmlsbD0icmdiYSgyNTUsMjU1LDI1NSwwLjEpIiBzdHJva2U9InJnYmEoMjU1LDI1NSwyNTUsMC4yKSIgc3Ryb2tlLXdpZHRoPSIyIi8+CiAgICAgIDxjaXJjbGUgY3g9IjM0MCIgY3k9IjYwIiByPSIxNSIgZmlsbD0icmdiYSgyNTUsMjU1LDI1NSwwLjEpIiBzdHJva2U9InJnYmEoMjU1LDI1NSwyNTUsMC4yKSIgc3Ryb2tlLXdpZHRoPSIyIi8+CiAgICAgIDxjaXJjbGUgY3g9IjYwIiBjeT0iMzQwIiByPSIxMCIgZmlsbD0icmdiYSgyNTUsMjU1LDI1NSwwLjIpIi8+CiAgICAgIDxjaXJjbGUgY3g9IjM0MCIgY3k9IjM0MCIgcj0iMzUiIGZpbGw9InJnYmEoMjU1LDI1NSwyNTUsMC4xKSIgc3Ryb2tlPSJyZ2JhKDI1NSwyNTUsMjU1LDAuMikiIHN0cm9rZS13aWR0aD0iMiIvPgogICAgICAKICAgICAgPCEtLSBDZW50cmFsIGNhcmQgYXJlYSAtLT4KICAgICAgPHJlY3QgeD0iODAiIHk9IjExMCIgd2lkdGg9IjI0MCIgaGVpZ2h0PSIxNDAiIHJ4PSIxNSIgZmlsbD0idXJsKCNjYXJkR3JhZGllbnQpIiAKICAgICAgICAgICAgc3Ryb2tlPSJyZ2JhKDI1NSwyNTUsMjU1LDAuMykiIHN0cm9rZS13aWR0aD0iMiIvPgogICAgICAKICAgICAgPCEtLSBTaG9lIGlsbHVzdHJhdGlvbiAtLT4KICAgICAgCiAgICAgIDxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKDIwMCwgMjAwKSI+CiAgICAgICAgPCEtLSBTaG9lIHNvbGUgLS0+CiAgICAgICAgPGVsbGlwc2UgY3g9IjAiIGN5PSIzNSIgcng9Ijc1IiByeT0iMTAiIGZpbGw9IiNFNUU3RUIiIG9wYWNpdHk9IjAuOCIvPgogICAgICAgIDwhLS0gU2hvZSBib2R5IC0tPgogICAgICAgIDxwYXRoIGQ9Ik0gLTY1IDIwIFEgLTU1IC0xMCAtMTUgLTE1IFEgMTUgLTIwIDU1IC0xNSBRIDY1IC0xMCA2NSAyMCBRIDU1IDM1IDAgMzUgUSAtNTUgMzUgLTY1IDIwIFoiIAogICAgICAgICAgICAgIGZpbGw9IiNGRkZGRkYiIHN0cm9rZT0icmdiYSgyNTUsMjU1LDI1NSwwLjMpIiBzdHJva2Utd2lkdGg9IjIiLz4KICAgICAgICA8IS0tIFNpZGUgc3RyaXBlIC0tPgogICAgICAgIDxwYXRoIGQ9Ik0gLTUwIDAgUSAtMzAgLTEwIDEwIC0xMCBRIDMwIDAgMzUgMTAgUSAxMCAyMCAtMzAgMjAgUSAtNTAgMTAgLTUwIDAgWiIgCiAgICAgICAgICAgICAgZmlsbD0iI0YzRjRGNiIgb3BhY2l0eT0iMC44Ii8+CiAgICAgICAgPCEtLSBFeWVsZXRzIC0tPgogICAgICAgIDxjaXJjbGUgY3g9Ii0yMCIgY3k9Ii01IiByPSIzIiBmaWxsPSJyZ2JhKDI1NSwyNTUsMjU1LDAuNikiLz4KICAgICAgICA8Y2lyY2xlIGN4PSItMTAiIGN5PSItOCIgcj0iMyIgZmlsbD0icmdiYSgyNTUsMjU1LDI1NSwwLjYpIi8+CiAgICAgICAgPGNpcmNsZSBjeD0iMCIgY3k9Ii04IiByPSIzIiBmaWxsPSJyZ2JhKDI1NSwyNTUsMjU1LDAuNikiLz4KICAgICAgICA8Y2lyY2xlIGN4PSIxMCIgY3k9Ii01IiByPSIzIiBmaWxsPSJyZ2JhKDI1NSwyNTUsMjU1LDAuNikiLz4KICAgICAgPC9nPgogICAgCiAgICAgIAogICAgICA8IS0tIFNob2UgbmFtZSBiYWRnZSAtLT4KICAgICAgPHJlY3QgeD0iOTAiIHk9IjI2MCIgd2lkdGg9IjIyMCIgaGVpZ2h0PSIzMCIgcng9IjgiIGZpbGw9InJnYmEoMCwwLDAsMC42KSIvPgogICAgICA8dGV4dCB4PSIyMDAiIHk9IjI4MCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZmlsbD0id2hpdGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTQiIGZvbnQtd2VpZ2h0PSJib2xkIj5WQU5TIFNLOC1ISTwvdGV4dD4KICAgICAgCiAgICAgIDwhLS0gTWFpbiB0ZXh0IC0tPgogICAgICA8dGV4dCB4PSIyMDAiIHk9IjMxMCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZmlsbD0id2hpdGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTYiIGZvbnQtd2VpZ2h0PSJub3JtYWwiPkkgZm91bmQgbXk8L3RleHQ+CiAgICAgIDx0ZXh0IHg9IjIwMCIgeT0iMzM1IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmaWxsPSJ3aGl0ZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgZm9udC1zaXplPSIyMiIgZm9udC13ZWlnaHQ9ImJvbGQiPkNVTFRVUkFMIFNPTEVNQVRFPC90ZXh0PgogICAgICA8dGV4dCB4PSIyMDAiIHk9IjM2MCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZmlsbD0id2hpdGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTQiIGZvbnQtd2VpZ2h0PSJub3JtYWwiPk9OIEFQRUNIQUlOPC90ZXh0PgogICAgPC9zdmc+CiAg",
+        "attributes": [
+          {
+            "trait_type": "Shoe Name",
+            "value": "Vans Sk8-Hi 'True White'"
+          },
+          {
+            "trait_type": "Brand",
+            "value": "Vans"
+          },
+          {
+            "trait_type": "Personality Match",
+            "value": "minimalist focused"
+          },
+          {
+            "trait_type": "Cultural Match",
+            "value": "skate surf"
+          },
+          {
+            "trait_type": "Style Category",
+            "value": "skateboarding"
+          },
+          {
+            "trait_type": "Release Year",
+            "value": "1978"
+          },
+          {
+            "trait_type": "Match Type",
+            "value": "Cultural Solemate"
+          },
+          {
+            "trait_type": "Network",
+            "value": "ApeChain"
+          }
+        ],
+        "external_url": "https://culturalsolemate.com",
+        "background_color": "1F2937"
+      },
+      "nameSymbolStatus": "ok",
+      "collectionNameFromAnalyzer": "Cultural Solemate",
+      "collectionSymbolFromAnalyzer": "CSMATE",
+      "finalStatus": "OK",
+      "statusReasons": [
+        "Metadata fetched successfully."
+      ]
+    },
+    "displayStatus": "OK",
+    "mintPriceApe": "2.0000"
+  },
+  {
     "txHash": "0x37de407cf132224f0e8ce941b158a00ffef4781d6fadfdd9b086e64b09b0a90d",
     "contractAddress": "0x04D7F453EB19e35fEbe6C321B81b1Bd0DCFa3a6f",
     "tokenId": "13",
@@ -559,72 +626,5 @@
     },
     "displayStatus": "Issues Detected",
     "mintPriceApe": "0.4500"
-  },
-  {
-    "txHash": "0x54a4ffc10186039255fb58fe2706a4028aae5ef4521fb2a5427bef6c2e6eaa6a",
-    "contractAddress": "0x9712A64cce19Cc3436572F101294461e9bd1991F",
-    "tokenId": "12",
-    "collectionName": "Cultural Solemate",
-    "timestamp": 1749747166,
-    "blockNumber": 18033643,
-    "logIndex": 0,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x9712A64cce19Cc3436572F101294461e9bd1991F12/64",
-    "isFree": false,
-    "valueWei": "2000000000000000000",
-    "totalContractMints": 1,
-    "analysis": {
-      "contractAddress": "0x9712A64cce19Cc3436572F101294461e9bd1991F",
-      "metadataStatus": "ok",
-      "fetchedMetadata": {
-        "name": "Cultural Solemate: Air Jordan 1 Retro High OG 'Chicago'",
-        "description": "A unique NFT representing 0x11C2...8e23's Cultural Solemate match. This Air Jordan 1 Retro High OG 'Chicago' was selected based on their personality, cultural background, and style preferences, making it a perfect representation of their sneaker culture identity.",
-        "image": "data:image/svg+xml;base64,CiAgICA8c3ZnIHdpZHRoPSI0MDAiIGhlaWdodD0iNDAwIiB2aWV3Qm94PSIwIDAgNDAwIDQwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICAgICAgPGRlZnM+CiAgICAgICAgPCEtLSBHcmFkaWVudCBiYWNrZ3JvdW5kIC0tPgogICAgICAgIDxsaW5lYXJHcmFkaWVudCBpZD0iYmdHcmFkaWVudCIgeDE9IjAlIiB5MT0iMCUiIHgyPSIxMDAlIiB5Mj0iMTAwJSI+CiAgICAgICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdHlsZT0ic3RvcC1jb2xvcjojM0I4MkY2O3N0b3Atb3BhY2l0eToxIiAvPgogICAgICAgICAgPHN0b3Agb2Zmc2V0PSI1MCUiIHN0eWxlPSJzdG9wLWNvbG9yOiM4QjVDRjY7c3RvcC1vcGFjaXR5OjEiIC8+CiAgICAgICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0eWxlPSJzdG9wLWNvbG9yOiNFRjQ0NDQ7c3RvcC1vcGFjaXR5OjEiIC8+CiAgICAgICAgPC9saW5lYXJHcmFkaWVudD4KICAgICAgICAKICAgICAgICA8IS0tIElubmVyIGNhcmQgZ3JhZGllbnQgLS0+CiAgICAgICAgPGxpbmVhckdyYWRpZW50IGlkPSJjYXJkR3JhZGllbnQiIHgxPSIwJSIgeTE9IjAlIiB4Mj0iMTAwJSIgeTI9IjEwMCUiPgogICAgICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3R5bGU9InN0b3AtY29sb3I6cmdiYSgyNTUsMjU1LDI1NSwwLjE1KTtzdG9wLW9wYWNpdHk6MSIgLz4KICAgICAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3R5bGU9InN0b3AtY29sb3I6cmdiYSgyNTUsMjU1LDI1NSwwLjA1KTtzdG9wLW9wYWNpdHk6MSIgLz4KICAgICAgICA8L2xpbmVhckdyYWRpZW50PgogICAgICA8L2RlZnM+CiAgICAgIAogICAgICA8IS0tIEJhY2tncm91bmQgLS0+CiAgICAgIDxyZWN0IHdpZHRoPSI0MDAiIGhlaWdodD0iNDAwIiBmaWxsPSJ1cmwoI2JnR3JhZGllbnQpIiByeD0iMjAiLz4KICAgICAgCiAgICAgIDwhLS0gRGVjb3JhdGl2ZSBjaXJjbGVzIC0tPgogICAgICA8Y2lyY2xlIGN4PSI2MCIgY3k9IjYwIiByPSIyNSIgZmlsbD0icmdiYSgyNTUsMjU1LDI1NSwwLjEpIiBzdHJva2U9InJnYmEoMjU1LDI1NSwyNTUsMC4yKSIgc3Ryb2tlLXdpZHRoPSIyIi8+CiAgICAgIDxjaXJjbGUgY3g9IjM0MCIgY3k9IjYwIiByPSIxNSIgZmlsbD0icmdiYSgyNTUsMjU1LDI1NSwwLjEpIiBzdHJva2U9InJnYmEoMjU1LDI1NSwyNTUsMC4yKSIgc3Ryb2tlLXdpZHRoPSIyIi8+CiAgICAgIDxjaXJjbGUgY3g9IjYwIiBjeT0iMzQwIiByPSIxMCIgZmlsbD0icmdiYSgyNTUsMjU1LDI1NSwwLjIpIi8+CiAgICAgIDxjaXJjbGUgY3g9IjM0MCIgY3k9IjM0MCIgcj0iMzUiIGZpbGw9InJnYmEoMjU1LDI1NSwyNTUsMC4xKSIgc3Ryb2tlPSJyZ2JhKDI1NSwyNTUsMjU1LDAuMikiIHN0cm9rZS13aWR0aD0iMiIvPgogICAgICAKICAgICAgPCEtLSBDZW50cmFsIGNhcmQgYXJlYSAtLT4KICAgICAgPHJlY3QgeD0iODAiIHk9IjExMCIgd2lkdGg9IjI0MCIgaGVpZ2h0PSIxNDAiIHJ4PSIxNSIgZmlsbD0idXJsKCNjYXJkR3JhZGllbnQpIiAKICAgICAgICAgICAgc3Ryb2tlPSJyZ2JhKDI1NSwyNTUsMjU1LDAuMykiIHN0cm9rZS13aWR0aD0iMiIvPgogICAgICAKICAgICAgPCEtLSBTaG9lIGlsbHVzdHJhdGlvbiAtLT4KICAgICAgCiAgICAgIDxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKDIwMCwgMjAwKSI+CiAgICAgICAgPCEtLSBTaG9lIHNvbGUgLS0+CiAgICAgICAgPGVsbGlwc2UgY3g9IjAiIGN5PSI0MCIgcng9IjgwIiByeT0iMTIiIGZpbGw9IiMzNzQxNTEiIG9wYWNpdHk9IjAuOCIvPgogICAgICAgIDwhLS0gU2hvZSBib2R5IC0tPgogICAgICAgIDxwYXRoIGQ9Ik0gLTcwIDIwIFEgLTYwIC0yMCAtMjAgLTI1IFEgMjAgLTMwIDYwIC0yNSBRIDcwIC0yMCA3MCAyMCBRIDYwIDQwIDAgNDAgUSAtNjAgNDAgLTcwIDIwIFoiIAogICAgICAgICAgICAgIGZpbGw9IiNEQzI2MjYiIHN0cm9rZT0icmdiYSgyNTUsMjU1LDI1NSwwLjMpIiBzdHJva2Utd2lkdGg9IjIiLz4KICAgICAgICA8IS0tIFRvZSBjYXAgLS0+CiAgICAgICAgPHBhdGggZD0iTSAtNDAgLTIwIFEgLTIwIC0yNSAyMCAtMjUgUSA0MCAtMjAgNDUgMCBRIDIwIDEwIC0yMCAxMCBRIC00MCAwIC00MCAtMjAgWiIgCiAgICAgICAgICAgICAgZmlsbD0iI0ZGRkZGRiIgb3BhY2l0eT0iMC45Ii8+CiAgICAgICAgPCEtLSBMYWNlcyBhcmVhIC0tPgogICAgICAgIDxyZWN0IHg9Ii0yNSIgeT0iLTE1IiB3aWR0aD0iNTAiIGhlaWdodD0iMjUiIHJ4PSI1IiBmaWxsPSJyZ2JhKDI1NSwyNTUsMjU1LDAuMSkiLz4KICAgICAgICA8IS0tIEJyYW5kIHN3b29zaC9sb2dvIGFyZWEgLS0+CiAgICAgICAgPGNpcmNsZSBjeD0iMzAiIGN5PSIwIiByPSIxNSIgZmlsbD0icmdiYSgyNTUsMjU1LDI1NSwwLjIpIi8+CiAgICAgIDwvZz4KICAgIAogICAgICAKICAgICAgPCEtLSBTaG9lIG5hbWUgYmFkZ2UgLS0+CiAgICAgIDxyZWN0IHg9IjkwIiB5PSIyNjAiIHdpZHRoPSIyMjAiIGhlaWdodD0iMzAiIHJ4PSI4IiBmaWxsPSJyZ2JhKDAsMCwwLDAuNikiLz4KICAgICAgPHRleHQgeD0iMjAwIiB5PSIyODAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZpbGw9IndoaXRlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICBmb250LXNpemU9IjE0IiBmb250LXdlaWdodD0iYm9sZCI+Sk9SREFOIDEgQ0hJQ0FHTzwvdGV4dD4KICAgICAgCiAgICAgIDwhLS0gTWFpbiB0ZXh0IC0tPgogICAgICA8dGV4dCB4PSIyMDAiIHk9IjMxMCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZmlsbD0id2hpdGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTYiIGZvbnQtd2VpZ2h0PSJub3JtYWwiPkkgZm91bmQgbXk8L3RleHQ+CiAgICAgIDx0ZXh0IHg9IjIwMCIgeT0iMzM1IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmaWxsPSJ3aGl0ZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgZm9udC1zaXplPSIyMiIgZm9udC13ZWlnaHQ9ImJvbGQiPkNVTFRVUkFMIFNPTEVNQVRFPC90ZXh0PgogICAgICA8dGV4dCB4PSIyMDAiIHk9IjM2MCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZmlsbD0id2hpdGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTQiIGZvbnQtd2VpZ2h0PSJub3JtYWwiPk9OIEFQRUNIQUlOPC90ZXh0PgogICAgPC9zdmc+CiAg",
-        "attributes": [
-          {
-            "trait_type": "Shoe Name",
-            "value": "Air Jordan 1 Retro High OG 'Chicago'"
-          },
-          {
-            "trait_type": "Brand",
-            "value": "Jordan Brand"
-          },
-          {
-            "trait_type": "Personality Match",
-            "value": "creative artistic"
-          },
-          {
-            "trait_type": "Cultural Match",
-            "value": "street urban"
-          },
-          {
-            "trait_type": "Style Category",
-            "value": "basketball"
-          },
-          {
-            "trait_type": "Release Year",
-            "value": "2015"
-          },
-          {
-            "trait_type": "Match Type",
-            "value": "Cultural Solemate"
-          },
-          {
-            "trait_type": "Network",
-            "value": "ApeChain"
-          }
-        ],
-        "external_url": "https://culturalsolemate.com",
-        "background_color": "1F2937"
-      },
-      "nameSymbolStatus": "ok",
-      "collectionNameFromAnalyzer": "Cultural Solemate",
-      "collectionSymbolFromAnalyzer": "CSMATE",
-      "finalStatus": "OK",
-      "statusReasons": [
-        "Metadata fetched successfully."
-      ]
-    },
-    "displayStatus": "OK",
-    "mintPriceApe": "2.0000"
   }
 ]
