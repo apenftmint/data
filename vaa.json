@@ -1,5 +1,72 @@
 [
   {
+    "txHash": "0x86525137d2f10e1da77bf4067071fa9a348aee2b990dbc6a927b8f1e4a7d45a2",
+    "contractAddress": "0xb34D8B34214eb75D785353D38a635F84e327372b",
+    "tokenId": "1298",
+    "collectionName": "Peppies",
+    "timestamp": 1749747540,
+    "blockNumber": 18033953,
+    "logIndex": 2,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xb34D8B34214eb75D785353D38a635F84e327372b1298/64",
+    "isFree": true,
+    "totalContractMints": 1,
+    "analysis": {
+      "contractAddress": "0xb34D8B34214eb75D785353D38a635F84e327372b",
+      "metadataStatus": "ok",
+      "fetchedMetadata": {
+        "name": "Peppie #1298",
+        "description": "Bringing the two most influential subcultures together to celebrate their influence had on futures past and present.",
+        "image": "ipfs://bafybeih6773u5hppgz7j6uf2hazxngx5cgcolgqkslysogiou5trmnrwe4/1298.png",
+        "dna": "c55e042eee4916afc001bf9dc3e658afae8d5839",
+        "edition": 1298,
+        "date": 1667014205473,
+        "attributes": [
+          {
+            "trait_type": "Background",
+            "value": "Deeper Space"
+          },
+          {
+            "trait_type": "Body",
+            "value": "Spotted Hoodie"
+          },
+          {
+            "trait_type": "Skin",
+            "value": "Med"
+          },
+          {
+            "trait_type": "Eyes 1",
+            "value": "Sad"
+          },
+          {
+            "trait_type": "Hair 1",
+            "value": "Beige Bucket Cap"
+          },
+          {
+            "trait_type": "Mouth 1",
+            "value": "Dumbfounded"
+          },
+          {
+            "trait_type": "Piercing",
+            "value": "None"
+          },
+          {
+            "trait_type": "Accessory 1",
+            "value": "None"
+          }
+        ],
+        "compiler": "Peppies"
+      },
+      "nameSymbolStatus": "ok",
+      "collectionNameFromAnalyzer": "Peppies",
+      "collectionSymbolFromAnalyzer": "PEP",
+      "finalStatus": "OK",
+      "statusReasons": [
+        "Metadata fetched successfully."
+      ]
+    },
+    "displayStatus": "OK"
+  },
+  {
     "txHash": "0x0588d6fb13db78607a5c7c4118053cfea3b6c90d934312288bf07262c84a0e93",
     "contractAddress": "0xa1d462Ccff349BCd13390AC33Ee0f01B5473Bfce",
     "tokenId": "276",
