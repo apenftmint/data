@@ -2,46 +2,43 @@
   {
     "txHash": "0xe6c013e39bfb8dca1179ad2041553d40e789329c0be83421ec7ccbd3d46e6ecb",
     "contractAddress": "0xb09065aC4a3f721B1a5E271ADeed478b822037DC",
-    "tokenId": "1795",
+    "tokenId": "1825",
     "collectionName": "Midgets",
     "timestamp": 1749747570,
     "blockNumber": 18033987,
-    "logIndex": 195,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xb09065aC4a3f721B1a5E271ADeed478b822037DC1795/64",
+    "logIndex": 225,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xb09065aC4a3f721B1a5E271ADeed478b822037DC1825/64",
     "isFree": true,
-    "totalContractMints": 4,
+    "totalContractMints": 5,
     "analysis": {
       "contractAddress": "0xb09065aC4a3f721B1a5E271ADeed478b822037DC",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "Midgets #1795",
+        "name": "Midgets #15",
         "description": "Midgets is a collection of 6969 NFTs with +250 unique traits that have landed in the ETH blockchain to be burned and migrated to the ordinals (BTC) blockchain. Not your average NFT project.",
-        "image": "ipfs://bafybeiavrwtwuwpgi4qivbg4xghdgfrehcigfy2mikwqtrlqstyubqaoye/1795.png",
-        "dna": "475bfb7d268b34a6e0e0fa8e3a59fc9b1f17dd89",
-        "edition": 1795,
-        "date": 1686116090752,
+        "image": "ipfs://bafybeiavrwtwuwpgi4qivbg4xghdgfrehcigfy2mikwqtrlqstyubqaoyebafybeigdygs6zi63l6v57vt3gkivgnysdbosakqxza77wxemfs34zgkfgu/1825.png",
+        "dna": "29f42154ba811e11a7876e755d4ab9fcd2bc4763",
+        "edition": 1825,
+        "date": 1680149129811,
         "attributes": [
           {
             "trait_type": "BACKGROUND",
-            "value": "BG"
+            "value": "Default"
           },
           {
             "trait_type": "SKIN",
-            "value": "LIGHT"
-          },
-          {
-            "trait_type": "CLOTHES",
-            "value": "croptop dark black"
+            "value": "GLITCH"
           },
           {
             "trait_type": "FACE",
-            "value": "BORED"
+            "value": "BLACK GLASSES"
           },
           {
             "trait_type": "HEAD",
-            "value": "BLUE REVERSE CAP"
+            "value": "brown beret"
           }
-        ]
+        ],
+        "imageHash": "d5af8dba2d606d7bbed5d26d3eaa9d397554516192cbb1974292341213ff2487"
       },
       "nameSymbolStatus": "ok",
       "collectionNameFromAnalyzer": "Midgets",
