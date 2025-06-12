@@ -1,5 +1,45 @@
 [
   {
+    "txHash": "0xc1c3e0d61d19f6f8ab0dca8deec24919eb81080255985b208b6ba1cccf9d4eca",
+    "contractAddress": "0x21A512A63987AC5d4C2e67F9dA37953BE0a8008f",
+    "tokenId": "181",
+    "collectionName": "Glompers",
+    "timestamp": 1749748543,
+    "blockNumber": 18034865,
+    "logIndex": 12,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x21A512A63987AC5d4C2e67F9dA37953BE0a8008f181/64",
+    "isFree": true,
+    "totalContractMints": 1,
+    "analysis": {
+      "contractAddress": "0x21A512A63987AC5d4C2e67F9dA37953BE0a8008f",
+      "metadataStatus": "ok",
+      "fetchedMetadata": {
+        "name": "Glompers #181",
+        "description": "Glompers are free ai inspired mint by Gifr. Your Glomper gets to live in your wallet and judge you for all the rugs you buy. Enjoy!",
+        "attributes": [
+          {
+            "trait_type": "Glomper Code",
+            "value": "GLOMP (391)"
+          },
+          {
+            "trait_type": "Trait Count",
+            "value": "1"
+          }
+        ],
+        "compiler": "nfts2me.com",
+        "image": "ipfs://bafybeield74sljpyga5yccchq4iwbvzxf7wxaakfb3fzsgcszzeyohvbeu/181.webp"
+      },
+      "nameSymbolStatus": "ok",
+      "collectionNameFromAnalyzer": "Glompers",
+      "collectionSymbolFromAnalyzer": "GLO",
+      "finalStatus": "OK",
+      "statusReasons": [
+        "Metadata fetched successfully."
+      ]
+    },
+    "displayStatus": "OK"
+  },
+  {
     "txHash": "0x75db9f66e4d3b43fb64be642793b5accef8e9ac94ebea3cc4cd58e84e2459e35",
     "contractAddress": "0x9712A64cce19Cc3436572F101294461e9bd1991F",
     "tokenId": "13",
