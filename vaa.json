@@ -1,5 +1,32 @@
 [
   {
+    "txHash": "0x37de407cf132224f0e8ce941b158a00ffef4781d6fadfdd9b086e64b09b0a90d",
+    "contractAddress": "0x04D7F453EB19e35fEbe6C321B81b1Bd0DCFa3a6f",
+    "tokenId": "13",
+    "collectionName": "Generation Punk",
+    "timestamp": 1749748396,
+    "blockNumber": 18034743,
+    "logIndex": 0,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x04D7F453EB19e35fEbe6C321B81b1Bd0DCFa3a6f13/64",
+    "isFree": false,
+    "valueWei": "100000000000000000",
+    "totalContractMints": 1,
+    "analysis": {
+      "contractAddress": "0x04D7F453EB19e35fEbe6C321B81b1Bd0DCFa3a6f",
+      "metadataStatus": "broken_uri",
+      "fetchedMetadata": null,
+      "nameSymbolStatus": "ok",
+      "collectionNameFromAnalyzer": "Generation Punk",
+      "collectionSymbolFromAnalyzer": "GP",
+      "finalStatus": "Issues Detected",
+      "statusReasons": [
+        "Metadata URI fetch failed: 404."
+      ]
+    },
+    "displayStatus": "Issues Detected",
+    "mintPriceApe": "0.1000"
+  },
+  {
     "txHash": "0xbd945dd94a60168e1586ed4d66096daeadcdd62c66af8853e2a97df58665d1ae",
     "contractAddress": "0x79AF118867B1D1C5781fecD12B8198A7c2f138eB",
     "tokenId": "867",
