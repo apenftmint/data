@@ -2,52 +2,48 @@
   {
     "txHash": "0x1e96f58c1a985ddf1377bf46241f1d5a6300cd36b5a7b7a55073b6284907ad06",
     "contractAddress": "0xa1d462Ccff349BCd13390AC33Ee0f01B5473Bfce",
-    "tokenId": "1050",
+    "tokenId": "741",
     "collectionName": "OzempApes ",
     "timestamp": 1749748994,
     "blockNumber": 18035252,
-    "logIndex": 0,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xa1d462Ccff349BCd13390AC33Ee0f01B5473Bfce1050/64",
+    "logIndex": 1,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xa1d462Ccff349BCd13390AC33Ee0f01B5473Bfce741/64",
     "isFree": true,
-    "totalContractMints": 5,
+    "totalContractMints": 6,
     "analysis": {
       "contractAddress": "0xa1d462Ccff349BCd13390AC33Ee0f01B5473Bfce",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "OzempApes  #1050",
+        "name": "OzempApes  #741",
         "description": "OzempApes: The Lean Revolution \n\nIn a not-so-distant future, apes have discovered the ultimate bio-hack of using meds to enhance their bodies and eventually becoming Ozempapes—an experimental weight-loss enhancer originally created for humans. After one rogue lab monkey injected himself, his transformation sparked an ape-wide trend. Now, these apes aren’t just skinny—they’re overdosed, becoming sick, and addicted to the point of becoming undead. From fitness influencers to pharma hustlers, these 2,000 apes have formed the most deadly, unhealthy, and stylish crew the blockchain has ever seen.\n\n",
         "attributes": [
           {
             "trait_type": "Background",
-            "value": "Ochre"
+            "value": "Snuff"
           },
           {
             "trait_type": "Fur",
-            "value": "White Fur"
-          },
-          {
-            "trait_type": "Eyes",
-            "value": "VR Virus"
+            "value": "Brown Fur"
           },
           {
             "trait_type": "Clothes",
-            "value": "Hawaii Shirt Green"
+            "value": "Lab Coat"
           },
           {
             "trait_type": "Mouth",
-            "value": "Pizza Mouth"
+            "value": "O Mouth"
           },
           {
             "trait_type": "Hat",
-            "value": "Bamboo Hat"
+            "value": "Spinner Hat"
           },
           {
             "trait_type": "Trait Count",
-            "value": "6"
+            "value": "5"
           }
         ],
         "compiler": "nfts2me.com",
-        "image": "ipfs://bafybeie6oe57jbnoerukgpk2ilrmxlm6yaa57xbmua54puoqof5ouounma/1050.webp"
+        "image": "ipfs://bafybeie6oe57jbnoerukgpk2ilrmxlm6yaa57xbmua54puoqof5ouounma/741.webp"
       },
       "nameSymbolStatus": "ok",
       "collectionNameFromAnalyzer": "OzempApes",
