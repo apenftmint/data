@@ -1,43 +1,28 @@
 [
   {
-    "txHash": "0xd9699507aa33c4c2059e544bc8c2453e3ccac760488123ea582873d4b1342c2f",
+    "txHash": "0xc049ca3e7d3303d76c6590e0f47c1b298677e1a24a6add86ac9c3e17314df190",
     "contractAddress": "0x21A512A63987AC5d4C2e67F9dA37953BE0a8008f",
-    "tokenId": "184",
+    "tokenId": "185",
     "collectionName": "Glompers",
-    "timestamp": 1749748612,
-    "blockNumber": 18034913,
+    "timestamp": 1749748622,
+    "blockNumber": 18034919,
     "logIndex": 0,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x21A512A63987AC5d4C2e67F9dA37953BE0a8008f184/64",
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x21A512A63987AC5d4C2e67F9dA37953BE0a8008f185/64",
     "isFree": true,
-    "totalContractMints": 4,
+    "totalContractMints": 5,
     "analysis": {
       "contractAddress": "0x21A512A63987AC5d4C2e67F9dA37953BE0a8008f",
-      "metadataStatus": "ok",
-      "fetchedMetadata": {
-        "name": "Glompers #184",
-        "description": "Glompers are free ai inspired mint by Gifr. Your Glomper gets to live in your wallet and judge you for all the rugs you buy. Enjoy!",
-        "attributes": [
-          {
-            "trait_type": "Glomper Code",
-            "value": "GLOMP (259)"
-          },
-          {
-            "trait_type": "Trait Count",
-            "value": "1"
-          }
-        ],
-        "compiler": "nfts2me.com",
-        "image": "ipfs://bafybeield74sljpyga5yccchq4iwbvzxf7wxaakfb3fzsgcszzeyohvbeu/184.webp"
-      },
+      "metadataStatus": "fetch_error",
+      "fetchedMetadata": null,
       "nameSymbolStatus": "ok",
       "collectionNameFromAnalyzer": "Glompers",
       "collectionSymbolFromAnalyzer": "GLO",
-      "finalStatus": "OK",
+      "finalStatus": "Issues Detected",
       "statusReasons": [
-        "Metadata fetched successfully."
+        "Error fetching metadata from URI: The operation was aborted due to timeout."
       ]
     },
-    "displayStatus": "OK"
+    "displayStatus": "Issues Detected"
   },
   {
     "txHash": "0x75db9f66e4d3b43fb64be642793b5accef8e9ac94ebea3cc4cd58e84e2459e35",
