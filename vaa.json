@@ -1,5 +1,59 @@
 [
   {
+    "txHash": "0xe6c013e39bfb8dca1179ad2041553d40e789329c0be83421ec7ccbd3d46e6ecb",
+    "contractAddress": "0xb09065aC4a3f721B1a5E271ADeed478b822037DC",
+    "tokenId": "1601",
+    "collectionName": "Midgets",
+    "timestamp": 1749747570,
+    "blockNumber": 18033987,
+    "logIndex": 1,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xb09065aC4a3f721B1a5E271ADeed478b822037DC1601/64",
+    "isFree": true,
+    "totalContractMints": 1,
+    "analysis": {
+      "contractAddress": "0xb09065aC4a3f721B1a5E271ADeed478b822037DC",
+      "metadataStatus": "ok",
+      "fetchedMetadata": {
+        "name": "Midgets #1601",
+        "description": "Midgets is a collection of 6969 NFTs with +250 unique traits that have landed in the ETH blockchain to be burned and migrated to the ordinals (BTC) blockchain. Not your average NFT project.",
+        "image": "ipfs://bafybeiavrwtwuwpgi4qivbg4xghdgfrehcigfy2mikwqtrlqstyubqaoye/1601.png",
+        "dna": "b3a97b1a4895b7a915f0742c4eb761bae362c0c1",
+        "edition": 1601,
+        "date": 1686116087640,
+        "attributes": [
+          {
+            "trait_type": "BACKGROUND",
+            "value": "BG"
+          },
+          {
+            "trait_type": "SKIN",
+            "value": "LIGHT"
+          },
+          {
+            "trait_type": "CLOTHES",
+            "value": "BOXING BLUE"
+          },
+          {
+            "trait_type": "FACE",
+            "value": "muerte mask"
+          },
+          {
+            "trait_type": "HEAD",
+            "value": "cat ears"
+          }
+        ]
+      },
+      "nameSymbolStatus": "ok",
+      "collectionNameFromAnalyzer": "Midgets",
+      "collectionSymbolFromAnalyzer": "MID",
+      "finalStatus": "OK",
+      "statusReasons": [
+        "Metadata fetched successfully."
+      ]
+    },
+    "displayStatus": "OK"
+  },
+  {
     "txHash": "0x86525137d2f10e1da77bf4067071fa9a348aee2b990dbc6a927b8f1e4a7d45a2",
     "contractAddress": "0xb34D8B34214eb75D785353D38a635F84e327372b",
     "tokenId": "1508",
