@@ -1,5 +1,75 @@
 [
   {
+    "txHash": "0x6ce3b513b1fbc5dcc20ba0f24ecb6e434883f8d63f87b653f2c3c53eec2abcec",
+    "contractAddress": "0x79AF118867B1D1C5781fecD12B8198A7c2f138eB",
+    "tokenId": "870",
+    "collectionName": "Chimpix On Ape",
+    "timestamp": 1749750241,
+    "blockNumber": 18036305,
+    "logIndex": 1,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x79AF118867B1D1C5781fecD12B8198A7c2f138eB870/64",
+    "isFree": false,
+    "valueWei": "3150000000000000000",
+    "totalContractMints": 3,
+    "analysis": {
+      "contractAddress": "0x79AF118867B1D1C5781fecD12B8198A7c2f138eB",
+      "metadataStatus": "ok",
+      "fetchedMetadata": {
+        "name": "Chimpix On Ape #870",
+        "description": "Chimpix on Ape is a bunch of fun loving apes invading the apechain.\nThey are PFPs that make you smile. No roadmap Just PFPs atm Looking into other avenues as well.",
+        "attributes": [
+          {
+            "trait_type": "Backgrond",
+            "value": "Aqua Marine"
+          },
+          {
+            "trait_type": "Fur",
+            "value": "Ice Blue"
+          },
+          {
+            "trait_type": "Face",
+            "value": "Ape_Skin"
+          },
+          {
+            "trait_type": "Clothing",
+            "value": "Sweatshirtt Blue"
+          },
+          {
+            "trait_type": "Head",
+            "value": "Mohawk Gold"
+          },
+          {
+            "trait_type": "Mouth",
+            "value": "Sideways smirk"
+          },
+          {
+            "trait_type": "Eyes",
+            "value": "Sleepy Eyes Blue"
+          },
+          {
+            "trait_type": "Jewelry",
+            "value": "Necklace Emerald Money Sign"
+          },
+          {
+            "trait_type": "Trait Count",
+            "value": "8"
+          }
+        ],
+        "compiler": "nfts2me.com",
+        "image": "ipfs://bafybeics2i5vpxgy3jine476kw6ltzfdw5kj3qk7wjq3hrgfkddon6seoi/870.webp"
+      },
+      "nameSymbolStatus": "ok",
+      "collectionNameFromAnalyzer": "Chimpix On Ape",
+      "collectionSymbolFromAnalyzer": "COA",
+      "finalStatus": "OK",
+      "statusReasons": [
+        "Metadata fetched successfully."
+      ]
+    },
+    "displayStatus": "OK",
+    "mintPriceApe": "3.1500"
+  },
+  {
     "txHash": "0x0aadf9ad1f0c90afb275961db49928e11b494fd4d418d8eff46656503199c3d4",
     "contractAddress": "0x21A512A63987AC5d4C2e67F9dA37953BE0a8008f",
     "tokenId": "196",
@@ -232,76 +302,6 @@
     },
     "displayStatus": "Issues Detected",
     "mintPriceApe": "0.1000"
-  },
-  {
-    "txHash": "0xbd945dd94a60168e1586ed4d66096daeadcdd62c66af8853e2a97df58665d1ae",
-    "contractAddress": "0x79AF118867B1D1C5781fecD12B8198A7c2f138eB",
-    "tokenId": "867",
-    "collectionName": "Chimpix On Ape",
-    "timestamp": 1749748043,
-    "blockNumber": 18034455,
-    "logIndex": 1,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x79AF118867B1D1C5781fecD12B8198A7c2f138eB867/64",
-    "isFree": false,
-    "valueWei": "3150000000000000000",
-    "totalContractMints": 2,
-    "analysis": {
-      "contractAddress": "0x79AF118867B1D1C5781fecD12B8198A7c2f138eB",
-      "metadataStatus": "ok",
-      "fetchedMetadata": {
-        "name": "Chimpix On Ape #867",
-        "description": "Chimpix on Ape is a bunch of fun loving apes invading the apechain.\nThey are PFPs that make you smile. No roadmap Just PFPs atm Looking into other avenues as well.",
-        "attributes": [
-          {
-            "trait_type": "Backgrond",
-            "value": "Blue Bell"
-          },
-          {
-            "trait_type": "Fur",
-            "value": "Orange Fur"
-          },
-          {
-            "trait_type": "Face",
-            "value": "Ape Face stubble"
-          },
-          {
-            "trait_type": "Clothing",
-            "value": "Black On Top Hoodie"
-          },
-          {
-            "trait_type": "Head",
-            "value": "Tennis Visor Red"
-          },
-          {
-            "trait_type": "Mouth",
-            "value": "Curved Upper lip"
-          },
-          {
-            "trait_type": "Eyes",
-            "value": "Sleepy Eyes Purple"
-          },
-          {
-            "trait_type": "Jewelry",
-            "value": "No Jewelry"
-          },
-          {
-            "trait_type": "Trait Count",
-            "value": "8"
-          }
-        ],
-        "compiler": "nfts2me.com",
-        "image": "ipfs://bafybeics2i5vpxgy3jine476kw6ltzfdw5kj3qk7wjq3hrgfkddon6seoi/867.webp"
-      },
-      "nameSymbolStatus": "ok",
-      "collectionNameFromAnalyzer": "Chimpix On Ape",
-      "collectionSymbolFromAnalyzer": "COA",
-      "finalStatus": "OK",
-      "statusReasons": [
-        "Metadata fetched successfully."
-      ]
-    },
-    "displayStatus": "OK",
-    "mintPriceApe": "3.1500"
   },
   {
     "txHash": "0xe6c013e39bfb8dca1179ad2041553d40e789329c0be83421ec7ccbd3d46e6ecb",
