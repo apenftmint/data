@@ -2,44 +2,44 @@
   {
     "txHash": "0x5b5a9f596b7ff67287600da12cada469efa6bb40d05ef2e2029023b8f96fb299",
     "contractAddress": "0xa1d462Ccff349BCd13390AC33Ee0f01B5473Bfce",
-    "tokenId": "29",
+    "tokenId": "1822",
     "collectionName": "OzempApes ",
     "timestamp": 1749747772,
     "blockNumber": 18034167,
-    "logIndex": 1,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xa1d462Ccff349BCd13390AC33Ee0f01B5473Bfce29/64",
+    "logIndex": 3,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xa1d462Ccff349BCd13390AC33Ee0f01B5473Bfce1822/64",
     "isFree": true,
-    "totalContractMints": 3,
+    "totalContractMints": 4,
     "analysis": {
       "contractAddress": "0xa1d462Ccff349BCd13390AC33Ee0f01B5473Bfce",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "OzempApes  #29",
+        "name": "OzempApes  #1822",
         "description": "OzempApes: The Lean Revolution \n\nIn a not-so-distant future, apes have discovered the ultimate bio-hack of using meds to enhance their bodies and eventually becoming Ozempapes—an experimental weight-loss enhancer originally created for humans. After one rogue lab monkey injected himself, his transformation sparked an ape-wide trend. Now, these apes aren’t just skinny—they’re overdosed, becoming sick, and addicted to the point of becoming undead. From fitness influencers to pharma hustlers, these 2,000 apes have formed the most deadly, unhealthy, and stylish crew the blockchain has ever seen.\n\n",
         "attributes": [
           {
             "trait_type": "Background",
-            "value": "Casablanca"
+            "value": "Zombie"
           },
           {
             "trait_type": "Fur",
-            "value": "Noise Fur"
+            "value": "Grey Fur"
           },
           {
             "trait_type": "Eyes",
-            "value": "3D Glasses"
+            "value": "Snow Goggles"
           },
           {
             "trait_type": "Clothes",
-            "value": "Sushi Master"
+            "value": "GLP Hoodie"
           },
           {
             "trait_type": "Mouth",
-            "value": "N95 Mask"
+            "value": "Bubble"
           },
           {
             "trait_type": "Hat",
-            "value": "Zemp Crown"
+            "value": "Barbed Fedora"
           },
           {
             "trait_type": "Trait Count",
@@ -47,7 +47,7 @@
           }
         ],
         "compiler": "nfts2me.com",
-        "image": "ipfs://bafybeie6oe57jbnoerukgpk2ilrmxlm6yaa57xbmua54puoqof5ouounma/29.webp"
+        "image": "ipfs://bafybeie6oe57jbnoerukgpk2ilrmxlm6yaa57xbmua54puoqof5ouounma/1822.webp"
       },
       "nameSymbolStatus": "ok",
       "collectionNameFromAnalyzer": "OzempApes",
