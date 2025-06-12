@@ -2,29 +2,29 @@
   {
     "txHash": "0x6ce3b513b1fbc5dcc20ba0f24ecb6e434883f8d63f87b653f2c3c53eec2abcec",
     "contractAddress": "0x79AF118867B1D1C5781fecD12B8198A7c2f138eB",
-    "tokenId": "870",
+    "tokenId": "869",
     "collectionName": "Chimpix On Ape",
     "timestamp": 1749750241,
     "blockNumber": 18036305,
-    "logIndex": 1,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x79AF118867B1D1C5781fecD12B8198A7c2f138eB870/64",
+    "logIndex": 0,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x79AF118867B1D1C5781fecD12B8198A7c2f138eB869/64",
     "isFree": false,
     "valueWei": "3150000000000000000",
-    "totalContractMints": 3,
+    "totalContractMints": 4,
     "analysis": {
       "contractAddress": "0x79AF118867B1D1C5781fecD12B8198A7c2f138eB",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "Chimpix On Ape #870",
+        "name": "Chimpix On Ape #869",
         "description": "Chimpix on Ape is a bunch of fun loving apes invading the apechain.\nThey are PFPs that make you smile. No roadmap Just PFPs atm Looking into other avenues as well.",
         "attributes": [
           {
             "trait_type": "Backgrond",
-            "value": "Aqua Marine"
+            "value": "Spanish Green"
           },
           {
             "trait_type": "Fur",
-            "value": "Ice Blue"
+            "value": "Hot Pink"
           },
           {
             "trait_type": "Face",
@@ -32,23 +32,23 @@
           },
           {
             "trait_type": "Clothing",
-            "value": "Sweatshirtt Blue"
+            "value": "Naked"
           },
           {
             "trait_type": "Head",
-            "value": "Mohawk Gold"
+            "value": "Nothing"
           },
           {
             "trait_type": "Mouth",
-            "value": "Sideways smirk"
+            "value": "Pipe Mouth 2"
           },
           {
             "trait_type": "Eyes",
-            "value": "Sleepy Eyes Blue"
+            "value": "Sleepy Eyes Teal"
           },
           {
             "trait_type": "Jewelry",
-            "value": "Necklace Emerald Money Sign"
+            "value": "No Jewelry"
           },
           {
             "trait_type": "Trait Count",
@@ -56,7 +56,7 @@
           }
         ],
         "compiler": "nfts2me.com",
-        "image": "ipfs://bafybeics2i5vpxgy3jine476kw6ltzfdw5kj3qk7wjq3hrgfkddon6seoi/870.webp"
+        "image": "ipfs://bafybeics2i5vpxgy3jine476kw6ltzfdw5kj3qk7wjq3hrgfkddon6seoi/869.webp"
       },
       "nameSymbolStatus": "ok",
       "collectionNameFromAnalyzer": "Chimpix On Ape",
