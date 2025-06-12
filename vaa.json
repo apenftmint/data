@@ -1,5 +1,32 @@
 [
   {
+    "txHash": "0x620e377c4a623bbaa86c2b5e483b3f59b284da05db1a9d7dde09794ac42583c7",
+    "contractAddress": "0x37C2473c019cdbf8AAa3E7e707C68D93c46B267d",
+    "tokenId": "151",
+    "collectionName": "PepePunkz",
+    "timestamp": 1749747221,
+    "blockNumber": 18033693,
+    "logIndex": 8,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x37C2473c019cdbf8AAa3E7e707C68D93c46B267d151/64",
+    "isFree": false,
+    "valueWei": "450000000000000000",
+    "totalContractMints": 1,
+    "analysis": {
+      "contractAddress": "0x37C2473c019cdbf8AAa3E7e707C68D93c46B267d",
+      "metadataStatus": "fetch_error",
+      "fetchedMetadata": null,
+      "nameSymbolStatus": "ok",
+      "collectionNameFromAnalyzer": "PepePunkz",
+      "collectionSymbolFromAnalyzer": "PepePunkz",
+      "finalStatus": "Issues Detected",
+      "statusReasons": [
+        "Error fetching metadata from URI: fetch failed."
+      ]
+    },
+    "displayStatus": "Issues Detected",
+    "mintPriceApe": "0.4500"
+  },
+  {
     "txHash": "0x54a4ffc10186039255fb58fe2706a4028aae5ef4521fb2a5427bef6c2e6eaa6a",
     "contractAddress": "0x9712A64cce19Cc3436572F101294461e9bd1991F",
     "tokenId": "12",
