@@ -1,5 +1,48 @@
 [
   {
+    "txHash": "0x2c083390ef95b82b0172fa05759e399225439a399a25339d684de8607f1f1a70",
+    "contractAddress": "0x6f2A21A8B9CF699d7D3A713a9d7cFbB9E9760f97",
+    "tokenId": "5918",
+    "collectionName": "Other Page Badges",
+    "timestamp": 1749750606,
+    "blockNumber": 18036574,
+    "logIndex": 0,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x6f2A21A8B9CF699d7D3A713a9d7cFbB9E9760f975918/64",
+    "isFree": true,
+    "totalContractMints": 1,
+    "analysis": {
+      "contractAddress": "0x6f2A21A8B9CF699d7D3A713a9d7cFbB9E9760f97",
+      "metadataStatus": "ok",
+      "fetchedMetadata": {
+        "name": "OSFM 06•12•25",
+        "description": "Engaged in Other Space FM episode featuring Garga. Hosted by NANA & Nova on 06•05•25. \nSunsetting the DAO and Launching ApeCo.",
+        "image": "https://img.other.page/9f4c2ec5-2468-4ec8-b2f0-96c524809a5f/osfm-061225-badge.png?format=png&size=600",
+        "attributes": [
+          {
+            "trait_type": "Name",
+            "value": "OSFM 06•12•25"
+          },
+          {
+            "trait_type": "Type",
+            "value": "attendance"
+          },
+          {
+            "trait_type": "Creator",
+            "value": "Other Space"
+          }
+        ]
+      },
+      "nameSymbolStatus": "ok",
+      "collectionNameFromAnalyzer": "Other Page Badges",
+      "collectionSymbolFromAnalyzer": "OPB",
+      "finalStatus": "OK",
+      "statusReasons": [
+        "Metadata fetched successfully."
+      ]
+    },
+    "displayStatus": "OK"
+  },
+  {
     "txHash": "0xfe299076914432248ba298ee00eb8c2a823d20ea6b81ff601c5b49815f18b960",
     "contractAddress": "0xF054C94269b4946568244706b981b62E258059c8",
     "tokenId": "2184",
