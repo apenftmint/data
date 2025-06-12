@@ -2,49 +2,49 @@
   {
     "txHash": "0x6ce3b513b1fbc5dcc20ba0f24ecb6e434883f8d63f87b653f2c3c53eec2abcec",
     "contractAddress": "0x79AF118867B1D1C5781fecD12B8198A7c2f138eB",
-    "tokenId": "869",
+    "tokenId": "871",
     "collectionName": "Chimpix On Ape",
     "timestamp": 1749750241,
     "blockNumber": 18036305,
-    "logIndex": 0,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x79AF118867B1D1C5781fecD12B8198A7c2f138eB869/64",
+    "logIndex": 2,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x79AF118867B1D1C5781fecD12B8198A7c2f138eB871/64",
     "isFree": false,
     "valueWei": "3150000000000000000",
-    "totalContractMints": 4,
+    "totalContractMints": 5,
     "analysis": {
       "contractAddress": "0x79AF118867B1D1C5781fecD12B8198A7c2f138eB",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "Chimpix On Ape #869",
+        "name": "Chimpix On Ape #871",
         "description": "Chimpix on Ape is a bunch of fun loving apes invading the apechain.\nThey are PFPs that make you smile. No roadmap Just PFPs atm Looking into other avenues as well.",
         "attributes": [
           {
             "trait_type": "Backgrond",
-            "value": "Spanish Green"
+            "value": "Corn Field"
           },
           {
             "trait_type": "Fur",
-            "value": "Hot Pink"
+            "value": "Canary Yellow"
           },
           {
             "trait_type": "Face",
-            "value": "Ape_Skin"
+            "value": "Ape Face stubble"
           },
           {
             "trait_type": "Clothing",
-            "value": "Naked"
+            "value": "Sweatshirt Hunter Green Wrecked"
           },
           {
             "trait_type": "Head",
-            "value": "Nothing"
+            "value": "Reverse Snapback Purple"
           },
           {
             "trait_type": "Mouth",
-            "value": "Pipe Mouth 2"
+            "value": "Sloberry mouth"
           },
           {
             "trait_type": "Eyes",
-            "value": "Sleepy Eyes Teal"
+            "value": "Rose tinted shades Blue eyes"
           },
           {
             "trait_type": "Jewelry",
@@ -56,7 +56,7 @@
           }
         ],
         "compiler": "nfts2me.com",
-        "image": "ipfs://bafybeics2i5vpxgy3jine476kw6ltzfdw5kj3qk7wjq3hrgfkddon6seoi/869.webp"
+        "image": "ipfs://bafybeics2i5vpxgy3jine476kw6ltzfdw5kj3qk7wjq3hrgfkddon6seoi/871.webp"
       },
       "nameSymbolStatus": "ok",
       "collectionNameFromAnalyzer": "Chimpix On Ape",
