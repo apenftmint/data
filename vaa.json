@@ -1,5 +1,83 @@
 [
   {
+    "txHash": "0x195de5821b98f5fc6d482682aa8c8d5879186a3305684d5415b20f3abfbe3a78",
+    "contractAddress": "0xF054C94269b4946568244706b981b62E258059c8",
+    "tokenId": "2183",
+    "collectionName": "NEXA",
+    "timestamp": 1749747252,
+    "blockNumber": 18033710,
+    "logIndex": 0,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xF054C94269b4946568244706b981b62E258059c82183/64",
+    "isFree": false,
+    "valueWei": "380000000000000000",
+    "totalContractMints": 1,
+    "analysis": {
+      "contractAddress": "0xF054C94269b4946568244706b981b62E258059c8",
+      "metadataStatus": "ok",
+      "fetchedMetadata": {
+        "name": "NEXA #2183",
+        "description": "3,333 Nexa 3D PFPs on Apechain. Built for war. Deployed for silence.",
+        "attributes": [
+          {
+            "trait_type": "Accessories",
+            "value": "Starhorn Acc"
+          },
+          {
+            "trait_type": "Type",
+            "value": "Veltrax"
+          },
+          {
+            "trait_type": "Chest",
+            "value": "Eternal"
+          },
+          {
+            "trait_type": "Color",
+            "value": "Green"
+          },
+          {
+            "trait_type": "Eyes",
+            "value": "Cryon"
+          },
+          {
+            "trait_type": "Helmet",
+            "value": "Glutton"
+          },
+          {
+            "trait_type": "Jaws",
+            "value": "Pandora"
+          },
+          {
+            "trait_type": "Mask",
+            "value": "Ershin"
+          },
+          {
+            "trait_type": "Shoulder",
+            "value": "Malefic"
+          },
+          {
+            "trait_type": "Weapon",
+            "value": "Multi GlacierX"
+          },
+          {
+            "trait_type": "Trait Count",
+            "value": "10"
+          }
+        ],
+        "image": "ipfs://bafybeih2al4jfyneji4n57l5w7ebifzydkr72j7nobdk422y7pm7acwclu/2183.webp",
+        "compiler": "nfts2me.com"
+      },
+      "nameSymbolStatus": "ok",
+      "collectionNameFromAnalyzer": "NEXA",
+      "collectionSymbolFromAnalyzer": "NEXA",
+      "finalStatus": "OK",
+      "statusReasons": [
+        "Metadata fetched successfully."
+      ]
+    },
+    "displayStatus": "OK",
+    "mintPriceApe": "0.3800"
+  },
+  {
     "txHash": "0x620e377c4a623bbaa86c2b5e483b3f59b284da05db1a9d7dde09794ac42583c7",
     "contractAddress": "0x37C2473c019cdbf8AAa3E7e707C68D93c46B267d",
     "tokenId": "146",
