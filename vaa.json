@@ -1,5 +1,49 @@
 [
   {
+    "txHash": "0x7ada462c6a06124ca8f8b37a738ad1b0761b3c140f67e1db7c3fb3a86af8c6ff",
+    "contractAddress": "0x62dcA65AcEA356bC00b8979AB9A8c636748e7c51",
+    "tokenId": "46",
+    "collectionName": "XShogun",
+    "timestamp": 1749748755,
+    "blockNumber": 18035035,
+    "logIndex": 3,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x62dcA65AcEA356bC00b8979AB9A8c636748e7c5146/64",
+    "isFree": true,
+    "totalContractMints": 1,
+    "analysis": {
+      "contractAddress": "0x62dcA65AcEA356bC00b8979AB9A8c636748e7c51",
+      "metadataStatus": "ok",
+      "fetchedMetadata": {
+        "name": "XShogun #46",
+        "description": "Introducing \"XShogun\", an NFT art series blending Hokusai-inspired Ukiyo-e with mechanical robotic animals like owls and foxes. Set against Mount Fuji, waves, and cherry blossoms, each unique token fuses ancient artistry with futuristic tech, narrating a harmony of nature and machine. A limited collection for collectors, this series bridges past and future on the blockchain. Join the digital legacy!",
+        "attributes": [
+          {
+            "trait_type": "Level",
+            "value": "Shogun"
+          },
+          {
+            "trait_type": "Genome",
+            "value": "X-Legacy"
+          },
+          {
+            "trait_type": "Trait Count",
+            "value": "2"
+          }
+        ],
+        "image": "ipfs://bafybeiecrvba3ozxmyi4oc4kwlhmxtazwrthjios37n7gustas74efl7ku/46.webp",
+        "compiler": "nfts2me.com"
+      },
+      "nameSymbolStatus": "ok",
+      "collectionNameFromAnalyzer": "XShogun",
+      "collectionSymbolFromAnalyzer": "XSG",
+      "finalStatus": "OK",
+      "statusReasons": [
+        "Metadata fetched successfully."
+      ]
+    },
+    "displayStatus": "OK"
+  },
+  {
     "txHash": "0xcdb6e4a2fc9ffac5849e918cfb998655059e90fd2432555ec88a226a53c52404",
     "contractAddress": "0x21A512A63987AC5d4C2e67F9dA37953BE0a8008f",
     "tokenId": "187",
