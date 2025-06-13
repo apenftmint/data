@@ -2,56 +2,56 @@
   {
     "txHash": "0x42f452a8d8799c75064b3865ebfd7ad40fc73ca5e8810ec9ecc80fd5c42b4b15",
     "contractAddress": "0xc0AEDA81D6c69A09FE115D2E4B6Bb7A1Ce8d0856",
-    "tokenId": "1862",
+    "tokenId": "1860",
     "collectionName": "Quantum Ape",
     "timestamp": 1749786594,
     "blockNumber": 18064902,
-    "logIndex": 2,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xc0AEDA81D6c69A09FE115D2E4B6Bb7A1Ce8d08561862/64",
+    "logIndex": 0,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xc0AEDA81D6c69A09FE115D2E4B6Bb7A1Ce8d08561860/64",
     "isFree": true,
-    "totalContractMints": 12,
+    "totalContractMints": 13,
     "analysis": {
       "contractAddress": "0xc0AEDA81D6c69A09FE115D2E4B6Bb7A1Ce8d0856",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "Quantum Ape #1862",
+        "name": "Quantum Ape #1860",
         "symbol": "QTA",
-        "description": "Is Quantum Ape #1862 dead or alive? Nobody knows... but maybe that's the magic of it.",
+        "description": "Is Quantum Ape #1860 dead or alive? Nobody knows... but maybe that's the magic of it.",
         "seller_fee_basis_points": 420,
-        "image": "https://assets.pinit.io/2cB6zgGR57WZgDM31VAAyFr3BqymM2apFdtDt1RNvcuM/9f695c2d-9e00-4329-85d4-c179e85be35d/1862",
+        "image": "https://assets.pinit.io/2cB6zgGR57WZgDM31VAAyFr3BqymM2apFdtDt1RNvcuM/9f695c2d-9e00-4329-85d4-c179e85be35d/1860",
         "external_url": "",
         "attributes": [
           {
             "trait_type": "Background ",
-            "value": "Splash"
+            "value": "Trippy Gray"
           },
           {
             "trait_type": "Fur",
-            "value": "Grey"
+            "value": "Insta"
           },
           {
             "trait_type": "Mouth",
-            "value": "Bamboo"
+            "value": "Cigarette"
           },
           {
             "trait_type": "Earring",
-            "value": "Double Hoop"
+            "value": "None"
           },
           {
             "trait_type": "Hat",
-            "value": "Cat Ears"
+            "value": "Knitted Winter Hat"
           },
           {
             "trait_type": "Eyes",
-            "value": "Devil Eyes"
+            "value": "Dizzy"
           },
           {
             "trait_type": "Clothes ",
-            "value": "Seashells"
+            "value": "Pimp Coat"
           },
           {
             "trait_type": "Rarity Rank",
-            "value": 3050,
+            "value": 1459,
             "display_type": "number",
             "max_value": 6969
           }
@@ -59,7 +59,7 @@
         "properties": {
           "files": [
             {
-              "uri": "https://assets.pinit.io/2cB6zgGR57WZgDM31VAAyFr3BqymM2apFdtDt1RNvcuM/9f695c2d-9e00-4329-85d4-c179e85be35d/1862",
+              "uri": "https://assets.pinit.io/2cB6zgGR57WZgDM31VAAyFr3BqymM2apFdtDt1RNvcuM/9f695c2d-9e00-4329-85d4-c179e85be35d/1860",
               "type": "image/jpeg"
             }
           ],
