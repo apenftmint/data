@@ -1,5 +1,73 @@
 [
   {
+    "txHash": "0x372b5bb8367e09254bde0de7e60083ef5d4263793ef47be3e9a7ddf362b3b763",
+    "contractAddress": "0x5B61cA24966CB7E47F634Dee04499743Fc9746b6",
+    "tokenId": "1256",
+    "collectionName": "Full Gobs",
+    "timestamp": 1749827484,
+    "blockNumber": 18098493,
+    "logIndex": 0,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x5B61cA24966CB7E47F634Dee04499743Fc9746b61256/64",
+    "isFree": false,
+    "valueWei": "100000000000000000",
+    "totalContractMints": 5,
+    "analysis": {
+      "contractAddress": "0x5B61cA24966CB7E47F634Dee04499743Fc9746b6",
+      "metadataStatus": "ok",
+      "fetchedMetadata": {
+        "name": "Gobs #1256",
+        "image": "ipfs://QmejR3XrkzCs5Psc4AwhagtHCSkb18niBPQ1yvV86XegMR/1256",
+        "attributes": [
+          {
+            "trait_type": "SPECIALITY",
+            "value": "Butterfly Blue"
+          },
+          {
+            "trait_type": "BODY",
+            "value": "Original"
+          },
+          {
+            "trait_type": "SHOES",
+            "value": "Striped"
+          },
+          {
+            "trait_type": "CLOTHES",
+            "value": "Hawaiian Aqua"
+          },
+          {
+            "trait_type": "PANTS",
+            "value": "Shorts French Blue"
+          },
+          {
+            "trait_type": "BELT",
+            "value": "Pink"
+          },
+          {
+            "trait_type": "MOUTH",
+            "value": "Bloody-Mouth"
+          },
+          {
+            "trait_type": "EYES",
+            "value": "Og"
+          },
+          {
+            "trait_type": "OFFHAND",
+            "value": "Look Here"
+          }
+        ]
+      },
+      "nameSymbolStatus": "ok",
+      "collectionNameFromAnalyzer": "Full Gobs",
+      "collectionSymbolFromAnalyzer": "FG",
+      "finalStatus": "OK",
+      "statusReasons": [
+        "Metadata fetched successfully."
+      ]
+    },
+    "displayStatus": "OK",
+    "mintPriceApe": "0.1000"
+  },
+  {
     "txHash": "0x166cf674469aceb680e928e861daef6986ca89ee9d75e17c40c68428ee02ed71",
     "contractAddress": "0x9faDECb791fCd35a9229301819022AAF2383dF46",
     "tokenId": "2609",
@@ -34,74 +102,6 @@
     },
     "displayStatus": "OK",
     "mintPriceApe": "22.0000"
-  },
-  {
-    "txHash": "0xe630a50b28f8cdf776b44f1ca2ee21f73765eeaa323f2f8bdb03088571ecad45",
-    "contractAddress": "0x5B61cA24966CB7E47F634Dee04499743Fc9746b6",
-    "tokenId": "1255",
-    "collectionName": "Full Gobs",
-    "timestamp": 1749827447,
-    "blockNumber": 18098452,
-    "logIndex": 0,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x5B61cA24966CB7E47F634Dee04499743Fc9746b61255/64",
-    "isFree": false,
-    "valueWei": "100000000000000000",
-    "totalContractMints": 4,
-    "analysis": {
-      "contractAddress": "0x5B61cA24966CB7E47F634Dee04499743Fc9746b6",
-      "metadataStatus": "ok",
-      "fetchedMetadata": {
-        "name": "Gobs #1255",
-        "image": "ipfs://QmejR3XrkzCs5Psc4AwhagtHCSkb18niBPQ1yvV86XegMR/1255",
-        "attributes": [
-          {
-            "trait_type": "BODY",
-            "value": "Original"
-          },
-          {
-            "trait_type": "SHOES",
-            "value": "Blue"
-          },
-          {
-            "trait_type": "CLOTHES",
-            "value": "Puffy Coat Blue"
-          },
-          {
-            "trait_type": "PANTS",
-            "value": "Purple Striped Shorts"
-          },
-          {
-            "trait_type": "BELT",
-            "value": "Aqua"
-          },
-          {
-            "trait_type": "HAT",
-            "value": "Punk-Ai"
-          },
-          {
-            "trait_type": "MOUTH",
-            "value": "Unicorn-Blood"
-          },
-          {
-            "trait_type": "EYES",
-            "value": "3d"
-          },
-          {
-            "trait_type": "OFFHAND",
-            "value": "Ax and Shield"
-          }
-        ]
-      },
-      "nameSymbolStatus": "ok",
-      "collectionNameFromAnalyzer": "Full Gobs",
-      "collectionSymbolFromAnalyzer": "FG",
-      "finalStatus": "OK",
-      "statusReasons": [
-        "Metadata fetched successfully."
-      ]
-    },
-    "displayStatus": "OK",
-    "mintPriceApe": "0.1000"
   },
   {
     "txHash": "0x6f5b8a7ceffd9cf01785ec5e5cf2890c5595da9037e0de0ec53378143edb56fd",
