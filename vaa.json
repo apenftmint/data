@@ -2,56 +2,56 @@
   {
     "txHash": "0x7472ceee1de401d4437664f13952b60fd82c8aceebb2c127f7d0c43b4c8c6cb1",
     "contractAddress": "0xc0AEDA81D6c69A09FE115D2E4B6Bb7A1Ce8d0856",
-    "tokenId": "1854",
+    "tokenId": "1855",
     "collectionName": "Quantum Ape",
     "timestamp": 1749786573,
     "blockNumber": 18064884,
-    "logIndex": 0,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xc0AEDA81D6c69A09FE115D2E4B6Bb7A1Ce8d08561854/64",
+    "logIndex": 1,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xc0AEDA81D6c69A09FE115D2E4B6Bb7A1Ce8d08561855/64",
     "isFree": true,
-    "totalContractMints": 7,
+    "totalContractMints": 8,
     "analysis": {
       "contractAddress": "0xc0AEDA81D6c69A09FE115D2E4B6Bb7A1Ce8d0856",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "Quantum Ape #1854",
+        "name": "Quantum Ape #1855",
         "symbol": "QTA",
-        "description": "Is Quantum Ape #1854 dead or alive? Nobody knows... but maybe that's the magic of it.",
+        "description": "Is Quantum Ape #1855 dead or alive? Nobody knows... but maybe that's the magic of it.",
         "seller_fee_basis_points": 420,
-        "image": "https://assets.pinit.io/2cB6zgGR57WZgDM31VAAyFr3BqymM2apFdtDt1RNvcuM/9f695c2d-9e00-4329-85d4-c179e85be35d/1854",
+        "image": "https://assets.pinit.io/2cB6zgGR57WZgDM31VAAyFr3BqymM2apFdtDt1RNvcuM/9f695c2d-9e00-4329-85d4-c179e85be35d/1855",
         "external_url": "",
         "attributes": [
           {
             "trait_type": "Background ",
-            "value": "Splash"
+            "value": "Black"
           },
           {
             "trait_type": "Fur",
-            "value": "Green"
+            "value": "Purple"
           },
           {
             "trait_type": "Mouth",
-            "value": "Party Horn"
+            "value": "Cigarette"
           },
           {
             "trait_type": "Earring",
-            "value": "None"
+            "value": "Nose Ring"
           },
           {
             "trait_type": "Hat",
-            "value": "Bucket Hat"
+            "value": "Painter Hat"
           },
           {
             "trait_type": "Eyes",
-            "value": "Starry"
+            "value": "Holographic"
           },
           {
             "trait_type": "Clothes ",
-            "value": "Ripped Tee"
+            "value": "Puffy Vest"
           },
           {
             "trait_type": "Rarity Rank",
-            "value": 5397,
+            "value": 6380,
             "display_type": "number",
             "max_value": 6969
           }
@@ -59,7 +59,7 @@
         "properties": {
           "files": [
             {
-              "uri": "https://assets.pinit.io/2cB6zgGR57WZgDM31VAAyFr3BqymM2apFdtDt1RNvcuM/9f695c2d-9e00-4329-85d4-c179e85be35d/1854",
+              "uri": "https://assets.pinit.io/2cB6zgGR57WZgDM31VAAyFr3BqymM2apFdtDt1RNvcuM/9f695c2d-9e00-4329-85d4-c179e85be35d/1855",
               "type": "image/jpeg"
             }
           ],
