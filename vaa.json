@@ -1,5 +1,32 @@
 [
   {
+    "txHash": "0x5955b85d8c6a556a03ca3655555af4e21e72872879559c17aab85b91965d09e1",
+    "contractAddress": "0x5B61cA24966CB7E47F634Dee04499743Fc9746b6",
+    "tokenId": "1253",
+    "collectionName": "Full Gobs",
+    "timestamp": 1749827242,
+    "blockNumber": 18098217,
+    "logIndex": 0,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x5B61cA24966CB7E47F634Dee04499743Fc9746b61253/64",
+    "isFree": false,
+    "valueWei": "100000000000000000",
+    "totalContractMints": 2,
+    "analysis": {
+      "contractAddress": "0x5B61cA24966CB7E47F634Dee04499743Fc9746b6",
+      "metadataStatus": "fetch_error",
+      "fetchedMetadata": null,
+      "nameSymbolStatus": "ok",
+      "collectionNameFromAnalyzer": "Full Gobs",
+      "collectionSymbolFromAnalyzer": "FG",
+      "finalStatus": "Issues Detected",
+      "statusReasons": [
+        "Error fetching metadata from URI: The operation was aborted due to timeout."
+      ]
+    },
+    "displayStatus": "Issues Detected",
+    "mintPriceApe": "0.1000"
+  },
+  {
     "txHash": "0x40e126762d2787f42761fc1707474424863229e48f5b94139794b5dd328532b5",
     "contractAddress": "0x9faDECb791fCd35a9229301819022AAF2383dF46",
     "tokenId": "2589",
@@ -34,74 +61,6 @@
     },
     "displayStatus": "OK",
     "mintPriceApe": "22.0000"
-  },
-  {
-    "txHash": "0x4ccfb11a6c2a0a7e8091997a75c357f47f1ad612111e4078dfe68766ee499592",
-    "contractAddress": "0x5B61cA24966CB7E47F634Dee04499743Fc9746b6",
-    "tokenId": "1252",
-    "collectionName": "Full Gobs",
-    "timestamp": 1749827093,
-    "blockNumber": 18098058,
-    "logIndex": 0,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x5B61cA24966CB7E47F634Dee04499743Fc9746b61252/64",
-    "isFree": false,
-    "valueWei": "100000000000000000",
-    "totalContractMints": 1,
-    "analysis": {
-      "contractAddress": "0x5B61cA24966CB7E47F634Dee04499743Fc9746b6",
-      "metadataStatus": "ok",
-      "fetchedMetadata": {
-        "name": "Gobs #1252",
-        "image": "ipfs://QmejR3XrkzCs5Psc4AwhagtHCSkb18niBPQ1yvV86XegMR/1252",
-        "attributes": [
-          {
-            "trait_type": "BODY",
-            "value": "Original"
-          },
-          {
-            "trait_type": "SHOES",
-            "value": "W.W.Pink"
-          },
-          {
-            "trait_type": "CLOTHES",
-            "value": "Big Small Sweater Black"
-          },
-          {
-            "trait_type": "PANTS",
-            "value": "Underpants Red"
-          },
-          {
-            "trait_type": "BELT",
-            "value": "Classic Belt"
-          },
-          {
-            "trait_type": "HAT",
-            "value": "Green-Mohawk"
-          },
-          {
-            "trait_type": "MOUTH",
-            "value": "Regular"
-          },
-          {
-            "trait_type": "EYES",
-            "value": "Patch"
-          },
-          {
-            "trait_type": "OFFHAND",
-            "value": "Basketball"
-          }
-        ]
-      },
-      "nameSymbolStatus": "ok",
-      "collectionNameFromAnalyzer": "Full Gobs",
-      "collectionSymbolFromAnalyzer": "FG",
-      "finalStatus": "OK",
-      "statusReasons": [
-        "Metadata fetched successfully."
-      ]
-    },
-    "displayStatus": "OK",
-    "mintPriceApe": "0.1000"
   },
   {
     "txHash": "0x7701823b672911d00625c8519e7fd10f07a828f63f304e91a5fab072b1a39a5a",
