@@ -38,22 +38,22 @@
   {
     "txHash": "0xfcfac7ba5bbc61d81146b499ee6f70f9e7381a80c187bb3633d9438397188e39",
     "contractAddress": "0x2cf9B80Cf419fE031Ccf1D1Fa3Bb6987920940F7",
-    "tokenId": "108",
+    "tokenId": "106",
     "collectionName": "Bushi no Kizuna",
     "timestamp": 1749827809,
     "blockNumber": 18098865,
-    "logIndex": 23,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x2cf9B80Cf419fE031Ccf1D1Fa3Bb6987920940F7108/64",
+    "logIndex": 21,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x2cf9B80Cf419fE031Ccf1D1Fa3Bb6987920940F7106/64",
     "isFree": false,
     "valueWei": "5250000000000000000",
-    "totalContractMints": 18,
+    "totalContractMints": 19,
     "analysis": {
       "contractAddress": "0x2cf9B80Cf419fE031Ccf1D1Fa3Bb6987920940F7",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "Danketsu #108",
+        "name": "Danketsu #106",
         "description": "Danketsu is a lore-based Gamified Multimedia experience taking multiple blockchains and the world by storm. Each Dank was designed and illustrated by Victor Warr..",
-        "image": "https://bafybeiaqqakqivdw3fbvko46blibgtvxukvtbcw22zdrp7d3wzockenka4.ipfs.nftstorage.link/108.png?ext=png",
+        "image": "https://bafybeiaqqakqivdw3fbvko46blibgtvxukvtbcw22zdrp7d3wzockenka4.ipfs.nftstorage.link/106.png?ext=png",
         "attributes": [
           {
             "trait_type": "Background",
@@ -61,31 +61,27 @@
           },
           {
             "trait_type": "Body",
-            "value": "Demon"
-          },
-          {
-            "trait_type": "Hand",
-            "value": "Katana Slicer"
+            "value": "Tanned"
           },
           {
             "trait_type": "Mouth",
-            "value": "Grin"
+            "value": "Hmm"
           },
           {
             "trait_type": "Eyes",
-            "value": "Concerned"
-          },
-          {
-            "trait_type": "Head",
-            "value": "Undercut Side Fringe (Green)"
+            "value": "Wink"
           },
           {
             "trait_type": "Clothing",
-            "value": "Turtleneck and Scarf (Black)"
+            "value": "Tee (Cat)"
+          },
+          {
+            "trait_type": "Accessory",
+            "value": "Heart (Organ)"
           },
           {
             "trait_type": "Faction",
-            "value": "The Courageous"
+            "value": "The Ferocious"
           }
         ]
       },
