@@ -2,26 +2,26 @@
   {
     "txHash": "0xfcfac7ba5bbc61d81146b499ee6f70f9e7381a80c187bb3633d9438397188e39",
     "contractAddress": "0x2cf9B80Cf419fE031Ccf1D1Fa3Bb6987920940F7",
-    "tokenId": "109",
+    "tokenId": "108",
     "collectionName": "Bushi no Kizuna",
     "timestamp": 1749827809,
     "blockNumber": 18098865,
-    "logIndex": 24,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x2cf9B80Cf419fE031Ccf1D1Fa3Bb6987920940F7109/64",
+    "logIndex": 23,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x2cf9B80Cf419fE031Ccf1D1Fa3Bb6987920940F7108/64",
     "isFree": false,
     "valueWei": "5250000000000000000",
-    "totalContractMints": 17,
+    "totalContractMints": 18,
     "analysis": {
       "contractAddress": "0x2cf9B80Cf419fE031Ccf1D1Fa3Bb6987920940F7",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "Danketsu #109",
+        "name": "Danketsu #108",
         "description": "Danketsu is a lore-based Gamified Multimedia experience taking multiple blockchains and the world by storm. Each Dank was designed and illustrated by Victor Warr..",
-        "image": "https://bafybeiaqqakqivdw3fbvko46blibgtvxukvtbcw22zdrp7d3wzockenka4.ipfs.nftstorage.link/109.png?ext=png",
+        "image": "https://bafybeiaqqakqivdw3fbvko46blibgtvxukvtbcw22zdrp7d3wzockenka4.ipfs.nftstorage.link/108.png?ext=png",
         "attributes": [
           {
             "trait_type": "Background",
-            "value": "Mauve"
+            "value": "Pastel Green"
           },
           {
             "trait_type": "Body",
@@ -29,27 +29,23 @@
           },
           {
             "trait_type": "Hand",
-            "value": "Hooked Sword"
+            "value": "Katana Slicer"
           },
           {
             "trait_type": "Mouth",
-            "value": "Mischievous"
+            "value": "Grin"
           },
           {
             "trait_type": "Eyes",
-            "value": "God"
+            "value": "Concerned"
           },
           {
             "trait_type": "Head",
-            "value": "Dank Baseball Cap (Dreads)"
+            "value": "Undercut Side Fringe (Green)"
           },
           {
             "trait_type": "Clothing",
-            "value": "Tee (Hokusai Great Wave)"
-          },
-          {
-            "trait_type": "Accessory",
-            "value": "Ghoul Mask (White and Green)"
+            "value": "Turtleneck and Scarf (Black)"
           },
           {
             "trait_type": "Faction",
