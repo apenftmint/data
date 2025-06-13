@@ -1,24 +1,24 @@
 [
   {
-    "txHash": "0x42f452a8d8799c75064b3865ebfd7ad40fc73ca5e8810ec9ecc80fd5c42b4b15",
+    "txHash": "0x10d9618e8c0463f971560639d083f555e11e21a768f094e3b42ca0a6bc0f28d5",
     "contractAddress": "0xc0AEDA81D6c69A09FE115D2E4B6Bb7A1Ce8d0856",
-    "tokenId": "1860",
+    "tokenId": "1865",
     "collectionName": "Quantum Ape",
-    "timestamp": 1749786594,
-    "blockNumber": 18064902,
-    "logIndex": 0,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xc0AEDA81D6c69A09FE115D2E4B6Bb7A1Ce8d08561860/64",
+    "timestamp": 1749786597,
+    "blockNumber": 18064907,
+    "logIndex": 2,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xc0AEDA81D6c69A09FE115D2E4B6Bb7A1Ce8d08561865/64",
     "isFree": true,
-    "totalContractMints": 13,
+    "totalContractMints": 14,
     "analysis": {
       "contractAddress": "0xc0AEDA81D6c69A09FE115D2E4B6Bb7A1Ce8d0856",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "Quantum Ape #1860",
+        "name": "Quantum Ape #1865",
         "symbol": "QTA",
-        "description": "Is Quantum Ape #1860 dead or alive? Nobody knows... but maybe that's the magic of it.",
+        "description": "Is Quantum Ape #1865 dead or alive? Nobody knows... but maybe that's the magic of it.",
         "seller_fee_basis_points": 420,
-        "image": "https://assets.pinit.io/2cB6zgGR57WZgDM31VAAyFr3BqymM2apFdtDt1RNvcuM/9f695c2d-9e00-4329-85d4-c179e85be35d/1860",
+        "image": "https://assets.pinit.io/2cB6zgGR57WZgDM31VAAyFr3BqymM2apFdtDt1RNvcuM/9f695c2d-9e00-4329-85d4-c179e85be35d/1865",
         "external_url": "",
         "attributes": [
           {
@@ -27,31 +27,31 @@
           },
           {
             "trait_type": "Fur",
-            "value": "Insta"
+            "value": "Purple"
           },
           {
             "trait_type": "Mouth",
-            "value": "Cigarette"
+            "value": "Oh"
           },
           {
             "trait_type": "Earring",
-            "value": "None"
+            "value": "Double Hoop"
           },
           {
             "trait_type": "Hat",
-            "value": "Knitted Winter Hat"
+            "value": "Beanie"
           },
           {
             "trait_type": "Eyes",
-            "value": "Dizzy"
+            "value": "3D Glasses"
           },
           {
             "trait_type": "Clothes ",
-            "value": "Pimp Coat"
+            "value": "Tuxedo"
           },
           {
             "trait_type": "Rarity Rank",
-            "value": 1459,
+            "value": 2363,
             "display_type": "number",
             "max_value": 6969
           }
@@ -59,7 +59,7 @@
         "properties": {
           "files": [
             {
-              "uri": "https://assets.pinit.io/2cB6zgGR57WZgDM31VAAyFr3BqymM2apFdtDt1RNvcuM/9f695c2d-9e00-4329-85d4-c179e85be35d/1860",
+              "uri": "https://assets.pinit.io/2cB6zgGR57WZgDM31VAAyFr3BqymM2apFdtDt1RNvcuM/9f695c2d-9e00-4329-85d4-c179e85be35d/1865",
               "type": "image/jpeg"
             }
           ],
