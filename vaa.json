@@ -2,14 +2,14 @@
   {
     "txHash": "0x4c447bd0fcd019ddb2b86f1849bfc72526dabf599c83964dc39271a7ee83ded5",
     "contractAddress": "0x593807746EecFa7E5dbe13d028B9bF8b71972C19",
-    "tokenId": "611",
+    "tokenId": "612",
     "collectionName": "GHOST MACHINE",
     "timestamp": 1749827911,
     "blockNumber": 18098963,
-    "logIndex": 610,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x593807746EecFa7E5dbe13d028B9bF8b71972C19611/64",
+    "logIndex": 611,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x593807746EecFa7E5dbe13d028B9bF8b71972C19612/64",
     "isFree": true,
-    "totalContractMints": 21,
+    "totalContractMints": 22,
     "analysis": {
       "contractAddress": "0x593807746EecFa7E5dbe13d028B9bF8b71972C19",
       "metadataStatus": "ok",
