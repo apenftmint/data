@@ -1,57 +1,57 @@
 [
   {
-    "txHash": "0xe9f023be7fd2bdd41867c47410e9d298fa02d2e5f8df6442104b9686e7208f27",
+    "txHash": "0xd39021be8545229c24db026d4ea6f7661c8649eb4a0923c9e03c2dc581ee87ca",
     "contractAddress": "0xc0AEDA81D6c69A09FE115D2E4B6Bb7A1Ce8d0856",
-    "tokenId": "1873",
+    "tokenId": "1875",
     "collectionName": "Quantum Ape",
-    "timestamp": 1749786609,
-    "blockNumber": 18064923,
-    "logIndex": 1,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xc0AEDA81D6c69A09FE115D2E4B6Bb7A1Ce8d08561873/64",
+    "timestamp": 1749786615,
+    "blockNumber": 18064927,
+    "logIndex": 0,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xc0AEDA81D6c69A09FE115D2E4B6Bb7A1Ce8d08561875/64",
     "isFree": true,
-    "totalContractMints": 21,
+    "totalContractMints": 22,
     "analysis": {
       "contractAddress": "0xc0AEDA81D6c69A09FE115D2E4B6Bb7A1Ce8d0856",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "Quantum Ape #1873",
+        "name": "Quantum Ape #1875",
         "symbol": "QTA",
-        "description": "Is Quantum Ape #1873 dead or alive? Nobody knows... but maybe that's the magic of it.",
+        "description": "Is Quantum Ape #1875 dead or alive? Nobody knows... but maybe that's the magic of it.",
         "seller_fee_basis_points": 420,
-        "image": "https://assets.pinit.io/2cB6zgGR57WZgDM31VAAyFr3BqymM2apFdtDt1RNvcuM/9f695c2d-9e00-4329-85d4-c179e85be35d/1873",
+        "image": "https://assets.pinit.io/2cB6zgGR57WZgDM31VAAyFr3BqymM2apFdtDt1RNvcuM/9f695c2d-9e00-4329-85d4-c179e85be35d/1875",
         "external_url": "",
         "attributes": [
           {
             "trait_type": "Background ",
-            "value": "Black"
+            "value": "Spirit Light"
           },
           {
             "trait_type": "Fur",
-            "value": "Twi"
+            "value": "Deep Purple"
           },
           {
             "trait_type": "Mouth",
-            "value": "Pizza"
+            "value": "Bubblegum White"
           },
           {
             "trait_type": "Earring",
-            "value": "Nose Ring"
+            "value": "Planet Earrings"
           },
           {
             "trait_type": "Hat",
-            "value": "Christmas Hat"
+            "value": "Sombrero"
           },
           {
             "trait_type": "Eyes",
-            "value": "Blue Eyepatch"
+            "value": "Starry"
           },
           {
             "trait_type": "Clothes ",
-            "value": "Golden Tee"
+            "value": "Turtleneck"
           },
           {
             "trait_type": "Rarity Rank",
-            "value": 1216,
+            "value": 101,
             "display_type": "number",
             "max_value": 6969
           }
@@ -59,7 +59,7 @@
         "properties": {
           "files": [
             {
-              "uri": "https://assets.pinit.io/2cB6zgGR57WZgDM31VAAyFr3BqymM2apFdtDt1RNvcuM/9f695c2d-9e00-4329-85d4-c179e85be35d/1873",
+              "uri": "https://assets.pinit.io/2cB6zgGR57WZgDM31VAAyFr3BqymM2apFdtDt1RNvcuM/9f695c2d-9e00-4329-85d4-c179e85be35d/1875",
               "type": "image/jpeg"
             }
           ],
