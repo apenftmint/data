@@ -2,56 +2,56 @@
   {
     "txHash": "0x3b29c09e63318d79361f0a4520b3021943f4469a7321d00de433238e09b476d8",
     "contractAddress": "0xc0AEDA81D6c69A09FE115D2E4B6Bb7A1Ce8d0856",
-    "tokenId": "1883",
+    "tokenId": "1881",
     "collectionName": "Quantum Ape",
     "timestamp": 1749786620,
     "blockNumber": 18064934,
-    "logIndex": 2,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xc0AEDA81D6c69A09FE115D2E4B6Bb7A1Ce8d08561883/64",
+    "logIndex": 0,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xc0AEDA81D6c69A09FE115D2E4B6Bb7A1Ce8d08561881/64",
     "isFree": true,
-    "totalContractMints": 27,
+    "totalContractMints": 28,
     "analysis": {
       "contractAddress": "0xc0AEDA81D6c69A09FE115D2E4B6Bb7A1Ce8d0856",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "Quantum Ape #1883",
+        "name": "Quantum Ape #1881",
         "symbol": "QTA",
-        "description": "Is Quantum Ape #1883 dead or alive? Nobody knows... but maybe that's the magic of it.",
+        "description": "Is Quantum Ape #1881 dead or alive? Nobody knows... but maybe that's the magic of it.",
         "seller_fee_basis_points": 420,
-        "image": "https://assets.pinit.io/2cB6zgGR57WZgDM31VAAyFr3BqymM2apFdtDt1RNvcuM/9f695c2d-9e00-4329-85d4-c179e85be35d/1883",
+        "image": "https://assets.pinit.io/2cB6zgGR57WZgDM31VAAyFr3BqymM2apFdtDt1RNvcuM/9f695c2d-9e00-4329-85d4-c179e85be35d/1881",
         "external_url": "",
         "attributes": [
           {
             "trait_type": "Background ",
-            "value": "Spirit Light"
+            "value": "Trippy Gray"
           },
           {
             "trait_type": "Fur",
-            "value": "Green"
+            "value": "Yellow"
           },
           {
             "trait_type": "Mouth",
-            "value": "Bubblegum Pink"
+            "value": "Golden Tooth"
           },
           {
             "trait_type": "Earring",
-            "value": "Double Hoop"
+            "value": "Melting Heart"
           },
           {
             "trait_type": "Hat",
-            "value": "Painter Hat"
+            "value": "Flat Cap"
           },
           {
             "trait_type": "Eyes",
-            "value": "Rainbow Hearts"
+            "value": "Devil Eyes"
           },
           {
             "trait_type": "Clothes ",
-            "value": "Smoking Jacket"
+            "value": "Tank Top"
           },
           {
             "trait_type": "Rarity Rank",
-            "value": 1126,
+            "value": 936,
             "display_type": "number",
             "max_value": 6969
           }
@@ -59,7 +59,7 @@
         "properties": {
           "files": [
             {
-              "uri": "https://assets.pinit.io/2cB6zgGR57WZgDM31VAAyFr3BqymM2apFdtDt1RNvcuM/9f695c2d-9e00-4329-85d4-c179e85be35d/1883",
+              "uri": "https://assets.pinit.io/2cB6zgGR57WZgDM31VAAyFr3BqymM2apFdtDt1RNvcuM/9f695c2d-9e00-4329-85d4-c179e85be35d/1881",
               "type": "image/jpeg"
             }
           ],
