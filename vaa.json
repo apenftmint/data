@@ -1,21 +1,21 @@
 [
   {
-    "txHash": "0x12ca7fb7d79a17d240582f2bec4fae6d28935303644f3b54a08ff64047ebcee4",
+    "txHash": "0xbf33174f080dbe7867097d1626b2e3c99128d52b428245d124f8f9689b93fbe5",
     "contractAddress": "0x9faDECb791fCd35a9229301819022AAF2383dF46",
-    "tokenId": "2541",
+    "tokenId": "2546",
     "collectionName": "Dawn of The Duck",
-    "timestamp": 1749826761,
-    "blockNumber": 18097775,
-    "logIndex": 0,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x9faDECb791fCd35a9229301819022AAF2383dF462541/64",
+    "timestamp": 1749826779,
+    "blockNumber": 18097791,
+    "logIndex": 3,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x9faDECb791fCd35a9229301819022AAF2383dF462546/64",
     "isFree": false,
-    "valueWei": "22000000000000000000",
-    "totalContractMints": 168,
+    "valueWei": "55000000000000000000",
+    "totalContractMints": 169,
     "analysis": {
       "contractAddress": "0x9faDECb791fCd35a9229301819022AAF2383dF46",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "2541",
+        "name": "2546",
         "image": "ipfs://bafybeiaw7g7rc2sxtxmwwdir3llz6who3pu5yyraq2lzzvzj7c4g4hwd5y",
         "attributes": [
           {
@@ -33,7 +33,7 @@
       ]
     },
     "displayStatus": "OK",
-    "mintPriceApe": "22.0000"
+    "mintPriceApe": "55.0000"
   },
   {
     "txHash": "0x8fc01015689a5ca2d95132247e9c43081cb89c3f3c8737abb7b0edb33749fecc",
