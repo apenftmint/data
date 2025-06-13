@@ -1,24 +1,24 @@
 [
   {
-    "txHash": "0x2d217f525a19bb7d03c6924b8dd465e1d9bc3c2cb335c20505d74585536f117d",
+    "txHash": "0xe5a432b0289c715f683d25553fb0611b26ae87f3c729aea62968025f853666f1",
     "contractAddress": "0xc0AEDA81D6c69A09FE115D2E4B6Bb7A1Ce8d0856",
-    "tokenId": "2170",
+    "tokenId": "2172",
     "collectionName": "Quantum Ape",
-    "timestamp": 1749787140,
-    "blockNumber": 18065407,
-    "logIndex": 1,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xc0AEDA81D6c69A09FE115D2E4B6Bb7A1Ce8d08562170/64",
+    "timestamp": 1749787174,
+    "blockNumber": 18065432,
+    "logIndex": 0,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xc0AEDA81D6c69A09FE115D2E4B6Bb7A1Ce8d08562172/64",
     "isFree": true,
-    "totalContractMints": 35,
+    "totalContractMints": 36,
     "analysis": {
       "contractAddress": "0xc0AEDA81D6c69A09FE115D2E4B6Bb7A1Ce8d0856",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "Quantum Ape #2170",
+        "name": "Quantum Ape #2172",
         "symbol": "QTA",
-        "description": "Is Quantum Ape #2170 dead or alive? Nobody knows... but maybe that's the magic of it.",
+        "description": "Is Quantum Ape #2172 dead or alive? Nobody knows... but maybe that's the magic of it.",
         "seller_fee_basis_points": 420,
-        "image": "https://assets.pinit.io/2cB6zgGR57WZgDM31VAAyFr3BqymM2apFdtDt1RNvcuM/9f695c2d-9e00-4329-85d4-c179e85be35d/2170",
+        "image": "https://assets.pinit.io/2cB6zgGR57WZgDM31VAAyFr3BqymM2apFdtDt1RNvcuM/9f695c2d-9e00-4329-85d4-c179e85be35d/2172",
         "external_url": "",
         "attributes": [
           {
@@ -27,31 +27,31 @@
           },
           {
             "trait_type": "Fur",
-            "value": "Insta"
+            "value": "Cyber"
           },
           {
             "trait_type": "Mouth",
-            "value": "Pink Pipe"
+            "value": "Music"
           },
           {
             "trait_type": "Earring",
-            "value": "Cross"
-          },
-          {
-            "trait_type": "Hat",
-            "value": "Bandana Blue"
-          },
-          {
-            "trait_type": "Eyes",
             "value": "None"
           },
           {
+            "trait_type": "Hat",
+            "value": "Beanie"
+          },
+          {
+            "trait_type": "Eyes",
+            "value": "Vision Pro"
+          },
+          {
             "trait_type": "Clothes ",
-            "value": "Toga"
+            "value": "Blue Scarf"
           },
           {
             "trait_type": "Rarity Rank",
-            "value": 1779,
+            "value": 1987,
             "display_type": "number",
             "max_value": 6969
           }
@@ -59,7 +59,7 @@
         "properties": {
           "files": [
             {
-              "uri": "https://assets.pinit.io/2cB6zgGR57WZgDM31VAAyFr3BqymM2apFdtDt1RNvcuM/9f695c2d-9e00-4329-85d4-c179e85be35d/2170",
+              "uri": "https://assets.pinit.io/2cB6zgGR57WZgDM31VAAyFr3BqymM2apFdtDt1RNvcuM/9f695c2d-9e00-4329-85d4-c179e85be35d/2172",
               "type": "image/jpeg"
             }
           ],
