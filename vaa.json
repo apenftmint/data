@@ -2,56 +2,56 @@
   {
     "txHash": "0xd39021be8545229c24db026d4ea6f7661c8649eb4a0923c9e03c2dc581ee87ca",
     "contractAddress": "0xc0AEDA81D6c69A09FE115D2E4B6Bb7A1Ce8d0856",
-    "tokenId": "1875",
+    "tokenId": "1877",
     "collectionName": "Quantum Ape",
     "timestamp": 1749786615,
     "blockNumber": 18064927,
-    "logIndex": 0,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xc0AEDA81D6c69A09FE115D2E4B6Bb7A1Ce8d08561875/64",
+    "logIndex": 2,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xc0AEDA81D6c69A09FE115D2E4B6Bb7A1Ce8d08561877/64",
     "isFree": true,
-    "totalContractMints": 22,
+    "totalContractMints": 23,
     "analysis": {
       "contractAddress": "0xc0AEDA81D6c69A09FE115D2E4B6Bb7A1Ce8d0856",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "Quantum Ape #1875",
+        "name": "Quantum Ape #1877",
         "symbol": "QTA",
-        "description": "Is Quantum Ape #1875 dead or alive? Nobody knows... but maybe that's the magic of it.",
+        "description": "Is Quantum Ape #1877 dead or alive? Nobody knows... but maybe that's the magic of it.",
         "seller_fee_basis_points": 420,
-        "image": "https://assets.pinit.io/2cB6zgGR57WZgDM31VAAyFr3BqymM2apFdtDt1RNvcuM/9f695c2d-9e00-4329-85d4-c179e85be35d/1875",
+        "image": "https://assets.pinit.io/2cB6zgGR57WZgDM31VAAyFr3BqymM2apFdtDt1RNvcuM/9f695c2d-9e00-4329-85d4-c179e85be35d/1877",
         "external_url": "",
         "attributes": [
           {
             "trait_type": "Background ",
-            "value": "Spirit Light"
+            "value": "Black"
           },
           {
             "trait_type": "Fur",
-            "value": "Deep Purple"
+            "value": "Blue"
           },
           {
             "trait_type": "Mouth",
-            "value": "Bubblegum White"
+            "value": "Too Hot"
           },
           {
             "trait_type": "Earring",
-            "value": "Planet Earrings"
+            "value": "None"
           },
           {
             "trait_type": "Hat",
-            "value": "Sombrero"
+            "value": "Party Hat"
           },
           {
             "trait_type": "Eyes",
-            "value": "Starry"
+            "value": "None"
           },
           {
             "trait_type": "Clothes ",
-            "value": "Turtleneck"
+            "value": "Pink Tee"
           },
           {
             "trait_type": "Rarity Rank",
-            "value": 101,
+            "value": 6165,
             "display_type": "number",
             "max_value": 6969
           }
@@ -59,7 +59,7 @@
         "properties": {
           "files": [
             {
-              "uri": "https://assets.pinit.io/2cB6zgGR57WZgDM31VAAyFr3BqymM2apFdtDt1RNvcuM/9f695c2d-9e00-4329-85d4-c179e85be35d/1875",
+              "uri": "https://assets.pinit.io/2cB6zgGR57WZgDM31VAAyFr3BqymM2apFdtDt1RNvcuM/9f695c2d-9e00-4329-85d4-c179e85be35d/1877",
               "type": "image/jpeg"
             }
           ],
