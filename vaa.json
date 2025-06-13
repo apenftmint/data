@@ -2,23 +2,23 @@
   {
     "txHash": "0x80139a5ca586f1672bd5cacca3e643f2dfca47523e361c51b4201eb43917311a",
     "contractAddress": "0xc0AEDA81D6c69A09FE115D2E4B6Bb7A1Ce8d0856",
-    "tokenId": "1849",
+    "tokenId": "1850",
     "collectionName": "Quantum Ape",
     "timestamp": 1749786532,
     "blockNumber": 18064842,
-    "logIndex": 1,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xc0AEDA81D6c69A09FE115D2E4B6Bb7A1Ce8d08561849/64",
+    "logIndex": 2,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xc0AEDA81D6c69A09FE115D2E4B6Bb7A1Ce8d08561850/64",
     "isFree": true,
-    "totalContractMints": 1,
+    "totalContractMints": 2,
     "analysis": {
       "contractAddress": "0xc0AEDA81D6c69A09FE115D2E4B6Bb7A1Ce8d0856",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "Quantum Ape #1849",
+        "name": "Quantum Ape #1850",
         "symbol": "QTA",
-        "description": "Is Quantum Ape #1849 dead or alive? Nobody knows... but maybe that's the magic of it.",
+        "description": "Is Quantum Ape #1850 dead or alive? Nobody knows... but maybe that's the magic of it.",
         "seller_fee_basis_points": 420,
-        "image": "https://assets.pinit.io/2cB6zgGR57WZgDM31VAAyFr3BqymM2apFdtDt1RNvcuM/9f695c2d-9e00-4329-85d4-c179e85be35d/1849",
+        "image": "https://assets.pinit.io/2cB6zgGR57WZgDM31VAAyFr3BqymM2apFdtDt1RNvcuM/9f695c2d-9e00-4329-85d4-c179e85be35d/1850",
         "external_url": "",
         "attributes": [
           {
@@ -27,11 +27,11 @@
           },
           {
             "trait_type": "Fur",
-            "value": "Brown"
+            "value": "White"
           },
           {
             "trait_type": "Mouth",
-            "value": "Bamboo"
+            "value": "Party Horn"
           },
           {
             "trait_type": "Earring",
@@ -39,19 +39,19 @@
           },
           {
             "trait_type": "Hat",
-            "value": "WW2 Pilot Helmet"
+            "value": "Devil Horns"
           },
           {
             "trait_type": "Eyes",
-            "value": "None"
+            "value": "Eyepatch"
           },
           {
             "trait_type": "Clothes ",
-            "value": "None"
+            "value": "Red Scarf"
           },
           {
             "trait_type": "Rarity Rank",
-            "value": 5194,
+            "value": 2756,
             "display_type": "number",
             "max_value": 6969
           }
@@ -59,7 +59,7 @@
         "properties": {
           "files": [
             {
-              "uri": "https://assets.pinit.io/2cB6zgGR57WZgDM31VAAyFr3BqymM2apFdtDt1RNvcuM/9f695c2d-9e00-4329-85d4-c179e85be35d/1849",
+              "uri": "https://assets.pinit.io/2cB6zgGR57WZgDM31VAAyFr3BqymM2apFdtDt1RNvcuM/9f695c2d-9e00-4329-85d4-c179e85be35d/1850",
               "type": "image/jpeg"
             }
           ],
