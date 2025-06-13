@@ -2,22 +2,22 @@
   {
     "txHash": "0x3d3b801e8ebbe1f7b976613fe24e545dabbdf0c17380c6bd080c43238aab270e",
     "contractAddress": "0x2cf9B80Cf419fE031Ccf1D1Fa3Bb6987920940F7",
-    "tokenId": "2",
+    "tokenId": "3",
     "collectionName": "Bushi no Kizuna",
     "timestamp": 1749827708,
     "blockNumber": 18098747,
-    "logIndex": 1,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x2cf9B80Cf419fE031Ccf1D1Fa3Bb6987920940F72/64",
+    "logIndex": 2,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x2cf9B80Cf419fE031Ccf1D1Fa3Bb6987920940F73/64",
     "isFree": false,
     "valueWei": "5250000000000000000",
-    "totalContractMints": 1,
+    "totalContractMints": 2,
     "analysis": {
       "contractAddress": "0x2cf9B80Cf419fE031Ccf1D1Fa3Bb6987920940F7",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "Danketsu #2",
+        "name": "Danketsu #3",
         "description": "Danketsu is a lore-based Gamified Multimedia experience taking multiple blockchains and the world by storm. Each Dank was designed and illustrated by Victor Warr..",
-        "image": "https://bafybeihz5555nb3vdcteuczpsdoqizesglvqp3nvubtsqw6cyqa6h4la6i.ipfs.nftstorage.link/2.png?ext=png",
+        "image": "https://bafybeihz5555nb3vdcteuczpsdoqizesglvqp3nvubtsqw6cyqa6h4la6i.ipfs.nftstorage.link/3.png?ext=png",
         "attributes": [
           {
             "trait_type": "Background",
@@ -25,27 +25,31 @@
           },
           {
             "trait_type": "Body",
-            "value": "Chocolate"
+            "value": "Vampire"
+          },
+          {
+            "trait_type": "Hand",
+            "value": "Scimitar"
           },
           {
             "trait_type": "Mouth",
-            "value": "Beard"
+            "value": "Outbreak"
           },
           {
             "trait_type": "Eyes",
-            "value": "God"
+            "value": "Buttons"
           },
           {
             "trait_type": "Head",
-            "value": "Shaved (Blonde)"
+            "value": "Ponytail (Black)"
           },
           {
             "trait_type": "Clothing",
-            "value": "Strait Jacket (White)"
+            "value": "Tuxedo (White)"
           },
           {
             "trait_type": "Faction",
-            "value": "The Eternal"
+            "value": "The Ferocious"
           }
         ]
       },
