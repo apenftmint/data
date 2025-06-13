@@ -1,5 +1,66 @@
 [
   {
+    "txHash": "0x3d3b801e8ebbe1f7b976613fe24e545dabbdf0c17380c6bd080c43238aab270e",
+    "contractAddress": "0x2cf9B80Cf419fE031Ccf1D1Fa3Bb6987920940F7",
+    "tokenId": "2",
+    "collectionName": "Bushi no Kizuna",
+    "timestamp": 1749827708,
+    "blockNumber": 18098747,
+    "logIndex": 1,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x2cf9B80Cf419fE031Ccf1D1Fa3Bb6987920940F72/64",
+    "isFree": false,
+    "valueWei": "5250000000000000000",
+    "totalContractMints": 1,
+    "analysis": {
+      "contractAddress": "0x2cf9B80Cf419fE031Ccf1D1Fa3Bb6987920940F7",
+      "metadataStatus": "ok",
+      "fetchedMetadata": {
+        "name": "Danketsu #2",
+        "description": "Danketsu is a lore-based Gamified Multimedia experience taking multiple blockchains and the world by storm. Each Dank was designed and illustrated by Victor Warr..",
+        "image": "https://bafybeihz5555nb3vdcteuczpsdoqizesglvqp3nvubtsqw6cyqa6h4la6i.ipfs.nftstorage.link/2.png?ext=png",
+        "attributes": [
+          {
+            "trait_type": "Background",
+            "value": "Blue"
+          },
+          {
+            "trait_type": "Body",
+            "value": "Chocolate"
+          },
+          {
+            "trait_type": "Mouth",
+            "value": "Beard"
+          },
+          {
+            "trait_type": "Eyes",
+            "value": "God"
+          },
+          {
+            "trait_type": "Head",
+            "value": "Shaved (Blonde)"
+          },
+          {
+            "trait_type": "Clothing",
+            "value": "Strait Jacket (White)"
+          },
+          {
+            "trait_type": "Faction",
+            "value": "The Eternal"
+          }
+        ]
+      },
+      "nameSymbolStatus": "ok",
+      "collectionNameFromAnalyzer": "Bushi no Kizuna",
+      "collectionSymbolFromAnalyzer": "BUS",
+      "finalStatus": "OK",
+      "statusReasons": [
+        "Metadata fetched successfully."
+      ]
+    },
+    "displayStatus": "OK",
+    "mintPriceApe": "5.2500"
+  },
+  {
     "txHash": "0x56d7decc6dfa34e1a7bc74ed06664d93c541f41953d64e95af0fe99301f4eae2",
     "contractAddress": "0x9faDECb791fCd35a9229301819022AAF2383dF46",
     "tokenId": "2622",
