@@ -1,5 +1,36 @@
 [
   {
+    "txHash": "0x948e469fd22890621f6b979dd31aeb22576ec191cf07f0051cb48221e382acd0",
+    "contractAddress": "0x2805fF79E623b9ca2FAa111635C04010B1839036",
+    "tokenId": "407",
+    "collectionName": "Ape Maps",
+    "timestamp": 1749786605,
+    "blockNumber": 18064917,
+    "logIndex": 1,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x2805fF79E623b9ca2FAa111635C04010B1839036407/64",
+    "isFree": false,
+    "valueWei": "22050000000000000000",
+    "totalContractMints": 1,
+    "analysis": {
+      "contractAddress": "0x2805fF79E623b9ca2FAa111635C04010B1839036",
+      "metadataStatus": "ok",
+      "fetchedMetadata": {
+        "description": "The largest infrastructure building collection across any collection is here on Apechain\n\nThe world is now on Apechain, own a part of it, build it.",
+        "image": "ipfs://bafybeiajvzivyip5pqqoewtmacemg3ytm5diuvirkmy4csg4cwo5y6cthu",
+        "name": "Ape Maps"
+      },
+      "nameSymbolStatus": "ok",
+      "collectionNameFromAnalyzer": "Ape Maps",
+      "collectionSymbolFromAnalyzer": "AM",
+      "finalStatus": "OK",
+      "statusReasons": [
+        "Metadata fetched successfully."
+      ]
+    },
+    "displayStatus": "OK",
+    "mintPriceApe": "22.0500"
+  },
+  {
     "txHash": "0x8aaa95dd0dca7323a07a7225ea87202d2c3bcd403abdae5b323a7df72bf62434",
     "contractAddress": "0xc0AEDA81D6c69A09FE115D2E4B6Bb7A1Ce8d0856",
     "tokenId": "1871",
