@@ -2,23 +2,23 @@
   {
     "txHash": "0xd39021be8545229c24db026d4ea6f7661c8649eb4a0923c9e03c2dc581ee87ca",
     "contractAddress": "0xc0AEDA81D6c69A09FE115D2E4B6Bb7A1Ce8d0856",
-    "tokenId": "1877",
+    "tokenId": "1876",
     "collectionName": "Quantum Ape",
     "timestamp": 1749786615,
     "blockNumber": 18064927,
-    "logIndex": 2,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xc0AEDA81D6c69A09FE115D2E4B6Bb7A1Ce8d08561877/64",
+    "logIndex": 1,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xc0AEDA81D6c69A09FE115D2E4B6Bb7A1Ce8d08561876/64",
     "isFree": true,
-    "totalContractMints": 23,
+    "totalContractMints": 24,
     "analysis": {
       "contractAddress": "0xc0AEDA81D6c69A09FE115D2E4B6Bb7A1Ce8d0856",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "Quantum Ape #1877",
+        "name": "Quantum Ape #1876",
         "symbol": "QTA",
-        "description": "Is Quantum Ape #1877 dead or alive? Nobody knows... but maybe that's the magic of it.",
+        "description": "Is Quantum Ape #1876 dead or alive? Nobody knows... but maybe that's the magic of it.",
         "seller_fee_basis_points": 420,
-        "image": "https://assets.pinit.io/2cB6zgGR57WZgDM31VAAyFr3BqymM2apFdtDt1RNvcuM/9f695c2d-9e00-4329-85d4-c179e85be35d/1877",
+        "image": "https://assets.pinit.io/2cB6zgGR57WZgDM31VAAyFr3BqymM2apFdtDt1RNvcuM/9f695c2d-9e00-4329-85d4-c179e85be35d/1876",
         "external_url": "",
         "attributes": [
           {
@@ -27,15 +27,15 @@
           },
           {
             "trait_type": "Fur",
-            "value": "Blue"
+            "value": "Neon Pink"
           },
           {
             "trait_type": "Mouth",
-            "value": "Too Hot"
+            "value": "Pipe"
           },
           {
             "trait_type": "Earring",
-            "value": "None"
+            "value": "Nose Ring"
           },
           {
             "trait_type": "Hat",
@@ -43,15 +43,15 @@
           },
           {
             "trait_type": "Eyes",
-            "value": "None"
+            "value": "Crazy Eyes"
           },
           {
             "trait_type": "Clothes ",
-            "value": "Pink Tee"
+            "value": "Suit"
           },
           {
             "trait_type": "Rarity Rank",
-            "value": 6165,
+            "value": 6134,
             "display_type": "number",
             "max_value": 6969
           }
@@ -59,7 +59,7 @@
         "properties": {
           "files": [
             {
-              "uri": "https://assets.pinit.io/2cB6zgGR57WZgDM31VAAyFr3BqymM2apFdtDt1RNvcuM/9f695c2d-9e00-4329-85d4-c179e85be35d/1877",
+              "uri": "https://assets.pinit.io/2cB6zgGR57WZgDM31VAAyFr3BqymM2apFdtDt1RNvcuM/9f695c2d-9e00-4329-85d4-c179e85be35d/1876",
               "type": "image/jpeg"
             }
           ],
