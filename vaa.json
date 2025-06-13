@@ -2,50 +2,58 @@
   {
     "txHash": "0xfcfac7ba5bbc61d81146b499ee6f70f9e7381a80c187bb3633d9438397188e39",
     "contractAddress": "0x2cf9B80Cf419fE031Ccf1D1Fa3Bb6987920940F7",
-    "tokenId": "110",
+    "tokenId": "109",
     "collectionName": "Bushi no Kizuna",
     "timestamp": 1749827809,
     "blockNumber": 18098865,
-    "logIndex": 25,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x2cf9B80Cf419fE031Ccf1D1Fa3Bb6987920940F7110/64",
+    "logIndex": 24,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x2cf9B80Cf419fE031Ccf1D1Fa3Bb6987920940F7109/64",
     "isFree": false,
     "valueWei": "5250000000000000000",
-    "totalContractMints": 16,
+    "totalContractMints": 17,
     "analysis": {
       "contractAddress": "0x2cf9B80Cf419fE031Ccf1D1Fa3Bb6987920940F7",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "Danketsu #110",
+        "name": "Danketsu #109",
         "description": "Danketsu is a lore-based Gamified Multimedia experience taking multiple blockchains and the world by storm. Each Dank was designed and illustrated by Victor Warr..",
-        "image": "https://bafybeiaqqakqivdw3fbvko46blibgtvxukvtbcw22zdrp7d3wzockenka4.ipfs.nftstorage.link/110.png?ext=png",
+        "image": "https://bafybeiaqqakqivdw3fbvko46blibgtvxukvtbcw22zdrp7d3wzockenka4.ipfs.nftstorage.link/109.png?ext=png",
         "attributes": [
           {
             "trait_type": "Background",
-            "value": "Lime"
+            "value": "Mauve"
           },
           {
             "trait_type": "Body",
-            "value": "Chocolate"
-          },
-          {
-            "trait_type": "Mouth",
-            "value": "Kunai"
-          },
-          {
-            "trait_type": "Eyes",
             "value": "Demon"
           },
           {
+            "trait_type": "Hand",
+            "value": "Hooked Sword"
+          },
+          {
+            "trait_type": "Mouth",
+            "value": "Mischievous"
+          },
+          {
+            "trait_type": "Eyes",
+            "value": "God"
+          },
+          {
             "trait_type": "Head",
-            "value": "Bandana and Dreads (Brown)"
+            "value": "Dank Baseball Cap (Dreads)"
           },
           {
             "trait_type": "Clothing",
-            "value": "Tee (Black and Yellow)"
+            "value": "Tee (Hokusai Great Wave)"
+          },
+          {
+            "trait_type": "Accessory",
+            "value": "Ghoul Mask (White and Green)"
           },
           {
             "trait_type": "Faction",
-            "value": "The Ferocious"
+            "value": "The Courageous"
           }
         ]
       },
