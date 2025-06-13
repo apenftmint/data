@@ -1,5 +1,35 @@
 [
   {
+    "txHash": "0x6f5b8a7ceffd9cf01785ec5e5cf2890c5595da9037e0de0ec53378143edb56fd",
+    "contractAddress": "0x7178aA4FE028B5882c0FBB731225E38920851596",
+    "tokenId": "4626",
+    "collectionName": "Bronze Supporter Pin",
+    "timestamp": 1749827433,
+    "blockNumber": 18098430,
+    "logIndex": 0,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x7178aA4FE028B5882c0FBB731225E389208515964626/64",
+    "isFree": false,
+    "valueWei": "1000000000000000000",
+    "totalContractMints": 2,
+    "analysis": {
+      "contractAddress": "0x7178aA4FE028B5882c0FBB731225E38920851596",
+      "metadataStatus": "ok",
+      "fetchedMetadata": {
+        "name": "Bronze Supporter Pin #4626",
+        "image": "ipfs://bafkreicwvsi6zobf6rmwsunmqmzpyd3qo2dod4b2tfzv35j3csjhgzrzjm"
+      },
+      "nameSymbolStatus": "ok",
+      "collectionNameFromAnalyzer": "Bronze Supporter Pin",
+      "collectionSymbolFromAnalyzer": "N2MBRONZEPIN",
+      "finalStatus": "OK",
+      "statusReasons": [
+        "Metadata fetched successfully."
+      ]
+    },
+    "displayStatus": "OK",
+    "mintPriceApe": "1.0000"
+  },
+  {
     "txHash": "0x04625b26a2750484ab185e044b241d47fa8072ad625723a8fd7a260ff9652038",
     "contractAddress": "0x5B61cA24966CB7E47F634Dee04499743Fc9746b6",
     "tokenId": "1254",
@@ -407,36 +437,6 @@
     },
     "displayStatus": "OK",
     "mintPriceApe": "22.0500"
-  },
-  {
-    "txHash": "0xe76e66d42d1b750bacfeb1a3195fe2e094ba63cc337f9dd508c027842f08308c",
-    "contractAddress": "0x7178aA4FE028B5882c0FBB731225E38920851596",
-    "tokenId": "4619",
-    "collectionName": "Bronze Supporter Pin",
-    "timestamp": 1749750852,
-    "blockNumber": 18036751,
-    "logIndex": 0,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x7178aA4FE028B5882c0FBB731225E389208515964619/64",
-    "isFree": false,
-    "valueWei": "1000000000000000000",
-    "totalContractMints": 1,
-    "analysis": {
-      "contractAddress": "0x7178aA4FE028B5882c0FBB731225E38920851596",
-      "metadataStatus": "ok",
-      "fetchedMetadata": {
-        "name": "Bronze Supporter Pin #4619",
-        "image": "ipfs://bafkreicwvsi6zobf6rmwsunmqmzpyd3qo2dod4b2tfzv35j3csjhgzrzjm"
-      },
-      "nameSymbolStatus": "ok",
-      "collectionNameFromAnalyzer": "Bronze Supporter Pin",
-      "collectionSymbolFromAnalyzer": "N2MBRONZEPIN",
-      "finalStatus": "OK",
-      "statusReasons": [
-        "Metadata fetched successfully."
-      ]
-    },
-    "displayStatus": "OK",
-    "mintPriceApe": "1.0000"
   },
   {
     "txHash": "0x2c083390ef95b82b0172fa05759e399225439a399a25339d684de8607f1f1a70",
