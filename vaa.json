@@ -2,56 +2,56 @@
   {
     "txHash": "0x2d217f525a19bb7d03c6924b8dd465e1d9bc3c2cb335c20505d74585536f117d",
     "contractAddress": "0xc0AEDA81D6c69A09FE115D2E4B6Bb7A1Ce8d0856",
-    "tokenId": "2169",
+    "tokenId": "2170",
     "collectionName": "Quantum Ape",
     "timestamp": 1749787140,
     "blockNumber": 18065407,
-    "logIndex": 0,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xc0AEDA81D6c69A09FE115D2E4B6Bb7A1Ce8d08562169/64",
+    "logIndex": 1,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xc0AEDA81D6c69A09FE115D2E4B6Bb7A1Ce8d08562170/64",
     "isFree": true,
-    "totalContractMints": 34,
+    "totalContractMints": 35,
     "analysis": {
       "contractAddress": "0xc0AEDA81D6c69A09FE115D2E4B6Bb7A1Ce8d0856",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "Quantum Ape #2169",
+        "name": "Quantum Ape #2170",
         "symbol": "QTA",
-        "description": "Is Quantum Ape #2169 dead or alive? Nobody knows... but maybe that's the magic of it.",
+        "description": "Is Quantum Ape #2170 dead or alive? Nobody knows... but maybe that's the magic of it.",
         "seller_fee_basis_points": 420,
-        "image": "https://assets.pinit.io/2cB6zgGR57WZgDM31VAAyFr3BqymM2apFdtDt1RNvcuM/9f695c2d-9e00-4329-85d4-c179e85be35d/2169",
+        "image": "https://assets.pinit.io/2cB6zgGR57WZgDM31VAAyFr3BqymM2apFdtDt1RNvcuM/9f695c2d-9e00-4329-85d4-c179e85be35d/2170",
         "external_url": "",
         "attributes": [
           {
             "trait_type": "Background ",
-            "value": "Black"
+            "value": "Trippy Gray"
           },
           {
             "trait_type": "Fur",
-            "value": "Rainbow"
+            "value": "Insta"
           },
           {
             "trait_type": "Mouth",
-            "value": "Discomfort"
+            "value": "Pink Pipe"
           },
           {
             "trait_type": "Earring",
-            "value": "None"
+            "value": "Cross"
           },
           {
             "trait_type": "Hat",
-            "value": "Ice Cream"
+            "value": "Bandana Blue"
           },
           {
             "trait_type": "Eyes",
-            "value": "Holographic"
+            "value": "None"
           },
           {
             "trait_type": "Clothes ",
-            "value": "Golden Jacket"
+            "value": "Toga"
           },
           {
             "trait_type": "Rarity Rank",
-            "value": 1585,
+            "value": 1779,
             "display_type": "number",
             "max_value": 6969
           }
@@ -59,7 +59,7 @@
         "properties": {
           "files": [
             {
-              "uri": "https://assets.pinit.io/2cB6zgGR57WZgDM31VAAyFr3BqymM2apFdtDt1RNvcuM/9f695c2d-9e00-4329-85d4-c179e85be35d/2169",
+              "uri": "https://assets.pinit.io/2cB6zgGR57WZgDM31VAAyFr3BqymM2apFdtDt1RNvcuM/9f695c2d-9e00-4329-85d4-c179e85be35d/2170",
               "type": "image/jpeg"
             }
           ],
