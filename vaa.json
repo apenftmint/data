@@ -1,21 +1,21 @@
 [
   {
-    "txHash": "0xb431e2971d00ac3b9a02e52f235151da0aed64b2ef4125f2aa827d1adc846b25",
+    "txHash": "0x9d303ab69f7c60b16a63ca0c79c0d389f4c0c2be153a04d537d7a9a61b558274",
     "contractAddress": "0x62dcA65AcEA356bC00b8979AB9A8c636748e7c51",
-    "tokenId": "63",
+    "tokenId": "88",
     "collectionName": "XShogun",
-    "timestamp": 1749826653,
-    "blockNumber": 18097687,
-    "logIndex": 6,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x62dcA65AcEA356bC00b8979AB9A8c636748e7c5163/64",
+    "timestamp": 1749826654,
+    "blockNumber": 18097688,
+    "logIndex": 0,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x62dcA65AcEA356bC00b8979AB9A8c636748e7c5188/64",
     "isFree": false,
-    "valueWei": "1000000000000000000",
-    "totalContractMints": 25,
+    "valueWei": "100000000000000000",
+    "totalContractMints": 26,
     "analysis": {
       "contractAddress": "0x62dcA65AcEA356bC00b8979AB9A8c636748e7c51",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "XShogun #63",
+        "name": "XShogun #88",
         "description": "Introducing \"XShogun\", an NFT art series blending Hokusai-inspired Ukiyo-e with mechanical robotic animals like owls and foxes. Set against Mount Fuji, waves, and cherry blossoms, each unique token fuses ancient artistry with futuristic tech, narrating a harmony of nature and machine. A limited collection for collectors, this series bridges past and future on the blockchain. Join the digital legacy!",
         "attributes": [
           {
@@ -31,7 +31,7 @@
             "value": "2"
           }
         ],
-        "image": "ipfs://bafybeiecrvba3ozxmyi4oc4kwlhmxtazwrthjios37n7gustas74efl7ku/63.webp",
+        "image": "ipfs://bafybeiecrvba3ozxmyi4oc4kwlhmxtazwrthjios37n7gustas74efl7ku/88.webp",
         "compiler": "nfts2me.com"
       },
       "nameSymbolStatus": "ok",
@@ -43,7 +43,7 @@
       ]
     },
     "displayStatus": "OK",
-    "mintPriceApe": "1.0000"
+    "mintPriceApe": "0.1000"
   },
   {
     "txHash": "0x6e74a79256aba19b662847ff0f3d62fe32cc1850f6810b77d40da6d4252b4b32",
