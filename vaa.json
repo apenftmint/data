@@ -2,56 +2,56 @@
   {
     "txHash": "0xf94b1ce1a759ec761104bb68a9ae6c712cc1842c06f17401bd70bb5aa0c31e51",
     "contractAddress": "0xc0AEDA81D6c69A09FE115D2E4B6Bb7A1Ce8d0856",
-    "tokenId": "1851",
+    "tokenId": "1853",
     "collectionName": "Quantum Ape",
     "timestamp": 1749786544,
     "blockNumber": 18064854,
-    "logIndex": 0,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xc0AEDA81D6c69A09FE115D2E4B6Bb7A1Ce8d08561851/64",
+    "logIndex": 2,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xc0AEDA81D6c69A09FE115D2E4B6Bb7A1Ce8d08561853/64",
     "isFree": true,
-    "totalContractMints": 4,
+    "totalContractMints": 5,
     "analysis": {
       "contractAddress": "0xc0AEDA81D6c69A09FE115D2E4B6Bb7A1Ce8d0856",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "Quantum Ape #1851",
+        "name": "Quantum Ape #1853",
         "symbol": "QTA",
-        "description": "Is Quantum Ape #1851 dead or alive? Nobody knows... but maybe that's the magic of it.",
+        "description": "Is Quantum Ape #1853 dead or alive? Nobody knows... but maybe that's the magic of it.",
         "seller_fee_basis_points": 420,
-        "image": "https://assets.pinit.io/2cB6zgGR57WZgDM31VAAyFr3BqymM2apFdtDt1RNvcuM/9f695c2d-9e00-4329-85d4-c179e85be35d/1851",
+        "image": "https://assets.pinit.io/2cB6zgGR57WZgDM31VAAyFr3BqymM2apFdtDt1RNvcuM/9f695c2d-9e00-4329-85d4-c179e85be35d/1853",
         "external_url": "",
         "attributes": [
           {
             "trait_type": "Background ",
-            "value": "Black"
+            "value": "Trippy Gray"
           },
           {
             "trait_type": "Fur",
-            "value": "White"
+            "value": "Red"
           },
           {
             "trait_type": "Mouth",
-            "value": "Bubblegum White"
+            "value": "Blue Pipe"
           },
           {
             "trait_type": "Earring",
-            "value": "None"
+            "value": "Lightning Earrings "
           },
           {
             "trait_type": "Hat",
-            "value": "Fast Food Cap"
+            "value": "Spinner Hat"
           },
           {
             "trait_type": "Eyes",
-            "value": "Heart Eyes"
+            "value": "Crazy Eyes"
           },
           {
             "trait_type": "Clothes ",
-            "value": "Sailor Shirt"
+            "value": "Cowboy Shirt"
           },
           {
             "trait_type": "Rarity Rank",
-            "value": 6188,
+            "value": 1179,
             "display_type": "number",
             "max_value": 6969
           }
@@ -59,7 +59,7 @@
         "properties": {
           "files": [
             {
-              "uri": "https://assets.pinit.io/2cB6zgGR57WZgDM31VAAyFr3BqymM2apFdtDt1RNvcuM/9f695c2d-9e00-4329-85d4-c179e85be35d/1851",
+              "uri": "https://assets.pinit.io/2cB6zgGR57WZgDM31VAAyFr3BqymM2apFdtDt1RNvcuM/9f695c2d-9e00-4329-85d4-c179e85be35d/1853",
               "type": "image/jpeg"
             }
           ],
