@@ -1,5 +1,88 @@
 [
   {
+    "txHash": "0x80139a5ca586f1672bd5cacca3e643f2dfca47523e361c51b4201eb43917311a",
+    "contractAddress": "0xc0AEDA81D6c69A09FE115D2E4B6Bb7A1Ce8d0856",
+    "tokenId": "1849",
+    "collectionName": "Quantum Ape",
+    "timestamp": 1749786532,
+    "blockNumber": 18064842,
+    "logIndex": 1,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xc0AEDA81D6c69A09FE115D2E4B6Bb7A1Ce8d08561849/64",
+    "isFree": true,
+    "totalContractMints": 1,
+    "analysis": {
+      "contractAddress": "0xc0AEDA81D6c69A09FE115D2E4B6Bb7A1Ce8d0856",
+      "metadataStatus": "ok",
+      "fetchedMetadata": {
+        "name": "Quantum Ape #1849",
+        "symbol": "QTA",
+        "description": "Is Quantum Ape #1849 dead or alive? Nobody knows... but maybe that's the magic of it.",
+        "seller_fee_basis_points": 420,
+        "image": "https://assets.pinit.io/2cB6zgGR57WZgDM31VAAyFr3BqymM2apFdtDt1RNvcuM/9f695c2d-9e00-4329-85d4-c179e85be35d/1849",
+        "external_url": "",
+        "attributes": [
+          {
+            "trait_type": "Background ",
+            "value": "Black"
+          },
+          {
+            "trait_type": "Fur",
+            "value": "Brown"
+          },
+          {
+            "trait_type": "Mouth",
+            "value": "Bamboo"
+          },
+          {
+            "trait_type": "Earring",
+            "value": "Planet Earrings"
+          },
+          {
+            "trait_type": "Hat",
+            "value": "WW2 Pilot Helmet"
+          },
+          {
+            "trait_type": "Eyes",
+            "value": "None"
+          },
+          {
+            "trait_type": "Clothes ",
+            "value": "None"
+          },
+          {
+            "trait_type": "Rarity Rank",
+            "value": 5194,
+            "display_type": "number",
+            "max_value": 6969
+          }
+        ],
+        "properties": {
+          "files": [
+            {
+              "uri": "https://assets.pinit.io/2cB6zgGR57WZgDM31VAAyFr3BqymM2apFdtDt1RNvcuM/9f695c2d-9e00-4329-85d4-c179e85be35d/1849",
+              "type": "image/jpeg"
+            }
+          ],
+          "category": "image",
+          "creators": [
+            {
+              "address": "74khYEAWrKUXBC7GLKFrJnET68atWEmiddoeGCN7TTnt",
+              "share": 100
+            }
+          ]
+        }
+      },
+      "nameSymbolStatus": "ok",
+      "collectionNameFromAnalyzer": "Quantum Ape",
+      "collectionSymbolFromAnalyzer": "QuantumApe",
+      "finalStatus": "OK",
+      "statusReasons": [
+        "Metadata fetched successfully."
+      ]
+    },
+    "displayStatus": "OK"
+  },
+  {
     "txHash": "0xe76e66d42d1b750bacfeb1a3195fe2e094ba63cc337f9dd508c027842f08308c",
     "contractAddress": "0x7178aA4FE028B5882c0FBB731225E38920851596",
     "tokenId": "4619",
