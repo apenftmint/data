@@ -2,50 +2,50 @@
   {
     "txHash": "0x3d3b801e8ebbe1f7b976613fe24e545dabbdf0c17380c6bd080c43238aab270e",
     "contractAddress": "0x2cf9B80Cf419fE031Ccf1D1Fa3Bb6987920940F7",
-    "tokenId": "3",
+    "tokenId": "4",
     "collectionName": "Bushi no Kizuna",
     "timestamp": 1749827708,
     "blockNumber": 18098747,
-    "logIndex": 2,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x2cf9B80Cf419fE031Ccf1D1Fa3Bb6987920940F73/64",
+    "logIndex": 3,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x2cf9B80Cf419fE031Ccf1D1Fa3Bb6987920940F74/64",
     "isFree": false,
     "valueWei": "5250000000000000000",
-    "totalContractMints": 2,
+    "totalContractMints": 3,
     "analysis": {
       "contractAddress": "0x2cf9B80Cf419fE031Ccf1D1Fa3Bb6987920940F7",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "Danketsu #3",
+        "name": "Danketsu #4",
         "description": "Danketsu is a lore-based Gamified Multimedia experience taking multiple blockchains and the world by storm. Each Dank was designed and illustrated by Victor Warr..",
-        "image": "https://bafybeihz5555nb3vdcteuczpsdoqizesglvqp3nvubtsqw6cyqa6h4la6i.ipfs.nftstorage.link/3.png?ext=png",
+        "image": "https://bafybeihz5555nb3vdcteuczpsdoqizesglvqp3nvubtsqw6cyqa6h4la6i.ipfs.nftstorage.link/4.png?ext=png",
         "attributes": [
           {
             "trait_type": "Background",
-            "value": "Blue"
+            "value": "Pastel Green"
           },
           {
             "trait_type": "Body",
-            "value": "Vampire"
-          },
-          {
-            "trait_type": "Hand",
-            "value": "Scimitar"
+            "value": "Tanned"
           },
           {
             "trait_type": "Mouth",
-            "value": "Outbreak"
+            "value": "Bubble Gum"
           },
           {
             "trait_type": "Eyes",
-            "value": "Buttons"
+            "value": "Happy"
           },
           {
             "trait_type": "Head",
-            "value": "Ponytail (Black)"
+            "value": "Split Fringe (Brown)"
           },
           {
             "trait_type": "Clothing",
-            "value": "Tuxedo (White)"
+            "value": "Chef Suit"
+          },
+          {
+            "trait_type": "Accessory",
+            "value": "V-Shaped Sunglasses"
           },
           {
             "trait_type": "Faction",
