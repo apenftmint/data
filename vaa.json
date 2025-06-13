@@ -1,57 +1,57 @@
 [
   {
-    "txHash": "0xf94b1ce1a759ec761104bb68a9ae6c712cc1842c06f17401bd70bb5aa0c31e51",
+    "txHash": "0x7472ceee1de401d4437664f13952b60fd82c8aceebb2c127f7d0c43b4c8c6cb1",
     "contractAddress": "0xc0AEDA81D6c69A09FE115D2E4B6Bb7A1Ce8d0856",
-    "tokenId": "1852",
+    "tokenId": "1854",
     "collectionName": "Quantum Ape",
-    "timestamp": 1749786544,
-    "blockNumber": 18064854,
-    "logIndex": 1,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xc0AEDA81D6c69A09FE115D2E4B6Bb7A1Ce8d08561852/64",
+    "timestamp": 1749786573,
+    "blockNumber": 18064884,
+    "logIndex": 0,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xc0AEDA81D6c69A09FE115D2E4B6Bb7A1Ce8d08561854/64",
     "isFree": true,
-    "totalContractMints": 6,
+    "totalContractMints": 7,
     "analysis": {
       "contractAddress": "0xc0AEDA81D6c69A09FE115D2E4B6Bb7A1Ce8d0856",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "Quantum Ape #1852",
+        "name": "Quantum Ape #1854",
         "symbol": "QTA",
-        "description": "Is Quantum Ape #1852 dead or alive? Nobody knows... but maybe that's the magic of it.",
+        "description": "Is Quantum Ape #1854 dead or alive? Nobody knows... but maybe that's the magic of it.",
         "seller_fee_basis_points": 420,
-        "image": "https://assets.pinit.io/2cB6zgGR57WZgDM31VAAyFr3BqymM2apFdtDt1RNvcuM/9f695c2d-9e00-4329-85d4-c179e85be35d/1852",
+        "image": "https://assets.pinit.io/2cB6zgGR57WZgDM31VAAyFr3BqymM2apFdtDt1RNvcuM/9f695c2d-9e00-4329-85d4-c179e85be35d/1854",
         "external_url": "",
         "attributes": [
           {
             "trait_type": "Background ",
-            "value": "Trippy Insta"
+            "value": "Splash"
           },
           {
             "trait_type": "Fur",
-            "value": "White"
+            "value": "Green"
           },
           {
             "trait_type": "Mouth",
-            "value": "Pizza"
+            "value": "Party Horn"
           },
           {
             "trait_type": "Earring",
-            "value": "Melting Heart"
-          },
-          {
-            "trait_type": "Hat",
-            "value": "Flat Cap"
-          },
-          {
-            "trait_type": "Eyes",
-            "value": "Devil Eyes"
-          },
-          {
-            "trait_type": "Clothes ",
             "value": "None"
           },
           {
+            "trait_type": "Hat",
+            "value": "Bucket Hat"
+          },
+          {
+            "trait_type": "Eyes",
+            "value": "Starry"
+          },
+          {
+            "trait_type": "Clothes ",
+            "value": "Ripped Tee"
+          },
+          {
             "trait_type": "Rarity Rank",
-            "value": 664,
+            "value": 5397,
             "display_type": "number",
             "max_value": 6969
           }
@@ -59,7 +59,7 @@
         "properties": {
           "files": [
             {
-              "uri": "https://assets.pinit.io/2cB6zgGR57WZgDM31VAAyFr3BqymM2apFdtDt1RNvcuM/9f695c2d-9e00-4329-85d4-c179e85be35d/1852",
+              "uri": "https://assets.pinit.io/2cB6zgGR57WZgDM31VAAyFr3BqymM2apFdtDt1RNvcuM/9f695c2d-9e00-4329-85d4-c179e85be35d/1854",
               "type": "image/jpeg"
             }
           ],
