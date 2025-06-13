@@ -2,23 +2,23 @@
   {
     "txHash": "0xe5a432b0289c715f683d25553fb0611b26ae87f3c729aea62968025f853666f1",
     "contractAddress": "0xc0AEDA81D6c69A09FE115D2E4B6Bb7A1Ce8d0856",
-    "tokenId": "2173",
+    "tokenId": "2174",
     "collectionName": "Quantum Ape",
     "timestamp": 1749787174,
     "blockNumber": 18065432,
-    "logIndex": 1,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xc0AEDA81D6c69A09FE115D2E4B6Bb7A1Ce8d08562173/64",
+    "logIndex": 2,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xc0AEDA81D6c69A09FE115D2E4B6Bb7A1Ce8d08562174/64",
     "isFree": true,
-    "totalContractMints": 37,
+    "totalContractMints": 38,
     "analysis": {
       "contractAddress": "0xc0AEDA81D6c69A09FE115D2E4B6Bb7A1Ce8d0856",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "Quantum Ape #2173",
+        "name": "Quantum Ape #2174",
         "symbol": "QTA",
-        "description": "Is Quantum Ape #2173 dead or alive? Nobody knows... but maybe that's the magic of it.",
+        "description": "Is Quantum Ape #2174 dead or alive? Nobody knows... but maybe that's the magic of it.",
         "seller_fee_basis_points": 420,
-        "image": "https://assets.pinit.io/2cB6zgGR57WZgDM31VAAyFr3BqymM2apFdtDt1RNvcuM/9f695c2d-9e00-4329-85d4-c179e85be35d/2173",
+        "image": "https://assets.pinit.io/2cB6zgGR57WZgDM31VAAyFr3BqymM2apFdtDt1RNvcuM/9f695c2d-9e00-4329-85d4-c179e85be35d/2174",
         "external_url": "",
         "attributes": [
           {
@@ -27,7 +27,7 @@
           },
           {
             "trait_type": "Fur",
-            "value": "Orange"
+            "value": "Red"
           },
           {
             "trait_type": "Mouth",
@@ -35,11 +35,11 @@
           },
           {
             "trait_type": "Earring",
-            "value": "Nose Ring"
+            "value": "Melting Heart"
           },
           {
             "trait_type": "Hat",
-            "value": "Army Hat"
+            "value": "Rabbit Ears"
           },
           {
             "trait_type": "Eyes",
@@ -47,11 +47,11 @@
           },
           {
             "trait_type": "Clothes ",
-            "value": "Blue Scarf"
+            "value": "Striped Tee"
           },
           {
             "trait_type": "Rarity Rank",
-            "value": 6292,
+            "value": 5428,
             "display_type": "number",
             "max_value": 6969
           }
@@ -59,7 +59,7 @@
         "properties": {
           "files": [
             {
-              "uri": "https://assets.pinit.io/2cB6zgGR57WZgDM31VAAyFr3BqymM2apFdtDt1RNvcuM/9f695c2d-9e00-4329-85d4-c179e85be35d/2173",
+              "uri": "https://assets.pinit.io/2cB6zgGR57WZgDM31VAAyFr3BqymM2apFdtDt1RNvcuM/9f695c2d-9e00-4329-85d4-c179e85be35d/2174",
               "type": "image/jpeg"
             }
           ],
