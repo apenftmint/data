@@ -1,5 +1,73 @@
 [
   {
+    "txHash": "0xe630a50b28f8cdf776b44f1ca2ee21f73765eeaa323f2f8bdb03088571ecad45",
+    "contractAddress": "0x5B61cA24966CB7E47F634Dee04499743Fc9746b6",
+    "tokenId": "1255",
+    "collectionName": "Full Gobs",
+    "timestamp": 1749827447,
+    "blockNumber": 18098452,
+    "logIndex": 0,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x5B61cA24966CB7E47F634Dee04499743Fc9746b61255/64",
+    "isFree": false,
+    "valueWei": "100000000000000000",
+    "totalContractMints": 4,
+    "analysis": {
+      "contractAddress": "0x5B61cA24966CB7E47F634Dee04499743Fc9746b6",
+      "metadataStatus": "ok",
+      "fetchedMetadata": {
+        "name": "Gobs #1255",
+        "image": "ipfs://QmejR3XrkzCs5Psc4AwhagtHCSkb18niBPQ1yvV86XegMR/1255",
+        "attributes": [
+          {
+            "trait_type": "BODY",
+            "value": "Original"
+          },
+          {
+            "trait_type": "SHOES",
+            "value": "Blue"
+          },
+          {
+            "trait_type": "CLOTHES",
+            "value": "Puffy Coat Blue"
+          },
+          {
+            "trait_type": "PANTS",
+            "value": "Purple Striped Shorts"
+          },
+          {
+            "trait_type": "BELT",
+            "value": "Aqua"
+          },
+          {
+            "trait_type": "HAT",
+            "value": "Punk-Ai"
+          },
+          {
+            "trait_type": "MOUTH",
+            "value": "Unicorn-Blood"
+          },
+          {
+            "trait_type": "EYES",
+            "value": "3d"
+          },
+          {
+            "trait_type": "OFFHAND",
+            "value": "Ax and Shield"
+          }
+        ]
+      },
+      "nameSymbolStatus": "ok",
+      "collectionNameFromAnalyzer": "Full Gobs",
+      "collectionSymbolFromAnalyzer": "FG",
+      "finalStatus": "OK",
+      "statusReasons": [
+        "Metadata fetched successfully."
+      ]
+    },
+    "displayStatus": "OK",
+    "mintPriceApe": "0.1000"
+  },
+  {
     "txHash": "0x6f5b8a7ceffd9cf01785ec5e5cf2890c5595da9037e0de0ec53378143edb56fd",
     "contractAddress": "0x7178aA4FE028B5882c0FBB731225E38920851596",
     "tokenId": "4626",
@@ -28,66 +96,6 @@
     },
     "displayStatus": "OK",
     "mintPriceApe": "1.0000"
-  },
-  {
-    "txHash": "0x04625b26a2750484ab185e044b241d47fa8072ad625723a8fd7a260ff9652038",
-    "contractAddress": "0x5B61cA24966CB7E47F634Dee04499743Fc9746b6",
-    "tokenId": "1254",
-    "collectionName": "Full Gobs",
-    "timestamp": 1749827408,
-    "blockNumber": 18098400,
-    "logIndex": 0,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x5B61cA24966CB7E47F634Dee04499743Fc9746b61254/64",
-    "isFree": false,
-    "valueWei": "100000000000000000",
-    "totalContractMints": 3,
-    "analysis": {
-      "contractAddress": "0x5B61cA24966CB7E47F634Dee04499743Fc9746b6",
-      "metadataStatus": "ok",
-      "fetchedMetadata": {
-        "name": "Gobs #1254",
-        "image": "ipfs://QmejR3XrkzCs5Psc4AwhagtHCSkb18niBPQ1yvV86XegMR/1254",
-        "attributes": [
-          {
-            "trait_type": "BODY",
-            "value": "Original"
-          },
-          {
-            "trait_type": "SHOES",
-            "value": "Shoes Ornament Black"
-          },
-          {
-            "trait_type": "CLOTHES",
-            "value": "Floral Dress Pink"
-          },
-          {
-            "trait_type": "BELT",
-            "value": "Striped Belt"
-          },
-          {
-            "trait_type": "MOUTH",
-            "value": "Regular"
-          },
-          {
-            "trait_type": "EYES",
-            "value": "Og"
-          },
-          {
-            "trait_type": "OFFHAND",
-            "value": "Dance"
-          }
-        ]
-      },
-      "nameSymbolStatus": "ok",
-      "collectionNameFromAnalyzer": "Full Gobs",
-      "collectionSymbolFromAnalyzer": "FG",
-      "finalStatus": "OK",
-      "statusReasons": [
-        "Metadata fetched successfully."
-      ]
-    },
-    "displayStatus": "OK",
-    "mintPriceApe": "0.1000"
   },
   {
     "txHash": "0x4313ae3465a3ecb1e2f7a921d84650fc243b9ebcf918c5699a762f6a101a175f",
