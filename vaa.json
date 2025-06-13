@@ -1,21 +1,21 @@
 [
   {
-    "txHash": "0xa0faf83eaaabc7a324b57124e878ba3ff1201f520163a0435517ec2eff7d3b46",
+    "txHash": "0xac776f22fe8d88a830468f7e187a8e0873cc654dad2fca76ce7b2cf192c41e18",
     "contractAddress": "0x9faDECb791fCd35a9229301819022AAF2383dF46",
-    "tokenId": "1673",
+    "tokenId": "1674",
     "collectionName": "Dawn of The Duck",
     "timestamp": 1749819608,
-    "blockNumber": 18091069,
-    "logIndex": 1,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x9faDECb791fCd35a9229301819022AAF2383dF461673/64",
+    "blockNumber": 18091070,
+    "logIndex": 0,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x9faDECb791fCd35a9229301819022AAF2383dF461674/64",
     "isFree": false,
     "valueWei": "22000000000000000000",
-    "totalContractMints": 9,
+    "totalContractMints": 10,
     "analysis": {
       "contractAddress": "0x9faDECb791fCd35a9229301819022AAF2383dF46",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "1673",
+        "name": "1674",
         "image": "ipfs://bafybeiaw7g7rc2sxtxmwwdir3llz6who3pu5yyraq2lzzvzj7c4g4hwd5y",
         "attributes": [
           {
