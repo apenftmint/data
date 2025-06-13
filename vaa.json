@@ -2,20 +2,20 @@
   {
     "txHash": "0x96f3ae755e718d7441654976a2f906c960d95b70a06f4200f820c77ddde864c4",
     "contractAddress": "0xED10CD2183de930C70c812D237D5Ee763A9BBC52",
-    "tokenId": "36",
+    "tokenId": "37",
     "collectionName": "Mutant Records Royalty Free Music Pass",
     "timestamp": 1749827523,
     "blockNumber": 18098538,
-    "logIndex": 0,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xED10CD2183de930C70c812D237D5Ee763A9BBC5236/64",
+    "logIndex": 1,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xED10CD2183de930C70c812D237D5Ee763A9BBC5237/64",
     "isFree": false,
     "valueWei": "138100000000000000000",
-    "totalContractMints": 1,
+    "totalContractMints": 2,
     "analysis": {
       "contractAddress": "0xED10CD2183de930C70c812D237D5Ee763A9BBC52",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "Mutant Records Royalty Free Music Pass #36",
+        "name": "Mutant Records Royalty Free Music Pass #37",
         "animation_url": "ipfs://bafybeicdfwsyzol35ovv2tpzjdko4izk2gik5sexj7r46v4oq7fzah5mqu/?n2m=nft.webm",
         "image": "ipfs://bafybeidmhxun5qfc3zp2ta6bxgim3dxrg5aiwr5y4sr4b2puysfogqb5ay"
       },
