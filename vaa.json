@@ -36,22 +36,22 @@
     "mintPriceApe": "11.0000"
   },
   {
-    "txHash": "0xd55534d1666e551576f392e6970a4128d84d2a87f85e388251b96257a1520bc4",
+    "txHash": "0x9add2d8d17474104761be3f0c45487387eea56d1c0e62e54ddeab5d54fb54bf3",
     "contractAddress": "0x62dcA65AcEA356bC00b8979AB9A8c636748e7c51",
-    "tokenId": "56",
+    "tokenId": "59",
     "collectionName": "XShogun",
     "timestamp": 1749826793,
-    "blockNumber": 18097796,
-    "logIndex": 18,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x62dcA65AcEA356bC00b8979AB9A8c636748e7c5156/64",
+    "blockNumber": 18097799,
+    "logIndex": 0,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x62dcA65AcEA356bC00b8979AB9A8c636748e7c5159/64",
     "isFree": false,
-    "valueWei": "2000000000000000000",
-    "totalContractMints": 39,
+    "valueWei": "200000000000000000",
+    "totalContractMints": 40,
     "analysis": {
       "contractAddress": "0x62dcA65AcEA356bC00b8979AB9A8c636748e7c51",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "XShogun #56",
+        "name": "XShogun #59",
         "description": "Introducing \"XShogun\", an NFT art series blending Hokusai-inspired Ukiyo-e with mechanical robotic animals like owls and foxes. Set against Mount Fuji, waves, and cherry blossoms, each unique token fuses ancient artistry with futuristic tech, narrating a harmony of nature and machine. A limited collection for collectors, this series bridges past and future on the blockchain. Join the digital legacy!",
         "attributes": [
           {
@@ -67,7 +67,7 @@
             "value": "2"
           }
         ],
-        "image": "ipfs://bafybeiecrvba3ozxmyi4oc4kwlhmxtazwrthjios37n7gustas74efl7ku/56.webp",
+        "image": "ipfs://bafybeiecrvba3ozxmyi4oc4kwlhmxtazwrthjios37n7gustas74efl7ku/59.webp",
         "compiler": "nfts2me.com"
       },
       "nameSymbolStatus": "ok",
@@ -79,7 +79,7 @@
       ]
     },
     "displayStatus": "OK",
-    "mintPriceApe": "2.0000"
+    "mintPriceApe": "0.2000"
   },
   {
     "txHash": "0x96f881cd72deca38a10148b9906207cb84d2aa86479597271eb8ead53393f793",
