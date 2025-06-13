@@ -2,46 +2,46 @@
   {
     "txHash": "0xfcfac7ba5bbc61d81146b499ee6f70f9e7381a80c187bb3633d9438397188e39",
     "contractAddress": "0x2cf9B80Cf419fE031Ccf1D1Fa3Bb6987920940F7",
-    "tokenId": "107",
+    "tokenId": "110",
     "collectionName": "Bushi no Kizuna",
     "timestamp": 1749827809,
     "blockNumber": 18098865,
-    "logIndex": 22,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x2cf9B80Cf419fE031Ccf1D1Fa3Bb6987920940F7107/64",
+    "logIndex": 25,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x2cf9B80Cf419fE031Ccf1D1Fa3Bb6987920940F7110/64",
     "isFree": false,
     "valueWei": "5250000000000000000",
-    "totalContractMints": 15,
+    "totalContractMints": 16,
     "analysis": {
       "contractAddress": "0x2cf9B80Cf419fE031Ccf1D1Fa3Bb6987920940F7",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "Danketsu #107",
+        "name": "Danketsu #110",
         "description": "Danketsu is a lore-based Gamified Multimedia experience taking multiple blockchains and the world by storm. Each Dank was designed and illustrated by Victor Warr..",
-        "image": "https://bafybeiaqqakqivdw3fbvko46blibgtvxukvtbcw22zdrp7d3wzockenka4.ipfs.nftstorage.link/107.png?ext=png",
+        "image": "https://bafybeiaqqakqivdw3fbvko46blibgtvxukvtbcw22zdrp7d3wzockenka4.ipfs.nftstorage.link/110.png?ext=png",
         "attributes": [
           {
             "trait_type": "Background",
-            "value": "Blue"
+            "value": "Lime"
           },
           {
             "trait_type": "Body",
-            "value": "Ape (Blue)"
+            "value": "Chocolate"
           },
           {
             "trait_type": "Mouth",
-            "value": "Grit"
+            "value": "Kunai"
           },
           {
             "trait_type": "Eyes",
-            "value": "Ape"
+            "value": "Demon"
           },
           {
             "trait_type": "Head",
-            "value": "Ape"
+            "value": "Bandana and Dreads (Brown)"
           },
           {
-            "trait_type": "Accessory",
-            "value": "Oni Mask (Red)"
+            "trait_type": "Clothing",
+            "value": "Tee (Black and Yellow)"
           },
           {
             "trait_type": "Faction",
