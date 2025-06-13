@@ -2,56 +2,56 @@
   {
     "txHash": "0x10d9618e8c0463f971560639d083f555e11e21a768f094e3b42ca0a6bc0f28d5",
     "contractAddress": "0xc0AEDA81D6c69A09FE115D2E4B6Bb7A1Ce8d0856",
-    "tokenId": "1863",
+    "tokenId": "1864",
     "collectionName": "Quantum Ape",
     "timestamp": 1749786597,
     "blockNumber": 18064907,
-    "logIndex": 0,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xc0AEDA81D6c69A09FE115D2E4B6Bb7A1Ce8d08561863/64",
+    "logIndex": 1,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xc0AEDA81D6c69A09FE115D2E4B6Bb7A1Ce8d08561864/64",
     "isFree": true,
-    "totalContractMints": 15,
+    "totalContractMints": 16,
     "analysis": {
       "contractAddress": "0xc0AEDA81D6c69A09FE115D2E4B6Bb7A1Ce8d0856",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "Quantum Ape #1863",
+        "name": "Quantum Ape #1864",
         "symbol": "QTA",
-        "description": "Is Quantum Ape #1863 dead or alive? Nobody knows... but maybe that's the magic of it.",
+        "description": "Is Quantum Ape #1864 dead or alive? Nobody knows... but maybe that's the magic of it.",
         "seller_fee_basis_points": 420,
-        "image": "https://assets.pinit.io/2cB6zgGR57WZgDM31VAAyFr3BqymM2apFdtDt1RNvcuM/9f695c2d-9e00-4329-85d4-c179e85be35d/1863",
+        "image": "https://assets.pinit.io/2cB6zgGR57WZgDM31VAAyFr3BqymM2apFdtDt1RNvcuM/9f695c2d-9e00-4329-85d4-c179e85be35d/1864",
         "external_url": "",
         "attributes": [
           {
             "trait_type": "Background ",
-            "value": "Starlight"
+            "value": "Splash"
           },
           {
             "trait_type": "Fur",
-            "value": "Grey"
+            "value": "Purple"
           },
           {
             "trait_type": "Mouth",
-            "value": "Blue Pipe"
+            "value": "Big Smile"
           },
           {
             "trait_type": "Earring",
-            "value": "None"
+            "value": "Nose Ring"
           },
           {
             "trait_type": "Hat",
-            "value": "Fast Food Cap"
+            "value": "None 3"
           },
           {
             "trait_type": "Eyes",
-            "value": "Yellow Lightning "
+            "value": "Devil Eyes"
           },
           {
             "trait_type": "Clothes ",
-            "value": "Smoking Jacket"
+            "value": "Bone Necklace"
           },
           {
             "trait_type": "Rarity Rank",
-            "value": 610,
+            "value": 5255,
             "display_type": "number",
             "max_value": 6969
           }
@@ -59,7 +59,7 @@
         "properties": {
           "files": [
             {
-              "uri": "https://assets.pinit.io/2cB6zgGR57WZgDM31VAAyFr3BqymM2apFdtDt1RNvcuM/9f695c2d-9e00-4329-85d4-c179e85be35d/1863",
+              "uri": "https://assets.pinit.io/2cB6zgGR57WZgDM31VAAyFr3BqymM2apFdtDt1RNvcuM/9f695c2d-9e00-4329-85d4-c179e85be35d/1864",
               "type": "image/jpeg"
             }
           ],
