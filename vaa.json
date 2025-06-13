@@ -2,49 +2,53 @@
   {
     "txHash": "0x57a8649740acf2e72cb34c5c4ce03bc6469cccff95161aece78e74d83116589c",
     "contractAddress": "0x2cf9B80Cf419fE031Ccf1D1Fa3Bb6987920940F7",
-    "tokenId": "23",
+    "tokenId": "99",
     "collectionName": "Bushi no Kizuna",
     "timestamp": 1749827729,
     "blockNumber": 18098777,
-    "logIndex": 17,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x2cf9B80Cf419fE031Ccf1D1Fa3Bb6987920940F723/64",
+    "logIndex": 93,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x2cf9B80Cf419fE031Ccf1D1Fa3Bb6987920940F799/64",
     "isFree": true,
-    "totalContractMints": 11,
+    "totalContractMints": 12,
     "analysis": {
       "contractAddress": "0x2cf9B80Cf419fE031Ccf1D1Fa3Bb6987920940F7",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "Danketsu #23",
+        "name": "Danketsu #99",
         "description": "Danketsu is a lore-based Gamified Multimedia experience taking multiple blockchains and the world by storm. Each Dank was designed and illustrated by Victor Warr..",
-        "image": "https://bafybeihz5555nb3vdcteuczpsdoqizesglvqp3nvubtsqw6cyqa6h4la6i.ipfs.nftstorage.link/23.png?ext=png",
+        "image": "https://bafybeiaqqakqivdw3fbvko46blibgtvxukvtbcw22zdrp7d3wzockenka4.ipfs.nftstorage.link/99.png?ext=png",
         "attributes": [
           {
             "trait_type": "Background",
-            "value": "Charcoal"
+            "value": "Pastel Green"
           },
           {
             "trait_type": "Body",
-            "value": "Porcelain"
+            "value": "Tanned"
           },
           {
             "trait_type": "Mouth",
-            "value": "Eye Eater"
+            "value": "Hmm"
           },
           {
             "trait_type": "Eyes",
-            "value": "Agitated"
+            "value": "Happy"
           },
           {
             "trait_type": "Head",
-            "value": "Horns (Red)"
+            "value": "Bandana and Dreads (Green)"
           },
           {
             "trait_type": "Clothing",
-            "value": "Plain Hoodie (White)"
+            "value": "T-Shirt (Wormhole Print, Black)"
+          },
+          {
+            "trait_type": "Accessory",
+            "value": "Evil Grin Mask"
           },
           {
             "trait_type": "Faction",
-            "value": "The Courageous"
+            "value": "The Ferocious"
           }
         ]
       },
