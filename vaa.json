@@ -1,26 +1,26 @@
 [
   {
-    "txHash": "0x9d303ab69f7c60b16a63ca0c79c0d389f4c0c2be153a04d537d7a9a61b558274",
+    "txHash": "0x56f182b88be80818ebfd2b6f85b5511a8263b002d85b490b617771f0c3ec3622",
     "contractAddress": "0x62dcA65AcEA356bC00b8979AB9A8c636748e7c51",
-    "tokenId": "88",
+    "tokenId": "49",
     "collectionName": "XShogun",
-    "timestamp": 1749826654,
-    "blockNumber": 18097687,
-    "logIndex": 3,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x62dcA65AcEA356bC00b8979AB9A8c636748e7c5192/64",
+    "timestamp": 1749826659,
+    "blockNumber": 18097696,
+    "logIndex": 0,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x62dcA65AcEA356bC00b8979AB9A8c636748e7c5149/64",
     "isFree": false,
-    "valueWei": "1000000000000000000",
-    "totalContractMints": 27,
+    "valueWei": "100000000000000000",
+    "totalContractMints": 28,
     "analysis": {
       "contractAddress": "0x62dcA65AcEA356bC00b8979AB9A8c636748e7c51",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "XShogun #92",
+        "name": "XShogun #49",
         "description": "Introducing \"XShogun\", an NFT art series blending Hokusai-inspired Ukiyo-e with mechanical robotic animals like owls and foxes. Set against Mount Fuji, waves, and cherry blossoms, each unique token fuses ancient artistry with futuristic tech, narrating a harmony of nature and machine. A limited collection for collectors, this series bridges past and future on the blockchain. Join the digital legacy!",
         "attributes": [
           {
             "trait_type": "Level",
-            "value": "Striker"
+            "value": "Scout"
           },
           {
             "trait_type": "Genome",
@@ -31,7 +31,7 @@
             "value": "2"
           }
         ],
-        "image": "ipfs://bafybeiecrvba3ozxmyi4oc4kwlhmxtazwrthjios37n7gustas74efl7ku/92.webp",
+        "image": "ipfs://bafybeiecrvba3ozxmyi4oc4kwlhmxtazwrthjios37n7gustas74efl7ku/49.webp",
         "compiler": "nfts2me.com"
       },
       "nameSymbolStatus": "ok",
@@ -43,7 +43,7 @@
       ]
     },
     "displayStatus": "OK",
-    "mintPriceApe": "1.0000"
+    "mintPriceApe": "0.1000"
   },
   {
     "txHash": "0x6e74a79256aba19b662847ff0f3d62fe32cc1850f6810b77d40da6d4252b4b32",
