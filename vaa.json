@@ -2,64 +2,68 @@
   {
     "txHash": "0xf8734fdcb0495f2c175120f494637dd1f00a1f7abc26244e6d269f287c7b447a",
     "contractAddress": "0xF054C94269b4946568244706b981b62E258059c8",
-    "tokenId": "2393",
+    "tokenId": "2391",
     "collectionName": "NEXA",
     "timestamp": 1749819827,
     "blockNumber": 18091365,
-    "logIndex": 3,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xF054C94269b4946568244706b981b62E258059c82393/64",
+    "logIndex": 1,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xF054C94269b4946568244706b981b62E258059c82391/64",
     "isFree": false,
     "valueWei": "3800000000000000000",
-    "totalContractMints": 8,
+    "totalContractMints": 9,
     "analysis": {
       "contractAddress": "0xF054C94269b4946568244706b981b62E258059c8",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "NEXA #2393",
+        "name": "NEXA #2391",
         "description": "3,333 Nexa 3D PFPs on Apechain. Built for war. Deployed for silence.",
         "attributes": [
           {
             "trait_type": "Accessories",
-            "value": "Crux Acc"
+            "value": "Glutton Acc"
           },
           {
             "trait_type": "Type",
-            "value": "Aetherion"
+            "value": "Veltrax"
           },
           {
             "trait_type": "Chest",
-            "value": "Primal"
+            "value": "Crimson"
           },
           {
             "trait_type": "Color",
-            "value": "Synthmoss"
+            "value": "Purple"
           },
           {
             "trait_type": "Eyes",
-            "value": "Opticron"
+            "value": "Warflare"
           },
           {
             "trait_type": "Helmet",
-            "value": "Aegis"
+            "value": "Stinger"
           },
           {
             "trait_type": "Jaws",
-            "value": "Nemesis"
+            "value": "Trixie"
           },
           {
             "trait_type": "Mask",
-            "value": "Infernix"
+            "value": "Ethan"
           },
           {
             "trait_type": "Shoulder",
-            "value": "Fortress"
+            "value": "Amice"
+          },
+          {
+            "trait_type": "Weapon",
+            "value": "Gatlinggun"
           },
           {
             "trait_type": "Trait Count",
-            "value": "9"
+            "value": "10"
           }
         ],
-        "image": "ipfs://bafybeih2al4jfyneji4n57l5w7ebifzydkr72j7nobdk422y7pm7acwclu/2393.webp",
+        "image": "ipfs://bafybeih2al4jfyneji4n57l5w7ebifzydkr72j7nobdk422y7pm7acwclu/2391.webp",
         "compiler": "nfts2me.com"
       },
       "nameSymbolStatus": "ok",
