@@ -1,5 +1,88 @@
 [
   {
+    "txHash": "0xe9f023be7fd2bdd41867c47410e9d298fa02d2e5f8df6442104b9686e7208f27",
+    "contractAddress": "0xc0AEDA81D6c69A09FE115D2E4B6Bb7A1Ce8d0856",
+    "tokenId": "1872",
+    "collectionName": "Quantum Ape",
+    "timestamp": 1749786609,
+    "blockNumber": 18064923,
+    "logIndex": 0,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xc0AEDA81D6c69A09FE115D2E4B6Bb7A1Ce8d08561872/64",
+    "isFree": true,
+    "totalContractMints": 20,
+    "analysis": {
+      "contractAddress": "0xc0AEDA81D6c69A09FE115D2E4B6Bb7A1Ce8d0856",
+      "metadataStatus": "ok",
+      "fetchedMetadata": {
+        "name": "Quantum Ape #1872",
+        "symbol": "QTA",
+        "description": "Is Quantum Ape #1872 dead or alive? Nobody knows... but maybe that's the magic of it.",
+        "seller_fee_basis_points": 420,
+        "image": "https://assets.pinit.io/2cB6zgGR57WZgDM31VAAyFr3BqymM2apFdtDt1RNvcuM/9f695c2d-9e00-4329-85d4-c179e85be35d/1872",
+        "external_url": "",
+        "attributes": [
+          {
+            "trait_type": "Background ",
+            "value": "Black"
+          },
+          {
+            "trait_type": "Fur",
+            "value": "Dots"
+          },
+          {
+            "trait_type": "Mouth",
+            "value": "Kissing Lips"
+          },
+          {
+            "trait_type": "Earring",
+            "value": "Melting Heart"
+          },
+          {
+            "trait_type": "Hat",
+            "value": "Painter Hat"
+          },
+          {
+            "trait_type": "Eyes",
+            "value": "None"
+          },
+          {
+            "trait_type": "Clothes ",
+            "value": "Red Scarf"
+          },
+          {
+            "trait_type": "Rarity Rank",
+            "value": 3963,
+            "display_type": "number",
+            "max_value": 6969
+          }
+        ],
+        "properties": {
+          "files": [
+            {
+              "uri": "https://assets.pinit.io/2cB6zgGR57WZgDM31VAAyFr3BqymM2apFdtDt1RNvcuM/9f695c2d-9e00-4329-85d4-c179e85be35d/1872",
+              "type": "image/jpeg"
+            }
+          ],
+          "category": "image",
+          "creators": [
+            {
+              "address": "74khYEAWrKUXBC7GLKFrJnET68atWEmiddoeGCN7TTnt",
+              "share": 100
+            }
+          ]
+        }
+      },
+      "nameSymbolStatus": "ok",
+      "collectionNameFromAnalyzer": "Quantum Ape",
+      "collectionSymbolFromAnalyzer": "QuantumApe",
+      "finalStatus": "OK",
+      "statusReasons": [
+        "Metadata fetched successfully."
+      ]
+    },
+    "displayStatus": "OK"
+  },
+  {
     "txHash": "0x948e469fd22890621f6b979dd31aeb22576ec191cf07f0051cb48221e382acd0",
     "contractAddress": "0x2805fF79E623b9ca2FAa111635C04010B1839036",
     "tokenId": "412",
@@ -29,89 +112,6 @@
     },
     "displayStatus": "OK",
     "mintPriceApe": "22.0500"
-  },
-  {
-    "txHash": "0x8aaa95dd0dca7323a07a7225ea87202d2c3bcd403abdae5b323a7df72bf62434",
-    "contractAddress": "0xc0AEDA81D6c69A09FE115D2E4B6Bb7A1Ce8d0856",
-    "tokenId": "1871",
-    "collectionName": "Quantum Ape",
-    "timestamp": 1749786603,
-    "blockNumber": 18064915,
-    "logIndex": 2,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xc0AEDA81D6c69A09FE115D2E4B6Bb7A1Ce8d08561871/64",
-    "isFree": true,
-    "totalContractMints": 19,
-    "analysis": {
-      "contractAddress": "0xc0AEDA81D6c69A09FE115D2E4B6Bb7A1Ce8d0856",
-      "metadataStatus": "ok",
-      "fetchedMetadata": {
-        "name": "Quantum Ape #1871",
-        "symbol": "QTA",
-        "description": "Is Quantum Ape #1871 dead or alive? Nobody knows... but maybe that's the magic of it.",
-        "seller_fee_basis_points": 420,
-        "image": "https://assets.pinit.io/2cB6zgGR57WZgDM31VAAyFr3BqymM2apFdtDt1RNvcuM/9f695c2d-9e00-4329-85d4-c179e85be35d/1871",
-        "external_url": "",
-        "attributes": [
-          {
-            "trait_type": "Background ",
-            "value": "Trippy Gray"
-          },
-          {
-            "trait_type": "Fur",
-            "value": "Deep Purple"
-          },
-          {
-            "trait_type": "Mouth",
-            "value": "Ice Lolly"
-          },
-          {
-            "trait_type": "Earring",
-            "value": "Melting Heart"
-          },
-          {
-            "trait_type": "Hat",
-            "value": "Seaman‘s Hat"
-          },
-          {
-            "trait_type": "Eyes",
-            "value": "Heart Eyes"
-          },
-          {
-            "trait_type": "Clothes ",
-            "value": "Red Scarf"
-          },
-          {
-            "trait_type": "Rarity Rank",
-            "value": 1396,
-            "display_type": "number",
-            "max_value": 6969
-          }
-        ],
-        "properties": {
-          "files": [
-            {
-              "uri": "https://assets.pinit.io/2cB6zgGR57WZgDM31VAAyFr3BqymM2apFdtDt1RNvcuM/9f695c2d-9e00-4329-85d4-c179e85be35d/1871",
-              "type": "image/jpeg"
-            }
-          ],
-          "category": "image",
-          "creators": [
-            {
-              "address": "74khYEAWrKUXBC7GLKFrJnET68atWEmiddoeGCN7TTnt",
-              "share": 100
-            }
-          ]
-        }
-      },
-      "nameSymbolStatus": "ok",
-      "collectionNameFromAnalyzer": "Quantum Ape",
-      "collectionSymbolFromAnalyzer": "QuantumApe",
-      "finalStatus": "OK",
-      "statusReasons": [
-        "Metadata fetched successfully."
-      ]
-    },
-    "displayStatus": "OK"
   },
   {
     "txHash": "0xe76e66d42d1b750bacfeb1a3195fe2e094ba63cc337f9dd508c027842f08308c",
