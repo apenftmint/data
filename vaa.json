@@ -2,21 +2,21 @@
   {
     "txHash": "0x57a8649740acf2e72cb34c5c4ce03bc6469cccff95161aece78e74d83116589c",
     "contractAddress": "0x2cf9B80Cf419fE031Ccf1D1Fa3Bb6987920940F7",
-    "tokenId": "99",
+    "tokenId": "67",
     "collectionName": "Bushi no Kizuna",
     "timestamp": 1749827729,
     "blockNumber": 18098777,
-    "logIndex": 93,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x2cf9B80Cf419fE031Ccf1D1Fa3Bb6987920940F799/64",
+    "logIndex": 61,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x2cf9B80Cf419fE031Ccf1D1Fa3Bb6987920940F767/64",
     "isFree": true,
-    "totalContractMints": 12,
+    "totalContractMints": 13,
     "analysis": {
       "contractAddress": "0x2cf9B80Cf419fE031Ccf1D1Fa3Bb6987920940F7",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "Danketsu #99",
+        "name": "Danketsu #67",
         "description": "Danketsu is a lore-based Gamified Multimedia experience taking multiple blockchains and the world by storm. Each Dank was designed and illustrated by Victor Warr..",
-        "image": "https://bafybeiaqqakqivdw3fbvko46blibgtvxukvtbcw22zdrp7d3wzockenka4.ipfs.nftstorage.link/99.png?ext=png",
+        "image": "https://bafybeibwnnw7wevype75xbs32ptqhsc6vsbj5ukr2jgtswlkr35qj77m5m.ipfs.nftstorage.link/67.png?ext=png",
         "attributes": [
           {
             "trait_type": "Background",
@@ -27,28 +27,28 @@
             "value": "Tanned"
           },
           {
+            "trait_type": "Hand",
+            "value": "Scimitar"
+          },
+          {
             "trait_type": "Mouth",
-            "value": "Hmm"
+            "value": "Smile"
           },
           {
             "trait_type": "Eyes",
-            "value": "Happy"
+            "value": "Inspecting"
           },
           {
             "trait_type": "Head",
-            "value": "Bandana and Dreads (Green)"
+            "value": "Undercut Side Fringe (Green)"
           },
           {
             "trait_type": "Clothing",
-            "value": "T-Shirt (Wormhole Print, Black)"
-          },
-          {
-            "trait_type": "Accessory",
-            "value": "Evil Grin Mask"
+            "value": "Sweatshirt and Headphones (Purple)"
           },
           {
             "trait_type": "Faction",
-            "value": "The Ferocious"
+            "value": "The Eternal"
           }
         ]
       },
