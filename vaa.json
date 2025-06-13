@@ -1,5 +1,51 @@
 [
   {
+    "txHash": "0x23af15b7b387aaef02af777b26331774a363242e0fa8ed4493dfd131b49a413b",
+    "contractAddress": "0x62dcA65AcEA356bC00b8979AB9A8c636748e7c51",
+    "tokenId": "28",
+    "collectionName": "XShogun",
+    "timestamp": 1749826601,
+    "blockNumber": 18097635,
+    "logIndex": 0,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x62dcA65AcEA356bC00b8979AB9A8c636748e7c5128/64",
+    "isFree": false,
+    "valueWei": "100000000000000000",
+    "totalContractMints": 20,
+    "analysis": {
+      "contractAddress": "0x62dcA65AcEA356bC00b8979AB9A8c636748e7c51",
+      "metadataStatus": "ok",
+      "fetchedMetadata": {
+        "name": "XShogun #28",
+        "description": "Introducing \"XShogun\", an NFT art series blending Hokusai-inspired Ukiyo-e with mechanical robotic animals like owls and foxes. Set against Mount Fuji, waves, and cherry blossoms, each unique token fuses ancient artistry with futuristic tech, narrating a harmony of nature and machine. A limited collection for collectors, this series bridges past and future on the blockchain. Join the digital legacy!",
+        "attributes": [
+          {
+            "trait_type": "Level",
+            "value": "Sorcerer"
+          },
+          {
+            "trait_type": "Genome",
+            "value": "X-Legacy"
+          },
+          {
+            "trait_type": "Trait Count",
+            "value": "2"
+          }
+        ],
+        "image": "ipfs://bafybeiecrvba3ozxmyi4oc4kwlhmxtazwrthjios37n7gustas74efl7ku/28.webp",
+        "compiler": "nfts2me.com"
+      },
+      "nameSymbolStatus": "ok",
+      "collectionNameFromAnalyzer": "XShogun",
+      "collectionSymbolFromAnalyzer": "XSG",
+      "finalStatus": "OK",
+      "statusReasons": [
+        "Metadata fetched successfully."
+      ]
+    },
+    "displayStatus": "OK",
+    "mintPriceApe": "0.1000"
+  },
+  {
     "txHash": "0x6e74a79256aba19b662847ff0f3d62fe32cc1850f6810b77d40da6d4252b4b32",
     "contractAddress": "0x9faDECb791fCd35a9229301819022AAF2383dF46",
     "tokenId": "2534",
@@ -34,52 +80,6 @@
     },
     "displayStatus": "OK",
     "mintPriceApe": "110.0000"
-  },
-  {
-    "txHash": "0x45eaecefa76b6da4880c6d7612354f722cc743e756a47c53b6c12dffc05f184c",
-    "contractAddress": "0x62dcA65AcEA356bC00b8979AB9A8c636748e7c51",
-    "tokenId": "3",
-    "collectionName": "XShogun",
-    "timestamp": 1749826534,
-    "blockNumber": 18097550,
-    "logIndex": 0,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x62dcA65AcEA356bC00b8979AB9A8c636748e7c513/64",
-    "isFree": false,
-    "valueWei": "100000000000000000",
-    "totalContractMints": 19,
-    "analysis": {
-      "contractAddress": "0x62dcA65AcEA356bC00b8979AB9A8c636748e7c51",
-      "metadataStatus": "ok",
-      "fetchedMetadata": {
-        "name": "XShogun #3",
-        "description": "Introducing \"XShogun\", an NFT art series blending Hokusai-inspired Ukiyo-e with mechanical robotic animals like owls and foxes. Set against Mount Fuji, waves, and cherry blossoms, each unique token fuses ancient artistry with futuristic tech, narrating a harmony of nature and machine. A limited collection for collectors, this series bridges past and future on the blockchain. Join the digital legacy!",
-        "attributes": [
-          {
-            "trait_type": "Level",
-            "value": "Captain"
-          },
-          {
-            "trait_type": "Genome",
-            "value": "X-Legacy"
-          },
-          {
-            "trait_type": "Trait Count",
-            "value": "2"
-          }
-        ],
-        "image": "ipfs://bafybeiecrvba3ozxmyi4oc4kwlhmxtazwrthjios37n7gustas74efl7ku/3.webp",
-        "compiler": "nfts2me.com"
-      },
-      "nameSymbolStatus": "ok",
-      "collectionNameFromAnalyzer": "XShogun",
-      "collectionSymbolFromAnalyzer": "XSG",
-      "finalStatus": "OK",
-      "statusReasons": [
-        "Metadata fetched successfully."
-      ]
-    },
-    "displayStatus": "OK",
-    "mintPriceApe": "0.1000"
   },
   {
     "txHash": "0x78e899a09774496628921263e06757da6688fe994f9742ebbed8fbb8c8a535bc",
