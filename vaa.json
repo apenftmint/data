@@ -1,5 +1,83 @@
 [
   {
+    "txHash": "0xf8734fdcb0495f2c175120f494637dd1f00a1f7abc26244e6d269f287c7b447a",
+    "contractAddress": "0xF054C94269b4946568244706b981b62E258059c8",
+    "tokenId": "2390",
+    "collectionName": "NEXA",
+    "timestamp": 1749819827,
+    "blockNumber": 18091365,
+    "logIndex": 0,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xF054C94269b4946568244706b981b62E258059c82390/64",
+    "isFree": false,
+    "valueWei": "3800000000000000000",
+    "totalContractMints": 3,
+    "analysis": {
+      "contractAddress": "0xF054C94269b4946568244706b981b62E258059c8",
+      "metadataStatus": "ok",
+      "fetchedMetadata": {
+        "name": "NEXA #2390",
+        "description": "3,333 Nexa 3D PFPs on Apechain. Built for war. Deployed for silence.",
+        "attributes": [
+          {
+            "trait_type": "Accessories",
+            "value": "Elder Acc"
+          },
+          {
+            "trait_type": "Type",
+            "value": "Oblivix"
+          },
+          {
+            "trait_type": "Chest",
+            "value": "Warbringer"
+          },
+          {
+            "trait_type": "Color",
+            "value": "Pink"
+          },
+          {
+            "trait_type": "Eyes",
+            "value": "Singularity"
+          },
+          {
+            "trait_type": "Helmet",
+            "value": "Ripper"
+          },
+          {
+            "trait_type": "Jaws",
+            "value": "Wasteros"
+          },
+          {
+            "trait_type": "Mask",
+            "value": "Boxter"
+          },
+          {
+            "trait_type": "Shoulder",
+            "value": "Tempest"
+          },
+          {
+            "trait_type": "Weapon",
+            "value": "Multi GlacierX"
+          },
+          {
+            "trait_type": "Trait Count",
+            "value": "10"
+          }
+        ],
+        "image": "ipfs://bafybeih2al4jfyneji4n57l5w7ebifzydkr72j7nobdk422y7pm7acwclu/2390.webp",
+        "compiler": "nfts2me.com"
+      },
+      "nameSymbolStatus": "ok",
+      "collectionNameFromAnalyzer": "NEXA",
+      "collectionSymbolFromAnalyzer": "NEXA",
+      "finalStatus": "OK",
+      "statusReasons": [
+        "Metadata fetched successfully."
+      ]
+    },
+    "displayStatus": "OK",
+    "mintPriceApe": "3.8000"
+  },
+  {
     "txHash": "0xeaa5c9bb506b4d7e93245d32085fafdecdce2a1b046a5ecababa6def93ae17d6",
     "contractAddress": "0x9faDECb791fCd35a9229301819022AAF2383dF46",
     "tokenId": "1844",
@@ -246,84 +324,6 @@
       ]
     },
     "displayStatus": "OK"
-  },
-  {
-    "txHash": "0xfe299076914432248ba298ee00eb8c2a823d20ea6b81ff601c5b49815f18b960",
-    "contractAddress": "0xF054C94269b4946568244706b981b62E258059c8",
-    "tokenId": "2184",
-    "collectionName": "NEXA",
-    "timestamp": 1749750364,
-    "blockNumber": 18036409,
-    "logIndex": 0,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xF054C94269b4946568244706b981b62E258059c82184/64",
-    "isFree": false,
-    "valueWei": "380000000000000000",
-    "totalContractMints": 2,
-    "analysis": {
-      "contractAddress": "0xF054C94269b4946568244706b981b62E258059c8",
-      "metadataStatus": "ok",
-      "fetchedMetadata": {
-        "name": "NEXA #2184",
-        "description": "3,333 Nexa 3D PFPs on Apechain. Built for war. Deployed for silence.",
-        "attributes": [
-          {
-            "trait_type": "Accessories",
-            "value": "Stinger Acc"
-          },
-          {
-            "trait_type": "Type",
-            "value": "Veltrax"
-          },
-          {
-            "trait_type": "Chest",
-            "value": "Crimson"
-          },
-          {
-            "trait_type": "Color",
-            "value": "Purple"
-          },
-          {
-            "trait_type": "Eyes",
-            "value": "Warflare"
-          },
-          {
-            "trait_type": "Helmet",
-            "value": "Stinger"
-          },
-          {
-            "trait_type": "Jaws",
-            "value": "Pandora"
-          },
-          {
-            "trait_type": "Mask",
-            "value": "Mactor"
-          },
-          {
-            "trait_type": "Shoulder",
-            "value": "Convoker"
-          },
-          {
-            "trait_type": "Weapon",
-            "value": "Multi GlacierX"
-          },
-          {
-            "trait_type": "Trait Count",
-            "value": "10"
-          }
-        ],
-        "image": "ipfs://bafybeih2al4jfyneji4n57l5w7ebifzydkr72j7nobdk422y7pm7acwclu/2184.webp",
-        "compiler": "nfts2me.com"
-      },
-      "nameSymbolStatus": "ok",
-      "collectionNameFromAnalyzer": "NEXA",
-      "collectionSymbolFromAnalyzer": "NEXA",
-      "finalStatus": "OK",
-      "statusReasons": [
-        "Metadata fetched successfully."
-      ]
-    },
-    "displayStatus": "OK",
-    "mintPriceApe": "0.3800"
   },
   {
     "txHash": "0x6ce3b513b1fbc5dcc20ba0f24ecb6e434883f8d63f87b653f2c3c53eec2abcec",
