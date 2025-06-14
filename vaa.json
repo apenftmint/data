@@ -2,56 +2,52 @@
   {
     "txHash": "0xe74163831492f499af0623aec24433b7881246b7a1992c00c2b1c58c86d4c775",
     "contractAddress": "0x58219061B6a2D1147b09B7b2e3a5B62a4eAaD31a",
-    "tokenId": "250",
+    "tokenId": "260",
     "collectionName": "Peppie",
     "timestamp": 1749906059,
     "blockNumber": 18164263,
-    "logIndex": 189,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x58219061B6a2D1147b09B7b2e3a5B62a4eAaD31a250/64",
+    "logIndex": 199,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x58219061B6a2D1147b09B7b2e3a5B62a4eAaD31a260/64",
     "isFree": true,
-    "totalContractMints": 44,
+    "totalContractMints": 45,
     "analysis": {
       "contractAddress": "0x58219061B6a2D1147b09B7b2e3a5B62a4eAaD31a",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "Peppie #250",
+        "name": "Peppie #260",
         "description": "Bringing the two most influential subcultures together to celebrate their influence had on futures past and present.",
-        "image": "ipfs://bafybeih6773u5hppgz7j6uf2hazxngx5cgcolgqkslysogiou5trmnrwe4/250.png",
-        "dna": "8837b137714c18dfe8ede27c76f5046551e3e377",
-        "edition": 250,
-        "date": 1667012347516,
+        "image": "ipfs://bafybeih6773u5hppgz7j6uf2hazxngx5cgcolgqkslysogiou5trmnrwe4/260.png",
+        "dna": "6c61dda52ce9edfa4f344eb5851ba3ff5f1784a5",
+        "edition": 260,
+        "date": 1667015406618,
         "attributes": [
           {
             "trait_type": "Background",
-            "value": "Purple"
+            "value": "Blue"
           },
           {
             "trait_type": "Body",
-            "value": "Pink Backpack"
+            "value": "Holographic Hoodie"
           },
           {
             "trait_type": "Skin",
-            "value": "Pink"
+            "value": "Green"
           },
           {
             "trait_type": "Eyes 1",
-            "value": "Neutral"
+            "value": "Wide eyed"
           },
           {
-            "trait_type": "Hair 1",
-            "value": "Green Mullet"
+            "trait_type": "Mouth 2",
+            "value": "Vuh"
           },
           {
-            "trait_type": "Mouth 1",
-            "value": "Grin"
+            "trait_type": "Hair 2",
+            "value": "Green Puffballs"
           },
           {
-            "trait_type": "Piercing",
-            "value": "None"
-          },
-          {
-            "trait_type": "Accessory 1",
-            "value": "60's Glasses"
+            "trait_type": "Mask",
+            "value": "Yellow Toque Skelly"
           }
         ],
         "compiler": "Peppies"
