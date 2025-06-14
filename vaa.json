@@ -2,49 +2,49 @@
   {
     "txHash": "0xb871da666014af7e39eb23e0f717717327e345c7eca94b4a639f96d6f172c35b",
     "contractAddress": "0xD8fF0EF834587049092A0D6DACF129B37B413030",
-    "tokenId": "1714",
+    "tokenId": "1715",
     "collectionName": "The Project",
     "timestamp": 1749886903,
     "blockNumber": 18151767,
-    "logIndex": 0,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xD8fF0EF834587049092A0D6DACF129B37B4130301714/64",
+    "logIndex": 1,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xD8fF0EF834587049092A0D6DACF129B37B4130301715/64",
     "isFree": false,
     "valueWei": "33000000000000000000",
-    "totalContractMints": 2,
+    "totalContractMints": 3,
     "analysis": {
       "contractAddress": "0xD8fF0EF834587049092A0D6DACF129B37B413030",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "The Project #1714",
-        "image": "https://theprojectassets.blob.core.windows.net/images/1714.png?cb=100",
+        "name": "The Project #1715",
+        "image": "https://theprojectassets.blob.core.windows.net/images/1715.png?cb=100",
         "attributes": [
           {
             "trait_type": "Character",
-            "value": "Bear"
+            "value": "Fox"
           },
           {
             "trait_type": "Body",
-            "value": "White"
+            "value": "Pink"
           },
           {
             "trait_type": "Clothes",
-            "value": "Static Hoodie"
+            "value": "Mutant Hoodie"
           },
           {
             "trait_type": "Hands",
-            "value": "Elephant Head"
+            "value": "Spotted Monkey Head"
           },
           {
             "trait_type": "Eyes",
-            "value": "Lightning"
+            "value": "Red"
           },
           {
             "trait_type": "Mouth",
-            "value": "Tongue Out"
+            "value": "You're Next"
           },
           {
             "trait_type": "Hat",
-            "value": "Steampunk"
+            "value": "Kings Crown"
           },
           {
             "trait_type": "Background",
