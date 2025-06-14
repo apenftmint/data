@@ -1,5 +1,60 @@
 [
   {
+    "txHash": "0xaeb747c0ff26db1732ce60ccc043ca4ced70843ff1283005159616c7f8ee7af2",
+    "contractAddress": "0xA5a996F48FAAA1a20DA604b8201de9F570Fa33e6",
+    "tokenId": "3057",
+    "collectionName": "Reepz",
+    "timestamp": 1749905328,
+    "blockNumber": 18163924,
+    "logIndex": 0,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xA5a996F48FAAA1a20DA604b8201de9F570Fa33e63057/64",
+    "isFree": true,
+    "totalContractMints": 6,
+    "analysis": {
+      "contractAddress": "0xA5a996F48FAAA1a20DA604b8201de9F570Fa33e6",
+      "metadataStatus": "ok",
+      "fetchedMetadata": {
+        "name": "reepz #3057",
+        "description": "reepz",
+        "image": "ipfs://bafybeigdubkigonfrc57kdv23isfvdtbupsfipd6o3tupioz3gzpj36tiu/3057.png",
+        "attributes": [
+          {
+            "trait_type": "Background",
+            "value": "Wine"
+          },
+          {
+            "trait_type": "Robes",
+            "value": "Mossy Robes"
+          },
+          {
+            "trait_type": "Face",
+            "value": "Zombie"
+          },
+          {
+            "trait_type": "Eyes",
+            "value": "Big Eyes"
+          },
+          {
+            "trait_type": "Mouth",
+            "value": "Bubblegum"
+          },
+          {
+            "trait_type": "Head",
+            "value": "None"
+          }
+        ]
+      },
+      "nameSymbolStatus": "ok",
+      "collectionNameFromAnalyzer": "Reepz",
+      "collectionSymbolFromAnalyzer": "REE",
+      "finalStatus": "OK",
+      "statusReasons": [
+        "Metadata fetched successfully."
+      ]
+    },
+    "displayStatus": "OK"
+  },
+  {
     "txHash": "0xd0548289dc8833881dc47bf160982a98c6d278d17775eb2129d17928ddb7fe5a",
     "contractAddress": "0xD8fF0EF834587049092A0D6DACF129B37B413030",
     "tokenId": "1724",
@@ -1146,63 +1201,6 @@
     },
     "displayStatus": "OK",
     "mintPriceApe": "3.8000"
-  },
-  {
-    "txHash": "0xddc9987ea3efc91117ad60fa598846f8d11e3254abe6cba95b90ce8535554365",
-    "contractAddress": "0xA5a996F48FAAA1a20DA604b8201de9F570Fa33e6",
-    "tokenId": "3056",
-    "collectionName": "Reepz",
-    "timestamp": 1749874279,
-    "blockNumber": 18141953,
-    "logIndex": 9,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xA5a996F48FAAA1a20DA604b8201de9F570Fa33e63056/64",
-    "isFree": false,
-    "valueWei": "30500000000000000000",
-    "totalContractMints": 5,
-    "analysis": {
-      "contractAddress": "0xA5a996F48FAAA1a20DA604b8201de9F570Fa33e6",
-      "metadataStatus": "ok",
-      "fetchedMetadata": {
-        "name": "reepz #3056",
-        "description": "reepz",
-        "image": "ipfs://bafybeigdubkigonfrc57kdv23isfvdtbupsfipd6o3tupioz3gzpj36tiu/3056.png",
-        "attributes": [
-          {
-            "trait_type": "Background",
-            "value": "Light Blue"
-          },
-          {
-            "trait_type": "Robes",
-            "value": "Mossy Robes"
-          },
-          {
-            "trait_type": "Face",
-            "value": "Mutant"
-          },
-          {
-            "trait_type": "Eyes",
-            "value": "None"
-          },
-          {
-            "trait_type": "Mouth",
-            "value": "None"
-          },
-          {
-            "trait_type": "Head",
-            "value": "None"
-          }
-        ]
-      },
-      "nameSymbolStatus": "ok",
-      "collectionNameFromAnalyzer": "Reepz",
-      "collectionSymbolFromAnalyzer": "REE",
-      "finalStatus": "OK",
-      "statusReasons": [
-        "Metadata fetched successfully."
-      ]
-    },
-    "displayStatus": "OK",
-    "mintPriceApe": "30.5000"
   },
   {
     "txHash": "0x772092e86bc624effbe77cb1b095b7e30802014ab4b15b8555ad42158e2dc784",
