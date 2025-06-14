@@ -2,29 +2,29 @@
   {
     "txHash": "0xaeb747c0ff26db1732ce60ccc043ca4ced70843ff1283005159616c7f8ee7af2",
     "contractAddress": "0xA5a996F48FAAA1a20DA604b8201de9F570Fa33e6",
-    "tokenId": "3407",
+    "tokenId": "3466",
     "collectionName": "Reepz",
     "timestamp": 1749905328,
     "blockNumber": 18163924,
-    "logIndex": 350,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xA5a996F48FAAA1a20DA604b8201de9F570Fa33e63407/64",
+    "logIndex": 409,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xA5a996F48FAAA1a20DA604b8201de9F570Fa33e63466/64",
     "isFree": true,
-    "totalContractMints": 41,
+    "totalContractMints": 42,
     "analysis": {
       "contractAddress": "0xA5a996F48FAAA1a20DA604b8201de9F570Fa33e6",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "reepz #3407",
+        "name": "reepz #3466",
         "description": "reepz",
-        "image": "ipfs://bafybeigdubkigonfrc57kdv23isfvdtbupsfipd6o3tupioz3gzpj36tiu/3407.png",
+        "image": "ipfs://bafybeigdubkigonfrc57kdv23isfvdtbupsfipd6o3tupioz3gzpj36tiu/3466.png",
         "attributes": [
           {
             "trait_type": "Background",
-            "value": "Skull Comets"
+            "value": "Light Blue"
           },
           {
             "trait_type": "Robes",
-            "value": "Dark Robes"
+            "value": "Regular Robes"
           },
           {
             "trait_type": "Face",
@@ -32,7 +32,7 @@
           },
           {
             "trait_type": "Eyes",
-            "value": "None"
+            "value": "Specs"
           },
           {
             "trait_type": "Mouth",
