@@ -2,20 +2,20 @@
   {
     "txHash": "0x8d87dd799217d1c7412dc43d60f27fb8367ff14880212a6b882f319402f1c117",
     "contractAddress": "0x78709205C07A8B167297B65681d332E8f49fe09A",
-    "tokenId": "1301",
+    "tokenId": "1296",
     "collectionName": "Bulls on Ape",
     "timestamp": 1749880827,
     "blockNumber": 18147163,
-    "logIndex": 17,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x78709205C07A8B167297B65681d332E8f49fe09A1301/64",
+    "logIndex": 12,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x78709205C07A8B167297B65681d332E8f49fe09A1296/64",
     "isFree": false,
     "valueWei": "2500000000000000000",
-    "totalContractMints": 2,
+    "totalContractMints": 3,
     "analysis": {
       "contractAddress": "0x78709205C07A8B167297B65681d332E8f49fe09A",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "Bulls on Ape #1301",
+        "name": "Bulls on Ape #1296",
         "description": "BOA",
         "attributes": [
           {
@@ -24,23 +24,23 @@
           },
           {
             "trait_type": "Body",
-            "value": "candy"
+            "value": "original"
           },
           {
             "trait_type": "Horns",
-            "value": "light-skin"
+            "value": "ghoul"
           },
           {
             "trait_type": "Clothes",
-            "value": "yellow-sweater"
+            "value": "gold-chain"
           },
           {
             "trait_type": "Eyes",
-            "value": "stunner"
+            "value": "og"
           },
           {
             "trait_type": "Hat",
-            "value": "pink-mohawk"
+            "value": "hoodie"
           },
           {
             "trait_type": "Trait Count",
@@ -48,7 +48,7 @@
           }
         ],
         "compiler": "nfts2me.com",
-        "image": "ipfs://bafybeida6rznqwrnq5lfvb6q4oa23aqwefuqrwpymeenjx4d6kfubkrb5y/1301.webp"
+        "image": "ipfs://bafybeida6rznqwrnq5lfvb6q4oa23aqwefuqrwpymeenjx4d6kfubkrb5y/1296.webp"
       },
       "nameSymbolStatus": "ok",
       "collectionNameFromAnalyzer": "Bulls on Ape",
