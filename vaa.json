@@ -2,71 +2,28 @@
   {
     "txHash": "0x7683dec9a3b4863dbea88a56903271a184b712f3cbbd13e64eed4e254ac3d78a",
     "contractAddress": "0xd1BB26c4850fB87d48d36c16209e4deE2e48CF88",
-    "tokenId": "54",
+    "tokenId": "49",
     "collectionName": "Lil Dickbutts",
     "timestamp": 1749885777,
     "blockNumber": 18150948,
-    "logIndex": 16,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xd1BB26c4850fB87d48d36c16209e4deE2e48CF8854/64",
+    "logIndex": 11,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xd1BB26c4850fB87d48d36c16209e4deE2e48CF8849/64",
     "isFree": false,
     "valueWei": "2000000000000000000",
-    "totalContractMints": 8,
+    "totalContractMints": 9,
     "analysis": {
       "contractAddress": "0xd1BB26c4850fB87d48d36c16209e4deE2e48CF88",
-      "metadataStatus": "ok",
-      "fetchedMetadata": {
-        "name": "Lil Dickbutts #54",
-        "description": "Baby Dickbutts entering the world. No Roadmap. No Promises. CCO.",
-        "attributes": [
-          {
-            "trait_type": "background",
-            "value": "Blue"
-          },
-          {
-            "trait_type": "body",
-            "value": "Mid"
-          },
-          {
-            "trait_type": "clothes",
-            "value": "None"
-          },
-          {
-            "trait_type": "dick",
-            "value": "Pirate"
-          },
-          {
-            "trait_type": "eyes",
-            "value": "Normal"
-          },
-          {
-            "trait_type": "hair",
-            "value": "None"
-          },
-          {
-            "trait_type": "mouth",
-            "value": "Normal"
-          },
-          {
-            "trait_type": "Weapons",
-            "value": "Pencil"
-          },
-          {
-            "trait_type": "Trait Count",
-            "value": "8"
-          }
-        ],
-        "image": "ipfs://bafybeidkivgr6mxud5kx3fewrqiajcg5liq4wx545wbms5rjwsbl4pe3l4/54.webp",
-        "compiler": "nfts2me.com"
-      },
+      "metadataStatus": "fetch_error",
+      "fetchedMetadata": null,
       "nameSymbolStatus": "ok",
       "collectionNameFromAnalyzer": "Lil Dickbutts",
       "collectionSymbolFromAnalyzer": "LIL",
-      "finalStatus": "OK",
+      "finalStatus": "Issues Detected",
       "statusReasons": [
-        "Metadata fetched successfully."
+        "Error fetching metadata from URI: The operation was aborted due to timeout."
       ]
     },
-    "displayStatus": "OK",
+    "displayStatus": "Issues Detected",
     "mintPriceApe": "2.0000"
   },
   {
