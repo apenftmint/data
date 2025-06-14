@@ -2,43 +2,55 @@
   {
     "txHash": "0xe74163831492f499af0623aec24433b7881246b7a1992c00c2b1c58c86d4c775",
     "contractAddress": "0x58219061B6a2D1147b09B7b2e3a5B62a4eAaD31a",
-    "tokenId": "135",
+    "tokenId": "111",
     "collectionName": "Peppie",
     "timestamp": 1749906059,
     "blockNumber": 18164263,
-    "logIndex": 74,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x58219061B6a2D1147b09B7b2e3a5B62a4eAaD31a135/64",
+    "logIndex": 50,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x58219061B6a2D1147b09B7b2e3a5B62a4eAaD31a111/64",
     "isFree": true,
-    "totalContractMints": 18,
+    "totalContractMints": 19,
     "analysis": {
       "contractAddress": "0x58219061B6a2D1147b09B7b2e3a5B62a4eAaD31a",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "Peppie #135",
+        "name": "Peppie #111",
         "description": "Bringing the two most influential subcultures together to celebrate their influence had on futures past and present.",
-        "image": "ipfs://bafybeih6773u5hppgz7j6uf2hazxngx5cgcolgqkslysogiou5trmnrwe4/135.png",
-        "dna": "a060165672050c50332b454b771e2012ecf15dfb",
-        "edition": 135,
-        "date": 1667015712218,
+        "image": "ipfs://bafybeih6773u5hppgz7j6uf2hazxngx5cgcolgqkslysogiou5trmnrwe4/111.png",
+        "dna": "8b703cae4c4883d0e827e7786c9e43e2cfbcbd25",
+        "edition": 111,
+        "date": 1667013348073,
         "attributes": [
           {
             "trait_type": "Background",
-            "value": "Orange"
+            "value": "Dark Purple"
           },
           {
-            "trait_type": "Popsicle",
-            "value": "Chocolate"
+            "trait_type": "Body",
+            "value": "Orange Collar"
           },
           {
-            "trait_type": "Eyes 2",
-            "value": "Wide Eyed"
+            "trait_type": "Skin",
+            "value": "Green"
+          },
+          {
+            "trait_type": "Eyes 1",
+            "value": "Wink"
+          },
+          {
+            "trait_type": "Hair 1",
+            "value": "Blue Toque"
           },
           {
             "trait_type": "Mouth 1",
-            "value": "Dumbfounded"
+            "value": "Tongue Out"
           },
           {
-            "trait_type": "Accessory 2",
+            "trait_type": "Piercing",
+            "value": "None"
+          },
+          {
+            "trait_type": "Accessory 1",
             "value": "None"
           }
         ],
