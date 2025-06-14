@@ -2,48 +2,48 @@
   {
     "txHash": "0x56539c83474f9069a160e7514e9711fca2bd17b84203735e1e59510da3309ac8",
     "contractAddress": "0xb34D8B34214eb75D785353D38a635F84e327372b",
-    "tokenId": "4699",
+    "tokenId": "4620",
     "collectionName": "Peppies",
     "timestamp": 1749889853,
     "blockNumber": 18153833,
-    "logIndex": 109,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xb34D8B34214eb75D785353D38a635F84e327372b4699/64",
+    "logIndex": 30,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xb34D8B34214eb75D785353D38a635F84e327372b4620/64",
     "isFree": true,
-    "totalContractMints": 4,
+    "totalContractMints": 5,
     "analysis": {
       "contractAddress": "0xb34D8B34214eb75D785353D38a635F84e327372b",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "Peppie #4699",
+        "name": "Peppie #4620",
         "description": "Bringing the two most influential subcultures together to celebrate their influence had on futures past and present.",
-        "image": "ipfs://bafybeih6773u5hppgz7j6uf2hazxngx5cgcolgqkslysogiou5trmnrwe4/4699.png",
-        "dna": "5f26c4c2bca2816e56bfbd6a72b0c8127309e625",
-        "edition": 4699,
-        "date": 1667012820167,
+        "image": "ipfs://bafybeih6773u5hppgz7j6uf2hazxngx5cgcolgqkslysogiou5trmnrwe4/4620.png",
+        "dna": "e408a313cad8821b67bc296ec9138b99d4a6fb4e",
+        "edition": 4620,
+        "date": 1667011775574,
         "attributes": [
           {
             "trait_type": "Background",
-            "value": "Dark Purple"
+            "value": "Orange"
           },
           {
             "trait_type": "Body",
-            "value": "Pink and White Jacket"
+            "value": "Striped Sweater"
           },
           {
             "trait_type": "Skin",
-            "value": "Purple"
+            "value": "Green"
           },
           {
             "trait_type": "Eyes 1",
-            "value": "Sad"
+            "value": "Closed"
           },
           {
             "trait_type": "Hair 1",
-            "value": "Yellow Bowlcut"
+            "value": "Blue Afro"
           },
           {
             "trait_type": "Mouth 1",
-            "value": "Moustache"
+            "value": "Grin"
           },
           {
             "trait_type": "Piercing",
