@@ -2,27 +2,69 @@
   {
     "txHash": "0xe74163831492f499af0623aec24433b7881246b7a1992c00c2b1c58c86d4c775",
     "contractAddress": "0x58219061B6a2D1147b09B7b2e3a5B62a4eAaD31a",
-    "tokenId": "158",
+    "tokenId": "189",
     "collectionName": "Peppie",
     "timestamp": 1749906059,
     "blockNumber": 18164263,
-    "logIndex": 97,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x58219061B6a2D1147b09B7b2e3a5B62a4eAaD31a158/64",
+    "logIndex": 128,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x58219061B6a2D1147b09B7b2e3a5B62a4eAaD31a189/64",
     "isFree": true,
-    "totalContractMints": 38,
+    "totalContractMints": 39,
     "analysis": {
       "contractAddress": "0x58219061B6a2D1147b09B7b2e3a5B62a4eAaD31a",
-      "metadataStatus": "fetch_error",
-      "fetchedMetadata": null,
+      "metadataStatus": "ok",
+      "fetchedMetadata": {
+        "name": "Peppie #189",
+        "description": "Bringing the two most influential subcultures together to celebrate their influence had on futures past and present.",
+        "image": "ipfs://bafybeih6773u5hppgz7j6uf2hazxngx5cgcolgqkslysogiou5trmnrwe4/189.png",
+        "dna": "ceefc0a9e74a44a192c05a655f4d9ba59d6cb158",
+        "edition": 189,
+        "date": 1667011087375,
+        "attributes": [
+          {
+            "trait_type": "Background",
+            "value": "Light Blue"
+          },
+          {
+            "trait_type": "Body",
+            "value": "Light Blue Puffer"
+          },
+          {
+            "trait_type": "Skin",
+            "value": "Green"
+          },
+          {
+            "trait_type": "Eyes 1",
+            "value": "Angry"
+          },
+          {
+            "trait_type": "Hair 1",
+            "value": "Purple Long"
+          },
+          {
+            "trait_type": "Mouth 1",
+            "value": "Jovial"
+          },
+          {
+            "trait_type": "Piercing",
+            "value": "Airpod"
+          },
+          {
+            "trait_type": "Accessory 1",
+            "value": "None"
+          }
+        ],
+        "compiler": "Peppies"
+      },
       "nameSymbolStatus": "ok",
       "collectionNameFromAnalyzer": "Peppie",
       "collectionSymbolFromAnalyzer": "PEP",
-      "finalStatus": "Issues Detected",
+      "finalStatus": "OK",
       "statusReasons": [
-        "Error fetching metadata from URI: The operation was aborted due to timeout."
+        "Metadata fetched successfully."
       ]
     },
-    "displayStatus": "Issues Detected"
+    "displayStatus": "OK"
   },
   {
     "txHash": "0x8fc74df30a176de22beaacf777f4a65f6670b9f83d46877042568467517a1df3",
