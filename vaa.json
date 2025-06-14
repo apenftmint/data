@@ -1,21 +1,21 @@
 [
   {
-    "txHash": "0x9904e9052488e9ba7048feea33fdf237e4af4a298256cdc51bd8209581e8fa3d",
+    "txHash": "0x7683dec9a3b4863dbea88a56903271a184b712f3cbbd13e64eed4e254ac3d78a",
     "contractAddress": "0xd1BB26c4850fB87d48d36c16209e4deE2e48CF88",
-    "tokenId": "37",
+    "tokenId": "38",
     "collectionName": "Lil Dickbutts",
-    "timestamp": 1749885566,
-    "blockNumber": 18150807,
+    "timestamp": 1749885777,
+    "blockNumber": 18150948,
     "logIndex": 0,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xd1BB26c4850fB87d48d36c16209e4deE2e48CF8837/64",
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xd1BB26c4850fB87d48d36c16209e4deE2e48CF8838/64",
     "isFree": false,
-    "valueWei": "100000000000000000",
-    "totalContractMints": 1,
+    "valueWei": "2000000000000000000",
+    "totalContractMints": 2,
     "analysis": {
       "contractAddress": "0xd1BB26c4850fB87d48d36c16209e4deE2e48CF88",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "Lil Dickbutts #37",
+        "name": "Lil Dickbutts #38",
         "description": "Baby Dickbutts entering the world. No Roadmap. No Promises. CCO.",
         "attributes": [
           {
@@ -24,7 +24,7 @@
           },
           {
             "trait_type": "body",
-            "value": "Light"
+            "value": "Dark"
           },
           {
             "trait_type": "clothes",
@@ -32,7 +32,7 @@
           },
           {
             "trait_type": "dick",
-            "value": "Mushroom"
+            "value": "Fire"
           },
           {
             "trait_type": "eyes",
@@ -40,7 +40,7 @@
           },
           {
             "trait_type": "hair",
-            "value": "Blue"
+            "value": "Hat"
           },
           {
             "trait_type": "mouth",
@@ -55,7 +55,7 @@
             "value": "8"
           }
         ],
-        "image": "ipfs://bafybeidkivgr6mxud5kx3fewrqiajcg5liq4wx545wbms5rjwsbl4pe3l4/37.webp",
+        "image": "ipfs://bafybeidkivgr6mxud5kx3fewrqiajcg5liq4wx545wbms5rjwsbl4pe3l4/38.webp",
         "compiler": "nfts2me.com"
       },
       "nameSymbolStatus": "ok",
@@ -67,7 +67,7 @@
       ]
     },
     "displayStatus": "OK",
-    "mintPriceApe": "0.1000"
+    "mintPriceApe": "2.0000"
   },
   {
     "txHash": "0x3b5686ad7c32f992607833b02fb173a32771f40118d7159941a191d4d4f54e4d",
