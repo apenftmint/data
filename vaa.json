@@ -2,29 +2,29 @@
   {
     "txHash": "0x08859dfe311f783cdda86295edf40dfdbde69bd7273a79fc73064f725b1fc2b9",
     "contractAddress": "0x08a24eF3a429c4589a808903cF26cD183B36909e",
-    "tokenId": "77",
+    "tokenId": "173",
     "collectionName": "Mystics ",
     "timestamp": 1749887783,
     "blockNumber": 18152422,
-    "logIndex": 2,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x08a24eF3a429c4589a808903cF26cD183B36909e77/64",
+    "logIndex": 98,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x08a24eF3a429c4589a808903cF26cD183B36909e173/64",
     "isFree": true,
-    "totalContractMints": 48,
+    "totalContractMints": 49,
     "analysis": {
       "contractAddress": "0x08a24eF3a429c4589a808903cF26cD183B36909e",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "Mystics #77",
-        "image": "ipfs://QmVm7P6fQde14YKYTaSeAUMAgxGz9YeAtALTXmC2A3nPCJ/77.gif",
+        "name": "Mystics #173",
+        "image": "ipfs://QmVm7P6fQde14YKYTaSeAUMAgxGz9YeAtALTXmC2A3nPCJ/173.gif",
         "description": "Mystics is the foundation and first ever membership to The Pier ecosystem. We are the 5000 visionaries working to turn Web3 concepts that the space can still only imagine, into reality.",
         "attributes": [
           {
             "trait_type": "Background",
-            "value": "Pink"
+            "value": "Blue"
           },
           {
             "trait_type": "Torso",
-            "value": "Panda Hoodie"
+            "value": "Yellow Casual Hoodie"
           },
           {
             "trait_type": "Right Hand",
@@ -36,23 +36,23 @@
           },
           {
             "trait_type": "Legs",
-            "value": "Yellow Trackpants"
+            "value": "Blue Ninja Shorts"
           },
           {
             "trait_type": "Shoes",
-            "value": "Pink Circle Sneakers"
+            "value": "Slippers"
           },
           {
             "trait_type": "Waist Bag",
-            "value": "Sherbet Waistbag"
+            "value": "None"
           },
           {
             "trait_type": "Eyes",
-            "value": "Classic"
+            "value": "Heart"
           },
           {
             "trait_type": "Left Hand",
-            "value": "Serum"
+            "value": "Frog"
           }
         ]
       },
