@@ -2,29 +2,29 @@
   {
     "txHash": "0xaeb747c0ff26db1732ce60ccc043ca4ced70843ff1283005159616c7f8ee7af2",
     "contractAddress": "0xA5a996F48FAAA1a20DA604b8201de9F570Fa33e6",
-    "tokenId": "3202",
+    "tokenId": "3218",
     "collectionName": "Reepz",
     "timestamp": 1749905328,
     "blockNumber": 18163924,
-    "logIndex": 145,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xA5a996F48FAAA1a20DA604b8201de9F570Fa33e63202/64",
+    "logIndex": 161,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xA5a996F48FAAA1a20DA604b8201de9F570Fa33e63218/64",
     "isFree": true,
-    "totalContractMints": 38,
+    "totalContractMints": 39,
     "analysis": {
       "contractAddress": "0xA5a996F48FAAA1a20DA604b8201de9F570Fa33e6",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "reepz #3202",
+        "name": "reepz #3218",
         "description": "reepz",
-        "image": "ipfs://bafybeigdubkigonfrc57kdv23isfvdtbupsfipd6o3tupioz3gzpj36tiu/3202.png",
+        "image": "ipfs://bafybeigdubkigonfrc57kdv23isfvdtbupsfipd6o3tupioz3gzpj36tiu/3218.png",
         "attributes": [
           {
             "trait_type": "Background",
-            "value": "Red"
+            "value": "Light Blue"
           },
           {
             "trait_type": "Robes",
-            "value": "Heavenly Robes"
+            "value": "Regular Robes"
           },
           {
             "trait_type": "Face",
@@ -32,15 +32,15 @@
           },
           {
             "trait_type": "Eyes",
-            "value": "Soul"
+            "value": "Shades"
           },
           {
             "trait_type": "Mouth",
-            "value": "Blunt"
+            "value": "Tongue"
           },
           {
             "trait_type": "Head",
-            "value": "Demon Horns"
+            "value": "Soulfire"
           }
         ]
       },
