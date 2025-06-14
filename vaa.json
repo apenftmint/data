@@ -2,20 +2,20 @@
   {
     "txHash": "0x08859dfe311f783cdda86295edf40dfdbde69bd7273a79fc73064f725b1fc2b9",
     "contractAddress": "0x08a24eF3a429c4589a808903cF26cD183B36909e",
-    "tokenId": "173",
+    "tokenId": "81",
     "collectionName": "Mystics ",
     "timestamp": 1749887783,
     "blockNumber": 18152422,
-    "logIndex": 98,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x08a24eF3a429c4589a808903cF26cD183B36909e173/64",
+    "logIndex": 6,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x08a24eF3a429c4589a808903cF26cD183B36909e81/64",
     "isFree": true,
-    "totalContractMints": 49,
+    "totalContractMints": 50,
     "analysis": {
       "contractAddress": "0x08a24eF3a429c4589a808903cF26cD183B36909e",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "Mystics #173",
-        "image": "ipfs://QmVm7P6fQde14YKYTaSeAUMAgxGz9YeAtALTXmC2A3nPCJ/173.gif",
+        "name": "Mystics #81",
+        "image": "ipfs://QmVm7P6fQde14YKYTaSeAUMAgxGz9YeAtALTXmC2A3nPCJ/81.gif",
         "description": "Mystics is the foundation and first ever membership to The Pier ecosystem. We are the 5000 visionaries working to turn Web3 concepts that the space can still only imagine, into reality.",
         "attributes": [
           {
@@ -24,7 +24,7 @@
           },
           {
             "trait_type": "Torso",
-            "value": "Yellow Casual Hoodie"
+            "value": "Cyan Spiked Hoodie"
           },
           {
             "trait_type": "Right Hand",
@@ -36,7 +36,7 @@
           },
           {
             "trait_type": "Legs",
-            "value": "Blue Ninja Shorts"
+            "value": "Yellow Shorts Tan"
           },
           {
             "trait_type": "Shoes",
@@ -48,11 +48,11 @@
           },
           {
             "trait_type": "Eyes",
-            "value": "Heart"
+            "value": "Unsure"
           },
           {
             "trait_type": "Left Hand",
-            "value": "Frog"
+            "value": "Serum"
           }
         ]
       },
