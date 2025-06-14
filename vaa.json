@@ -2,48 +2,48 @@
   {
     "txHash": "0x56539c83474f9069a160e7514e9711fca2bd17b84203735e1e59510da3309ac8",
     "contractAddress": "0xb34D8B34214eb75D785353D38a635F84e327372b",
-    "tokenId": "4603",
+    "tokenId": "4593",
     "collectionName": "Peppies",
     "timestamp": 1749889853,
     "blockNumber": 18153833,
-    "logIndex": 13,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xb34D8B34214eb75D785353D38a635F84e327372b4603/64",
+    "logIndex": 3,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xb34D8B34214eb75D785353D38a635F84e327372b4593/64",
     "isFree": true,
-    "totalContractMints": 2,
+    "totalContractMints": 3,
     "analysis": {
       "contractAddress": "0xb34D8B34214eb75D785353D38a635F84e327372b",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "Peppie #4603",
+        "name": "Peppie #4593",
         "description": "Bringing the two most influential subcultures together to celebrate their influence had on futures past and present.",
-        "image": "ipfs://bafybeih6773u5hppgz7j6uf2hazxngx5cgcolgqkslysogiou5trmnrwe4/4603.png",
-        "dna": "44abf8a73cc0c0849117bd1267ea0ed3f06df07c",
-        "edition": 4603,
-        "date": 1667012936007,
+        "image": "ipfs://bafybeih6773u5hppgz7j6uf2hazxngx5cgcolgqkslysogiou5trmnrwe4/4593.png",
+        "dna": "57a61ba7b75ef7e7529ba0f39bd9c4c2d9ef89db",
+        "edition": 4593,
+        "date": 1667012026416,
         "attributes": [
           {
             "trait_type": "Background",
-            "value": "Gradient 2"
-          },
-          {
-            "trait_type": "Body",
-            "value": "Orange Collar"
-          },
-          {
-            "trait_type": "Skin",
-            "value": "Green"
-          },
-          {
-            "trait_type": "Eyes 1",
-            "value": "Bloodshot"
-          },
-          {
-            "trait_type": "Hair 1",
             "value": "Pink"
           },
           {
+            "trait_type": "Body",
+            "value": "Holographic Hoodie"
+          },
+          {
+            "trait_type": "Skin",
+            "value": "Pink"
+          },
+          {
+            "trait_type": "Eyes 1",
+            "value": "Closed"
+          },
+          {
+            "trait_type": "Hair 1",
+            "value": "Sailor Beard"
+          },
+          {
             "trait_type": "Mouth 1",
-            "value": "Neutral"
+            "value": "Vuh"
           },
           {
             "trait_type": "Piercing",
