@@ -2,29 +2,29 @@
   {
     "txHash": "0xa8d57e69687860bae2d0354e0ccb50f8e260cfa39500fec96ed40a61189bbab2",
     "contractAddress": "0x08a24eF3a429c4589a808903cF26cD183B36909e",
-    "tokenId": "360",
+    "tokenId": "383",
     "collectionName": "Mystics ",
     "timestamp": 1749890205,
     "blockNumber": 18154160,
-    "logIndex": 131,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x08a24eF3a429c4589a808903cF26cD183B36909e360/64",
+    "logIndex": 154,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x08a24eF3a429c4589a808903cF26cD183B36909e383/64",
     "isFree": true,
-    "totalContractMints": 65,
+    "totalContractMints": 66,
     "analysis": {
       "contractAddress": "0x08a24eF3a429c4589a808903cF26cD183B36909e",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "Mystics #360",
-        "image": "ipfs://QmVm7P6fQde14YKYTaSeAUMAgxGz9YeAtALTXmC2A3nPCJ/360.gif",
+        "name": "Mystics #383",
+        "image": "ipfs://QmVm7P6fQde14YKYTaSeAUMAgxGz9YeAtALTXmC2A3nPCJ/383.gif",
         "description": "Mystics is the foundation and first ever membership to The Pier ecosystem. We are the 5000 visionaries working to turn Web3 concepts that the space can still only imagine, into reality.",
         "attributes": [
           {
             "trait_type": "Background",
-            "value": "Neutral"
+            "value": "Yellow"
           },
           {
             "trait_type": "Torso",
-            "value": "Yellow Spiked Hoodie"
+            "value": "Yellow Hooded Jacket"
           },
           {
             "trait_type": "Right Hand",
@@ -32,15 +32,15 @@
           },
           {
             "trait_type": "Backpack",
-            "value": "Storm Backpack"
+            "value": "Crystal Backpack"
           },
           {
             "trait_type": "Legs",
-            "value": "Pink Shorts"
+            "value": "Blue Zipper Shorts"
           },
           {
             "trait_type": "Shoes",
-            "value": "Purple Circle Sneakers"
+            "value": "Pink Boots"
           },
           {
             "trait_type": "Waist Bag",
@@ -48,11 +48,11 @@
           },
           {
             "trait_type": "Eyes",
-            "value": "Squint"
+            "value": "Loopy"
           },
           {
             "trait_type": "Left Hand",
-            "value": "Dog"
+            "value": "Snake"
           }
         ]
       },
