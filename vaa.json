@@ -2,48 +2,48 @@
   {
     "txHash": "0xe74163831492f499af0623aec24433b7881246b7a1992c00c2b1c58c86d4c775",
     "contractAddress": "0x58219061B6a2D1147b09B7b2e3a5B62a4eAaD31a",
-    "tokenId": "292",
+    "tokenId": "328",
     "collectionName": "Peppie",
     "timestamp": 1749906059,
     "blockNumber": 18164263,
-    "logIndex": 231,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x58219061B6a2D1147b09B7b2e3a5B62a4eAaD31a292/64",
+    "logIndex": 267,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x58219061B6a2D1147b09B7b2e3a5B62a4eAaD31a328/64",
     "isFree": true,
-    "totalContractMints": 56,
+    "totalContractMints": 57,
     "analysis": {
       "contractAddress": "0x58219061B6a2D1147b09B7b2e3a5B62a4eAaD31a",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "Peppie #292",
+        "name": "Peppie #328",
         "description": "Bringing the two most influential subcultures together to celebrate their influence had on futures past and present.",
-        "image": "ipfs://bafybeih6773u5hppgz7j6uf2hazxngx5cgcolgqkslysogiou5trmnrwe4/292.png",
-        "dna": "b744fe02ee763beae641547aef84022378356c30",
-        "edition": 292,
-        "date": 1667012759643,
+        "image": "ipfs://bafybeih6773u5hppgz7j6uf2hazxngx5cgcolgqkslysogiou5trmnrwe4/328.png",
+        "dna": "6ca2234f2ff111717c8a31df62fd8f7458005a3c",
+        "edition": 328,
+        "date": 1667011290984,
         "attributes": [
           {
             "trait_type": "Background",
-            "value": "Dark Purple"
+            "value": "Blue"
           },
           {
             "trait_type": "Body",
-            "value": "Pink Backpack"
+            "value": "Combo 2 Puffer"
           },
           {
             "trait_type": "Skin",
-            "value": "Green"
+            "value": "Purple"
           },
           {
             "trait_type": "Eyes 1",
-            "value": "Bloodshot"
+            "value": "Neutral"
           },
           {
             "trait_type": "Hair 1",
-            "value": "Helmet"
+            "value": "Green Bowlcut"
           },
           {
             "trait_type": "Mouth 1",
-            "value": "Kazoo"
+            "value": "Rage"
           },
           {
             "trait_type": "Piercing",
