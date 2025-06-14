@@ -2,41 +2,41 @@
   {
     "txHash": "0xaeb747c0ff26db1732ce60ccc043ca4ced70843ff1283005159616c7f8ee7af2",
     "contractAddress": "0xA5a996F48FAAA1a20DA604b8201de9F570Fa33e6",
-    "tokenId": "3287",
+    "tokenId": "3357",
     "collectionName": "Reepz",
     "timestamp": 1749905328,
     "blockNumber": 18163924,
-    "logIndex": 230,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xA5a996F48FAAA1a20DA604b8201de9F570Fa33e63287/64",
+    "logIndex": 300,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xA5a996F48FAAA1a20DA604b8201de9F570Fa33e63357/64",
     "isFree": true,
-    "totalContractMints": 29,
+    "totalContractMints": 30,
     "analysis": {
       "contractAddress": "0xA5a996F48FAAA1a20DA604b8201de9F570Fa33e6",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "reepz #3287",
+        "name": "reepz #3357",
         "description": "reepz",
-        "image": "ipfs://bafybeigdubkigonfrc57kdv23isfvdtbupsfipd6o3tupioz3gzpj36tiu/3287.png",
+        "image": "ipfs://bafybeigdubkigonfrc57kdv23isfvdtbupsfipd6o3tupioz3gzpj36tiu/3357.png",
         "attributes": [
           {
             "trait_type": "Background",
-            "value": "Crypt"
+            "value": "Red"
           },
           {
             "trait_type": "Robes",
-            "value": "Mossy Robes"
+            "value": "Regular Robes"
           },
           {
             "trait_type": "Face",
-            "value": "Demon"
+            "value": "Orange Skull"
           },
           {
             "trait_type": "Eyes",
-            "value": "Laser"
+            "value": "Specs"
           },
           {
             "trait_type": "Mouth",
-            "value": "None"
+            "value": "Blunt"
           },
           {
             "trait_type": "Head",
