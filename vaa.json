@@ -2,21 +2,21 @@
   {
     "txHash": "0x9ef05215d248c7a706441415840067508abe3670863330da67e9f1ffeca30e40",
     "contractAddress": "0x08a24eF3a429c4589a808903cF26cD183B36909e",
-    "tokenId": "58",
+    "tokenId": "59",
     "collectionName": "Mystics ",
     "timestamp": 1749887355,
     "blockNumber": 18152108,
-    "logIndex": 3,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x08a24eF3a429c4589a808903cF26cD183B36909e58/64",
+    "logIndex": 4,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x08a24eF3a429c4589a808903cF26cD183B36909e59/64",
     "isFree": false,
     "valueWei": "5250000000000000000",
-    "totalContractMints": 24,
+    "totalContractMints": 25,
     "analysis": {
       "contractAddress": "0x08a24eF3a429c4589a808903cF26cD183B36909e",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "Mystics #58",
-        "image": "ipfs://QmVm7P6fQde14YKYTaSeAUMAgxGz9YeAtALTXmC2A3nPCJ/58.gif",
+        "name": "Mystics #59",
+        "image": "ipfs://QmVm7P6fQde14YKYTaSeAUMAgxGz9YeAtALTXmC2A3nPCJ/59.gif",
         "description": "Mystics is the foundation and first ever membership to The Pier ecosystem. We are the 5000 visionaries working to turn Web3 concepts that the space can still only imagine, into reality.",
         "attributes": [
           {
@@ -25,7 +25,7 @@
           },
           {
             "trait_type": "Torso",
-            "value": "Pink Classic Hoodie"
+            "value": "Wolf Hoodie"
           },
           {
             "trait_type": "Right Hand",
@@ -33,27 +33,27 @@
           },
           {
             "trait_type": "Backpack",
-            "value": "Peach Spaceship Backpack"
-          },
-          {
-            "trait_type": "Legs",
-            "value": "Cyan Zipper Shorts Tan"
-          },
-          {
-            "trait_type": "Shoes",
-            "value": "Pink Boots"
-          },
-          {
-            "trait_type": "Waist Bag",
             "value": "None"
           },
           {
+            "trait_type": "Legs",
+            "value": "Purple Shorts Tan"
+          },
+          {
+            "trait_type": "Shoes",
+            "value": "Star Sneakers"
+          },
+          {
+            "trait_type": "Waist Bag",
+            "value": "Sherbet Waistbag"
+          },
+          {
             "trait_type": "Eyes",
-            "value": "Dragon"
+            "value": "Loopy"
           },
           {
             "trait_type": "Left Hand",
-            "value": "Cosmic Wand"
+            "value": "Frog"
           }
         ]
       },
