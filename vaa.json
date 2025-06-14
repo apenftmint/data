@@ -1,5 +1,74 @@
 [
   {
+    "txHash": "0x2525dbe1d5de24560950394082d8dc703f4b80405d06414eaea4151005e09482",
+    "contractAddress": "0x08a24eF3a429c4589a808903cF26cD183B36909e",
+    "tokenId": "2",
+    "collectionName": "Mystics ",
+    "timestamp": 1749887247,
+    "blockNumber": 18152030,
+    "logIndex": 1,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x08a24eF3a429c4589a808903cF26cD183B36909e2/64",
+    "isFree": false,
+    "valueWei": "5250000000000000000",
+    "totalContractMints": 1,
+    "analysis": {
+      "contractAddress": "0x08a24eF3a429c4589a808903cF26cD183B36909e",
+      "metadataStatus": "ok",
+      "fetchedMetadata": {
+        "name": "Mystics #2",
+        "image": "ipfs://QmVm7P6fQde14YKYTaSeAUMAgxGz9YeAtALTXmC2A3nPCJ/2.gif",
+        "description": "Mystics is the foundation and first ever membership to The Pier ecosystem. We are the 5000 visionaries working to turn Web3 concepts that the space can still only imagine, into reality.",
+        "attributes": [
+          {
+            "trait_type": "Background",
+            "value": "Purple"
+          },
+          {
+            "trait_type": "Torso",
+            "value": "Wolf Hoodie"
+          },
+          {
+            "trait_type": "Right Hand",
+            "value": "Snake Staff"
+          },
+          {
+            "trait_type": "Backpack",
+            "value": "Dark Magic Bag"
+          },
+          {
+            "trait_type": "Legs",
+            "value": "Blue Zipper Shorts Tan"
+          },
+          {
+            "trait_type": "Shoes",
+            "value": "Purple Circle Sneakers"
+          },
+          {
+            "trait_type": "Waist Bag",
+            "value": "Yellow Waistbag"
+          },
+          {
+            "trait_type": "Eyes",
+            "value": "Dragon"
+          },
+          {
+            "trait_type": "Left Hand",
+            "value": "Cosmic Ball"
+          }
+        ]
+      },
+      "nameSymbolStatus": "ok",
+      "collectionNameFromAnalyzer": "Mystics",
+      "collectionSymbolFromAnalyzer": "MYS",
+      "finalStatus": "OK",
+      "statusReasons": [
+        "Metadata fetched successfully."
+      ]
+    },
+    "displayStatus": "OK",
+    "mintPriceApe": "5.2500"
+  },
+  {
     "txHash": "0x63ca3dcf375fa6e1f1e68b4ba39a0e0869f9c301f26bd44e84b165b7705c812b",
     "contractAddress": "0x2e7949808E6517359393b538CD00845dC4bA0dA5",
     "tokenId": "497",
