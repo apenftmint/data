@@ -2,29 +2,29 @@
   {
     "txHash": "0xab8446e4b5c19fa0c48de211bcfd4cb8e23ea5cd888decf595c68cbd959b37bc",
     "contractAddress": "0x08a24eF3a429c4589a808903cF26cD183B36909e",
-    "tokenId": "567",
+    "tokenId": "474",
     "collectionName": "Mystics ",
     "timestamp": 1749895047,
     "blockNumber": 18157940,
-    "logIndex": 151,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x08a24eF3a429c4589a808903cF26cD183B36909e567/64",
+    "logIndex": 58,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x08a24eF3a429c4589a808903cF26cD183B36909e474/64",
     "isFree": true,
-    "totalContractMints": 78,
+    "totalContractMints": 79,
     "analysis": {
       "contractAddress": "0x08a24eF3a429c4589a808903cF26cD183B36909e",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "Mystics #567",
-        "image": "ipfs://QmVm7P6fQde14YKYTaSeAUMAgxGz9YeAtALTXmC2A3nPCJ/567.gif",
+        "name": "Mystics #474",
+        "image": "ipfs://QmVm7P6fQde14YKYTaSeAUMAgxGz9YeAtALTXmC2A3nPCJ/474.gif",
         "description": "Mystics is the foundation and first ever membership to The Pier ecosystem. We are the 5000 visionaries working to turn Web3 concepts that the space can still only imagine, into reality.",
         "attributes": [
           {
             "trait_type": "Background",
-            "value": "Pink"
+            "value": "Blue"
           },
           {
             "trait_type": "Torso",
-            "value": "Pink Classic Hoodie"
+            "value": "Yellow Spiked Hoodie"
           },
           {
             "trait_type": "Right Hand",
@@ -32,27 +32,27 @@
           },
           {
             "trait_type": "Backpack",
-            "value": "Storm Backpack"
+            "value": "Locator Backpack"
           },
           {
             "trait_type": "Legs",
-            "value": "Purple Zip Pocket Shorts"
+            "value": "Blue Shorts"
           },
           {
             "trait_type": "Shoes",
-            "value": "Purple Circle Sneakers"
+            "value": "Slippers"
           },
           {
             "trait_type": "Waist Bag",
-            "value": "Purple Waistbag"
+            "value": "None"
           },
           {
             "trait_type": "Eyes",
-            "value": "Fire"
+            "value": "Magic"
           },
           {
             "trait_type": "Left Hand",
-            "value": "Frog"
+            "value": "Diamond Wand"
           }
         ]
       },
