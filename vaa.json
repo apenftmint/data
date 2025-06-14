@@ -2,24 +2,24 @@
   {
     "txHash": "0x0c1365e2a8066f19088686ef82a7780f0b65f02e723f1774bd798208122b7a23",
     "contractAddress": "0xb09065aC4a3f721B1a5E271ADeed478b822037DC",
-    "tokenId": "5198",
+    "tokenId": "5108",
     "collectionName": "Midgets",
     "timestamp": 1749889788,
     "blockNumber": 18153785,
-    "logIndex": 125,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xb09065aC4a3f721B1a5E271ADeed478b822037DC5198/64",
+    "logIndex": 35,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xb09065aC4a3f721B1a5E271ADeed478b822037DC5108/64",
     "isFree": true,
-    "totalContractMints": 7,
+    "totalContractMints": 8,
     "analysis": {
       "contractAddress": "0xb09065aC4a3f721B1a5E271ADeed478b822037DC",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "Midgets #5198",
+        "name": "Midgets #5108",
         "description": "Midgets is a collection of 6969 NFTs with +250 unique traits that have landed in the ETH blockchain to be burned and migrated to the ordinals (BTC) blockchain. Not your average NFT project.",
-        "image": "ipfs://bafybeiavrwtwuwpgi4qivbg4xghdgfrehcigfy2mikwqtrlqstyubqaoye/5198.png",
-        "dna": "24d3102170f624a81b74af475e728db248a3b1e7",
-        "edition": 5198,
-        "date": 1686116146310,
+        "image": "ipfs://bafybeiavrwtwuwpgi4qivbg4xghdgfrehcigfy2mikwqtrlqstyubqaoye/5108.png",
+        "dna": "f10bdd822e7a775144f4c3ca77eada6fb362e818",
+        "edition": 5108,
+        "date": 1686116144856,
         "attributes": [
           {
             "trait_type": "BACKGROUND",
@@ -27,19 +27,19 @@
           },
           {
             "trait_type": "SKIN",
-            "value": "LIGHT"
+            "value": "ASIAN"
           },
           {
             "trait_type": "CLOTHES",
-            "value": "AMONG US ORANGE"
+            "value": "AMONG US YELLOW"
           },
           {
             "trait_type": "FACE",
-            "value": "3D"
+            "value": "FACEMASK"
           },
           {
             "trait_type": "HEAD",
-            "value": "bucket head shit"
+            "value": "brown beanie"
           }
         ]
       },
