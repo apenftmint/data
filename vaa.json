@@ -1,5 +1,5 @@
-[
-  {
+{
+  "0": {
     "txHash": "0x52015035b04054a6b1dc9ee0516a5a0c68d72d0d20685730df4eb174e250e01f",
     "contractAddress": "0x5B61cA24966CB7E47F634Dee04499743Fc9746b6",
     "tokenId": "1268",
@@ -63,7 +63,7 @@
     "displayStatus": "OK",
     "mintPriceApe": "0.4000"
   },
-  {
+  "1": {
     "txHash": "0xf1fc5e18630e39e6d6636d92517606162d7df439417e04619b6ff6a26b4a0070",
     "contractAddress": "0xE23De40D14713492e5a2465b36a09De5c948CCfd",
     "tokenId": "61",
@@ -101,7 +101,7 @@
     "displayStatus": "OK",
     "mintPriceApe": "0.1900"
   },
-  {
+  "2": {
     "txHash": "0xc19cd0576b0d9a398602da6ef3812c371fe47a1b566fa9b91ac13a1937c3ef38",
     "contractAddress": "0x342239362E3EF2561e06010eC7FCBCf2699Bc6e4",
     "tokenId": "20",
@@ -139,7 +139,7 @@
     "displayStatus": "OK",
     "mintPriceApe": "0.1500"
   },
-  {
+  "3": {
     "txHash": "0xe74163831492f499af0623aec24433b7881246b7a1992c00c2b1c58c86d4c775",
     "contractAddress": "0x58219061B6a2D1147b09B7b2e3a5B62a4eAaD31a",
     "tokenId": "348",
@@ -164,7 +164,7 @@
     },
     "displayStatus": "Issues Detected"
   },
-  {
+  "4": {
     "txHash": "0x7ff0b04d7d9bcea5883220eadd1cc93e00c30b9fd66633c8d869100b34c913fb",
     "contractAddress": "0x56974f917a22fE2Ff2b82252cE74B2d3e4023B66",
     "tokenId": "77",
@@ -342,7 +342,7 @@
     "displayStatus": "OK",
     "mintPriceApe": "0.1500"
   },
-  {
+  "5": {
     "txHash": "0xaeb747c0ff26db1732ce60ccc043ca4ced70843ff1283005159616c7f8ee7af2",
     "contractAddress": "0xA5a996F48FAAA1a20DA604b8201de9F570Fa33e6",
     "tokenId": "3293",
@@ -397,7 +397,7 @@
     },
     "displayStatus": "OK"
   },
-  {
+  "6": {
     "txHash": "0xd0548289dc8833881dc47bf160982a98c6d278d17775eb2129d17928ddb7fe5a",
     "contractAddress": "0xD8fF0EF834587049092A0D6DACF129B37B413030",
     "tokenId": "1724",
@@ -464,7 +464,7 @@
     "displayStatus": "OK",
     "mintPriceApe": "33.0000"
   },
-  {
+  "7": {
     "txHash": "0x52ffc3779893fc8f33de1ac98e7b1731d7e9893eb4191ec5ed75c727e4e2413f",
     "contractAddress": "0x6794aE7a2996f898332d0257B1EbCd8177AD58Da",
     "tokenId": "5994",
@@ -521,7 +521,7 @@
     },
     "displayStatus": "OK"
   },
-  {
+  "8": {
     "txHash": "0x8fd1912423de2b7f0bbfdea9a5eeefa363ea29e4e42f4ef28cac556d473e3f0c",
     "contractAddress": "0x961c6D8910d6FBb803eD124F2c4480f3F6070Ec7",
     "tokenId": "4121",
@@ -568,7 +568,7 @@
     },
     "displayStatus": "OK"
   },
-  {
+  "9": {
     "txHash": "0x10dc8e2403855ce3bddb4bca8f961e377c8cf42ed88dca9bbf7aacef322f149c",
     "contractAddress": "0xDB9098A9f21a5C21A4EF73F40598eB1177EDDF77",
     "tokenId": "20",
@@ -595,7 +595,7 @@
     "displayStatus": "Issues Detected",
     "mintPriceApe": "0.5000"
   },
-  {
+  "10": {
     "txHash": "0xce5d17405f08a28eba542512f7907c078157c87d022e3b88896684a0fc130e81",
     "contractAddress": "0xd1BB26c4850fB87d48d36c16209e4deE2e48CF88",
     "tokenId": "92",
@@ -622,7 +622,7 @@
     "displayStatus": "Issues Detected",
     "mintPriceApe": "1.0000"
   },
-  {
+  "11": {
     "txHash": "0xf560691640e33b6d1381864c680820551e66ad179050b2f050a8cc6d9fbf90ac",
     "contractAddress": "0xb09065aC4a3f721B1a5E271ADeed478b822037DC",
     "tokenId": "5225",
@@ -647,7 +647,7 @@
     },
     "displayStatus": "Issues Detected"
   },
-  {
+  "12": {
     "txHash": "0xab8446e4b5c19fa0c48de211bcfd4cb8e23ea5cd888decf595c68cbd959b37bc",
     "contractAddress": "0x08a24eF3a429c4589a808903cF26cD183B36909e",
     "tokenId": "495",
@@ -714,7 +714,7 @@
     },
     "displayStatus": "OK"
   },
-  {
+  "13": {
     "txHash": "0xbef498bb4b1fa52395a7915f1282a52f7b89fb1579363e4f4f8b7b68a1c9135c",
     "contractAddress": "0x422Af9C3DdECD6c3c3C3f51D6942a9f851cAF6Bc",
     "tokenId": "383",
@@ -754,7 +754,7 @@
     },
     "displayStatus": "OK"
   },
-  {
+  "14": {
     "txHash": "0x5c128a5682a90067820032905f6218be7663ecf4cbd5c344e746acc47f40f321",
     "contractAddress": "0x2d1469E395aCf37E2CfD1853600c542EEEDB266F",
     "tokenId": "699",
@@ -781,7 +781,7 @@
     "displayStatus": "Issues Detected",
     "mintPriceApe": "0.1000"
   },
-  {
+  "15": {
     "txHash": "0xfd7c86afe0333cedf7a9cd1202fdd5f69127002d331a0cb0773d2822deaa2e1e",
     "contractAddress": "0x1FB99ae983C26D6dAaF7910BDe118Dc0cA681e78",
     "tokenId": "39",
@@ -806,7 +806,7 @@
     },
     "displayStatus": "Issues Detected"
   },
-  {
+  "16": {
     "txHash": "0x3f56a25aa69709c7c99d06dde3d9215471b6e7de8673c388602c51f939e42c14",
     "contractAddress": "0xC45735D63FDa5b9a62D6C0a9bEB50b197200692F",
     "tokenId": "549",
@@ -854,7 +854,7 @@
     },
     "displayStatus": "OK"
   },
-  {
+  "17": {
     "txHash": "0x56539c83474f9069a160e7514e9711fca2bd17b84203735e1e59510da3309ac8",
     "contractAddress": "0xb34D8B34214eb75D785353D38a635F84e327372b",
     "tokenId": "4704",
@@ -879,7 +879,7 @@
     },
     "displayStatus": "Issues Detected"
   },
-  {
+  "18": {
     "txHash": "0xd8d6b18ca90ac682aedf09e3324d68dd05ccf5e67e65ecb6514a1fc710da503a",
     "contractAddress": "0xC216fCdEb961EEF95657Cb45dEe20e379C7624B8",
     "tokenId": "4191",
@@ -910,7 +910,7 @@
     "displayStatus": "OK",
     "mintPriceApe": "19.0845"
   },
-  {
+  "19": {
     "txHash": "0x624a2b70c5afbe6ec2ab8f2b09e7c2ad596150da6eb4d30ec28918e838078475",
     "contractAddress": "0x49849DE88B949474Decd2656c57b07802EC4F35F",
     "tokenId": "931",
@@ -968,7 +968,7 @@
     "displayStatus": "OK",
     "mintPriceApe": "0.0500"
   },
-  {
+  "20": {
     "txHash": "0xf8e39a50deb6b6f83b3bdcfc37b18b2014b112f59081d6bfbe6ce0f9ae573b0d",
     "contractAddress": "0xE1523d81dD4b196d2C4506588CEbE78352734711",
     "tokenId": "3826",
@@ -1026,7 +1026,7 @@
     "displayStatus": "OK",
     "mintPriceApe": "0.1000"
   },
-  {
+  "21": {
     "txHash": "0x63ca3dcf375fa6e1f1e68b4ba39a0e0869f9c301f26bd44e84b165b7705c812b",
     "contractAddress": "0x2e7949808E6517359393b538CD00845dC4bA0dA5",
     "tokenId": "497",
@@ -1056,7 +1056,7 @@
     "displayStatus": "OK",
     "mintPriceApe": "1.2000"
   },
-  {
+  "22": {
     "txHash": "0x09141ce75c7ff758a1850cd49dc5b5840e279232d5ea92afcb805f88fb6cc772",
     "contractAddress": "0x81F2a53f6Bc5bCD100807b4f33F34f19b086688e",
     "tokenId": "178",
@@ -1083,7 +1083,7 @@
     "displayStatus": "Issues Detected",
     "mintPriceApe": "2.2000"
   },
-  {
+  "23": {
     "txHash": "0xf5d71a6f96079c8b32cabff004b177b16bcbbf798787896c52cdd0179ccd9592",
     "contractAddress": "0x8b4117E91a6f6A810651aFae788EC044f13a06a5",
     "tokenId": "7321",
@@ -1140,7 +1140,7 @@
     },
     "displayStatus": "OK"
   },
-  {
+  "24": {
     "txHash": "0x844efde80d42bc6a16b7d8faea6e0b7bfd73c1e7898a45dd776fb2d6e2a21f5c",
     "contractAddress": "0x7e0EE9a8A0E4AcE3fa55886a66EcE0B099dA7Fe2",
     "tokenId": "638",
@@ -1168,7 +1168,7 @@
     },
     "displayStatus": "OK"
   },
-  {
+  "25": {
     "txHash": "0x8d87dd799217d1c7412dc43d60f27fb8367ff14880212a6b882f319402f1c117",
     "contractAddress": "0x78709205C07A8B167297B65681d332E8f49fe09A",
     "tokenId": "1302",
@@ -1195,7 +1195,7 @@
     "displayStatus": "Issues Detected",
     "mintPriceApe": "2.5000"
   },
-  {
+  "26": {
     "txHash": "0xc82707306ee5d1059582ae842d7f072cd6f9a210f5a4f7fed003ed4fa565896b",
     "contractAddress": "0xF054C94269b4946568244706b981b62E258059c8",
     "tokenId": "2509",
@@ -1269,7 +1269,7 @@
     "displayStatus": "OK",
     "mintPriceApe": "3.8000"
   },
-  {
+  "27": {
     "txHash": "0x772092e86bc624effbe77cb1b095b7e30802014ab4b15b8555ad42158e2dc784",
     "contractAddress": "0xa07d48F04ecBBae5Cb65AeEbA15FfD6EcC15D2A4",
     "tokenId": "365",
@@ -1323,7 +1323,7 @@
     "displayStatus": "OK",
     "mintPriceApe": "6.9500"
   },
-  {
+  "28": {
     "txHash": "0xb82400a1cf61139e7a27731f9d8d6eb5172c0b639007c6c6a50322f52bdbb491",
     "contractAddress": "0x9faDECb791fCd35a9229301819022AAF2383dF46",
     "tokenId": "2702",
@@ -1359,7 +1359,7 @@
     "displayStatus": "OK",
     "mintPriceApe": "110.0000"
   },
-  {
+  "29": {
     "txHash": "0xc819eef82bb135f788da0d63a5fce86ff5288567f2221ba842ee357b517d29d1",
     "contractAddress": "0xED10CD2183de930C70c812D237D5Ee763A9BBC52",
     "tokenId": "43",
@@ -1390,7 +1390,7 @@
     "displayStatus": "OK",
     "mintPriceApe": "69.0500"
   },
-  {
+  "30": {
     "txHash": "0x8d4c34ef643441619856d562dc7827044615f41176d8d7b7b4dbff7d54c99927",
     "contractAddress": "0x8b4e5592347B3478A0cD4b07DE5A81f0c970ba4A",
     "tokenId": "151",
@@ -1425,7 +1425,7 @@
     },
     "displayStatus": "OK"
   },
-  {
+  "31": {
     "txHash": "0x4c447bd0fcd019ddb2b86f1849bfc72526dabf599c83964dc39271a7ee83ded5",
     "contractAddress": "0x593807746EecFa7E5dbe13d028B9bF8b71972C19",
     "tokenId": "693",
@@ -1452,7 +1452,7 @@
     },
     "displayStatus": "OK"
   },
-  {
+  "32": {
     "txHash": "0x9e40e5729adbfa48b81a0b13965d48ba8869474f3503a353a709769a2801ad80",
     "contractAddress": "0x7178aA4FE028B5882c0FBB731225E38920851596",
     "tokenId": "4627",
@@ -1482,7 +1482,7 @@
     "displayStatus": "OK",
     "mintPriceApe": "1.0000"
   },
-  {
+  "33": {
     "txHash": "0xfcfac7ba5bbc61d81146b499ee6f70f9e7381a80c187bb3633d9438397188e39",
     "contractAddress": "0x2cf9B80Cf419fE031Ccf1D1Fa3Bb6987920940F7",
     "tokenId": "106",
@@ -1543,7 +1543,7 @@
     "displayStatus": "OK",
     "mintPriceApe": "5.2500"
   },
-  {
+  "34": {
     "txHash": "0x4313ae3465a3ecb1e2f7a921d84650fc243b9ebcf918c5699a762f6a101a175f",
     "contractAddress": "0x21A512A63987AC5d4C2e67F9dA37953BE0a8008f",
     "tokenId": "256",
@@ -1583,7 +1583,7 @@
     },
     "displayStatus": "OK"
   },
-  {
+  "35": {
     "txHash": "0x085aa219fc4a476345e1e93362333c44ecd41f46f623e94b761858dc2b820042",
     "contractAddress": "0x62dcA65AcEA356bC00b8979AB9A8c636748e7c51",
     "tokenId": "73",
@@ -1628,5 +1628,21 @@
     },
     "displayStatus": "OK",
     "mintPriceApe": "0.1000"
-  }
-]
+  },
+  "collections": [
+    {
+      "name": "Contract 0x9d5a...59ba",
+      "contractAddress": "0x9d5a7d38caf04ec7d2f04cad6e90565516cd59ba",
+      "tokenId": "NaN",
+      "price": "Free",
+      "isFree": true,
+      "timestamp": "2025-06-14T17:26:38.607Z",
+      "txHash": "0xade5c1e8b86c0f8427c8427658d0f87306937c8240f375731e1501b5cd1ccca5",
+      "imageUrl": "https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&h=200",
+      "mintUrl": null,
+      "supply": null,
+      "hashtag": null,
+      "id": 37
+    }
+  ]
+}
