@@ -2,36 +2,36 @@
   {
     "txHash": "0xe74163831492f499af0623aec24433b7881246b7a1992c00c2b1c58c86d4c775",
     "contractAddress": "0x58219061B6a2D1147b09B7b2e3a5B62a4eAaD31a",
-    "tokenId": "62",
+    "tokenId": "107",
     "collectionName": "Peppie",
     "timestamp": 1749906059,
     "blockNumber": 18164263,
-    "logIndex": 1,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x58219061B6a2D1147b09B7b2e3a5B62a4eAaD31a62/64",
+    "logIndex": 46,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x58219061B6a2D1147b09B7b2e3a5B62a4eAaD31a107/64",
     "isFree": true,
-    "totalContractMints": 9,
+    "totalContractMints": 10,
     "analysis": {
       "contractAddress": "0x58219061B6a2D1147b09B7b2e3a5B62a4eAaD31a",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "Peppie #62",
+        "name": "Peppie #107",
         "description": "Bringing the two most influential subcultures together to celebrate their influence had on futures past and present.",
-        "image": "ipfs://bafybeih6773u5hppgz7j6uf2hazxngx5cgcolgqkslysogiou5trmnrwe4/62.png",
-        "dna": "d76b7b1029da9d19acedad9f15e839ea020eb89a",
-        "edition": 62,
-        "date": 1667013648721,
+        "image": "ipfs://bafybeih6773u5hppgz7j6uf2hazxngx5cgcolgqkslysogiou5trmnrwe4/107.png",
+        "dna": "a0a51d1c3788418ce3242f003a926a2449888db7",
+        "edition": 107,
+        "date": 1667012413655,
         "attributes": [
           {
             "trait_type": "Background",
-            "value": "Purple"
+            "value": "Starry Blue"
           },
           {
             "trait_type": "Body",
-            "value": "Pink Sweater with Satchel"
+            "value": "Pink Puffer"
           },
           {
             "trait_type": "Skin",
-            "value": "Green"
+            "value": "Med"
           },
           {
             "trait_type": "Eyes 1",
@@ -39,11 +39,11 @@
           },
           {
             "trait_type": "Hair 1",
-            "value": "Blue Nerd"
+            "value": "Pink"
           },
           {
             "trait_type": "Mouth 1",
-            "value": "Grin"
+            "value": "Tongue Out"
           },
           {
             "trait_type": "Piercing",
@@ -51,7 +51,7 @@
           },
           {
             "trait_type": "Accessory 1",
-            "value": "Aviators"
+            "value": "Sunglasses"
           }
         ],
         "compiler": "Peppies"
