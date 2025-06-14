@@ -2,20 +2,20 @@
   {
     "txHash": "0x8d87dd799217d1c7412dc43d60f27fb8367ff14880212a6b882f319402f1c117",
     "contractAddress": "0x78709205C07A8B167297B65681d332E8f49fe09A",
-    "tokenId": "1289",
+    "tokenId": "1308",
     "collectionName": "Bulls on Ape",
     "timestamp": 1749880827,
     "blockNumber": 18147163,
-    "logIndex": 5,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x78709205C07A8B167297B65681d332E8f49fe09A1289/64",
+    "logIndex": 24,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x78709205C07A8B167297B65681d332E8f49fe09A1308/64",
     "isFree": false,
     "valueWei": "2500000000000000000",
-    "totalContractMints": 4,
+    "totalContractMints": 5,
     "analysis": {
       "contractAddress": "0x78709205C07A8B167297B65681d332E8f49fe09A",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "Bulls on Ape #1289",
+        "name": "Bulls on Ape #1308",
         "description": "BOA",
         "attributes": [
           {
@@ -24,7 +24,7 @@
           },
           {
             "trait_type": "Body",
-            "value": "original"
+            "value": "robot"
           },
           {
             "trait_type": "Horns",
@@ -32,15 +32,15 @@
           },
           {
             "trait_type": "Clothes",
-            "value": "blue-light-sweater"
+            "value": "red-sweater"
           },
           {
             "trait_type": "Eyes",
-            "value": "candy"
+            "value": "stunner"
           },
           {
             "trait_type": "Hat",
-            "value": "banana"
+            "value": "wild-hair"
           },
           {
             "trait_type": "Trait Count",
@@ -48,7 +48,7 @@
           }
         ],
         "compiler": "nfts2me.com",
-        "image": "ipfs://bafybeida6rznqwrnq5lfvb6q4oa23aqwefuqrwpymeenjx4d6kfubkrb5y/1289.webp"
+        "image": "ipfs://bafybeida6rznqwrnq5lfvb6q4oa23aqwefuqrwpymeenjx4d6kfubkrb5y/1308.webp"
       },
       "nameSymbolStatus": "ok",
       "collectionNameFromAnalyzer": "Bulls on Ape",
