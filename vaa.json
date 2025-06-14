@@ -2,24 +2,24 @@
   {
     "txHash": "0x0c1365e2a8066f19088686ef82a7780f0b65f02e723f1774bd798208122b7a23",
     "contractAddress": "0xb09065aC4a3f721B1a5E271ADeed478b822037DC",
-    "tokenId": "5196",
+    "tokenId": "5133",
     "collectionName": "Midgets",
     "timestamp": 1749889788,
     "blockNumber": 18153785,
-    "logIndex": 123,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xb09065aC4a3f721B1a5E271ADeed478b822037DC5196/64",
+    "logIndex": 60,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xb09065aC4a3f721B1a5E271ADeed478b822037DC5133/64",
     "isFree": true,
-    "totalContractMints": 1,
+    "totalContractMints": 2,
     "analysis": {
       "contractAddress": "0xb09065aC4a3f721B1a5E271ADeed478b822037DC",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "Midgets #5196",
+        "name": "Midgets #5133",
         "description": "Midgets is a collection of 6969 NFTs with +250 unique traits that have landed in the ETH blockchain to be burned and migrated to the ordinals (BTC) blockchain. Not your average NFT project.",
-        "image": "ipfs://bafybeiavrwtwuwpgi4qivbg4xghdgfrehcigfy2mikwqtrlqstyubqaoye/5196.png",
-        "dna": "446f049c79e89a5bdf1e7095400305efbc1583c2",
-        "edition": 5196,
-        "date": 1686116146258,
+        "image": "ipfs://bafybeiavrwtwuwpgi4qivbg4xghdgfrehcigfy2mikwqtrlqstyubqaoye/5133.png",
+        "dna": "03781a6099053274b9298cb1c286f9f6fe06c180",
+        "edition": 5133,
+        "date": 1686116145251,
         "attributes": [
           {
             "trait_type": "BACKGROUND",
@@ -27,19 +27,19 @@
           },
           {
             "trait_type": "SKIN",
-            "value": "ZOMBIE"
+            "value": "DARK"
           },
           {
             "trait_type": "CLOTHES",
-            "value": "vegas"
+            "value": "FORMAL WHITE"
           },
           {
             "trait_type": "FACE",
-            "value": "VEGAS"
+            "value": "hetero"
           },
           {
             "trait_type": "HEAD",
-            "value": "AFRO"
+            "value": "headset black"
           }
         ]
       },
