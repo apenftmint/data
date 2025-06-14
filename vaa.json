@@ -2,52 +2,52 @@
   {
     "txHash": "0xe74163831492f499af0623aec24433b7881246b7a1992c00c2b1c58c86d4c775",
     "contractAddress": "0x58219061B6a2D1147b09B7b2e3a5B62a4eAaD31a",
-    "tokenId": "345",
+    "tokenId": "292",
     "collectionName": "Peppie",
     "timestamp": 1749906059,
     "blockNumber": 18164263,
-    "logIndex": 284,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x58219061B6a2D1147b09B7b2e3a5B62a4eAaD31a345/64",
+    "logIndex": 231,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x58219061B6a2D1147b09B7b2e3a5B62a4eAaD31a292/64",
     "isFree": true,
-    "totalContractMints": 55,
+    "totalContractMints": 56,
     "analysis": {
       "contractAddress": "0x58219061B6a2D1147b09B7b2e3a5B62a4eAaD31a",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "Peppie #345",
+        "name": "Peppie #292",
         "description": "Bringing the two most influential subcultures together to celebrate their influence had on futures past and present.",
-        "image": "ipfs://bafybeih6773u5hppgz7j6uf2hazxngx5cgcolgqkslysogiou5trmnrwe4/345.png",
-        "dna": "2dacf0522d42fc6792bdebb7c95b545ff64a9239",
-        "edition": 345,
-        "date": 1667014194150,
+        "image": "ipfs://bafybeih6773u5hppgz7j6uf2hazxngx5cgcolgqkslysogiou5trmnrwe4/292.png",
+        "dna": "b744fe02ee763beae641547aef84022378356c30",
+        "edition": 292,
+        "date": 1667012759643,
         "attributes": [
           {
             "trait_type": "Background",
-            "value": "Starry Blue"
+            "value": "Dark Purple"
           },
           {
             "trait_type": "Body",
-            "value": "Light Blue Puffer"
+            "value": "Pink Backpack"
           },
           {
             "trait_type": "Skin",
-            "value": "Yellow"
+            "value": "Green"
           },
           {
             "trait_type": "Eyes 1",
-            "value": "Wide eyed"
+            "value": "Bloodshot"
           },
           {
             "trait_type": "Hair 1",
-            "value": "Beige Bucket Cap"
+            "value": "Helmet"
           },
           {
             "trait_type": "Mouth 1",
-            "value": "Wah"
+            "value": "Kazoo"
           },
           {
             "trait_type": "Piercing",
-            "value": "Hoop"
+            "value": "None"
           },
           {
             "trait_type": "Accessory 1",
