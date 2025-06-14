@@ -2,55 +2,43 @@
   {
     "txHash": "0x56539c83474f9069a160e7514e9711fca2bd17b84203735e1e59510da3309ac8",
     "contractAddress": "0xb34D8B34214eb75D785353D38a635F84e327372b",
-    "tokenId": "4620",
+    "tokenId": "4692",
     "collectionName": "Peppies",
     "timestamp": 1749889853,
     "blockNumber": 18153833,
-    "logIndex": 30,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xb34D8B34214eb75D785353D38a635F84e327372b4620/64",
+    "logIndex": 102,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xb34D8B34214eb75D785353D38a635F84e327372b4692/64",
     "isFree": true,
-    "totalContractMints": 5,
+    "totalContractMints": 6,
     "analysis": {
       "contractAddress": "0xb34D8B34214eb75D785353D38a635F84e327372b",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "Peppie #4620",
+        "name": "Peppie #4692",
         "description": "Bringing the two most influential subcultures together to celebrate their influence had on futures past and present.",
-        "image": "ipfs://bafybeih6773u5hppgz7j6uf2hazxngx5cgcolgqkslysogiou5trmnrwe4/4620.png",
-        "dna": "e408a313cad8821b67bc296ec9138b99d4a6fb4e",
-        "edition": 4620,
-        "date": 1667011775574,
+        "image": "ipfs://bafybeih6773u5hppgz7j6uf2hazxngx5cgcolgqkslysogiou5trmnrwe4/4692.png",
+        "dna": "caa63859df032ad915c4ab74e36cd40a6be61e48",
+        "edition": 4692,
+        "date": 1667015798611,
         "attributes": [
           {
             "trait_type": "Background",
-            "value": "Orange"
+            "value": "Sky"
           },
           {
-            "trait_type": "Body",
-            "value": "Striped Sweater"
+            "trait_type": "Pickle",
+            "value": "Pickle"
           },
           {
-            "trait_type": "Skin",
-            "value": "Green"
-          },
-          {
-            "trait_type": "Eyes 1",
-            "value": "Closed"
-          },
-          {
-            "trait_type": "Hair 1",
-            "value": "Blue Afro"
+            "trait_type": "Eyes 2",
+            "value": "Sad"
           },
           {
             "trait_type": "Mouth 1",
-            "value": "Grin"
+            "value": "Rage"
           },
           {
-            "trait_type": "Piercing",
-            "value": "None"
-          },
-          {
-            "trait_type": "Accessory 1",
+            "trait_type": "Accessory 2",
             "value": "None"
           }
         ],
