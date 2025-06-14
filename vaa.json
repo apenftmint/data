@@ -2,34 +2,34 @@
   {
     "txHash": "0xddc9987ea3efc91117ad60fa598846f8d11e3254abe6cba95b90ce8535554365",
     "contractAddress": "0xA5a996F48FAAA1a20DA604b8201de9F570Fa33e6",
-    "tokenId": "3052",
+    "tokenId": "3051",
     "collectionName": "Reepz",
     "timestamp": 1749874279,
     "blockNumber": 18141953,
-    "logIndex": 5,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xA5a996F48FAAA1a20DA604b8201de9F570Fa33e63052/64",
+    "logIndex": 4,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xA5a996F48FAAA1a20DA604b8201de9F570Fa33e63051/64",
     "isFree": false,
     "valueWei": "30500000000000000000",
-    "totalContractMints": 2,
+    "totalContractMints": 3,
     "analysis": {
       "contractAddress": "0xA5a996F48FAAA1a20DA604b8201de9F570Fa33e6",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "reepz #3052",
+        "name": "reepz #3051",
         "description": "reepz",
-        "image": "ipfs://bafybeigdubkigonfrc57kdv23isfvdtbupsfipd6o3tupioz3gzpj36tiu/3052.png",
+        "image": "ipfs://bafybeigdubkigonfrc57kdv23isfvdtbupsfipd6o3tupioz3gzpj36tiu/3051.png",
         "attributes": [
           {
             "trait_type": "Background",
-            "value": "Red"
+            "value": "Orange"
           },
           {
             "trait_type": "Robes",
-            "value": "Regular Robes"
+            "value": "Mossy Robes"
           },
           {
             "trait_type": "Face",
-            "value": "Demon"
+            "value": "Wooden Skull"
           },
           {
             "trait_type": "Eyes",
