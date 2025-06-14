@@ -2,53 +2,53 @@
   {
     "txHash": "0xb871da666014af7e39eb23e0f717717327e345c7eca94b4a639f96d6f172c35b",
     "contractAddress": "0xD8fF0EF834587049092A0D6DACF129B37B413030",
-    "tokenId": "1716",
+    "tokenId": "1714",
     "collectionName": "The Project",
     "timestamp": 1749886903,
     "blockNumber": 18151767,
-    "logIndex": 2,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xD8fF0EF834587049092A0D6DACF129B37B4130301716/64",
+    "logIndex": 0,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xD8fF0EF834587049092A0D6DACF129B37B4130301714/64",
     "isFree": false,
     "valueWei": "33000000000000000000",
-    "totalContractMints": 1,
+    "totalContractMints": 2,
     "analysis": {
       "contractAddress": "0xD8fF0EF834587049092A0D6DACF129B37B413030",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "The Project #1716",
-        "image": "https://theprojectassets.blob.core.windows.net/images/1716.png?cb=100",
+        "name": "The Project #1714",
+        "image": "https://theprojectassets.blob.core.windows.net/images/1714.png?cb=100",
         "attributes": [
           {
             "trait_type": "Character",
-            "value": "Dragon"
+            "value": "Bear"
           },
           {
             "trait_type": "Body",
-            "value": "Pink"
+            "value": "White"
           },
           {
             "trait_type": "Clothes",
-            "value": "Mask Shirt"
+            "value": "Static Hoodie"
           },
           {
             "trait_type": "Hands",
-            "value": "Steak It"
+            "value": "Elephant Head"
           },
           {
             "trait_type": "Eyes",
-            "value": "Ooze"
+            "value": "Lightning"
           },
           {
             "trait_type": "Mouth",
-            "value": "Sticky"
+            "value": "Tongue Out"
           },
           {
             "trait_type": "Hat",
-            "value": "Gnome Hat"
+            "value": "Steampunk"
           },
           {
             "trait_type": "Background",
-            "value": "Rojo"
+            "value": "You'd"
           }
         ]
       },
