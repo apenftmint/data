@@ -2,52 +2,52 @@
   {
     "txHash": "0xf065f65b3ba6235cc95b496b17826cafbeb40d15221e609acc072c32b7b8ca2d",
     "contractAddress": "0x58219061B6a2D1147b09B7b2e3a5B62a4eAaD31a",
-    "tokenId": "41",
+    "tokenId": "36",
     "collectionName": "Peppie",
     "timestamp": 1749905857,
     "blockNumber": 18164142,
-    "logIndex": 35,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x58219061B6a2D1147b09B7b2e3a5B62a4eAaD31a41/64",
+    "logIndex": 30,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x58219061B6a2D1147b09B7b2e3a5B62a4eAaD31a36/64",
     "isFree": true,
-    "totalContractMints": 3,
+    "totalContractMints": 4,
     "analysis": {
       "contractAddress": "0x58219061B6a2D1147b09B7b2e3a5B62a4eAaD31a",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "Peppie #41",
+        "name": "Peppie #36",
         "description": "Bringing the two most influential subcultures together to celebrate their influence had on futures past and present.",
-        "image": "ipfs://bafybeih6773u5hppgz7j6uf2hazxngx5cgcolgqkslysogiou5trmnrwe4/41.png",
-        "dna": "6c38ab6aa05a80c747618e3dd7044d7bc7a37d7d",
-        "edition": 41,
-        "date": 1667011990641,
+        "image": "ipfs://bafybeih6773u5hppgz7j6uf2hazxngx5cgcolgqkslysogiou5trmnrwe4/36.png",
+        "dna": "9c6cb8a8e449d01ee2840ef40cac5f6322ca80c2",
+        "edition": 36,
+        "date": 1667013194567,
         "attributes": [
           {
             "trait_type": "Background",
-            "value": "Pink Space"
+            "value": "Pink"
           },
           {
             "trait_type": "Body",
-            "value": "Pink Puffer"
+            "value": "Purple Sweater with Satchel"
           },
           {
             "trait_type": "Skin",
-            "value": "Green"
+            "value": "Pink"
           },
           {
             "trait_type": "Eyes 1",
-            "value": "Neutral"
+            "value": "Wide eyed"
           },
           {
             "trait_type": "Hair 1",
-            "value": "Green Mullet"
+            "value": "Green Bowlcut"
           },
           {
             "trait_type": "Mouth 1",
-            "value": "Neutral"
+            "value": "Rainbow Puke"
           },
           {
             "trait_type": "Piercing",
-            "value": "Airpod"
+            "value": "None"
           },
           {
             "trait_type": "Accessory 1",
