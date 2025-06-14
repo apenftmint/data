@@ -1,30 +1,41 @@
 [
   {
-    "txHash": "0x53f40136e9018932daabc81b4e3d4a088114f43db044f5747abdfe682e3f97e2",
+    "txHash": "0x09141ce75c7ff758a1850cd49dc5b5840e279232d5ea92afcb805f88fb6cc772",
     "contractAddress": "0x81F2a53f6Bc5bCD100807b4f33F34f19b086688e",
-    "tokenId": "152",
+    "tokenId": "181",
     "collectionName": "Blue Pepes",
-    "timestamp": 1749885441,
-    "blockNumber": 18150714,
-    "logIndex": 4,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x81F2a53f6Bc5bCD100807b4f33F34f19b086688e152/64",
+    "timestamp": 1749885460,
+    "blockNumber": 18150725,
+    "logIndex": 3,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x81F2a53f6Bc5bCD100807b4f33F34f19b086688e181/64",
     "isFree": false,
-    "valueWei": "3000000000000000000",
-    "totalContractMints": 8,
+    "valueWei": "2200000000000000000",
+    "totalContractMints": 9,
     "analysis": {
       "contractAddress": "0x81F2a53f6Bc5bCD100807b4f33F34f19b086688e",
-      "metadataStatus": "fetch_error",
-      "fetchedMetadata": null,
+      "metadataStatus": "ok",
+      "fetchedMetadata": {
+        "name": "Blue Pepes #181",
+        "description": "FEELS GOOD MAN. BLUE PEPE NFTs to celebrate the most memeable cultural icon in existence... PEPE (but blue)",
+        "attributes": [
+          {
+            "trait_type": "Trait Count",
+            "value": "0"
+          }
+        ],
+        "image": "ipfs://bafybeicyzxklflz7bfzte3tiglcanuygifk7mhhjut366lu3hcdt6vfr5u/181.webp",
+        "compiler": "nfts2me.com"
+      },
       "nameSymbolStatus": "ok",
       "collectionNameFromAnalyzer": "Blue Pepes",
       "collectionSymbolFromAnalyzer": "PEPES",
-      "finalStatus": "Issues Detected",
+      "finalStatus": "OK",
       "statusReasons": [
-        "Error fetching metadata from URI: The operation was aborted due to timeout."
+        "Metadata fetched successfully."
       ]
     },
-    "displayStatus": "Issues Detected",
-    "mintPriceApe": "3.0000"
+    "displayStatus": "OK",
+    "mintPriceApe": "2.2000"
   },
   {
     "txHash": "0x7ad10b3e0dd7cd0bea65c67a2c82bfac1c3f441011cd517c79490037f525cdea",
