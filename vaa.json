@@ -2,15 +2,15 @@
   {
     "txHash": "0x9b85fe62eb9e406844a450513b5f7971c7995df92715b4224db1a0a1ec79a69c",
     "contractAddress": "0x422Af9C3DdECD6c3c3C3f51D6942a9f851cAF6Bc",
-    "tokenId": "52",
+    "tokenId": "53",
     "collectionName": "Murashi",
     "timestamp": 1749888195,
     "blockNumber": 18152686,
-    "logIndex": 0,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x422Af9C3DdECD6c3c3C3f51D6942a9f851cAF6Bc52/64",
+    "logIndex": 1,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x422Af9C3DdECD6c3c3C3f51D6942a9f851cAF6Bc53/64",
     "isFree": false,
     "valueWei": "15250000000000000000",
-    "totalContractMints": 18,
+    "totalContractMints": 19,
     "analysis": {
       "contractAddress": "0x422Af9C3DdECD6c3c3C3f51D6942a9f851cAF6Bc",
       "metadataStatus": "ok",
@@ -18,26 +18,26 @@
         "attributes": [
           {
             "trait_type": "gender",
-            "value": "female"
+            "value": "LGBTQ "
           },
           {
             "trait_type": "type",
-            "value": "ghosts "
+            "value": "human"
           }
         ],
         "description": "Murashi is mysterious character.",
         "expires_at": null,
         "extra": null,
-        "image": "ipfs://bafkreihs3h6df7nomxb25duqqljiaukrb7sqidnghmoyscqm6cbcf2kjwu",
-        "media": "bafkreihs3h6df7nomxb25duqqljiaukrb7sqidnghmoyscqm6cbcf2kjwu",
+        "image": "ipfs://bafkreibdlhj4yuvbzk2h4mqf7wura2gya35gqfh5vsrzdkx5aoabspa7zm",
+        "media": "bafkreibdlhj4yuvbzk2h4mqf7wura2gya35gqfh5vsrzdkx5aoabspa7zm",
         "media_hash": null,
         "mime_type": "image/gif",
-        "name": "Murashi #52",
-        "rank": 5,
-        "reference": "bafkreihmamoc7vxx3tmffm6xbhzarvtcfwey4ew6jtrco3jot3sjehdwma",
+        "name": "Murashi #53",
+        "rank": 3,
+        "reference": "bafkreig6zputygii74t7mqp5xojneb4bhxpq7vhcdsuiht7w7p7lsd5nse",
         "reference_hash": null,
         "starts_at": null,
-        "title": "Murashi #52",
+        "title": "Murashi #53",
         "updated_at": null
       },
       "nameSymbolStatus": "ok",
