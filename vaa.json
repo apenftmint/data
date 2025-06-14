@@ -2,29 +2,29 @@
   {
     "txHash": "0x08859dfe311f783cdda86295edf40dfdbde69bd7273a79fc73064f725b1fc2b9",
     "contractAddress": "0x08a24eF3a429c4589a808903cF26cD183B36909e",
-    "tokenId": "81",
+    "tokenId": "203",
     "collectionName": "Mystics ",
     "timestamp": 1749887783,
     "blockNumber": 18152422,
-    "logIndex": 6,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x08a24eF3a429c4589a808903cF26cD183B36909e81/64",
+    "logIndex": 128,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x08a24eF3a429c4589a808903cF26cD183B36909e203/64",
     "isFree": true,
-    "totalContractMints": 50,
+    "totalContractMints": 51,
     "analysis": {
       "contractAddress": "0x08a24eF3a429c4589a808903cF26cD183B36909e",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "Mystics #81",
-        "image": "ipfs://QmVm7P6fQde14YKYTaSeAUMAgxGz9YeAtALTXmC2A3nPCJ/81.gif",
+        "name": "Mystics #203",
+        "image": "ipfs://QmVm7P6fQde14YKYTaSeAUMAgxGz9YeAtALTXmC2A3nPCJ/203.gif",
         "description": "Mystics is the foundation and first ever membership to The Pier ecosystem. We are the 5000 visionaries working to turn Web3 concepts that the space can still only imagine, into reality.",
         "attributes": [
           {
             "trait_type": "Background",
-            "value": "Blue"
+            "value": "Purple"
           },
           {
             "trait_type": "Torso",
-            "value": "Cyan Spiked Hoodie"
+            "value": "X-Ray Hoodie"
           },
           {
             "trait_type": "Right Hand",
@@ -32,15 +32,15 @@
           },
           {
             "trait_type": "Backpack",
-            "value": "None"
+            "value": "Purple Monster Backpack"
           },
           {
             "trait_type": "Legs",
-            "value": "Yellow Shorts Tan"
+            "value": "Blue Ninja Shorts"
           },
           {
             "trait_type": "Shoes",
-            "value": "Slippers"
+            "value": "Star Sneakers"
           },
           {
             "trait_type": "Waist Bag",
@@ -48,11 +48,11 @@
           },
           {
             "trait_type": "Eyes",
-            "value": "Unsure"
+            "value": "Classic"
           },
           {
             "trait_type": "Left Hand",
-            "value": "Serum"
+            "value": "Star Wand"
           }
         ]
       },
