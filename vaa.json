@@ -1,5 +1,69 @@
 [
   {
+    "txHash": "0x365bf0ac15663da22d80d1bb62037dcc1338869b6a9ef5a9f3f3b7e764e4b0ca",
+    "contractAddress": "0x5B61cA24966CB7E47F634Dee04499743Fc9746b6",
+    "tokenId": "1261",
+    "collectionName": "Full Gobs",
+    "timestamp": 1749896845,
+    "blockNumber": 18159236,
+    "logIndex": 3,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x5B61cA24966CB7E47F634Dee04499743Fc9746b61261/64",
+    "isFree": false,
+    "valueWei": "100000000000000000",
+    "totalContractMints": 7,
+    "analysis": {
+      "contractAddress": "0x5B61cA24966CB7E47F634Dee04499743Fc9746b6",
+      "metadataStatus": "ok",
+      "fetchedMetadata": {
+        "name": "Gobs #1261",
+        "image": "ipfs://QmejR3XrkzCs5Psc4AwhagtHCSkb18niBPQ1yvV86XegMR/1261",
+        "attributes": [
+          {
+            "trait_type": "BODY",
+            "value": "Original"
+          },
+          {
+            "trait_type": "SHOES",
+            "value": "Chess Shoes Y.R"
+          },
+          {
+            "trait_type": "CLOTHES",
+            "value": "Argyle Sweater"
+          },
+          {
+            "trait_type": "PANTS",
+            "value": "French Blue"
+          },
+          {
+            "trait_type": "BELT",
+            "value": "Chess Belt R.P"
+          },
+          {
+            "trait_type": "MOUTH",
+            "value": "Regular"
+          },
+          {
+            "trait_type": "EYES",
+            "value": "Og"
+          },
+          {
+            "trait_type": "OFFHAND",
+            "value": "Pistol with Silencer"
+          }
+        ]
+      },
+      "nameSymbolStatus": "ok",
+      "collectionNameFromAnalyzer": "Full Gobs",
+      "collectionSymbolFromAnalyzer": "FG",
+      "finalStatus": "OK",
+      "statusReasons": [
+        "Metadata fetched successfully."
+      ]
+    },
+    "displayStatus": "OK",
+    "mintPriceApe": "0.1000"
+  },
+  {
     "txHash": "0x5f05620492048bcd5af2e1060f3e662427e942c584ec014e808db363bc3a2867",
     "contractAddress": "0x961c6D8910d6FBb803eD124F2c4480f3F6070Ec7",
     "tokenId": "4094",
@@ -424,70 +488,6 @@
     },
     "displayStatus": "OK",
     "mintPriceApe": "19.0845"
-  },
-  {
-    "txHash": "0xa70c3081b7f626194130b493d9b59300a9b388962d4e22d8ce624dc2c69deba3",
-    "contractAddress": "0x5B61cA24966CB7E47F634Dee04499743Fc9746b6",
-    "tokenId": "1259",
-    "collectionName": "Full Gobs",
-    "timestamp": 1749888546,
-    "blockNumber": 18152924,
-    "logIndex": 0,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x5B61cA24966CB7E47F634Dee04499743Fc9746b61259/64",
-    "isFree": false,
-    "valueWei": "100000000000000000",
-    "totalContractMints": 6,
-    "analysis": {
-      "contractAddress": "0x5B61cA24966CB7E47F634Dee04499743Fc9746b6",
-      "metadataStatus": "ok",
-      "fetchedMetadata": {
-        "name": "Gobs #1259",
-        "image": "ipfs://QmejR3XrkzCs5Psc4AwhagtHCSkb18niBPQ1yvV86XegMR/1259",
-        "attributes": [
-          {
-            "trait_type": "BODY",
-            "value": "Light-Skin"
-          },
-          {
-            "trait_type": "SHOES",
-            "value": "Shoes Ornament"
-          },
-          {
-            "trait_type": "CLOTHES",
-            "value": "Varsity Blue"
-          },
-          {
-            "trait_type": "PANTS",
-            "value": "Chess Panties"
-          },
-          {
-            "trait_type": "BELT",
-            "value": "Pink"
-          },
-          {
-            "trait_type": "HAT",
-            "value": "Pink-Mohawk"
-          },
-          {
-            "trait_type": "MOUTH",
-            "value": "Regular"
-          },
-          {
-            "trait_type": "EYES",
-            "value": "Og"
-          }
-        ]
-      },
-      "nameSymbolStatus": "ok",
-      "collectionNameFromAnalyzer": "Full Gobs",
-      "collectionSymbolFromAnalyzer": "FG",
-      "finalStatus": "OK",
-      "statusReasons": [
-        "Metadata fetched successfully."
-      ]
-    },
-    "displayStatus": "OK",
-    "mintPriceApe": "0.1000"
   },
   {
     "txHash": "0x624a2b70c5afbe6ec2ab8f2b09e7c2ad596150da6eb4d30ec28918e838078475",
