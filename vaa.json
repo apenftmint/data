@@ -2,48 +2,48 @@
   {
     "txHash": "0x56539c83474f9069a160e7514e9711fca2bd17b84203735e1e59510da3309ac8",
     "contractAddress": "0xb34D8B34214eb75D785353D38a635F84e327372b",
-    "tokenId": "4673",
+    "tokenId": "4671",
     "collectionName": "Peppies",
     "timestamp": 1749889853,
     "blockNumber": 18153833,
-    "logIndex": 83,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xb34D8B34214eb75D785353D38a635F84e327372b4673/64",
+    "logIndex": 81,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xb34D8B34214eb75D785353D38a635F84e327372b4671/64",
     "isFree": true,
-    "totalContractMints": 15,
+    "totalContractMints": 16,
     "analysis": {
       "contractAddress": "0xb34D8B34214eb75D785353D38a635F84e327372b",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "Peppie #4673",
+        "name": "Peppie #4671",
         "description": "Bringing the two most influential subcultures together to celebrate their influence had on futures past and present.",
-        "image": "ipfs://bafybeih6773u5hppgz7j6uf2hazxngx5cgcolgqkslysogiou5trmnrwe4/4673.png",
-        "dna": "caa5607bcd1a531758ac5a05f7032d29345e09e3",
-        "edition": 4673,
-        "date": 1667014847253,
+        "image": "ipfs://bafybeih6773u5hppgz7j6uf2hazxngx5cgcolgqkslysogiou5trmnrwe4/4671.png",
+        "dna": "9c24ceb0053e6a42042d31d81121aeda60caa390",
+        "edition": 4671,
+        "date": 1667014565531,
         "attributes": [
           {
             "trait_type": "Background",
-            "value": "Gradient 3"
+            "value": "Blue"
           },
           {
             "trait_type": "Body",
-            "value": "Navy Sweater"
+            "value": "White Puffer"
           },
           {
             "trait_type": "Skin",
-            "value": "Green"
+            "value": "Yellow"
           },
           {
             "trait_type": "Eyes 1",
-            "value": "Sad"
+            "value": "X Eyes"
           },
           {
             "trait_type": "Hair 1",
-            "value": "Brown Brushcut"
+            "value": "Beige Bucket Cap"
           },
           {
             "trait_type": "Mouth 1",
-            "value": "Tongue Out"
+            "value": "Gold Grin"
           },
           {
             "trait_type": "Piercing",
