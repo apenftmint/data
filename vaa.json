@@ -2,32 +2,32 @@
   {
     "txHash": "0xe74163831492f499af0623aec24433b7881246b7a1992c00c2b1c58c86d4c775",
     "contractAddress": "0x58219061B6a2D1147b09B7b2e3a5B62a4eAaD31a",
-    "tokenId": "138",
+    "tokenId": "103",
     "collectionName": "Peppie",
     "timestamp": 1749906059,
     "blockNumber": 18164263,
-    "logIndex": 77,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x58219061B6a2D1147b09B7b2e3a5B62a4eAaD31a138/64",
+    "logIndex": 42,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x58219061B6a2D1147b09B7b2e3a5B62a4eAaD31a103/64",
     "isFree": true,
-    "totalContractMints": 25,
+    "totalContractMints": 26,
     "analysis": {
       "contractAddress": "0x58219061B6a2D1147b09B7b2e3a5B62a4eAaD31a",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "Peppie #138",
+        "name": "Peppie #103",
         "description": "Bringing the two most influential subcultures together to celebrate their influence had on futures past and present.",
-        "image": "ipfs://bafybeih6773u5hppgz7j6uf2hazxngx5cgcolgqkslysogiou5trmnrwe4/138.png",
-        "dna": "e9709d38d89a68f029a92a8a32adcb7d3df4f784",
-        "edition": 138,
-        "date": 1667013341136,
+        "image": "ipfs://bafybeih6773u5hppgz7j6uf2hazxngx5cgcolgqkslysogiou5trmnrwe4/103.png",
+        "dna": "2ba98e919f126856718bdeb436697708e6a16a1c",
+        "edition": 103,
+        "date": 1667015034800,
         "attributes": [
           {
             "trait_type": "Background",
-            "value": "Sky"
+            "value": "Green"
           },
           {
             "trait_type": "Body",
-            "value": "Navy Sweater"
+            "value": "Green Hoodie"
           },
           {
             "trait_type": "Skin",
@@ -35,11 +35,11 @@
           },
           {
             "trait_type": "Eyes 1",
-            "value": "Bloodshot"
+            "value": "Wink"
           },
           {
             "trait_type": "Hair 1",
-            "value": "Brown Brushcut"
+            "value": "Purple Cap"
           },
           {
             "trait_type": "Mouth 1",
@@ -47,7 +47,7 @@
           },
           {
             "trait_type": "Piercing",
-            "value": "Pearl"
+            "value": "None"
           },
           {
             "trait_type": "Accessory 1",
