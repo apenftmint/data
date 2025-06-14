@@ -1,5 +1,57 @@
 [
   {
+    "txHash": "0x7ad10b3e0dd7cd0bea65c67a2c82bfac1c3f441011cd517c79490037f525cdea",
+    "contractAddress": "0xC45735D63FDa5b9a62D6C0a9bEB50b197200692F",
+    "tokenId": "546",
+    "collectionName": "WEN APES",
+    "timestamp": 1749884224,
+    "blockNumber": 18149756,
+    "logIndex": 0,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xC45735D63FDa5b9a62D6C0a9bEB50b197200692F546/64",
+    "isFree": true,
+    "totalContractMints": 1,
+    "analysis": {
+      "contractAddress": "0xC45735D63FDa5b9a62D6C0a9bEB50b197200692F",
+      "metadataStatus": "ok",
+      "fetchedMetadata": {
+        "name": "WEN APES #546",
+        "description": "Tired of no reveal?? Tired of rugged collections?? Lets stick it to these mfers with WEN APES!",
+        "attributes": [
+          {
+            "trait_type": "Base",
+            "value": "Cream"
+          },
+          {
+            "trait_type": "Head",
+            "value": "Party Hat"
+          },
+          {
+            "trait_type": "Wen Eyes",
+            "value": "Green"
+          },
+          {
+            "trait_type": "Clothing",
+            "value": "Suit"
+          },
+          {
+            "trait_type": "Trait Count",
+            "value": "4"
+          }
+        ],
+        "compiler": "nfts2me.com",
+        "image": "ipfs://bafybeibhrt3bqwadpwxswk4aqcue6lwrpkqytv2cpgads4yc5m56xwhxaa/546.webp"
+      },
+      "nameSymbolStatus": "ok",
+      "collectionNameFromAnalyzer": "WEN APES",
+      "collectionSymbolFromAnalyzer": "WEN",
+      "finalStatus": "OK",
+      "statusReasons": [
+        "Metadata fetched successfully."
+      ]
+    },
+    "displayStatus": "OK"
+  },
+  {
     "txHash": "0xf5d71a6f96079c8b32cabff004b177b16bcbbf798787896c52cdd0179ccd9592",
     "contractAddress": "0x8b4117E91a6f6A810651aFae788EC044f13a06a5",
     "tokenId": "7321",
