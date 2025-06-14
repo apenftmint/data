@@ -2,33 +2,33 @@
   {
     "txHash": "0xaeb747c0ff26db1732ce60ccc043ca4ced70843ff1283005159616c7f8ee7af2",
     "contractAddress": "0xA5a996F48FAAA1a20DA604b8201de9F570Fa33e6",
-    "tokenId": "3073",
+    "tokenId": "3077",
     "collectionName": "Reepz",
     "timestamp": 1749905328,
     "blockNumber": 18163924,
-    "logIndex": 16,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xA5a996F48FAAA1a20DA604b8201de9F570Fa33e63073/64",
+    "logIndex": 20,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xA5a996F48FAAA1a20DA604b8201de9F570Fa33e63077/64",
     "isFree": true,
-    "totalContractMints": 8,
+    "totalContractMints": 9,
     "analysis": {
       "contractAddress": "0xA5a996F48FAAA1a20DA604b8201de9F570Fa33e6",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "reepz #3073",
+        "name": "reepz #3077",
         "description": "reepz",
-        "image": "ipfs://bafybeigdubkigonfrc57kdv23isfvdtbupsfipd6o3tupioz3gzpj36tiu/3073.png",
+        "image": "ipfs://bafybeigdubkigonfrc57kdv23isfvdtbupsfipd6o3tupioz3gzpj36tiu/3077.png",
         "attributes": [
           {
             "trait_type": "Background",
-            "value": "Green"
+            "value": "Blue"
           },
           {
             "trait_type": "Robes",
-            "value": "Regular Robes"
+            "value": "Golden Robes"
           },
           {
             "trait_type": "Face",
-            "value": "Zombie"
+            "value": "Mutant"
           },
           {
             "trait_type": "Eyes",
@@ -36,7 +36,7 @@
           },
           {
             "trait_type": "Mouth",
-            "value": "None"
+            "value": "Blunt"
           },
           {
             "trait_type": "Head",
