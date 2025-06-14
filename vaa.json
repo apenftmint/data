@@ -2,29 +2,29 @@
   {
     "txHash": "0x08859dfe311f783cdda86295edf40dfdbde69bd7273a79fc73064f725b1fc2b9",
     "contractAddress": "0x08a24eF3a429c4589a808903cF26cD183B36909e",
-    "tokenId": "170",
+    "tokenId": "195",
     "collectionName": "Mystics ",
     "timestamp": 1749887783,
     "blockNumber": 18152422,
-    "logIndex": 95,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x08a24eF3a429c4589a808903cF26cD183B36909e170/64",
+    "logIndex": 120,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x08a24eF3a429c4589a808903cF26cD183B36909e195/64",
     "isFree": true,
-    "totalContractMints": 55,
+    "totalContractMints": 56,
     "analysis": {
       "contractAddress": "0x08a24eF3a429c4589a808903cF26cD183B36909e",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "Mystics #170",
-        "image": "ipfs://QmVm7P6fQde14YKYTaSeAUMAgxGz9YeAtALTXmC2A3nPCJ/170.gif",
+        "name": "Mystics #195",
+        "image": "ipfs://QmVm7P6fQde14YKYTaSeAUMAgxGz9YeAtALTXmC2A3nPCJ/195.gif",
         "description": "Mystics is the foundation and first ever membership to The Pier ecosystem. We are the 5000 visionaries working to turn Web3 concepts that the space can still only imagine, into reality.",
         "attributes": [
           {
             "trait_type": "Background",
-            "value": "Purple"
+            "value": "Pink"
           },
           {
             "trait_type": "Torso",
-            "value": "Parka"
+            "value": "Blue Spiked Hoodie"
           },
           {
             "trait_type": "Right Hand",
@@ -32,15 +32,15 @@
           },
           {
             "trait_type": "Backpack",
-            "value": "Cyan Spaceship Backpack"
+            "value": "None"
           },
           {
             "trait_type": "Legs",
-            "value": "Purple Shorts Tan"
+            "value": "Blue Trackpants"
           },
           {
             "trait_type": "Shoes",
-            "value": "Purple Circle Sneakers"
+            "value": "Slippers"
           },
           {
             "trait_type": "Waist Bag",
@@ -48,11 +48,11 @@
           },
           {
             "trait_type": "Eyes",
-            "value": "Loopy"
+            "value": "Guilty"
           },
           {
             "trait_type": "Left Hand",
-            "value": "Dino"
+            "value": "Fishing Rod"
           }
         ]
       },
