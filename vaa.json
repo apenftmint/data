@@ -2,24 +2,24 @@
   {
     "txHash": "0x0c1365e2a8066f19088686ef82a7780f0b65f02e723f1774bd798208122b7a23",
     "contractAddress": "0xb09065aC4a3f721B1a5E271ADeed478b822037DC",
-    "tokenId": "5204",
+    "tokenId": "5209",
     "collectionName": "Midgets",
     "timestamp": 1749889788,
     "blockNumber": 18153785,
-    "logIndex": 131,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xb09065aC4a3f721B1a5E271ADeed478b822037DC5204/64",
+    "logIndex": 136,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xb09065aC4a3f721B1a5E271ADeed478b822037DC5209/64",
     "isFree": true,
-    "totalContractMints": 10,
+    "totalContractMints": 11,
     "analysis": {
       "contractAddress": "0xb09065aC4a3f721B1a5E271ADeed478b822037DC",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "Midgets #5204",
+        "name": "Midgets #5209",
         "description": "Midgets is a collection of 6969 NFTs with +250 unique traits that have landed in the ETH blockchain to be burned and migrated to the ordinals (BTC) blockchain. Not your average NFT project.",
-        "image": "ipfs://bafybeiavrwtwuwpgi4qivbg4xghdgfrehcigfy2mikwqtrlqstyubqaoye/5204.png",
-        "dna": "6620255010b247094539b620ff7786e772a50b08",
-        "edition": 5204,
-        "date": 1686116146433,
+        "image": "ipfs://bafybeiavrwtwuwpgi4qivbg4xghdgfrehcigfy2mikwqtrlqstyubqaoye/5209.png",
+        "dna": "6b398ea77771e8f35aa0bfb6bbdd3fccbbc72a2b",
+        "edition": 5209,
+        "date": 1686116146525,
         "attributes": [
           {
             "trait_type": "BACKGROUND",
@@ -31,15 +31,15 @@
           },
           {
             "trait_type": "CLOTHES",
-            "value": "BOXING RED"
+            "value": "minion"
           },
           {
             "trait_type": "FACE",
-            "value": "ANGRY"
+            "value": "blush"
           },
           {
             "trait_type": "HEAD",
-            "value": "pink beanie"
+            "value": "helmet yellow"
           }
         ]
       },
