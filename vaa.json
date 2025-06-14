@@ -1,54 +1,57 @@
 [
   {
-    "txHash": "0x060e36a6b4393b21af255ef1c70c3d51debd277e58dfd07e7ec048f19e48533c",
+    "txHash": "0xd0548289dc8833881dc47bf160982a98c6d278d17775eb2129d17928ddb7fe5a",
     "contractAddress": "0xD8fF0EF834587049092A0D6DACF129B37B413030",
-    "tokenId": "1722",
+    "tokenId": "1723",
     "collectionName": "The Project",
-    "timestamp": 1749905222,
-    "blockNumber": 18163876,
-    "logIndex": 2,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xD8fF0EF834587049092A0D6DACF129B37B4130301722/64",
+    "timestamp": 1749905325,
+    "blockNumber": 18163921,
+    "logIndex": 0,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xD8fF0EF834587049092A0D6DACF129B37B4130301723/64",
     "isFree": false,
     "valueWei": "33000000000000000000",
-    "totalContractMints": 10,
+    "totalContractMints": 11,
     "analysis": {
       "contractAddress": "0xD8fF0EF834587049092A0D6DACF129B37B413030",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "The Project #1722",
-        "image": "https://theprojectassets.blob.core.windows.net/images/1722.png?cb=100",
+        "name": "The Project #1723",
+        "image": "https://theprojectassets.blob.core.windows.net/images/1723.png?cb=100",
         "attributes": [
           {
             "trait_type": "Character",
-            "value": "Monkey"
+            "value": "Goat"
           },
           {
             "trait_type": "Body",
-            "value": "Gold"
+            "value": "White"
           },
           {
             "trait_type": "Clothes",
-            "value": "The Project T Black"
+            "value": "Party Suit"
           },
           {
             "trait_type": "Hands",
-            "value": "Green Shroom"
+            "value": "Nanners"
           },
           {
             "trait_type": "Eyes",
-            "value": "Normal"
+            "value": "Light Show"
           },
           {
             "trait_type": "Mouth",
-            "value": "Gold Grill"
+            "value": "Colorful, Tongue Out"
           },
           {
             "trait_type": "Hat",
-            "value": "Earhart"
+            "value": "Kings Crown"
+          },
+          {
+            "value": "Wings"
           },
           {
             "trait_type": "Background",
-            "value": "Tripped"
+            "value": "Orange"
           }
         ]
       },
