@@ -2,32 +2,32 @@
   {
     "txHash": "0x56539c83474f9069a160e7514e9711fca2bd17b84203735e1e59510da3309ac8",
     "contractAddress": "0xb34D8B34214eb75D785353D38a635F84e327372b",
-    "tokenId": "4638",
+    "tokenId": "4657",
     "collectionName": "Peppies",
     "timestamp": 1749889853,
     "blockNumber": 18153833,
-    "logIndex": 48,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xb34D8B34214eb75D785353D38a635F84e327372b4638/64",
+    "logIndex": 67,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xb34D8B34214eb75D785353D38a635F84e327372b4657/64",
     "isFree": true,
-    "totalContractMints": 9,
+    "totalContractMints": 10,
     "analysis": {
       "contractAddress": "0xb34D8B34214eb75D785353D38a635F84e327372b",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "Peppie #4638",
+        "name": "Peppie #4657",
         "description": "Bringing the two most influential subcultures together to celebrate their influence had on futures past and present.",
-        "image": "ipfs://bafybeih6773u5hppgz7j6uf2hazxngx5cgcolgqkslysogiou5trmnrwe4/4638.png",
-        "dna": "bc660edecbf2db1a9ba31515c4246040b1afbea7",
-        "edition": 4638,
-        "date": 1667011051682,
+        "image": "ipfs://bafybeih6773u5hppgz7j6uf2hazxngx5cgcolgqkslysogiou5trmnrwe4/4657.png",
+        "dna": "3eac5293522e9bab2fe0507e3f44e5ec6c4b2e1d",
+        "edition": 4657,
+        "date": 1667014927905,
         "attributes": [
           {
             "trait_type": "Background",
-            "value": "Green"
+            "value": "Yellow"
           },
           {
             "trait_type": "Body",
-            "value": "Orange Puffer"
+            "value": "Blue Blazer"
           },
           {
             "trait_type": "Skin",
@@ -35,23 +35,23 @@
           },
           {
             "trait_type": "Eyes 1",
-            "value": "Wink"
+            "value": "Neutral"
           },
           {
             "trait_type": "Hair 1",
-            "value": "Blue Puffballs"
+            "value": "Brown Brushcut"
           },
           {
             "trait_type": "Mouth 1",
-            "value": "Dumbfounded"
+            "value": "Moustache"
           },
           {
             "trait_type": "Piercing",
-            "value": "None"
+            "value": "Hoop"
           },
           {
             "trait_type": "Accessory 1",
-            "value": "Aviators"
+            "value": "None"
           }
         ],
         "compiler": "Peppies"
