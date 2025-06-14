@@ -10,7 +10,7 @@
     "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x342239362E3EF2561e06010eC7FCBCf2699Bc6e416/64",
     "isFree": false,
     "valueWei": "450000000000000000",
-    "totalContractMints": 1,
+    "totalContractMints": 2,
     "analysis": {
       "contractAddress": "0x342239362E3EF2561e06010eC7FCBCf2699Bc6e4",
       "metadataStatus": "ok",
