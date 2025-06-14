@@ -1,5 +1,69 @@
 [
   {
+    "txHash": "0x060e36a6b4393b21af255ef1c70c3d51debd277e58dfd07e7ec048f19e48533c",
+    "contractAddress": "0xD8fF0EF834587049092A0D6DACF129B37B413030",
+    "tokenId": "1720",
+    "collectionName": "The Project",
+    "timestamp": 1749905222,
+    "blockNumber": 18163876,
+    "logIndex": 0,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xD8fF0EF834587049092A0D6DACF129B37B4130301720/64",
+    "isFree": false,
+    "valueWei": "33000000000000000000",
+    "totalContractMints": 8,
+    "analysis": {
+      "contractAddress": "0xD8fF0EF834587049092A0D6DACF129B37B413030",
+      "metadataStatus": "ok",
+      "fetchedMetadata": {
+        "name": "The Project #1720",
+        "image": "https://theprojectassets.blob.core.windows.net/images/1720.png?cb=100",
+        "attributes": [
+          {
+            "trait_type": "Character",
+            "value": "Elephant"
+          },
+          {
+            "trait_type": "Body",
+            "value": "White"
+          },
+          {
+            "trait_type": "Clothes",
+            "value": "Dwaginz T"
+          },
+          {
+            "trait_type": "Hands",
+            "value": "Burger"
+          },
+          {
+            "trait_type": "Eyes",
+            "value": "White"
+          },
+          {
+            "trait_type": "Mouth",
+            "value": "Sticky"
+          },
+          {
+            "trait_type": "Hat",
+            "value": "Pharo"
+          },
+          {
+            "trait_type": "Background",
+            "value": "Rojo"
+          }
+        ]
+      },
+      "nameSymbolStatus": "ok",
+      "collectionNameFromAnalyzer": "The Project",
+      "collectionSymbolFromAnalyzer": "Project",
+      "finalStatus": "OK",
+      "statusReasons": [
+        "Metadata fetched successfully."
+      ]
+    },
+    "displayStatus": "OK",
+    "mintPriceApe": "33.0000"
+  },
+  {
     "txHash": "0xdbafa6bc0995594d9e212ba1ee019d0a80201fb8af2637a4667b6eee19941d9d",
     "contractAddress": "0x56974f917a22fE2Ff2b82252cE74B2d3e4023B66",
     "tokenId": "74",
@@ -432,70 +496,6 @@
     },
     "displayStatus": "Issues Detected",
     "mintPriceApe": "1.0000"
-  },
-  {
-    "txHash": "0xbf3e894d0df50a2798a9fa2e079ee5cbfc2fd95b4f0558e1b248babd457dd09a",
-    "contractAddress": "0xD8fF0EF834587049092A0D6DACF129B37B413030",
-    "tokenId": "1718",
-    "collectionName": "The Project",
-    "timestamp": 1749895878,
-    "blockNumber": 18158579,
-    "logIndex": 1,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xD8fF0EF834587049092A0D6DACF129B37B4130301718/64",
-    "isFree": false,
-    "valueWei": "33000000000000000000",
-    "totalContractMints": 7,
-    "analysis": {
-      "contractAddress": "0xD8fF0EF834587049092A0D6DACF129B37B413030",
-      "metadataStatus": "ok",
-      "fetchedMetadata": {
-        "name": "The Project #1718",
-        "image": "https://theprojectassets.blob.core.windows.net/images/1718.png?cb=100",
-        "attributes": [
-          {
-            "trait_type": "Character",
-            "value": "Fox"
-          },
-          {
-            "trait_type": "Body",
-            "value": "White"
-          },
-          {
-            "trait_type": "Clothes",
-            "value": "Banana Shirt"
-          },
-          {
-            "trait_type": "Hands",
-            "value": "Durian"
-          },
-          {
-            "trait_type": "Eyes",
-            "value": "White"
-          },
-          {
-            "trait_type": "Mouth",
-            "value": "Tongue Out"
-          },
-          {
-            "trait_type": "Hat",
-            "value": "Earhart"
-          },
-          {
-            "trait_type": "Background",
-            "value": "Greyish"
-          }
-        ]
-      },
-      "nameSymbolStatus": "ok",
-      "collectionNameFromAnalyzer": "The Project",
-      "collectionSymbolFromAnalyzer": "Project",
-      "finalStatus": "OK",
-      "statusReasons": [
-        "Metadata fetched successfully."
-      ]
-    },
-    "displayStatus": "OK",
-    "mintPriceApe": "33.0000"
   },
   {
     "txHash": "0xf560691640e33b6d1381864c680820551e66ad179050b2f050a8cc6d9fbf90ac",
