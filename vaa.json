@@ -1,5 +1,32 @@
 [
   {
+    "txHash": "0x5a65a10db94f8eab1423f1cdaf5ae26964b1d02967be4666d8dc58b28d7e1a2b",
+    "contractAddress": "0xDB9098A9f21a5C21A4EF73F40598eB1177EDDF77",
+    "tokenId": "19",
+    "collectionName": "Monkey Wish NFT",
+    "timestamp": 1749883131,
+    "blockNumber": 18148916,
+    "logIndex": 0,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xDB9098A9f21a5C21A4EF73F40598eB1177EDDF7719/64",
+    "isFree": false,
+    "valueWei": "500000000000000000",
+    "totalContractMints": 1,
+    "analysis": {
+      "contractAddress": "0xDB9098A9f21a5C21A4EF73F40598eB1177EDDF77",
+      "metadataStatus": "fetch_error",
+      "fetchedMetadata": null,
+      "nameSymbolStatus": "ok",
+      "collectionNameFromAnalyzer": "Monkey Wish NFT",
+      "collectionSymbolFromAnalyzer": "MWISH",
+      "finalStatus": "Issues Detected",
+      "statusReasons": [
+        "Error fetching metadata from URI: Failed to parse URL from Qma6pGrggsW6B5ivjz4sRLBURRUwrjoh1cAzuPY9eFtekT."
+      ]
+    },
+    "displayStatus": "Issues Detected",
+    "mintPriceApe": "0.5000"
+  },
+  {
     "txHash": "0x0ce66e321930dc771d27bd59aecbfa0c58c628447df8e0d814098756eeadc9a7",
     "contractAddress": "0x2e7949808E6517359393b538CD00845dC4bA0dA5",
     "tokenId": "489",
