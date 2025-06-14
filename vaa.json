@@ -1,5 +1,59 @@
 [
   {
+    "txHash": "0x0c1365e2a8066f19088686ef82a7780f0b65f02e723f1774bd798208122b7a23",
+    "contractAddress": "0xb09065aC4a3f721B1a5E271ADeed478b822037DC",
+    "tokenId": "5196",
+    "collectionName": "Midgets",
+    "timestamp": 1749889788,
+    "blockNumber": 18153785,
+    "logIndex": 123,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xb09065aC4a3f721B1a5E271ADeed478b822037DC5196/64",
+    "isFree": true,
+    "totalContractMints": 1,
+    "analysis": {
+      "contractAddress": "0xb09065aC4a3f721B1a5E271ADeed478b822037DC",
+      "metadataStatus": "ok",
+      "fetchedMetadata": {
+        "name": "Midgets #5196",
+        "description": "Midgets is a collection of 6969 NFTs with +250 unique traits that have landed in the ETH blockchain to be burned and migrated to the ordinals (BTC) blockchain. Not your average NFT project.",
+        "image": "ipfs://bafybeiavrwtwuwpgi4qivbg4xghdgfrehcigfy2mikwqtrlqstyubqaoye/5196.png",
+        "dna": "446f049c79e89a5bdf1e7095400305efbc1583c2",
+        "edition": 5196,
+        "date": 1686116146258,
+        "attributes": [
+          {
+            "trait_type": "BACKGROUND",
+            "value": "BG"
+          },
+          {
+            "trait_type": "SKIN",
+            "value": "ZOMBIE"
+          },
+          {
+            "trait_type": "CLOTHES",
+            "value": "vegas"
+          },
+          {
+            "trait_type": "FACE",
+            "value": "VEGAS"
+          },
+          {
+            "trait_type": "HEAD",
+            "value": "AFRO"
+          }
+        ]
+      },
+      "nameSymbolStatus": "ok",
+      "collectionNameFromAnalyzer": "Midgets",
+      "collectionSymbolFromAnalyzer": "MID",
+      "finalStatus": "OK",
+      "statusReasons": [
+        "Metadata fetched successfully."
+      ]
+    },
+    "displayStatus": "OK"
+  },
+  {
     "txHash": "0xd8d6b18ca90ac682aedf09e3324d68dd05ccf5e67e65ecb6514a1fc710da503a",
     "contractAddress": "0xC216fCdEb961EEF95657Cb45dEe20e379C7624B8",
     "tokenId": "4191",
