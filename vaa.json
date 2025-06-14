@@ -2,56 +2,27 @@
   {
     "txHash": "0x0c1365e2a8066f19088686ef82a7780f0b65f02e723f1774bd798208122b7a23",
     "contractAddress": "0xb09065aC4a3f721B1a5E271ADeed478b822037DC",
-    "tokenId": "5214",
+    "tokenId": "5172",
     "collectionName": "Midgets",
     "timestamp": 1749889788,
     "blockNumber": 18153785,
-    "logIndex": 141,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xb09065aC4a3f721B1a5E271ADeed478b822037DC5214/64",
+    "logIndex": 99,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xb09065aC4a3f721B1a5E271ADeed478b822037DC5172/64",
     "isFree": true,
-    "totalContractMints": 12,
+    "totalContractMints": 13,
     "analysis": {
       "contractAddress": "0xb09065aC4a3f721B1a5E271ADeed478b822037DC",
-      "metadataStatus": "ok",
-      "fetchedMetadata": {
-        "name": "Midgets #5214",
-        "description": "Midgets is a collection of 6969 NFTs with +250 unique traits that have landed in the ETH blockchain to be burned and migrated to the ordinals (BTC) blockchain. Not your average NFT project.",
-        "image": "ipfs://bafybeiavrwtwuwpgi4qivbg4xghdgfrehcigfy2mikwqtrlqstyubqaoye/5214.png",
-        "dna": "a73dd471507369fbb2cb0c6f282e9f79b2c64857",
-        "edition": 5214,
-        "date": 1686116146606,
-        "attributes": [
-          {
-            "trait_type": "BACKGROUND",
-            "value": "BG"
-          },
-          {
-            "trait_type": "SKIN",
-            "value": "ASIAN"
-          },
-          {
-            "trait_type": "CLOTHES",
-            "value": "FORMAL WHITE"
-          },
-          {
-            "trait_type": "FACE",
-            "value": "YELLOW"
-          },
-          {
-            "trait_type": "HEAD",
-            "value": "jesters hat orange"
-          }
-        ]
-      },
+      "metadataStatus": "fetch_error",
+      "fetchedMetadata": null,
       "nameSymbolStatus": "ok",
       "collectionNameFromAnalyzer": "Midgets",
       "collectionSymbolFromAnalyzer": "MID",
-      "finalStatus": "OK",
+      "finalStatus": "Issues Detected",
       "statusReasons": [
-        "Metadata fetched successfully."
+        "Error fetching metadata from URI: The operation was aborted due to timeout."
       ]
     },
-    "displayStatus": "OK"
+    "displayStatus": "Issues Detected"
   },
   {
     "txHash": "0xd8d6b18ca90ac682aedf09e3324d68dd05ccf5e67e65ecb6514a1fc710da503a",
