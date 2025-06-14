@@ -1,5 +1,45 @@
 [
   {
+    "txHash": "0xbef498bb4b1fa52395a7915f1282a52f7b89fb1579363e4f4f8b7b68a1c9135c",
+    "contractAddress": "0x422Af9C3DdECD6c3c3C3f51D6942a9f851cAF6Bc",
+    "tokenId": "373",
+    "collectionName": "Murashi",
+    "timestamp": 1749895023,
+    "blockNumber": 18157921,
+    "logIndex": 17,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x422Af9C3DdECD6c3c3C3f51D6942a9f851cAF6Bc373/64",
+    "isFree": true,
+    "totalContractMints": 52,
+    "analysis": {
+      "contractAddress": "0x422Af9C3DdECD6c3c3C3f51D6942a9f851cAF6Bc",
+      "metadataStatus": "ok",
+      "fetchedMetadata": {
+        "description": "Murashi is mysterious character.",
+        "expires_at": null,
+        "extra": null,
+        "image": "ipfs://bafkreieodnoobzhnkh3gimuehowy44mvcftsfqmexpzq4e7m2ng23sluce",
+        "media": "bafkreieodnoobzhnkh3gimuehowy44mvcftsfqmexpzq4e7m2ng23sluce",
+        "media_hash": null,
+        "mime_type": "image/gif",
+        "name": "Murashi #373",
+        "rank": 42,
+        "reference": "bafkreihdm3ze7v3s2zybo3fzhtp6mxth2xkql3n3iyggfmzs2af2hqrzje",
+        "reference_hash": null,
+        "starts_at": null,
+        "title": "Murashi #373",
+        "updated_at": null
+      },
+      "nameSymbolStatus": "ok",
+      "collectionNameFromAnalyzer": "Murashi",
+      "collectionSymbolFromAnalyzer": "MUR",
+      "finalStatus": "OK",
+      "statusReasons": [
+        "Metadata fetched successfully."
+      ]
+    },
+    "displayStatus": "OK"
+  },
+  {
     "txHash": "0x5c128a5682a90067820032905f6218be7663ecf4cbd5c344e746acc47f40f321",
     "contractAddress": "0x2d1469E395aCf37E2CfD1853600c542EEEDB266F",
     "tokenId": "699",
@@ -485,46 +525,6 @@
     },
     "displayStatus": "OK",
     "mintPriceApe": "0.0500"
-  },
-  {
-    "txHash": "0x087193a63bdce12adacdc2f24fc22e79d6f1b124d5fab152b4464a249b7bd51b",
-    "contractAddress": "0x422Af9C3DdECD6c3c3C3f51D6942a9f851cAF6Bc",
-    "tokenId": "334",
-    "collectionName": "Murashi",
-    "timestamp": 1749888526,
-    "blockNumber": 18152909,
-    "logIndex": 129,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x422Af9C3DdECD6c3c3C3f51D6942a9f851cAF6Bc334/64",
-    "isFree": true,
-    "totalContractMints": 51,
-    "analysis": {
-      "contractAddress": "0x422Af9C3DdECD6c3c3C3f51D6942a9f851cAF6Bc",
-      "metadataStatus": "ok",
-      "fetchedMetadata": {
-        "description": "Murashi is mysterious character.",
-        "expires_at": null,
-        "extra": null,
-        "image": "ipfs://bafkreielya3wzowtdb4bjrifghylahv7vm37l4snv2ox4lhuffynakdkpy",
-        "media": "bafkreielya3wzowtdb4bjrifghylahv7vm37l4snv2ox4lhuffynakdkpy",
-        "media_hash": null,
-        "mime_type": "image/gif",
-        "name": "Murashi #334",
-        "rank": 43,
-        "reference": "bafkreic62f4dna7v4e4vqbezkparmoj334f3wbfyljjfbwmycr4if66f7e",
-        "reference_hash": null,
-        "starts_at": null,
-        "title": "Murashi #334",
-        "updated_at": null
-      },
-      "nameSymbolStatus": "ok",
-      "collectionNameFromAnalyzer": "Murashi",
-      "collectionSymbolFromAnalyzer": "MUR",
-      "finalStatus": "OK",
-      "statusReasons": [
-        "Metadata fetched successfully."
-      ]
-    },
-    "displayStatus": "OK"
   },
   {
     "txHash": "0xf8e39a50deb6b6f83b3bdcfc37b18b2014b112f59081d6bfbe6ce0f9ae573b0d",
