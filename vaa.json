@@ -2,30 +2,30 @@
   {
     "txHash": "0x2525dbe1d5de24560950394082d8dc703f4b80405d06414eaea4151005e09482",
     "contractAddress": "0x08a24eF3a429c4589a808903cF26cD183B36909e",
-    "tokenId": "1",
+    "tokenId": "4",
     "collectionName": "Mystics ",
     "timestamp": 1749887247,
     "blockNumber": 18152030,
-    "logIndex": 0,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x08a24eF3a429c4589a808903cF26cD183B36909e1/64",
+    "logIndex": 3,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x08a24eF3a429c4589a808903cF26cD183B36909e4/64",
     "isFree": false,
     "valueWei": "5250000000000000000",
-    "totalContractMints": 2,
+    "totalContractMints": 3,
     "analysis": {
       "contractAddress": "0x08a24eF3a429c4589a808903cF26cD183B36909e",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "Mystics #1",
-        "image": "ipfs://QmVm7P6fQde14YKYTaSeAUMAgxGz9YeAtALTXmC2A3nPCJ/1.gif",
+        "name": "Mystics #4",
+        "image": "ipfs://QmVm7P6fQde14YKYTaSeAUMAgxGz9YeAtALTXmC2A3nPCJ/4.gif",
         "description": "Mystics is the foundation and first ever membership to The Pier ecosystem. We are the 5000 visionaries working to turn Web3 concepts that the space can still only imagine, into reality.",
         "attributes": [
           {
             "trait_type": "Background",
-            "value": "Neutral"
+            "value": "Blue"
           },
           {
             "trait_type": "Torso",
-            "value": "Yellow Casual Hoodie"
+            "value": "Cyan Spiked Hoodie"
           },
           {
             "trait_type": "Right Hand",
@@ -33,27 +33,27 @@
           },
           {
             "trait_type": "Backpack",
-            "value": "None"
+            "value": "Blue Backpack"
           },
           {
             "trait_type": "Legs",
-            "value": "Blue Zip Pocket Shorts"
+            "value": "Purple Zipper Shorts"
           },
           {
             "trait_type": "Shoes",
-            "value": "Pink Circle Sneakers"
+            "value": "Puppy Slippers"
           },
           {
             "trait_type": "Waist Bag",
-            "value": "None"
+            "value": "Sherbet Waistbag"
           },
           {
             "trait_type": "Eyes",
-            "value": "Classic"
+            "value": "Lovestruck"
           },
           {
             "trait_type": "Left Hand",
-            "value": "Skull"
+            "value": "Balloon Sword"
           }
         ]
       },
