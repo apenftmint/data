@@ -2,29 +2,29 @@
   {
     "txHash": "0x8fd1912423de2b7f0bbfdea9a5eeefa363ea29e4e42f4ef28cac556d473e3f0c",
     "contractAddress": "0x961c6D8910d6FBb803eD124F2c4480f3F6070Ec7",
-    "tokenId": "4117",
+    "tokenId": "4142",
     "collectionName": "Part",
     "timestamp": 1749900490,
     "blockNumber": 18161682,
-    "logIndex": 7,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x961c6D8910d6FBb803eD124F2c4480f3F6070Ec74117/64",
+    "logIndex": 32,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x961c6D8910d6FBb803eD124F2c4480f3F6070Ec74142/64",
     "isFree": true,
-    "totalContractMints": 30,
+    "totalContractMints": 31,
     "analysis": {
       "contractAddress": "0x961c6D8910d6FBb803eD124F2c4480f3F6070Ec7",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "Diamond Pin #4117",
+        "name": "Diamond Pin #4142",
         "description": "EGG$ PARTS are the building blocks of legend.\n\nEach Part is a fragment of EGG$ potential.\n\nUnlocked from CORES, waiting to be revealed, forged, and crafted to make something that didn't exist before you.\n\nThis is the layer where design becomes identity.\nWhere holders guide the evolution.\nWhere culture, community, and protection unlock the rarest forms of design evolution.\nCustom. Curated. Forever expandable.\n\nThe EGG$ don't just evolve.\nYOU shape what they become using these Parts to activate Evolution.",
-        "image": "https://cryptojeweler.s3.us-east-1.amazonaws.com/parts/Grenegg/White Gold/Ember/Crown/Diamond Pin.png",
+        "image": "https://cryptojeweler.s3.us-east-1.amazonaws.com/parts/Grenegg/Rose Gold/Ice/Crown/Diamond Pin.png",
         "attributes": [
           {
             "trait_type": "Metal Type",
-            "value": "White Gold"
+            "value": "Rose Gold"
           },
           {
             "trait_type": "Colorway",
-            "value": "Ember"
+            "value": "Ice"
           },
           {
             "trait_type": "Part Type",
