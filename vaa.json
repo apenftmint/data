@@ -2,29 +2,29 @@
   {
     "txHash": "0x0dbb97924e32e2269d75a3c99cf328b5b484cf4a36fa470813f91aa0181a26ba",
     "contractAddress": "0x08a24eF3a429c4589a808903cF26cD183B36909e",
-    "tokenId": "29",
+    "tokenId": "43",
     "collectionName": "Mystics ",
     "timestamp": 1749887328,
     "blockNumber": 18152085,
-    "logIndex": 23,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x08a24eF3a429c4589a808903cF26cD183B36909e29/64",
+    "logIndex": 37,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x08a24eF3a429c4589a808903cF26cD183B36909e43/64",
     "isFree": true,
-    "totalContractMints": 14,
+    "totalContractMints": 15,
     "analysis": {
       "contractAddress": "0x08a24eF3a429c4589a808903cF26cD183B36909e",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "Mystics #29",
-        "image": "ipfs://QmVm7P6fQde14YKYTaSeAUMAgxGz9YeAtALTXmC2A3nPCJ/29.gif",
+        "name": "Mystics #43",
+        "image": "ipfs://QmVm7P6fQde14YKYTaSeAUMAgxGz9YeAtALTXmC2A3nPCJ/43.gif",
         "description": "Mystics is the foundation and first ever membership to The Pier ecosystem. We are the 5000 visionaries working to turn Web3 concepts that the space can still only imagine, into reality.",
         "attributes": [
           {
             "trait_type": "Background",
-            "value": "Neutral"
+            "value": "Green"
           },
           {
             "trait_type": "Torso",
-            "value": "Frog Hoodie"
+            "value": "Blue Classic Hoodie"
           },
           {
             "trait_type": "Right Hand",
@@ -32,15 +32,15 @@
           },
           {
             "trait_type": "Backpack",
-            "value": "Purple Monster Backpack"
+            "value": "None"
           },
           {
             "trait_type": "Legs",
-            "value": "Purple Shorts"
+            "value": "Purple Shorts Tan"
           },
           {
             "trait_type": "Shoes",
-            "value": "Star Sneakers"
+            "value": "Slippers"
           },
           {
             "trait_type": "Waist Bag",
@@ -48,7 +48,7 @@
           },
           {
             "trait_type": "Eyes",
-            "value": "Squint"
+            "value": "Dragon"
           },
           {
             "trait_type": "Left Hand",
