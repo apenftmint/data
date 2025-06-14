@@ -2,61 +2,27 @@
   {
     "txHash": "0xe74163831492f499af0623aec24433b7881246b7a1992c00c2b1c58c86d4c775",
     "contractAddress": "0x58219061B6a2D1147b09B7b2e3a5B62a4eAaD31a",
-    "tokenId": "174",
+    "tokenId": "158",
     "collectionName": "Peppie",
     "timestamp": 1749906059,
     "blockNumber": 18164263,
-    "logIndex": 113,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x58219061B6a2D1147b09B7b2e3a5B62a4eAaD31a174/64",
+    "logIndex": 97,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x58219061B6a2D1147b09B7b2e3a5B62a4eAaD31a158/64",
     "isFree": true,
-    "totalContractMints": 37,
+    "totalContractMints": 38,
     "analysis": {
       "contractAddress": "0x58219061B6a2D1147b09B7b2e3a5B62a4eAaD31a",
-      "metadataStatus": "ok",
-      "fetchedMetadata": {
-        "name": "Peppie #174",
-        "description": "Bringing the two most influential subcultures together to celebrate their influence had on futures past and present.",
-        "image": "ipfs://bafybeih6773u5hppgz7j6uf2hazxngx5cgcolgqkslysogiou5trmnrwe4/174.png",
-        "dna": "de44cbcd4e79ac0becb0118490b90ae8ae197740",
-        "edition": 174,
-        "date": 1667015144822,
-        "attributes": [
-          {
-            "trait_type": "Background",
-            "value": "Green"
-          },
-          {
-            "trait_type": "Body",
-            "value": "Pink Backpack"
-          },
-          {
-            "trait_type": "Devil",
-            "value": "Devil Green"
-          },
-          {
-            "trait_type": "Eyes 2",
-            "value": "Wide Eyed"
-          },
-          {
-            "trait_type": "Mouth 1",
-            "value": "Wah"
-          },
-          {
-            "trait_type": "Accessory 2",
-            "value": "None"
-          }
-        ],
-        "compiler": "Peppies"
-      },
+      "metadataStatus": "fetch_error",
+      "fetchedMetadata": null,
       "nameSymbolStatus": "ok",
       "collectionNameFromAnalyzer": "Peppie",
       "collectionSymbolFromAnalyzer": "PEP",
-      "finalStatus": "OK",
+      "finalStatus": "Issues Detected",
       "statusReasons": [
-        "Metadata fetched successfully."
+        "Error fetching metadata from URI: The operation was aborted due to timeout."
       ]
     },
-    "displayStatus": "OK"
+    "displayStatus": "Issues Detected"
   },
   {
     "txHash": "0x8fc74df30a176de22beaacf777f4a65f6670b9f83d46877042568467517a1df3",
