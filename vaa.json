@@ -2,21 +2,21 @@
   {
     "txHash": "0x52015035b04054a6b1dc9ee0516a5a0c68d72d0d20685730df4eb174e250e01f",
     "contractAddress": "0x5B61cA24966CB7E47F634Dee04499743Fc9746b6",
-    "tokenId": "1266",
+    "tokenId": "1269",
     "collectionName": "Full Gobs",
     "timestamp": 1749909174,
     "blockNumber": 18165438,
-    "logIndex": 0,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x5B61cA24966CB7E47F634Dee04499743Fc9746b61266/64",
+    "logIndex": 3,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x5B61cA24966CB7E47F634Dee04499743Fc9746b61269/64",
     "isFree": false,
     "valueWei": "400000000000000000",
-    "totalContractMints": 13,
+    "totalContractMints": 14,
     "analysis": {
       "contractAddress": "0x5B61cA24966CB7E47F634Dee04499743Fc9746b6",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "Gobs #1266",
-        "image": "ipfs://QmejR3XrkzCs5Psc4AwhagtHCSkb18niBPQ1yvV86XegMR/1266",
+        "name": "Gobs #1269",
+        "image": "ipfs://QmejR3XrkzCs5Psc4AwhagtHCSkb18niBPQ1yvV86XegMR/1269",
         "attributes": [
           {
             "trait_type": "BODY",
@@ -24,19 +24,31 @@
           },
           {
             "trait_type": "SHOES",
-            "value": "Flying"
+            "value": "Blue"
           },
           {
             "trait_type": "CLOTHES",
-            "value": "Chameleon Dress Black"
+            "value": "Puffy Jacket Red"
+          },
+          {
+            "trait_type": "CAPE-CHAIN",
+            "value": "Gold"
+          },
+          {
+            "trait_type": "PANTS",
+            "value": "Purple Striped Shorts"
           },
           {
             "trait_type": "BELT",
-            "value": "Black Belt"
+            "value": "Aqua"
+          },
+          {
+            "trait_type": "HAT",
+            "value": "Green-Mohawk"
           },
           {
             "trait_type": "MOUTH",
-            "value": "Bloody-Mouth"
+            "value": "Regular"
           },
           {
             "trait_type": "EYES",
