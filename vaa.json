@@ -2,14 +2,14 @@
   {
     "txHash": "0xa82d38d8088300554fe9e421507b7afb69532c77fc02a9f7a5a4f94fa08782f6",
     "contractAddress": "0x422Af9C3DdECD6c3c3C3f51D6942a9f851cAF6Bc",
-    "tokenId": "17",
+    "tokenId": "14",
     "collectionName": "Murashi",
     "timestamp": 1749888173,
     "blockNumber": 18152669,
-    "logIndex": 11,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x422Af9C3DdECD6c3c3C3f51D6942a9f851cAF6Bc17/64",
+    "logIndex": 8,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x422Af9C3DdECD6c3c3C3f51D6942a9f851cAF6Bc14/64",
     "isFree": true,
-    "totalContractMints": 13,
+    "totalContractMints": 14,
     "analysis": {
       "contractAddress": "0x422Af9C3DdECD6c3c3C3f51D6942a9f851cAF6Bc",
       "metadataStatus": "ok",
@@ -17,26 +17,26 @@
         "attributes": [
           {
             "trait_type": "gender",
-            "value": "LGBTQ"
+            "value": "male"
           },
           {
             "trait_type": "type",
-            "value": "robot"
+            "value": "zombie"
           }
         ],
         "description": "Murashi is mysterious character.",
         "expires_at": null,
         "extra": null,
-        "image": "ipfs://bafkreiazwwqxkwpsacaqw5lzxlkxobwmifhois76otprxsyqorhpvd67j4",
-        "media": "bafkreiazwwqxkwpsacaqw5lzxlkxobwmifhois76otprxsyqorhpvd67j4",
+        "image": "ipfs://bafkreih4yytdulpfw5ahnsomirgyhjxmzfhougmczhlnecw24v2apweevu",
+        "media": "bafkreih4yytdulpfw5ahnsomirgyhjxmzfhougmczhlnecw24v2apweevu",
         "media_hash": null,
         "mime_type": "image/gif",
-        "name": "Murashi #17",
-        "rank": 24,
-        "reference": "bafkreifepnjlvoe7iil4lo2g275lmwcrvjpws36z2773yvxbuyltutkn5q",
+        "name": "Murashi #14",
+        "rank": 9,
+        "reference": "bafkreicbcb4nvytvcolo2vhxaclgxbcxxsgsj7nzpi74bmv6d5oxlthew4",
         "reference_hash": null,
         "starts_at": null,
-        "title": "Murashi #17",
+        "title": "Murashi #14",
         "updated_at": null
       },
       "nameSymbolStatus": "ok",
