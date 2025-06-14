@@ -2,61 +2,27 @@
   {
     "txHash": "0xe74163831492f499af0623aec24433b7881246b7a1992c00c2b1c58c86d4c775",
     "contractAddress": "0x58219061B6a2D1147b09B7b2e3a5B62a4eAaD31a",
-    "tokenId": "227",
+    "tokenId": "209",
     "collectionName": "Peppie",
     "timestamp": 1749906059,
     "blockNumber": 18164263,
-    "logIndex": 166,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x58219061B6a2D1147b09B7b2e3a5B62a4eAaD31a227/64",
+    "logIndex": 148,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x58219061B6a2D1147b09B7b2e3a5B62a4eAaD31a209/64",
     "isFree": true,
-    "totalContractMints": 40,
+    "totalContractMints": 41,
     "analysis": {
       "contractAddress": "0x58219061B6a2D1147b09B7b2e3a5B62a4eAaD31a",
-      "metadataStatus": "ok",
-      "fetchedMetadata": {
-        "name": "Peppie #227",
-        "description": "Bringing the two most influential subcultures together to celebrate their influence had on futures past and present.",
-        "image": "ipfs://bafybeih6773u5hppgz7j6uf2hazxngx5cgcolgqkslysogiou5trmnrwe4/227.png",
-        "dna": "7d91efbe7b061a2f42174bba147525e8671d9708",
-        "edition": 227,
-        "date": 1667015263549,
-        "attributes": [
-          {
-            "trait_type": "Background",
-            "value": "Green"
-          },
-          {
-            "trait_type": "Body",
-            "value": "White Puffer"
-          },
-          {
-            "trait_type": "Devil",
-            "value": "Devil Pink"
-          },
-          {
-            "trait_type": "Eyes 2",
-            "value": "Neutral"
-          },
-          {
-            "trait_type": "Mouth 1",
-            "value": "Cig"
-          },
-          {
-            "trait_type": "Accessory 2",
-            "value": "None"
-          }
-        ],
-        "compiler": "Peppies"
-      },
+      "metadataStatus": "fetch_error",
+      "fetchedMetadata": null,
       "nameSymbolStatus": "ok",
       "collectionNameFromAnalyzer": "Peppie",
       "collectionSymbolFromAnalyzer": "PEP",
-      "finalStatus": "OK",
+      "finalStatus": "Issues Detected",
       "statusReasons": [
-        "Metadata fetched successfully."
+        "Error fetching metadata from URI: The operation was aborted due to timeout."
       ]
     },
-    "displayStatus": "OK"
+    "displayStatus": "Issues Detected"
   },
   {
     "txHash": "0x8fc74df30a176de22beaacf777f4a65f6670b9f83d46877042568467517a1df3",
