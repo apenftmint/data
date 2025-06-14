@@ -2,53 +2,56 @@
   {
     "txHash": "0xd0548289dc8833881dc47bf160982a98c6d278d17775eb2129d17928ddb7fe5a",
     "contractAddress": "0xD8fF0EF834587049092A0D6DACF129B37B413030",
-    "tokenId": "1725",
+    "tokenId": "1724",
     "collectionName": "The Project",
     "timestamp": 1749905325,
     "blockNumber": 18163921,
-    "logIndex": 2,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xD8fF0EF834587049092A0D6DACF129B37B4130301725/64",
+    "logIndex": 1,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xD8fF0EF834587049092A0D6DACF129B37B4130301724/64",
     "isFree": false,
     "valueWei": "33000000000000000000",
-    "totalContractMints": 12,
+    "totalContractMints": 13,
     "analysis": {
       "contractAddress": "0xD8fF0EF834587049092A0D6DACF129B37B413030",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "The Project #1725",
-        "image": "https://theprojectassets.blob.core.windows.net/images/1725.png?cb=100",
+        "name": "The Project #1724",
+        "image": "https://theprojectassets.blob.core.windows.net/images/1724.png?cb=100",
         "attributes": [
           {
             "trait_type": "Character",
-            "value": "Lion"
+            "value": "Goat"
           },
           {
             "trait_type": "Body",
-            "value": "White"
+            "value": "Blue"
           },
           {
             "trait_type": "Clothes",
-            "value": "Mutant Hoodie"
+            "value": "STK Hoodie"
           },
           {
             "trait_type": "Hands",
-            "value": "Worthless"
+            "value": "Elephant Head"
           },
           {
             "trait_type": "Eyes",
-            "value": "White"
-          },
-          {
-            "trait_type": "Mouth",
             "value": "Normal"
           },
           {
+            "trait_type": "Mouth",
+            "value": "Sticky"
+          },
+          {
             "trait_type": "Hat",
-            "value": "Haber Hat"
+            "value": "Steampunk"
+          },
+          {
+            "value": "Wings"
           },
           {
             "trait_type": "Background",
-            "value": "Rojo"
+            "value": "Tripped"
           }
         ]
       },
