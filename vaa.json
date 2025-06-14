@@ -2,20 +2,20 @@
   {
     "txHash": "0x6f9d465e59a22da5b77d269c885ca98f27b259ac781c5e3ca56687c607e15e41",
     "contractAddress": "0xd1BB26c4850fB87d48d36c16209e4deE2e48CF88",
-    "tokenId": "85",
+    "tokenId": "84",
     "collectionName": "Lil Dickbutts",
     "timestamp": 1749889836,
     "blockNumber": 18153817,
-    "logIndex": 26,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xd1BB26c4850fB87d48d36c16209e4deE2e48CF8885/64",
+    "logIndex": 25,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xd1BB26c4850fB87d48d36c16209e4deE2e48CF8884/64",
     "isFree": false,
     "valueWei": "3000000000000000000",
-    "totalContractMints": 13,
+    "totalContractMints": 14,
     "analysis": {
       "contractAddress": "0xd1BB26c4850fB87d48d36c16209e4deE2e48CF88",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "Lil Dickbutts #85",
+        "name": "Lil Dickbutts #84",
         "description": "Baby Dickbutts entering the world. No Roadmap. No Promises. CCO.",
         "attributes": [
           {
@@ -24,27 +24,27 @@
           },
           {
             "trait_type": "body",
-            "value": "Light"
+            "value": "Mid"
           },
           {
             "trait_type": "clothes",
-            "value": "Office"
-          },
-          {
-            "trait_type": "dick",
-            "value": "Fox Tail"
-          },
-          {
-            "trait_type": "eyes",
-            "value": "Red"
-          },
-          {
-            "trait_type": "hair",
             "value": "None"
           },
           {
-            "trait_type": "mouth",
+            "trait_type": "dick",
+            "value": "L"
+          },
+          {
+            "trait_type": "eyes",
             "value": "Normal"
+          },
+          {
+            "trait_type": "hair",
+            "value": "Cat Hat"
+          },
+          {
+            "trait_type": "mouth",
+            "value": "Smile"
           },
           {
             "trait_type": "Weapons",
@@ -55,7 +55,7 @@
             "value": "8"
           }
         ],
-        "image": "ipfs://bafybeidkivgr6mxud5kx3fewrqiajcg5liq4wx545wbms5rjwsbl4pe3l4/85.webp",
+        "image": "ipfs://bafybeidkivgr6mxud5kx3fewrqiajcg5liq4wx545wbms5rjwsbl4pe3l4/84.webp",
         "compiler": "nfts2me.com"
       },
       "nameSymbolStatus": "ok",
