@@ -2,48 +2,48 @@
   {
     "txHash": "0x56539c83474f9069a160e7514e9711fca2bd17b84203735e1e59510da3309ac8",
     "contractAddress": "0xb34D8B34214eb75D785353D38a635F84e327372b",
-    "tokenId": "4657",
+    "tokenId": "4647",
     "collectionName": "Peppies",
     "timestamp": 1749889853,
     "blockNumber": 18153833,
-    "logIndex": 67,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xb34D8B34214eb75D785353D38a635F84e327372b4657/64",
+    "logIndex": 57,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xb34D8B34214eb75D785353D38a635F84e327372b4647/64",
     "isFree": true,
-    "totalContractMints": 10,
+    "totalContractMints": 11,
     "analysis": {
       "contractAddress": "0xb34D8B34214eb75D785353D38a635F84e327372b",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "Peppie #4657",
+        "name": "Peppie #4647",
         "description": "Bringing the two most influential subcultures together to celebrate their influence had on futures past and present.",
-        "image": "ipfs://bafybeih6773u5hppgz7j6uf2hazxngx5cgcolgqkslysogiou5trmnrwe4/4657.png",
-        "dna": "3eac5293522e9bab2fe0507e3f44e5ec6c4b2e1d",
-        "edition": 4657,
-        "date": 1667014927905,
+        "image": "ipfs://bafybeih6773u5hppgz7j6uf2hazxngx5cgcolgqkslysogiou5trmnrwe4/4647.png",
+        "dna": "eb185bb9126c54fdcfcb29d3680e1fba394af95e",
+        "edition": 4647,
+        "date": 1667011324390,
         "attributes": [
           {
             "trait_type": "Background",
-            "value": "Yellow"
-          },
-          {
-            "trait_type": "Body",
-            "value": "Blue Blazer"
-          },
-          {
-            "trait_type": "Skin",
             "value": "Green"
           },
           {
+            "trait_type": "Body",
+            "value": "Striped Sweater"
+          },
+          {
+            "trait_type": "Skin",
+            "value": "Med"
+          },
+          {
             "trait_type": "Eyes 1",
-            "value": "Neutral"
+            "value": "Angry"
           },
           {
             "trait_type": "Hair 1",
-            "value": "Brown Brushcut"
+            "value": "Yellow Headband"
           },
           {
             "trait_type": "Mouth 1",
-            "value": "Moustache"
+            "value": "Tongue Out"
           },
           {
             "trait_type": "Piercing",
@@ -51,7 +51,7 @@
           },
           {
             "trait_type": "Accessory 1",
-            "value": "None"
+            "value": "Sunglasses"
           }
         ],
         "compiler": "Peppies"
