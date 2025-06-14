@@ -1,5 +1,79 @@
 [
   {
+    "txHash": "0xc82707306ee5d1059582ae842d7f072cd6f9a210f5a4f7fed003ed4fa565896b",
+    "contractAddress": "0xF054C94269b4946568244706b981b62E258059c8",
+    "tokenId": "2503",
+    "collectionName": "NEXA",
+    "timestamp": 1749874595,
+    "blockNumber": 18142237,
+    "logIndex": 1,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xF054C94269b4946568244706b981b62E258059c82503/64",
+    "isFree": false,
+    "valueWei": "3800000000000000000",
+    "totalContractMints": 10,
+    "analysis": {
+      "contractAddress": "0xF054C94269b4946568244706b981b62E258059c8",
+      "metadataStatus": "ok",
+      "fetchedMetadata": {
+        "name": "NEXA #2503",
+        "description": "3,333 Nexa 3D PFPs on Apechain. Built for war. Deployed for silence.",
+        "attributes": [
+          {
+            "trait_type": "Accessories",
+            "value": "Nova Acc"
+          },
+          {
+            "trait_type": "Type",
+            "value": "Aetherion"
+          },
+          {
+            "trait_type": "Chest",
+            "value": "Primal"
+          },
+          {
+            "trait_type": "Color",
+            "value": "Frostbyte"
+          },
+          {
+            "trait_type": "Eyes",
+            "value": "Synthray"
+          },
+          {
+            "trait_type": "Helmet",
+            "value": "Crux"
+          },
+          {
+            "trait_type": "Jaws",
+            "value": "Atomic"
+          },
+          {
+            "trait_type": "Mask",
+            "value": "Titan"
+          },
+          {
+            "trait_type": "Shoulder",
+            "value": "Vantage"
+          },
+          {
+            "trait_type": "Trait Count",
+            "value": "9"
+          }
+        ],
+        "image": "ipfs://bafybeih2al4jfyneji4n57l5w7ebifzydkr72j7nobdk422y7pm7acwclu/2503.webp",
+        "compiler": "nfts2me.com"
+      },
+      "nameSymbolStatus": "ok",
+      "collectionNameFromAnalyzer": "NEXA",
+      "collectionSymbolFromAnalyzer": "NEXA",
+      "finalStatus": "OK",
+      "statusReasons": [
+        "Metadata fetched successfully."
+      ]
+    },
+    "displayStatus": "OK",
+    "mintPriceApe": "3.8000"
+  },
+  {
     "txHash": "0xddc9987ea3efc91117ad60fa598846f8d11e3254abe6cba95b90ce8535554365",
     "contractAddress": "0xA5a996F48FAAA1a20DA604b8201de9F570Fa33e6",
     "tokenId": "3056",
@@ -483,83 +557,5 @@
     },
     "displayStatus": "OK",
     "mintPriceApe": "0.1000"
-  },
-  {
-    "txHash": "0xf8734fdcb0495f2c175120f494637dd1f00a1f7abc26244e6d269f287c7b447a",
-    "contractAddress": "0xF054C94269b4946568244706b981b62E258059c8",
-    "tokenId": "2391",
-    "collectionName": "NEXA",
-    "timestamp": 1749819827,
-    "blockNumber": 18091365,
-    "logIndex": 1,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xF054C94269b4946568244706b981b62E258059c82391/64",
-    "isFree": false,
-    "valueWei": "3800000000000000000",
-    "totalContractMints": 9,
-    "analysis": {
-      "contractAddress": "0xF054C94269b4946568244706b981b62E258059c8",
-      "metadataStatus": "ok",
-      "fetchedMetadata": {
-        "name": "NEXA #2391",
-        "description": "3,333 Nexa 3D PFPs on Apechain. Built for war. Deployed for silence.",
-        "attributes": [
-          {
-            "trait_type": "Accessories",
-            "value": "Glutton Acc"
-          },
-          {
-            "trait_type": "Type",
-            "value": "Veltrax"
-          },
-          {
-            "trait_type": "Chest",
-            "value": "Crimson"
-          },
-          {
-            "trait_type": "Color",
-            "value": "Purple"
-          },
-          {
-            "trait_type": "Eyes",
-            "value": "Warflare"
-          },
-          {
-            "trait_type": "Helmet",
-            "value": "Stinger"
-          },
-          {
-            "trait_type": "Jaws",
-            "value": "Trixie"
-          },
-          {
-            "trait_type": "Mask",
-            "value": "Ethan"
-          },
-          {
-            "trait_type": "Shoulder",
-            "value": "Amice"
-          },
-          {
-            "trait_type": "Weapon",
-            "value": "Gatlinggun"
-          },
-          {
-            "trait_type": "Trait Count",
-            "value": "10"
-          }
-        ],
-        "image": "ipfs://bafybeih2al4jfyneji4n57l5w7ebifzydkr72j7nobdk422y7pm7acwclu/2391.webp",
-        "compiler": "nfts2me.com"
-      },
-      "nameSymbolStatus": "ok",
-      "collectionNameFromAnalyzer": "NEXA",
-      "collectionSymbolFromAnalyzer": "NEXA",
-      "finalStatus": "OK",
-      "statusReasons": [
-        "Metadata fetched successfully."
-      ]
-    },
-    "displayStatus": "OK",
-    "mintPriceApe": "3.8000"
   }
 ]
