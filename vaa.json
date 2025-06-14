@@ -2,21 +2,21 @@
   {
     "txHash": "0x02ae9f19df121105cc9c59af2c69e9e621d8a28336682b4df350a94401883ce6",
     "contractAddress": "0x08a24eF3a429c4589a808903cF26cD183B36909e",
-    "tokenId": "63",
+    "tokenId": "62",
     "collectionName": "Mystics ",
     "timestamp": 1749887397,
     "blockNumber": 18152139,
-    "logIndex": 3,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x08a24eF3a429c4589a808903cF26cD183B36909e63/64",
+    "logIndex": 2,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x08a24eF3a429c4589a808903cF26cD183B36909e62/64",
     "isFree": false,
     "valueWei": "5250000000000000000",
-    "totalContractMints": 29,
+    "totalContractMints": 30,
     "analysis": {
       "contractAddress": "0x08a24eF3a429c4589a808903cF26cD183B36909e",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "Mystics #63",
-        "image": "ipfs://QmVm7P6fQde14YKYTaSeAUMAgxGz9YeAtALTXmC2A3nPCJ/63.gif",
+        "name": "Mystics #62",
+        "image": "ipfs://QmVm7P6fQde14YKYTaSeAUMAgxGz9YeAtALTXmC2A3nPCJ/62.gif",
         "description": "Mystics is the foundation and first ever membership to The Pier ecosystem. We are the 5000 visionaries working to turn Web3 concepts that the space can still only imagine, into reality.",
         "attributes": [
           {
@@ -25,7 +25,7 @@
           },
           {
             "trait_type": "Torso",
-            "value": "Frog Hoodie"
+            "value": "Purple Casual Hoodie"
           },
           {
             "trait_type": "Right Hand",
@@ -33,15 +33,15 @@
           },
           {
             "trait_type": "Backpack",
-            "value": "Spider Backpack"
+            "value": "None"
           },
           {
             "trait_type": "Legs",
-            "value": "Yellow Shorts"
+            "value": "Purple Shorts"
           },
           {
             "trait_type": "Shoes",
-            "value": "Pink Circle Sneakers"
+            "value": "Blue Boots"
           },
           {
             "trait_type": "Waist Bag",
@@ -49,11 +49,11 @@
           },
           {
             "trait_type": "Eyes",
-            "value": "Magic"
+            "value": "Lovestruck"
           },
           {
             "trait_type": "Left Hand",
-            "value": "Skull"
+            "value": "Classic"
           }
         ]
       },
