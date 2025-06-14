@@ -1,31 +1,30 @@
 [
   {
-    "txHash": "0x2525dbe1d5de24560950394082d8dc703f4b80405d06414eaea4151005e09482",
+    "txHash": "0x0dbb97924e32e2269d75a3c99cf328b5b484cf4a36fa470813f91aa0181a26ba",
     "contractAddress": "0x08a24eF3a429c4589a808903cF26cD183B36909e",
-    "tokenId": "3",
+    "tokenId": "16",
     "collectionName": "Mystics ",
-    "timestamp": 1749887247,
-    "blockNumber": 18152030,
-    "logIndex": 2,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x08a24eF3a429c4589a808903cF26cD183B36909e3/64",
-    "isFree": false,
-    "valueWei": "5250000000000000000",
-    "totalContractMints": 4,
+    "timestamp": 1749887328,
+    "blockNumber": 18152085,
+    "logIndex": 10,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x08a24eF3a429c4589a808903cF26cD183B36909e16/64",
+    "isFree": true,
+    "totalContractMints": 5,
     "analysis": {
       "contractAddress": "0x08a24eF3a429c4589a808903cF26cD183B36909e",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "Mystics #3",
-        "image": "ipfs://QmVm7P6fQde14YKYTaSeAUMAgxGz9YeAtALTXmC2A3nPCJ/3.gif",
+        "name": "Mystics #16",
+        "image": "ipfs://QmVm7P6fQde14YKYTaSeAUMAgxGz9YeAtALTXmC2A3nPCJ/16.gif",
         "description": "Mystics is the foundation and first ever membership to The Pier ecosystem. We are the 5000 visionaries working to turn Web3 concepts that the space can still only imagine, into reality.",
         "attributes": [
           {
             "trait_type": "Background",
-            "value": "Pink"
+            "value": "Light Blue"
           },
           {
             "trait_type": "Torso",
-            "value": "Purple Spiked Hoodie"
+            "value": "Alien Hoodie"
           },
           {
             "trait_type": "Right Hand",
@@ -33,15 +32,15 @@
           },
           {
             "trait_type": "Backpack",
-            "value": "Grey Flamethrower Backpack"
+            "value": "None"
           },
           {
             "trait_type": "Legs",
-            "value": "Blue Zip Pocket Shorts"
+            "value": "Cyan Shorts Tan"
           },
           {
             "trait_type": "Shoes",
-            "value": "Blue Circle Sneakers"
+            "value": "Pink Circle Sneakers"
           },
           {
             "trait_type": "Waist Bag",
@@ -49,11 +48,11 @@
           },
           {
             "trait_type": "Eyes",
-            "value": "Lovestruck"
+            "value": "Unsure"
           },
           {
             "trait_type": "Left Hand",
-            "value": "Frog"
+            "value": "Snake"
           }
         ]
       },
@@ -65,8 +64,7 @@
         "Metadata fetched successfully."
       ]
     },
-    "displayStatus": "OK",
-    "mintPriceApe": "5.2500"
+    "displayStatus": "OK"
   },
   {
     "txHash": "0x63ca3dcf375fa6e1f1e68b4ba39a0e0869f9c301f26bd44e84b165b7705c812b",
