@@ -1,5 +1,63 @@
 [
   {
+    "txHash": "0x624a2b70c5afbe6ec2ab8f2b09e7c2ad596150da6eb4d30ec28918e838078475",
+    "contractAddress": "0x49849DE88B949474Decd2656c57b07802EC4F35F",
+    "tokenId": "931",
+    "collectionName": "PUNKS (Apes)",
+    "timestamp": 1749888527,
+    "blockNumber": 18152910,
+    "logIndex": 0,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x49849DE88B949474Decd2656c57b07802EC4F35F931/64",
+    "isFree": false,
+    "valueWei": "50000000000000000",
+    "totalContractMints": 2,
+    "analysis": {
+      "contractAddress": "0x49849DE88B949474Decd2656c57b07802EC4F35F",
+      "metadataStatus": "ok",
+      "fetchedMetadata": {
+        "name": "PUNKS (Apes) #931",
+        "description": "3333 PUNKS on Ape Chain , Powered by QuadrLabs",
+        "attributes": [
+          {
+            "trait_type": "Background",
+            "value": "Blue"
+          },
+          {
+            "trait_type": "Fur",
+            "value": "Zombie"
+          },
+          {
+            "trait_type": "Head",
+            "value": "Top Hat"
+          },
+          {
+            "trait_type": "Eye",
+            "value": "Clown Green"
+          },
+          {
+            "trait_type": "Mouth",
+            "value": "Pipe Boys"
+          },
+          {
+            "trait_type": "Trait Count",
+            "value": "5"
+          }
+        ],
+        "compiler": "nfts2me.com",
+        "image": "ipfs://bafybeibxj3tqignzo252bgq4qqz4qgwraanautqzzu4n7dorevukkd67za/931.webp"
+      },
+      "nameSymbolStatus": "ok",
+      "collectionNameFromAnalyzer": "PUNKS (Apes)",
+      "collectionSymbolFromAnalyzer": "PUN",
+      "finalStatus": "OK",
+      "statusReasons": [
+        "Metadata fetched successfully."
+      ]
+    },
+    "displayStatus": "OK",
+    "mintPriceApe": "0.0500"
+  },
+  {
     "txHash": "0x087193a63bdce12adacdc2f24fc22e79d6f1b124d5fab152b4464a249b7bd51b",
     "contractAddress": "0x422Af9C3DdECD6c3c3C3f51D6942a9f851cAF6Bc",
     "tokenId": "334",
@@ -284,68 +342,6 @@
     },
     "displayStatus": "OK",
     "mintPriceApe": "33.0000"
-  },
-  {
-    "txHash": "0x3b5686ad7c32f992607833b02fb173a32771f40118d7159941a191d4d4f54e4d",
-    "contractAddress": "0x49849DE88B949474Decd2656c57b07802EC4F35F",
-    "tokenId": "930",
-    "collectionName": "PUNKS (Apes)",
-    "timestamp": 1749885553,
-    "blockNumber": 18150794,
-    "logIndex": 0,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x49849DE88B949474Decd2656c57b07802EC4F35F930/64",
-    "isFree": false,
-    "valueWei": "50000000000000000",
-    "totalContractMints": 1,
-    "analysis": {
-      "contractAddress": "0x49849DE88B949474Decd2656c57b07802EC4F35F",
-      "metadataStatus": "ok",
-      "fetchedMetadata": {
-        "name": "PUNKS (Apes) #930",
-        "description": "3333 PUNKS on Ape Chain , Powered by QuadrLabs",
-        "attributes": [
-          {
-            "trait_type": "Background",
-            "value": "Blue"
-          },
-          {
-            "trait_type": "Fur",
-            "value": "Golden Brown"
-          },
-          {
-            "trait_type": "Head",
-            "value": "Top Hat"
-          },
-          {
-            "trait_type": "Accessories",
-            "value": "Gold Chain"
-          },
-          {
-            "trait_type": "Eye",
-            "value": "Horned Rim"
-          },
-          {
-            "trait_type": "Mouth",
-            "value": "Mustache"
-          },
-          {
-            "trait_type": "Trait Count",
-            "value": "6"
-          }
-        ],
-        "compiler": "nfts2me.com",
-        "image": "ipfs://bafybeibxj3tqignzo252bgq4qqz4qgwraanautqzzu4n7dorevukkd67za/930.webp"
-      },
-      "nameSymbolStatus": "ok",
-      "collectionNameFromAnalyzer": "PUNKS (Apes)",
-      "collectionSymbolFromAnalyzer": "PUN",
-      "finalStatus": "OK",
-      "statusReasons": [
-        "Metadata fetched successfully."
-      ]
-    },
-    "displayStatus": "OK",
-    "mintPriceApe": "0.0500"
   },
   {
     "txHash": "0x09141ce75c7ff758a1850cd49dc5b5840e279232d5ea92afcb805f88fb6cc772",
