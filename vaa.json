@@ -1,5 +1,32 @@
 [
   {
+    "txHash": "0x10dc8e2403855ce3bddb4bca8f961e377c8cf42ed88dca9bbf7aacef322f149c",
+    "contractAddress": "0xDB9098A9f21a5C21A4EF73F40598eB1177EDDF77",
+    "tokenId": "20",
+    "collectionName": "Monkey Wish NFT",
+    "timestamp": 1749897893,
+    "blockNumber": 18159900,
+    "logIndex": 0,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xDB9098A9f21a5C21A4EF73F40598eB1177EDDF7720/64",
+    "isFree": false,
+    "valueWei": "500000000000000000",
+    "totalContractMints": 2,
+    "analysis": {
+      "contractAddress": "0xDB9098A9f21a5C21A4EF73F40598eB1177EDDF77",
+      "metadataStatus": "fetch_error",
+      "fetchedMetadata": null,
+      "nameSymbolStatus": "ok",
+      "collectionNameFromAnalyzer": "Monkey Wish NFT",
+      "collectionSymbolFromAnalyzer": "MWISH",
+      "finalStatus": "Issues Detected",
+      "statusReasons": [
+        "Error fetching metadata from URI: Failed to parse URL from QmbJqDx9uXCEvYtrp8uyaZ3itMUCU4LVhZWMMviAjhpgvH."
+      ]
+    },
+    "displayStatus": "Issues Detected",
+    "mintPriceApe": "0.5000"
+  },
+  {
     "txHash": "0x365bf0ac15663da22d80d1bb62037dcc1338869b6a9ef5a9f3f3b7e764e4b0ca",
     "contractAddress": "0x5B61cA24966CB7E47F634Dee04499743Fc9746b6",
     "tokenId": "1261",
@@ -718,33 +745,6 @@
       ]
     },
     "displayStatus": "OK"
-  },
-  {
-    "txHash": "0x5a65a10db94f8eab1423f1cdaf5ae26964b1d02967be4666d8dc58b28d7e1a2b",
-    "contractAddress": "0xDB9098A9f21a5C21A4EF73F40598eB1177EDDF77",
-    "tokenId": "19",
-    "collectionName": "Monkey Wish NFT",
-    "timestamp": 1749883131,
-    "blockNumber": 18148916,
-    "logIndex": 0,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xDB9098A9f21a5C21A4EF73F40598eB1177EDDF7719/64",
-    "isFree": false,
-    "valueWei": "500000000000000000",
-    "totalContractMints": 1,
-    "analysis": {
-      "contractAddress": "0xDB9098A9f21a5C21A4EF73F40598eB1177EDDF77",
-      "metadataStatus": "fetch_error",
-      "fetchedMetadata": null,
-      "nameSymbolStatus": "ok",
-      "collectionNameFromAnalyzer": "Monkey Wish NFT",
-      "collectionSymbolFromAnalyzer": "MWISH",
-      "finalStatus": "Issues Detected",
-      "statusReasons": [
-        "Error fetching metadata from URI: Failed to parse URL from Qma6pGrggsW6B5ivjz4sRLBURRUwrjoh1cAzuPY9eFtekT."
-      ]
-    },
-    "displayStatus": "Issues Detected",
-    "mintPriceApe": "0.5000"
   },
   {
     "txHash": "0x844efde80d42bc6a16b7d8faea6e0b7bfd73c1e7898a45dd776fb2d6e2a21f5c",
