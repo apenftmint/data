@@ -2,29 +2,29 @@
   {
     "txHash": "0x08859dfe311f783cdda86295edf40dfdbde69bd7273a79fc73064f725b1fc2b9",
     "contractAddress": "0x08a24eF3a429c4589a808903cF26cD183B36909e",
-    "tokenId": "146",
+    "tokenId": "77",
     "collectionName": "Mystics ",
     "timestamp": 1749887783,
     "blockNumber": 18152422,
-    "logIndex": 71,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x08a24eF3a429c4589a808903cF26cD183B36909e146/64",
+    "logIndex": 2,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x08a24eF3a429c4589a808903cF26cD183B36909e77/64",
     "isFree": true,
-    "totalContractMints": 47,
+    "totalContractMints": 48,
     "analysis": {
       "contractAddress": "0x08a24eF3a429c4589a808903cF26cD183B36909e",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "Mystics #146",
-        "image": "ipfs://QmVm7P6fQde14YKYTaSeAUMAgxGz9YeAtALTXmC2A3nPCJ/146.gif",
+        "name": "Mystics #77",
+        "image": "ipfs://QmVm7P6fQde14YKYTaSeAUMAgxGz9YeAtALTXmC2A3nPCJ/77.gif",
         "description": "Mystics is the foundation and first ever membership to The Pier ecosystem. We are the 5000 visionaries working to turn Web3 concepts that the space can still only imagine, into reality.",
         "attributes": [
           {
             "trait_type": "Background",
-            "value": "Blue"
+            "value": "Pink"
           },
           {
             "trait_type": "Torso",
-            "value": "Blue Monster Hoodie"
+            "value": "Panda Hoodie"
           },
           {
             "trait_type": "Right Hand",
@@ -36,23 +36,23 @@
           },
           {
             "trait_type": "Legs",
-            "value": "Yellow Shorts Tan"
+            "value": "Yellow Trackpants"
           },
           {
             "trait_type": "Shoes",
-            "value": "Blue Circle Sneakers"
+            "value": "Pink Circle Sneakers"
           },
           {
             "trait_type": "Waist Bag",
-            "value": "Purple Waistbag"
+            "value": "Sherbet Waistbag"
           },
           {
             "trait_type": "Eyes",
-            "value": "Magic"
+            "value": "Classic"
           },
           {
             "trait_type": "Left Hand",
-            "value": "Lizard Eye"
+            "value": "Serum"
           }
         ]
       },
