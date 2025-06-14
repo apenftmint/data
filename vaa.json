@@ -2,19 +2,19 @@
   {
     "txHash": "0x20957766969d108ddfa5c971dfeb327ea1c3d43ff28f7cb8384f7d1ded630706",
     "contractAddress": "0x961c6D8910d6FBb803eD124F2c4480f3F6070Ec7",
-    "tokenId": "4013",
+    "tokenId": "3979",
     "collectionName": "Part",
     "timestamp": 1749896595,
     "blockNumber": 18159087,
-    "logIndex": 47,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x961c6D8910d6FBb803eD124F2c4480f3F6070Ec74013/64",
+    "logIndex": 13,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x961c6D8910d6FBb803eD124F2c4480f3F6070Ec73979/64",
     "isFree": true,
-    "totalContractMints": 6,
+    "totalContractMints": 7,
     "analysis": {
       "contractAddress": "0x961c6D8910d6FBb803eD124F2c4480f3F6070Ec7",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "Diamond Body #4013",
+        "name": "Diamond Body #3979",
         "description": "EGG$ PARTS are the building blocks of legend.\n\nEach Part is a fragment of EGG$ potential.\n\nUnlocked from CORES, waiting to be revealed, forged, and crafted to make something that didn't exist before you.\n\nThis is the layer where design becomes identity.\nWhere holders guide the evolution.\nWhere culture, community, and protection unlock the rarest forms of design evolution.\nCustom. Curated. Forever expandable.\n\nThe EGG$ don't just evolve.\nYOU shape what they become using these Parts to activate Evolution.",
         "image": "https://cryptojeweler.s3.us-east-1.amazonaws.com/parts/Grenegg/White Gold/Ice/Torso/Diamond Body.png",
         "attributes": [
