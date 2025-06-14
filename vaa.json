@@ -1,5 +1,69 @@
 [
   {
+    "txHash": "0x8fc74df30a176de22beaacf777f4a65f6670b9f83d46877042568467517a1df3",
+    "contractAddress": "0x5B61cA24966CB7E47F634Dee04499743Fc9746b6",
+    "tokenId": "1264",
+    "collectionName": "Full Gobs",
+    "timestamp": 1749905446,
+    "blockNumber": 18163965,
+    "logIndex": 0,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x5B61cA24966CB7E47F634Dee04499743Fc9746b61264/64",
+    "isFree": false,
+    "valueWei": "100000000000000000",
+    "totalContractMints": 11,
+    "analysis": {
+      "contractAddress": "0x5B61cA24966CB7E47F634Dee04499743Fc9746b6",
+      "metadataStatus": "ok",
+      "fetchedMetadata": {
+        "name": "Gobs #1264",
+        "image": "ipfs://QmejR3XrkzCs5Psc4AwhagtHCSkb18niBPQ1yvV86XegMR/1264",
+        "attributes": [
+          {
+            "trait_type": "BODY",
+            "value": "Light-Skin"
+          },
+          {
+            "trait_type": "SHOES",
+            "value": "W.P"
+          },
+          {
+            "trait_type": "CLOTHES",
+            "value": "Argyle Sweater"
+          },
+          {
+            "trait_type": "PANTS",
+            "value": "Breakdancer Black"
+          },
+          {
+            "trait_type": "BELT",
+            "value": "Black Gold"
+          },
+          {
+            "trait_type": "MOUTH",
+            "value": "Regular"
+          },
+          {
+            "trait_type": "EYES",
+            "value": "Ingobnito"
+          },
+          {
+            "trait_type": "OFFHAND",
+            "value": "Pistol with Silencer"
+          }
+        ]
+      },
+      "nameSymbolStatus": "ok",
+      "collectionNameFromAnalyzer": "Full Gobs",
+      "collectionSymbolFromAnalyzer": "FG",
+      "finalStatus": "OK",
+      "statusReasons": [
+        "Metadata fetched successfully."
+      ]
+    },
+    "displayStatus": "OK",
+    "mintPriceApe": "0.1000"
+  },
+  {
     "txHash": "0xaeb747c0ff26db1732ce60ccc043ca4ced70843ff1283005159616c7f8ee7af2",
     "contractAddress": "0xA5a996F48FAAA1a20DA604b8201de9F570Fa33e6",
     "tokenId": "3293",
@@ -440,66 +504,6 @@
       ]
     },
     "displayStatus": "OK"
-  },
-  {
-    "txHash": "0x92582a3f229d8ec3bf42d095d3212123b51f3df831dbca8d7ab6d5b77ff491d7",
-    "contractAddress": "0x5B61cA24966CB7E47F634Dee04499743Fc9746b6",
-    "tokenId": "1262",
-    "collectionName": "Full Gobs",
-    "timestamp": 1749900256,
-    "blockNumber": 18161564,
-    "logIndex": 0,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x5B61cA24966CB7E47F634Dee04499743Fc9746b61262/64",
-    "isFree": false,
-    "valueWei": "100000000000000000",
-    "totalContractMints": 10,
-    "analysis": {
-      "contractAddress": "0x5B61cA24966CB7E47F634Dee04499743Fc9746b6",
-      "metadataStatus": "ok",
-      "fetchedMetadata": {
-        "name": "Gobs #1262",
-        "image": "ipfs://QmejR3XrkzCs5Psc4AwhagtHCSkb18niBPQ1yvV86XegMR/1262",
-        "attributes": [
-          {
-            "trait_type": "BODY",
-            "value": "Original"
-          },
-          {
-            "trait_type": "SHOES",
-            "value": "Blue"
-          },
-          {
-            "trait_type": "CLOTHES",
-            "value": "Chameleon Dress Yellow"
-          },
-          {
-            "trait_type": "BELT",
-            "value": "Belt C"
-          },
-          {
-            "trait_type": "HAT",
-            "value": "Green-Mohawk"
-          },
-          {
-            "trait_type": "MOUTH",
-            "value": "Bubble"
-          },
-          {
-            "trait_type": "EYES",
-            "value": "Og"
-          }
-        ]
-      },
-      "nameSymbolStatus": "ok",
-      "collectionNameFromAnalyzer": "Full Gobs",
-      "collectionSymbolFromAnalyzer": "FG",
-      "finalStatus": "OK",
-      "statusReasons": [
-        "Metadata fetched successfully."
-      ]
-    },
-    "displayStatus": "OK",
-    "mintPriceApe": "0.1000"
   },
   {
     "txHash": "0x10dc8e2403855ce3bddb4bca8f961e377c8cf42ed88dca9bbf7aacef322f149c",
