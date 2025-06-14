@@ -1,5 +1,43 @@
 [
   {
+    "txHash": "0xf1fc5e18630e39e6d6636d92517606162d7df439417e04619b6ff6a26b4a0070",
+    "contractAddress": "0xE23De40D14713492e5a2465b36a09De5c948CCfd",
+    "tokenId": "61",
+    "collectionName": "Armed Fight",
+    "timestamp": 1749907852,
+    "blockNumber": 18164915,
+    "logIndex": 0,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xE23De40D14713492e5a2465b36a09De5c948CCfd61/64",
+    "isFree": false,
+    "valueWei": "190000000000000000",
+    "totalContractMints": 1,
+    "analysis": {
+      "contractAddress": "0xE23De40D14713492e5a2465b36a09De5c948CCfd",
+      "metadataStatus": "ok",
+      "fetchedMetadata": {
+        "name": "Armed Fight #61",
+        "description": "Use a variety of weapons to fight",
+        "attributes": [
+          {
+            "trait_type": "Trait Count",
+            "value": "0"
+          }
+        ],
+        "image": "ipfs://bafybeif4gykjwi6fgnfiuu7h7qgrtgsjxx7toutcbtjexte472vwkr2wmi/61.webp",
+        "compiler": "nfts2me.com"
+      },
+      "nameSymbolStatus": "ok",
+      "collectionNameFromAnalyzer": "Armed Fight",
+      "collectionSymbolFromAnalyzer": "ARF",
+      "finalStatus": "OK",
+      "statusReasons": [
+        "Metadata fetched successfully."
+      ]
+    },
+    "displayStatus": "OK",
+    "mintPriceApe": "0.1900"
+  },
+  {
     "txHash": "0xc19cd0576b0d9a398602da6ef3812c371fe47a1b566fa9b91ac13a1937c3ef38",
     "contractAddress": "0x342239362E3EF2561e06010eC7FCBCf2699Bc6e4",
     "tokenId": "20",
