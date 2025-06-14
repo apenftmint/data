@@ -2,41 +2,37 @@
   {
     "txHash": "0x52015035b04054a6b1dc9ee0516a5a0c68d72d0d20685730df4eb174e250e01f",
     "contractAddress": "0x5B61cA24966CB7E47F634Dee04499743Fc9746b6",
-    "tokenId": "1267",
+    "tokenId": "1268",
     "collectionName": "Full Gobs",
     "timestamp": 1749909174,
     "blockNumber": 18165438,
-    "logIndex": 1,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x5B61cA24966CB7E47F634Dee04499743Fc9746b61267/64",
+    "logIndex": 2,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x5B61cA24966CB7E47F634Dee04499743Fc9746b61268/64",
     "isFree": false,
     "valueWei": "400000000000000000",
-    "totalContractMints": 15,
+    "totalContractMints": 16,
     "analysis": {
       "contractAddress": "0x5B61cA24966CB7E47F634Dee04499743Fc9746b6",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "Gobs #1267",
-        "image": "ipfs://QmejR3XrkzCs5Psc4AwhagtHCSkb18niBPQ1yvV86XegMR/1267",
+        "name": "Gobs #1268",
+        "image": "ipfs://QmejR3XrkzCs5Psc4AwhagtHCSkb18niBPQ1yvV86XegMR/1268",
         "attributes": [
           {
             "trait_type": "BODY",
-            "value": "Original"
+            "value": "Light-Skin"
           },
           {
             "trait_type": "SHOES",
-            "value": "Black"
+            "value": "White Sneakers"
           },
           {
             "trait_type": "CLOTHES",
-            "value": "Racing Jacket"
-          },
-          {
-            "trait_type": "CAPE-CHAIN",
-            "value": "Medallion"
+            "value": "Pajamas Green"
           },
           {
             "trait_type": "PANTS",
-            "value": "Blue Flannel"
+            "value": "Moto Yellow"
           },
           {
             "trait_type": "BELT",
@@ -48,11 +44,11 @@
           },
           {
             "trait_type": "EYES",
-            "value": "Og"
+            "value": "Glasses"
           },
           {
             "trait_type": "OFFHAND",
-            "value": "Pistol with Silencer"
+            "value": "Chucky"
           }
         ]
       },
