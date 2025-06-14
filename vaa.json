@@ -2,30 +2,30 @@
   {
     "txHash": "0x02ae9f19df121105cc9c59af2c69e9e621d8a28336682b4df350a94401883ce6",
     "contractAddress": "0x08a24eF3a429c4589a808903cF26cD183B36909e",
-    "tokenId": "62",
+    "tokenId": "60",
     "collectionName": "Mystics ",
     "timestamp": 1749887397,
     "blockNumber": 18152139,
-    "logIndex": 2,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x08a24eF3a429c4589a808903cF26cD183B36909e62/64",
+    "logIndex": 0,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x08a24eF3a429c4589a808903cF26cD183B36909e60/64",
     "isFree": false,
     "valueWei": "5250000000000000000",
-    "totalContractMints": 30,
+    "totalContractMints": 31,
     "analysis": {
       "contractAddress": "0x08a24eF3a429c4589a808903cF26cD183B36909e",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "Mystics #62",
-        "image": "ipfs://QmVm7P6fQde14YKYTaSeAUMAgxGz9YeAtALTXmC2A3nPCJ/62.gif",
+        "name": "Mystics #60",
+        "image": "ipfs://QmVm7P6fQde14YKYTaSeAUMAgxGz9YeAtALTXmC2A3nPCJ/60.gif",
         "description": "Mystics is the foundation and first ever membership to The Pier ecosystem. We are the 5000 visionaries working to turn Web3 concepts that the space can still only imagine, into reality.",
         "attributes": [
           {
             "trait_type": "Background",
-            "value": "Yellow"
+            "value": "Neutral"
           },
           {
             "trait_type": "Torso",
-            "value": "Purple Casual Hoodie"
+            "value": "Frog Hoodie"
           },
           {
             "trait_type": "Right Hand",
@@ -37,23 +37,23 @@
           },
           {
             "trait_type": "Legs",
-            "value": "Purple Shorts"
+            "value": "Yellow Zipper Shorts Tan"
           },
           {
             "trait_type": "Shoes",
-            "value": "Blue Boots"
+            "value": "Purple Circle Sneakers"
           },
           {
             "trait_type": "Waist Bag",
-            "value": "None"
+            "value": "Sherbet Waistbag"
           },
           {
             "trait_type": "Eyes",
-            "value": "Lovestruck"
+            "value": "Magic"
           },
           {
             "trait_type": "Left Hand",
-            "value": "Classic"
+            "value": "Purple Snake"
           }
         ]
       },
