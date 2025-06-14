@@ -2,29 +2,29 @@
   {
     "txHash": "0x0dbb97924e32e2269d75a3c99cf328b5b484cf4a36fa470813f91aa0181a26ba",
     "contractAddress": "0x08a24eF3a429c4589a808903cF26cD183B36909e",
-    "tokenId": "44",
+    "tokenId": "30",
     "collectionName": "Mystics ",
     "timestamp": 1749887328,
     "blockNumber": 18152085,
-    "logIndex": 38,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x08a24eF3a429c4589a808903cF26cD183B36909e44/64",
+    "logIndex": 24,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x08a24eF3a429c4589a808903cF26cD183B36909e30/64",
     "isFree": true,
-    "totalContractMints": 12,
+    "totalContractMints": 13,
     "analysis": {
       "contractAddress": "0x08a24eF3a429c4589a808903cF26cD183B36909e",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "Mystics #44",
-        "image": "ipfs://QmVm7P6fQde14YKYTaSeAUMAgxGz9YeAtALTXmC2A3nPCJ/44.gif",
+        "name": "Mystics #30",
+        "image": "ipfs://QmVm7P6fQde14YKYTaSeAUMAgxGz9YeAtALTXmC2A3nPCJ/30.gif",
         "description": "Mystics is the foundation and first ever membership to The Pier ecosystem. We are the 5000 visionaries working to turn Web3 concepts that the space can still only imagine, into reality.",
         "attributes": [
           {
             "trait_type": "Background",
-            "value": "Purple"
+            "value": "Pink"
           },
           {
             "trait_type": "Torso",
-            "value": "Purple Casual Hoodie"
+            "value": "Rain Jacket"
           },
           {
             "trait_type": "Right Hand",
@@ -32,11 +32,11 @@
           },
           {
             "trait_type": "Backpack",
-            "value": "None"
+            "value": "Green Underworld Backpack"
           },
           {
             "trait_type": "Legs",
-            "value": "Yellow Shorts Tan"
+            "value": "Pink Trackpants"
           },
           {
             "trait_type": "Shoes",
@@ -48,11 +48,11 @@
           },
           {
             "trait_type": "Eyes",
-            "value": "Loopy"
+            "value": "Classic"
           },
           {
             "trait_type": "Left Hand",
-            "value": "Classic"
+            "value": "Wolf"
           }
         ]
       },
