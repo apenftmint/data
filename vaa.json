@@ -1,5 +1,63 @@
 [
   {
+    "txHash": "0x50717834226b8173a216f0ab49c0c3840aa6426cb010e117ac2f4681a789525b",
+    "contractAddress": "0xE1523d81dD4b196d2C4506588CEbE78352734711",
+    "tokenId": "3815",
+    "collectionName": "Soldier On Ape",
+    "timestamp": 1749885538,
+    "blockNumber": 18150788,
+    "logIndex": 0,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xE1523d81dD4b196d2C4506588CEbE783527347113815/64",
+    "isFree": false,
+    "valueWei": "100000000000000000",
+    "totalContractMints": 1,
+    "analysis": {
+      "contractAddress": "0xE1523d81dD4b196d2C4506588CEbE78352734711",
+      "metadataStatus": "ok",
+      "fetchedMetadata": {
+        "name": "Soldier On Ape #3815",
+        "description": "The Soldier On Ape are 4444 uniquely generated characters. No two are exactly alike, and each one of them can be officially owned by a single person on the Ape Chain",
+        "attributes": [
+          {
+            "trait_type": "RARITY",
+            "value": "COMMON"
+          },
+          {
+            "trait_type": "FACE",
+            "value": "COMMON"
+          },
+          {
+            "trait_type": "WEAPON",
+            "value": "COMMON"
+          },
+          {
+            "trait_type": "HELMET",
+            "value": "COMMON"
+          },
+          {
+            "trait_type": "BACKGROUND",
+            "value": "COMMON"
+          },
+          {
+            "trait_type": "Trait Count",
+            "value": "5"
+          }
+        ],
+        "image": "ipfs://bafybeiainphfzx26l4za5xzxalgbfxs33d2cupska3qbuc7of2qcv4g3ka/3815.webp",
+        "compiler": "nfts2me.com"
+      },
+      "nameSymbolStatus": "ok",
+      "collectionNameFromAnalyzer": "Soldier On Ape",
+      "collectionSymbolFromAnalyzer": "SOLDIER",
+      "finalStatus": "OK",
+      "statusReasons": [
+        "Metadata fetched successfully."
+      ]
+    },
+    "displayStatus": "OK",
+    "mintPriceApe": "0.1000"
+  },
+  {
     "txHash": "0x09141ce75c7ff758a1850cd49dc5b5840e279232d5ea92afcb805f88fb6cc772",
     "contractAddress": "0x81F2a53f6Bc5bCD100807b4f33F34f19b086688e",
     "tokenId": "178",
