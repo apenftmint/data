@@ -1,5 +1,75 @@
 [
   {
+    "txHash": "0xce5d17405f08a28eba542512f7907c078157c87d022e3b88896684a0fc130e81",
+    "contractAddress": "0xd1BB26c4850fB87d48d36c16209e4deE2e48CF88",
+    "tokenId": "94",
+    "collectionName": "Lil Dickbutts",
+    "timestamp": 1749896597,
+    "blockNumber": 18159090,
+    "logIndex": 4,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xd1BB26c4850fB87d48d36c16209e4deE2e48CF8894/64",
+    "isFree": false,
+    "valueWei": "1000000000000000000",
+    "totalContractMints": 25,
+    "analysis": {
+      "contractAddress": "0xd1BB26c4850fB87d48d36c16209e4deE2e48CF88",
+      "metadataStatus": "ok",
+      "fetchedMetadata": {
+        "name": "Lil Dickbutts #94",
+        "description": "Baby Dickbutts entering the world. No Roadmap. No Promises. CCO.",
+        "attributes": [
+          {
+            "trait_type": "background",
+            "value": "Blue"
+          },
+          {
+            "trait_type": "body",
+            "value": "Mid"
+          },
+          {
+            "trait_type": "clothes",
+            "value": "None"
+          },
+          {
+            "trait_type": "dick",
+            "value": "Purple"
+          },
+          {
+            "trait_type": "eyes",
+            "value": "Red"
+          },
+          {
+            "trait_type": "hair",
+            "value": "None"
+          },
+          {
+            "trait_type": "mouth",
+            "value": "Gold"
+          },
+          {
+            "trait_type": "Weapons",
+            "value": "None"
+          },
+          {
+            "trait_type": "Trait Count",
+            "value": "8"
+          }
+        ],
+        "image": "ipfs://bafybeidkivgr6mxud5kx3fewrqiajcg5liq4wx545wbms5rjwsbl4pe3l4/94.webp",
+        "compiler": "nfts2me.com"
+      },
+      "nameSymbolStatus": "ok",
+      "collectionNameFromAnalyzer": "Lil Dickbutts",
+      "collectionSymbolFromAnalyzer": "LIL",
+      "finalStatus": "OK",
+      "statusReasons": [
+        "Metadata fetched successfully."
+      ]
+    },
+    "displayStatus": "OK",
+    "mintPriceApe": "1.0000"
+  },
+  {
     "txHash": "0x20957766969d108ddfa5c971dfeb327ea1c3d43ff28f7cb8384f7d1ded630706",
     "contractAddress": "0x961c6D8910d6FBb803eD124F2c4480f3F6070Ec7",
     "tokenId": "3979",
@@ -267,76 +337,6 @@
       ]
     },
     "displayStatus": "Issues Detected",
-    "mintPriceApe": "0.1000"
-  },
-  {
-    "txHash": "0x97c169d0fa128f6ddd56843d138bca3cf8990bcb22483dbe569c420638fac627",
-    "contractAddress": "0xd1BB26c4850fB87d48d36c16209e4deE2e48CF88",
-    "tokenId": "89",
-    "collectionName": "Lil Dickbutts",
-    "timestamp": 1749892122,
-    "blockNumber": 18155712,
-    "logIndex": 0,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xd1BB26c4850fB87d48d36c16209e4deE2e48CF8889/64",
-    "isFree": false,
-    "valueWei": "100000000000000000",
-    "totalContractMints": 24,
-    "analysis": {
-      "contractAddress": "0xd1BB26c4850fB87d48d36c16209e4deE2e48CF88",
-      "metadataStatus": "ok",
-      "fetchedMetadata": {
-        "name": "Lil Dickbutts #89",
-        "description": "Baby Dickbutts entering the world. No Roadmap. No Promises. CCO.",
-        "attributes": [
-          {
-            "trait_type": "background",
-            "value": "Blue"
-          },
-          {
-            "trait_type": "body",
-            "value": "Mid"
-          },
-          {
-            "trait_type": "clothes",
-            "value": "Office"
-          },
-          {
-            "trait_type": "dick",
-            "value": "Fire"
-          },
-          {
-            "trait_type": "eyes",
-            "value": "Normal"
-          },
-          {
-            "trait_type": "hair",
-            "value": "None"
-          },
-          {
-            "trait_type": "mouth",
-            "value": "Cigarette"
-          },
-          {
-            "trait_type": "Weapons",
-            "value": "Lollipop"
-          },
-          {
-            "trait_type": "Trait Count",
-            "value": "8"
-          }
-        ],
-        "image": "ipfs://bafybeidkivgr6mxud5kx3fewrqiajcg5liq4wx545wbms5rjwsbl4pe3l4/89.webp",
-        "compiler": "nfts2me.com"
-      },
-      "nameSymbolStatus": "ok",
-      "collectionNameFromAnalyzer": "Lil Dickbutts",
-      "collectionSymbolFromAnalyzer": "LIL",
-      "finalStatus": "OK",
-      "statusReasons": [
-        "Metadata fetched successfully."
-      ]
-    },
-    "displayStatus": "OK",
     "mintPriceApe": "0.1000"
   },
   {
