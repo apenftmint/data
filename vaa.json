@@ -2,29 +2,29 @@
   {
     "txHash": "0xaeb747c0ff26db1732ce60ccc043ca4ced70843ff1283005159616c7f8ee7af2",
     "contractAddress": "0xA5a996F48FAAA1a20DA604b8201de9F570Fa33e6",
-    "tokenId": "3289",
+    "tokenId": "3337",
     "collectionName": "Reepz",
     "timestamp": 1749905328,
     "blockNumber": 18163924,
-    "logIndex": 232,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xA5a996F48FAAA1a20DA604b8201de9F570Fa33e63289/64",
+    "logIndex": 280,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xA5a996F48FAAA1a20DA604b8201de9F570Fa33e63337/64",
     "isFree": true,
-    "totalContractMints": 60,
+    "totalContractMints": 61,
     "analysis": {
       "contractAddress": "0xA5a996F48FAAA1a20DA604b8201de9F570Fa33e6",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "reepz #3289",
+        "name": "reepz #3337",
         "description": "reepz",
-        "image": "ipfs://bafybeigdubkigonfrc57kdv23isfvdtbupsfipd6o3tupioz3gzpj36tiu/3289.png",
+        "image": "ipfs://bafybeigdubkigonfrc57kdv23isfvdtbupsfipd6o3tupioz3gzpj36tiu/3337.png",
         "attributes": [
           {
             "trait_type": "Background",
-            "value": "Purple"
+            "value": "Skull Comets"
           },
           {
             "trait_type": "Robes",
-            "value": "Regular Robes"
+            "value": "Suit Robes"
           },
           {
             "trait_type": "Face",
@@ -32,15 +32,15 @@
           },
           {
             "trait_type": "Eyes",
-            "value": "Shades"
+            "value": "None"
           },
           {
             "trait_type": "Mouth",
-            "value": "Blunt"
+            "value": "Doink"
           },
           {
             "trait_type": "Head",
-            "value": "Golden Horns"
+            "value": "Rainbow Spikes"
           }
         ]
       },
