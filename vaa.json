@@ -2,22 +2,22 @@
   {
     "txHash": "0xddc9987ea3efc91117ad60fa598846f8d11e3254abe6cba95b90ce8535554365",
     "contractAddress": "0xA5a996F48FAAA1a20DA604b8201de9F570Fa33e6",
-    "tokenId": "3048",
+    "tokenId": "3052",
     "collectionName": "Reepz",
     "timestamp": 1749874279,
     "blockNumber": 18141953,
-    "logIndex": 1,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xA5a996F48FAAA1a20DA604b8201de9F570Fa33e63048/64",
+    "logIndex": 5,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xA5a996F48FAAA1a20DA604b8201de9F570Fa33e63052/64",
     "isFree": false,
     "valueWei": "30500000000000000000",
-    "totalContractMints": 1,
+    "totalContractMints": 2,
     "analysis": {
       "contractAddress": "0xA5a996F48FAAA1a20DA604b8201de9F570Fa33e6",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "reepz #3048",
+        "name": "reepz #3052",
         "description": "reepz",
-        "image": "ipfs://bafybeigdubkigonfrc57kdv23isfvdtbupsfipd6o3tupioz3gzpj36tiu/3048.png",
+        "image": "ipfs://bafybeigdubkigonfrc57kdv23isfvdtbupsfipd6o3tupioz3gzpj36tiu/3052.png",
         "attributes": [
           {
             "trait_type": "Background",
@@ -25,19 +25,19 @@
           },
           {
             "trait_type": "Robes",
-            "value": "Pepe Robes"
+            "value": "Regular Robes"
           },
           {
             "trait_type": "Face",
-            "value": "Dark Bot"
+            "value": "Demon"
           },
           {
             "trait_type": "Eyes",
-            "value": "Specs"
+            "value": "Eye Visor"
           },
           {
             "trait_type": "Mouth",
-            "value": "Doink"
+            "value": "Bubblegum"
           },
           {
             "trait_type": "Head",
