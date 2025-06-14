@@ -2,24 +2,24 @@
   {
     "txHash": "0x0c1365e2a8066f19088686ef82a7780f0b65f02e723f1774bd798208122b7a23",
     "contractAddress": "0xb09065aC4a3f721B1a5E271ADeed478b822037DC",
-    "tokenId": "5180",
+    "tokenId": "5191",
     "collectionName": "Midgets",
     "timestamp": 1749889788,
     "blockNumber": 18153785,
-    "logIndex": 107,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xb09065aC4a3f721B1a5E271ADeed478b822037DC5180/64",
+    "logIndex": 118,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xb09065aC4a3f721B1a5E271ADeed478b822037DC5191/64",
     "isFree": true,
-    "totalContractMints": 5,
+    "totalContractMints": 6,
     "analysis": {
       "contractAddress": "0xb09065aC4a3f721B1a5E271ADeed478b822037DC",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "Midgets #5180",
+        "name": "Midgets #5191",
         "description": "Midgets is a collection of 6969 NFTs with +250 unique traits that have landed in the ETH blockchain to be burned and migrated to the ordinals (BTC) blockchain. Not your average NFT project.",
-        "image": "ipfs://bafybeiavrwtwuwpgi4qivbg4xghdgfrehcigfy2mikwqtrlqstyubqaoye/5180.png",
-        "dna": "cf84afddc908d013202c674a8ddb1c0e6d74d196",
-        "edition": 5180,
-        "date": 1686116145992,
+        "image": "ipfs://bafybeiavrwtwuwpgi4qivbg4xghdgfrehcigfy2mikwqtrlqstyubqaoye/5191.png",
+        "dna": "5507d3d3e92bcbb73700127ba27d6fb8c56edc4f",
+        "edition": 5191,
+        "date": 1686116146168,
         "attributes": [
           {
             "trait_type": "BACKGROUND",
@@ -27,19 +27,19 @@
           },
           {
             "trait_type": "SKIN",
-            "value": "ZOMBIE"
+            "value": "ASIAN"
           },
           {
             "trait_type": "CLOTHES",
-            "value": "DINO"
+            "value": "minion"
           },
           {
             "trait_type": "FACE",
-            "value": "FROWN"
+            "value": "powder blue inuit snow shades"
           },
           {
             "trait_type": "HEAD",
-            "value": "reverse mohawk pink"
+            "value": "mohawk"
           }
         ]
       },
