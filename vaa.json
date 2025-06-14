@@ -2,24 +2,24 @@
   {
     "txHash": "0xf560691640e33b6d1381864c680820551e66ad179050b2f050a8cc6d9fbf90ac",
     "contractAddress": "0xb09065aC4a3f721B1a5E271ADeed478b822037DC",
-    "tokenId": "5274",
+    "tokenId": "5278",
     "collectionName": "Midgets",
     "timestamp": 1749895429,
     "blockNumber": 18158233,
-    "logIndex": 56,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xb09065aC4a3f721B1a5E271ADeed478b822037DC5274/64",
+    "logIndex": 60,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xb09065aC4a3f721B1a5E271ADeed478b822037DC5278/64",
     "isFree": true,
-    "totalContractMints": 16,
+    "totalContractMints": 17,
     "analysis": {
       "contractAddress": "0xb09065aC4a3f721B1a5E271ADeed478b822037DC",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "Midgets #5274",
+        "name": "Midgets #5278",
         "description": "Midgets is a collection of 6969 NFTs with +250 unique traits that have landed in the ETH blockchain to be burned and migrated to the ordinals (BTC) blockchain. Not your average NFT project.",
-        "image": "ipfs://bafybeiavrwtwuwpgi4qivbg4xghdgfrehcigfy2mikwqtrlqstyubqaoye/5274.png",
-        "dna": "1d5c1ab4aafdd77867b6ab49a67ffc89c57bd501",
-        "edition": 5274,
-        "date": 1686116147643,
+        "image": "ipfs://bafybeiavrwtwuwpgi4qivbg4xghdgfrehcigfy2mikwqtrlqstyubqaoye/5278.png",
+        "dna": "54db60a06ec02893aba188eff3f1dadc16119770",
+        "edition": 5278,
+        "date": 1686116147706,
         "attributes": [
           {
             "trait_type": "BACKGROUND",
@@ -27,19 +27,19 @@
           },
           {
             "trait_type": "SKIN",
-            "value": "ZOMBIE"
+            "value": "DARK"
           },
           {
             "trait_type": "CLOTHES",
-            "value": "wrestler"
+            "value": "npc"
           },
           {
             "trait_type": "FACE",
-            "value": "WHITE GLASSES"
+            "value": "EYEPATCH"
           },
           {
             "trait_type": "HEAD",
-            "value": "RED REVERSE CAP"
+            "value": "bucket head green"
           }
         ]
       },
