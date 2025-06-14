@@ -1,5 +1,33 @@
 [
   {
+    "txHash": "0x844efde80d42bc6a16b7d8faea6e0b7bfd73c1e7898a45dd776fb2d6e2a21f5c",
+    "contractAddress": "0x7e0EE9a8A0E4AcE3fa55886a66EcE0B099dA7Fe2",
+    "tokenId": "636",
+    "collectionName": "KFCult",
+    "timestamp": 1749881820,
+    "blockNumber": 18147932,
+    "logIndex": 1,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x7e0EE9a8A0E4AcE3fa55886a66EcE0B099dA7Fe2636/64",
+    "isFree": true,
+    "totalContractMints": 1,
+    "analysis": {
+      "contractAddress": "0x7e0EE9a8A0E4AcE3fa55886a66EcE0B099dA7Fe2",
+      "metadataStatus": "ok",
+      "fetchedMetadata": {
+        "name": "KFCult #636",
+        "image": "ipfs://bafybeibtjgg2qn3pmlipvrmko4rukrca3gqrz5vjpjmiqzbqvyr2kyzq3y"
+      },
+      "nameSymbolStatus": "ok",
+      "collectionNameFromAnalyzer": "KFCult",
+      "collectionSymbolFromAnalyzer": "APE",
+      "finalStatus": "OK",
+      "statusReasons": [
+        "Metadata fetched successfully."
+      ]
+    },
+    "displayStatus": "OK"
+  },
+  {
     "txHash": "0x8d87dd799217d1c7412dc43d60f27fb8367ff14880212a6b882f319402f1c117",
     "contractAddress": "0x78709205C07A8B167297B65681d332E8f49fe09A",
     "tokenId": "1302",
