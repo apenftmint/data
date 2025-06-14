@@ -2,56 +2,53 @@
   {
     "txHash": "0x060e36a6b4393b21af255ef1c70c3d51debd277e58dfd07e7ec048f19e48533c",
     "contractAddress": "0xD8fF0EF834587049092A0D6DACF129B37B413030",
-    "tokenId": "1721",
+    "tokenId": "1722",
     "collectionName": "The Project",
     "timestamp": 1749905222,
     "blockNumber": 18163876,
-    "logIndex": 1,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xD8fF0EF834587049092A0D6DACF129B37B4130301721/64",
+    "logIndex": 2,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xD8fF0EF834587049092A0D6DACF129B37B4130301722/64",
     "isFree": false,
     "valueWei": "33000000000000000000",
-    "totalContractMints": 9,
+    "totalContractMints": 10,
     "analysis": {
       "contractAddress": "0xD8fF0EF834587049092A0D6DACF129B37B413030",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "The Project #1721",
-        "image": "https://theprojectassets.blob.core.windows.net/images/1721.png?cb=100",
+        "name": "The Project #1722",
+        "image": "https://theprojectassets.blob.core.windows.net/images/1722.png?cb=100",
         "attributes": [
           {
             "trait_type": "Character",
-            "value": "Fox"
+            "value": "Monkey"
           },
           {
             "trait_type": "Body",
-            "value": "White"
+            "value": "Gold"
           },
           {
             "trait_type": "Clothes",
-            "value": "Prom Dress"
+            "value": "The Project T Black"
           },
           {
             "trait_type": "Hands",
-            "value": "Goat Head"
+            "value": "Green Shroom"
           },
           {
             "trait_type": "Eyes",
-            "value": "White"
+            "value": "Normal"
           },
           {
             "trait_type": "Mouth",
-            "value": "Not A Chew Toy"
+            "value": "Gold Grill"
           },
           {
             "trait_type": "Hat",
-            "value": "Tinfoil Hat"
-          },
-          {
-            "value": "Wings"
+            "value": "Earhart"
           },
           {
             "trait_type": "Background",
-            "value": "Reddish"
+            "value": "Tripped"
           }
         ]
       },
