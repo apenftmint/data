@@ -2,27 +2,53 @@
   {
     "txHash": "0xe74163831492f499af0623aec24433b7881246b7a1992c00c2b1c58c86d4c775",
     "contractAddress": "0x58219061B6a2D1147b09B7b2e3a5B62a4eAaD31a",
-    "tokenId": "121",
+    "tokenId": "248",
     "collectionName": "Peppie",
     "timestamp": 1749906059,
     "blockNumber": 18164263,
-    "logIndex": 60,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x58219061B6a2D1147b09B7b2e3a5B62a4eAaD31a121/64",
+    "logIndex": 187,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x58219061B6a2D1147b09B7b2e3a5B62a4eAaD31a248/64",
     "isFree": true,
-    "totalContractMints": 30,
+    "totalContractMints": 31,
     "analysis": {
       "contractAddress": "0x58219061B6a2D1147b09B7b2e3a5B62a4eAaD31a",
-      "metadataStatus": "fetch_error",
-      "fetchedMetadata": null,
+      "metadataStatus": "ok",
+      "fetchedMetadata": {
+        "name": "Peppie #248",
+        "description": "Bringing the two most influential subcultures together to celebrate their influence had on futures past and present.",
+        "image": "ipfs://bafybeih6773u5hppgz7j6uf2hazxngx5cgcolgqkslysogiou5trmnrwe4/248.png",
+        "dna": "89712f8c361a33723925cd555b911dd460f1806e",
+        "edition": 248,
+        "date": 1667015664190,
+        "attributes": [
+          {
+            "trait_type": "Background",
+            "value": "Dark Purple"
+          },
+          {
+            "trait_type": "Icecream",
+            "value": "Tan"
+          },
+          {
+            "trait_type": "Eyes 2",
+            "value": "Neutral"
+          },
+          {
+            "trait_type": "Mouth 1",
+            "value": "Bucktooth"
+          }
+        ],
+        "compiler": "Peppies"
+      },
       "nameSymbolStatus": "ok",
       "collectionNameFromAnalyzer": "Peppie",
       "collectionSymbolFromAnalyzer": "PEP",
-      "finalStatus": "Issues Detected",
+      "finalStatus": "OK",
       "statusReasons": [
-        "Error fetching metadata from URI: The operation was aborted due to timeout."
+        "Metadata fetched successfully."
       ]
     },
-    "displayStatus": "Issues Detected"
+    "displayStatus": "OK"
   },
   {
     "txHash": "0x8fc74df30a176de22beaacf777f4a65f6670b9f83d46877042568467517a1df3",
