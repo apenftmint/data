@@ -2,29 +2,29 @@
   {
     "txHash": "0x0dbb97924e32e2269d75a3c99cf328b5b484cf4a36fa470813f91aa0181a26ba",
     "contractAddress": "0x08a24eF3a429c4589a808903cF26cD183B36909e",
-    "tokenId": "39",
+    "tokenId": "38",
     "collectionName": "Mystics ",
     "timestamp": 1749887328,
     "blockNumber": 18152085,
-    "logIndex": 33,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x08a24eF3a429c4589a808903cF26cD183B36909e39/64",
+    "logIndex": 32,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x08a24eF3a429c4589a808903cF26cD183B36909e38/64",
     "isFree": true,
-    "totalContractMints": 7,
+    "totalContractMints": 8,
     "analysis": {
       "contractAddress": "0x08a24eF3a429c4589a808903cF26cD183B36909e",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "Mystics #39",
-        "image": "ipfs://QmVm7P6fQde14YKYTaSeAUMAgxGz9YeAtALTXmC2A3nPCJ/39.gif",
+        "name": "Mystics #38",
+        "image": "ipfs://QmVm7P6fQde14YKYTaSeAUMAgxGz9YeAtALTXmC2A3nPCJ/38.gif",
         "description": "Mystics is the foundation and first ever membership to The Pier ecosystem. We are the 5000 visionaries working to turn Web3 concepts that the space can still only imagine, into reality.",
         "attributes": [
           {
             "trait_type": "Background",
-            "value": "Pink"
+            "value": "Yellow"
           },
           {
             "trait_type": "Torso",
-            "value": "Yellow Hooded Jacket"
+            "value": "Pink Classic Hoodie"
           },
           {
             "trait_type": "Right Hand",
@@ -32,7 +32,7 @@
           },
           {
             "trait_type": "Backpack",
-            "value": "None"
+            "value": "Magic Radio Backpack"
           },
           {
             "trait_type": "Legs",
@@ -40,7 +40,7 @@
           },
           {
             "trait_type": "Shoes",
-            "value": "Blue Circle Sneakers"
+            "value": "Slippers"
           },
           {
             "trait_type": "Waist Bag",
@@ -52,7 +52,7 @@
           },
           {
             "trait_type": "Left Hand",
-            "value": "Star Wand"
+            "value": "Classic"
           }
         ]
       },
