@@ -1,5 +1,30 @@
 [
   {
+    "txHash": "0xfd7c86afe0333cedf7a9cd1202fdd5f69127002d331a0cb0773d2822deaa2e1e",
+    "contractAddress": "0x1FB99ae983C26D6dAaF7910BDe118Dc0cA681e78",
+    "tokenId": "71",
+    "collectionName": "TABUZU",
+    "timestamp": 1749890034,
+    "blockNumber": 18154007,
+    "logIndex": 70,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x1FB99ae983C26D6dAaF7910BDe118Dc0cA681e7871/64",
+    "isFree": true,
+    "totalContractMints": 1,
+    "analysis": {
+      "contractAddress": "0x1FB99ae983C26D6dAaF7910BDe118Dc0cA681e78",
+      "metadataStatus": "no_uri_found",
+      "fetchedMetadata": null,
+      "nameSymbolStatus": "ok",
+      "collectionNameFromAnalyzer": "TABUZU",
+      "collectionSymbolFromAnalyzer": "TBZ",
+      "finalStatus": "Issues Detected",
+      "statusReasons": [
+        "TokenURI not found or invalid."
+      ]
+    },
+    "displayStatus": "Issues Detected"
+  },
+  {
     "txHash": "0x3f56a25aa69709c7c99d06dde3d9215471b6e7de8673c388602c51f939e42c14",
     "contractAddress": "0xC45735D63FDa5b9a62D6C0a9bEB50b197200692F",
     "tokenId": "549",
