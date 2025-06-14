@@ -2,40 +2,56 @@
   {
     "txHash": "0xe74163831492f499af0623aec24433b7881246b7a1992c00c2b1c58c86d4c775",
     "contractAddress": "0x58219061B6a2D1147b09B7b2e3a5B62a4eAaD31a",
-    "tokenId": "248",
+    "tokenId": "274",
     "collectionName": "Peppie",
     "timestamp": 1749906059,
     "blockNumber": 18164263,
-    "logIndex": 187,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x58219061B6a2D1147b09B7b2e3a5B62a4eAaD31a248/64",
+    "logIndex": 213,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x58219061B6a2D1147b09B7b2e3a5B62a4eAaD31a274/64",
     "isFree": true,
-    "totalContractMints": 31,
+    "totalContractMints": 32,
     "analysis": {
       "contractAddress": "0x58219061B6a2D1147b09B7b2e3a5B62a4eAaD31a",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "Peppie #248",
+        "name": "Peppie #274",
         "description": "Bringing the two most influential subcultures together to celebrate their influence had on futures past and present.",
-        "image": "ipfs://bafybeih6773u5hppgz7j6uf2hazxngx5cgcolgqkslysogiou5trmnrwe4/248.png",
-        "dna": "89712f8c361a33723925cd555b911dd460f1806e",
-        "edition": 248,
-        "date": 1667015664190,
+        "image": "ipfs://bafybeih6773u5hppgz7j6uf2hazxngx5cgcolgqkslysogiou5trmnrwe4/274.png",
+        "dna": "05236aaf050a4a51c0ef6723ab5d30c3cd15987a",
+        "edition": 274,
+        "date": 1667013306370,
         "attributes": [
           {
             "trait_type": "Background",
-            "value": "Dark Purple"
+            "value": "Gradient 2"
           },
           {
-            "trait_type": "Icecream",
-            "value": "Tan"
+            "trait_type": "Body",
+            "value": "Pink Puffer"
           },
           {
-            "trait_type": "Eyes 2",
-            "value": "Neutral"
+            "trait_type": "Skin",
+            "value": "Yellow"
+          },
+          {
+            "trait_type": "Eyes 1",
+            "value": "Sad"
+          },
+          {
+            "trait_type": "Hair 1",
+            "value": "Holographic Afro"
           },
           {
             "trait_type": "Mouth 1",
-            "value": "Bucktooth"
+            "value": "Grin"
+          },
+          {
+            "trait_type": "Piercing",
+            "value": "None"
+          },
+          {
+            "trait_type": "Accessory 1",
+            "value": "None"
           }
         ],
         "compiler": "Peppies"
