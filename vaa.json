@@ -2,56 +2,40 @@
   {
     "txHash": "0xe74163831492f499af0623aec24433b7881246b7a1992c00c2b1c58c86d4c775",
     "contractAddress": "0x58219061B6a2D1147b09B7b2e3a5B62a4eAaD31a",
-    "tokenId": "268",
+    "tokenId": "335",
     "collectionName": "Peppie",
     "timestamp": 1749906059,
     "blockNumber": 18164263,
-    "logIndex": 207,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x58219061B6a2D1147b09B7b2e3a5B62a4eAaD31a268/64",
+    "logIndex": 274,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x58219061B6a2D1147b09B7b2e3a5B62a4eAaD31a335/64",
     "isFree": true,
-    "totalContractMints": 52,
+    "totalContractMints": 53,
     "analysis": {
       "contractAddress": "0x58219061B6a2D1147b09B7b2e3a5B62a4eAaD31a",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "Peppie #268",
+        "name": "Peppie #335",
         "description": "Bringing the two most influential subcultures together to celebrate their influence had on futures past and present.",
-        "image": "ipfs://bafybeih6773u5hppgz7j6uf2hazxngx5cgcolgqkslysogiou5trmnrwe4/268.png",
-        "dna": "95d75f4027c4fe377ba6e3e989a02ce4d0945689",
-        "edition": 268,
-        "date": 1667013875981,
+        "image": "ipfs://bafybeih6773u5hppgz7j6uf2hazxngx5cgcolgqkslysogiou5trmnrwe4/335.png",
+        "dna": "b0b1e219b8068b9f992af55b83604ab42b3e99ec",
+        "edition": 335,
+        "date": 1667015656710,
         "attributes": [
           {
             "trait_type": "Background",
-            "value": "Starry Blue"
-          },
-          {
-            "trait_type": "Body",
-            "value": "Blue Backpack"
-          },
-          {
-            "trait_type": "Skin",
             "value": "Blue"
           },
           {
-            "trait_type": "Eyes 1",
-            "value": "Wink"
+            "trait_type": "Icecream",
+            "value": "Gradient 1"
           },
           {
-            "trait_type": "Hair 1",
-            "value": "Green Brushcut"
+            "trait_type": "Eyes 2",
+            "value": "Neutral"
           },
           {
             "trait_type": "Mouth 1",
-            "value": "Bucktooth"
-          },
-          {
-            "trait_type": "Piercing",
-            "value": "None"
-          },
-          {
-            "trait_type": "Accessory 1",
-            "value": "Cobain Glasses"
+            "value": "El"
           }
         ],
         "compiler": "Peppies"
