@@ -2,33 +2,33 @@
   {
     "txHash": "0xaeb747c0ff26db1732ce60ccc043ca4ced70843ff1283005159616c7f8ee7af2",
     "contractAddress": "0xA5a996F48FAAA1a20DA604b8201de9F570Fa33e6",
-    "tokenId": "3418",
+    "tokenId": "3225",
     "collectionName": "Reepz",
     "timestamp": 1749905328,
     "blockNumber": 18163924,
-    "logIndex": 361,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xA5a996F48FAAA1a20DA604b8201de9F570Fa33e63418/64",
+    "logIndex": 168,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xA5a996F48FAAA1a20DA604b8201de9F570Fa33e63225/64",
     "isFree": true,
-    "totalContractMints": 49,
+    "totalContractMints": 50,
     "analysis": {
       "contractAddress": "0xA5a996F48FAAA1a20DA604b8201de9F570Fa33e6",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "reepz #3418",
+        "name": "reepz #3225",
         "description": "reepz",
-        "image": "ipfs://bafybeigdubkigonfrc57kdv23isfvdtbupsfipd6o3tupioz3gzpj36tiu/3418.png",
+        "image": "ipfs://bafybeigdubkigonfrc57kdv23isfvdtbupsfipd6o3tupioz3gzpj36tiu/3225.png",
         "attributes": [
           {
             "trait_type": "Background",
-            "value": "Light Blue"
+            "value": "Wine"
           },
           {
             "trait_type": "Robes",
-            "value": "Kings Robes"
+            "value": "Pepe Robes"
           },
           {
             "trait_type": "Face",
-            "value": "Wooden Skull"
+            "value": "Zombie"
           },
           {
             "trait_type": "Eyes",
@@ -36,7 +36,7 @@
           },
           {
             "trait_type": "Mouth",
-            "value": "None"
+            "value": "Doink"
           },
           {
             "trait_type": "Head",
