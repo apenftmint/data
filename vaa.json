@@ -1,5 +1,75 @@
 [
   {
+    "txHash": "0x97c169d0fa128f6ddd56843d138bca3cf8990bcb22483dbe569c420638fac627",
+    "contractAddress": "0xd1BB26c4850fB87d48d36c16209e4deE2e48CF88",
+    "tokenId": "89",
+    "collectionName": "Lil Dickbutts",
+    "timestamp": 1749892122,
+    "blockNumber": 18155712,
+    "logIndex": 0,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xd1BB26c4850fB87d48d36c16209e4deE2e48CF8889/64",
+    "isFree": false,
+    "valueWei": "100000000000000000",
+    "totalContractMints": 24,
+    "analysis": {
+      "contractAddress": "0xd1BB26c4850fB87d48d36c16209e4deE2e48CF88",
+      "metadataStatus": "ok",
+      "fetchedMetadata": {
+        "name": "Lil Dickbutts #89",
+        "description": "Baby Dickbutts entering the world. No Roadmap. No Promises. CCO.",
+        "attributes": [
+          {
+            "trait_type": "background",
+            "value": "Blue"
+          },
+          {
+            "trait_type": "body",
+            "value": "Mid"
+          },
+          {
+            "trait_type": "clothes",
+            "value": "Office"
+          },
+          {
+            "trait_type": "dick",
+            "value": "Fire"
+          },
+          {
+            "trait_type": "eyes",
+            "value": "Normal"
+          },
+          {
+            "trait_type": "hair",
+            "value": "None"
+          },
+          {
+            "trait_type": "mouth",
+            "value": "Cigarette"
+          },
+          {
+            "trait_type": "Weapons",
+            "value": "Lollipop"
+          },
+          {
+            "trait_type": "Trait Count",
+            "value": "8"
+          }
+        ],
+        "image": "ipfs://bafybeidkivgr6mxud5kx3fewrqiajcg5liq4wx545wbms5rjwsbl4pe3l4/89.webp",
+        "compiler": "nfts2me.com"
+      },
+      "nameSymbolStatus": "ok",
+      "collectionNameFromAnalyzer": "Lil Dickbutts",
+      "collectionSymbolFromAnalyzer": "LIL",
+      "finalStatus": "OK",
+      "statusReasons": [
+        "Metadata fetched successfully."
+      ]
+    },
+    "displayStatus": "OK",
+    "mintPriceApe": "0.1000"
+  },
+  {
     "txHash": "0x1e829f0f1febc99bea29b60fa72f626cc2559a71ac9fb1d539efdd680e1caa45",
     "contractAddress": "0x2d1469E395aCf37E2CfD1853600c542EEEDB266F",
     "tokenId": "697",
@@ -209,33 +279,6 @@
       ]
     },
     "displayStatus": "Issues Detected"
-  },
-  {
-    "txHash": "0x6f9d465e59a22da5b77d269c885ca98f27b259ac781c5e3ca56687c607e15e41",
-    "contractAddress": "0xd1BB26c4850fB87d48d36c16209e4deE2e48CF88",
-    "tokenId": "66",
-    "collectionName": "Lil Dickbutts",
-    "timestamp": 1749889836,
-    "blockNumber": 18153817,
-    "logIndex": 7,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xd1BB26c4850fB87d48d36c16209e4deE2e48CF8866/64",
-    "isFree": false,
-    "valueWei": "3000000000000000000",
-    "totalContractMints": 23,
-    "analysis": {
-      "contractAddress": "0xd1BB26c4850fB87d48d36c16209e4deE2e48CF88",
-      "metadataStatus": "fetch_error",
-      "fetchedMetadata": null,
-      "nameSymbolStatus": "ok",
-      "collectionNameFromAnalyzer": "Lil Dickbutts",
-      "collectionSymbolFromAnalyzer": "LIL",
-      "finalStatus": "Issues Detected",
-      "statusReasons": [
-        "Error fetching metadata from URI: The operation was aborted due to timeout."
-      ]
-    },
-    "displayStatus": "Issues Detected",
-    "mintPriceApe": "3.0000"
   },
   {
     "txHash": "0x0c1365e2a8066f19088686ef82a7780f0b65f02e723f1774bd798208122b7a23",
