@@ -1,5 +1,62 @@
 [
   {
+    "txHash": "0xf5d71a6f96079c8b32cabff004b177b16bcbbf798787896c52cdd0179ccd9592",
+    "contractAddress": "0x8b4117E91a6f6A810651aFae788EC044f13a06a5",
+    "tokenId": "7321",
+    "collectionName": "Staked BAKC",
+    "timestamp": 1749883431,
+    "blockNumber": 18149134,
+    "logIndex": 1,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x8b4117E91a6f6A810651aFae788EC044f13a06a57321/64",
+    "isFree": true,
+    "totalContractMints": 1,
+    "analysis": {
+      "contractAddress": "0x8b4117E91a6f6A810651aFae788EC044f13a06a5",
+      "metadataStatus": "ok",
+      "fetchedMetadata": {
+        "image": "ipfs://QmcWNqze73SEjzPjJgu38krut6NmoauCm2WDNk8T8dH9bQ",
+        "attributes": [
+          {
+            "trait_type": "Background",
+            "value": "Outhouse"
+          },
+          {
+            "trait_type": "Fur",
+            "value": "Brown"
+          },
+          {
+            "trait_type": "Feet",
+            "value": "Boots"
+          },
+          {
+            "trait_type": "Neck",
+            "value": "Glow Necklace"
+          },
+          {
+            "trait_type": "Mouth",
+            "value": "Bone"
+          },
+          {
+            "trait_type": "Eyes",
+            "value": "Sad"
+          },
+          {
+            "trait_type": "Head",
+            "value": "Fisherman's Hat"
+          }
+        ]
+      },
+      "nameSymbolStatus": "ok",
+      "collectionNameFromAnalyzer": "Staked BAKC",
+      "collectionSymbolFromAnalyzer": "stBAKC",
+      "finalStatus": "OK",
+      "statusReasons": [
+        "Metadata fetched successfully."
+      ]
+    },
+    "displayStatus": "OK"
+  },
+  {
     "txHash": "0x5a65a10db94f8eab1423f1cdaf5ae26964b1d02967be4666d8dc58b28d7e1a2b",
     "contractAddress": "0xDB9098A9f21a5C21A4EF73F40598eB1177EDDF77",
     "tokenId": "19",
