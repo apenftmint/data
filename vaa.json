@@ -1,5 +1,61 @@
 [
   {
+    "txHash": "0x52015035b04054a6b1dc9ee0516a5a0c68d72d0d20685730df4eb174e250e01f",
+    "contractAddress": "0x5B61cA24966CB7E47F634Dee04499743Fc9746b6",
+    "tokenId": "1266",
+    "collectionName": "Full Gobs",
+    "timestamp": 1749909174,
+    "blockNumber": 18165438,
+    "logIndex": 0,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x5B61cA24966CB7E47F634Dee04499743Fc9746b61266/64",
+    "isFree": false,
+    "valueWei": "400000000000000000",
+    "totalContractMints": 13,
+    "analysis": {
+      "contractAddress": "0x5B61cA24966CB7E47F634Dee04499743Fc9746b6",
+      "metadataStatus": "ok",
+      "fetchedMetadata": {
+        "name": "Gobs #1266",
+        "image": "ipfs://QmejR3XrkzCs5Psc4AwhagtHCSkb18niBPQ1yvV86XegMR/1266",
+        "attributes": [
+          {
+            "trait_type": "BODY",
+            "value": "Original"
+          },
+          {
+            "trait_type": "SHOES",
+            "value": "Flying"
+          },
+          {
+            "trait_type": "CLOTHES",
+            "value": "Chameleon Dress Black"
+          },
+          {
+            "trait_type": "BELT",
+            "value": "Black Belt"
+          },
+          {
+            "trait_type": "MOUTH",
+            "value": "Bloody-Mouth"
+          },
+          {
+            "trait_type": "EYES",
+            "value": "Og"
+          }
+        ]
+      },
+      "nameSymbolStatus": "ok",
+      "collectionNameFromAnalyzer": "Full Gobs",
+      "collectionSymbolFromAnalyzer": "FG",
+      "finalStatus": "OK",
+      "statusReasons": [
+        "Metadata fetched successfully."
+      ]
+    },
+    "displayStatus": "OK",
+    "mintPriceApe": "0.4000"
+  },
+  {
     "txHash": "0xf1fc5e18630e39e6d6636d92517606162d7df439417e04619b6ff6a26b4a0070",
     "contractAddress": "0xE23De40D14713492e5a2465b36a09De5c948CCfd",
     "tokenId": "61",
@@ -74,70 +130,6 @@
     },
     "displayStatus": "OK",
     "mintPriceApe": "0.1500"
-  },
-  {
-    "txHash": "0x94638a086ae7f070b7e4ce43e8cd2d95f1f4cc10a7084a6d0f4e08586f600326",
-    "contractAddress": "0x5B61cA24966CB7E47F634Dee04499743Fc9746b6",
-    "tokenId": "1265",
-    "collectionName": "Full Gobs",
-    "timestamp": 1749906303,
-    "blockNumber": 18164378,
-    "logIndex": 0,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x5B61cA24966CB7E47F634Dee04499743Fc9746b61265/64",
-    "isFree": false,
-    "valueWei": "100000000000000000",
-    "totalContractMints": 12,
-    "analysis": {
-      "contractAddress": "0x5B61cA24966CB7E47F634Dee04499743Fc9746b6",
-      "metadataStatus": "ok",
-      "fetchedMetadata": {
-        "name": "Gobs #1265",
-        "image": "ipfs://QmejR3XrkzCs5Psc4AwhagtHCSkb18niBPQ1yvV86XegMR/1265",
-        "attributes": [
-          {
-            "trait_type": "BODY",
-            "value": "Original"
-          },
-          {
-            "trait_type": "SHOES",
-            "value": "Chess Shoes Y.B"
-          },
-          {
-            "trait_type": "CLOTHES",
-            "value": "Hef Robe"
-          },
-          {
-            "trait_type": "PANTS",
-            "value": "Shorts Moto Red"
-          },
-          {
-            "trait_type": "BELT",
-            "value": "Striped Belt"
-          },
-          {
-            "trait_type": "HAT",
-            "value": "Pink-Hair"
-          },
-          {
-            "trait_type": "MOUTH",
-            "value": "Regular"
-          },
-          {
-            "trait_type": "EYES",
-            "value": "Og"
-          }
-        ]
-      },
-      "nameSymbolStatus": "ok",
-      "collectionNameFromAnalyzer": "Full Gobs",
-      "collectionSymbolFromAnalyzer": "FG",
-      "finalStatus": "OK",
-      "statusReasons": [
-        "Metadata fetched successfully."
-      ]
-    },
-    "displayStatus": "OK",
-    "mintPriceApe": "0.1000"
   },
   {
     "txHash": "0xe74163831492f499af0623aec24433b7881246b7a1992c00c2b1c58c86d4c775",
