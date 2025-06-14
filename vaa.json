@@ -2,33 +2,33 @@
   {
     "txHash": "0x53464fa2ee2d6f43a413b03cf40265c6e48a0e9c1f0342418a5b37ccc86f4032",
     "contractAddress": "0x58219061B6a2D1147b09B7b2e3a5B62a4eAaD31a",
-    "tokenId": "56",
+    "tokenId": "60",
     "collectionName": "Peppie",
     "timestamp": 1749906034,
     "blockNumber": 18164251,
-    "logIndex": 0,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x58219061B6a2D1147b09B7b2e3a5B62a4eAaD31a56/64",
+    "logIndex": 4,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x58219061B6a2D1147b09B7b2e3a5B62a4eAaD31a60/64",
     "isFree": false,
     "valueWei": "1500000000000000000",
-    "totalContractMints": 5,
+    "totalContractMints": 6,
     "analysis": {
       "contractAddress": "0x58219061B6a2D1147b09B7b2e3a5B62a4eAaD31a",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "Peppie #56",
+        "name": "Peppie #60",
         "description": "Bringing the two most influential subcultures together to celebrate their influence had on futures past and present.",
-        "image": "ipfs://bafybeih6773u5hppgz7j6uf2hazxngx5cgcolgqkslysogiou5trmnrwe4/56.png",
-        "dna": "5b663ddb583a7d2885aa3466c2b7aec0e86c050d",
-        "edition": 56,
-        "date": 1667012237920,
+        "image": "ipfs://bafybeih6773u5hppgz7j6uf2hazxngx5cgcolgqkslysogiou5trmnrwe4/60.png",
+        "dna": "932e3e71ea714d94ccb6eeadf0f5a105d9ce2612",
+        "edition": 60,
+        "date": 1667014514101,
         "attributes": [
           {
             "trait_type": "Background",
-            "value": "Grey"
+            "value": "Sky"
           },
           {
             "trait_type": "Body",
-            "value": "White Collar"
+            "value": "Pink and White Jacket"
           },
           {
             "trait_type": "Skin",
@@ -36,11 +36,11 @@
           },
           {
             "trait_type": "Eyes 1",
-            "value": "Angry"
+            "value": "Bloodshot"
           },
           {
             "trait_type": "Hair 1",
-            "value": "Blue Afro"
+            "value": "Wizard"
           },
           {
             "trait_type": "Mouth 1",
@@ -48,11 +48,11 @@
           },
           {
             "trait_type": "Piercing",
-            "value": "None"
+            "value": "Airpod"
           },
           {
             "trait_type": "Accessory 1",
-            "value": "3d Glasses"
+            "value": "None"
           }
         ],
         "compiler": "Peppies"
