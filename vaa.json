@@ -2,29 +2,29 @@
   {
     "txHash": "0x0dbb97924e32e2269d75a3c99cf328b5b484cf4a36fa470813f91aa0181a26ba",
     "contractAddress": "0x08a24eF3a429c4589a808903cF26cD183B36909e",
-    "tokenId": "38",
+    "tokenId": "24",
     "collectionName": "Mystics ",
     "timestamp": 1749887328,
     "blockNumber": 18152085,
-    "logIndex": 32,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x08a24eF3a429c4589a808903cF26cD183B36909e38/64",
+    "logIndex": 18,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x08a24eF3a429c4589a808903cF26cD183B36909e24/64",
     "isFree": true,
-    "totalContractMints": 8,
+    "totalContractMints": 9,
     "analysis": {
       "contractAddress": "0x08a24eF3a429c4589a808903cF26cD183B36909e",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "Mystics #38",
-        "image": "ipfs://QmVm7P6fQde14YKYTaSeAUMAgxGz9YeAtALTXmC2A3nPCJ/38.gif",
+        "name": "Mystics #24",
+        "image": "ipfs://QmVm7P6fQde14YKYTaSeAUMAgxGz9YeAtALTXmC2A3nPCJ/24.gif",
         "description": "Mystics is the foundation and first ever membership to The Pier ecosystem. We are the 5000 visionaries working to turn Web3 concepts that the space can still only imagine, into reality.",
         "attributes": [
           {
             "trait_type": "Background",
-            "value": "Yellow"
+            "value": "Light Blue"
           },
           {
             "trait_type": "Torso",
-            "value": "Pink Classic Hoodie"
+            "value": "Blue Monster Hoodie"
           },
           {
             "trait_type": "Right Hand",
@@ -32,15 +32,15 @@
           },
           {
             "trait_type": "Backpack",
-            "value": "Magic Radio Backpack"
+            "value": "None"
           },
           {
             "trait_type": "Legs",
-            "value": "Pink Shorts"
+            "value": "Pink Zip Pocket Shorts"
           },
           {
             "trait_type": "Shoes",
-            "value": "Slippers"
+            "value": "Purple Circle Sneakers"
           },
           {
             "trait_type": "Waist Bag",
@@ -48,11 +48,11 @@
           },
           {
             "trait_type": "Eyes",
-            "value": "Classic"
+            "value": "Guilty"
           },
           {
             "trait_type": "Left Hand",
-            "value": "Classic"
+            "value": "Purple Snake"
           }
         ]
       },
