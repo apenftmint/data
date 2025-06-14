@@ -2,29 +2,29 @@
   {
     "txHash": "0x08859dfe311f783cdda86295edf40dfdbde69bd7273a79fc73064f725b1fc2b9",
     "contractAddress": "0x08a24eF3a429c4589a808903cF26cD183B36909e",
-    "tokenId": "82",
+    "tokenId": "170",
     "collectionName": "Mystics ",
     "timestamp": 1749887783,
     "blockNumber": 18152422,
-    "logIndex": 7,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x08a24eF3a429c4589a808903cF26cD183B36909e82/64",
+    "logIndex": 95,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x08a24eF3a429c4589a808903cF26cD183B36909e170/64",
     "isFree": true,
-    "totalContractMints": 54,
+    "totalContractMints": 55,
     "analysis": {
       "contractAddress": "0x08a24eF3a429c4589a808903cF26cD183B36909e",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "Mystics #82",
-        "image": "ipfs://QmVm7P6fQde14YKYTaSeAUMAgxGz9YeAtALTXmC2A3nPCJ/82.gif",
+        "name": "Mystics #170",
+        "image": "ipfs://QmVm7P6fQde14YKYTaSeAUMAgxGz9YeAtALTXmC2A3nPCJ/170.gif",
         "description": "Mystics is the foundation and first ever membership to The Pier ecosystem. We are the 5000 visionaries working to turn Web3 concepts that the space can still only imagine, into reality.",
         "attributes": [
           {
             "trait_type": "Background",
-            "value": "Light Blue"
+            "value": "Purple"
           },
           {
             "trait_type": "Torso",
-            "value": "X-Ray Hoodie"
+            "value": "Parka"
           },
           {
             "trait_type": "Right Hand",
@@ -32,11 +32,11 @@
           },
           {
             "trait_type": "Backpack",
-            "value": "None"
+            "value": "Cyan Spaceship Backpack"
           },
           {
             "trait_type": "Legs",
-            "value": "Pink Shorts"
+            "value": "Purple Shorts Tan"
           },
           {
             "trait_type": "Shoes",
@@ -44,15 +44,15 @@
           },
           {
             "trait_type": "Waist Bag",
-            "value": "Blue Waistbag"
+            "value": "None"
           },
           {
             "trait_type": "Eyes",
-            "value": "Classic"
+            "value": "Loopy"
           },
           {
             "trait_type": "Left Hand",
-            "value": "Cosmic Wand"
+            "value": "Dino"
           }
         ]
       },
