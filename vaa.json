@@ -1,25 +1,25 @@
 [
   {
-    "txHash": "0xf8f6560df99d57ba0576f500af29449f2c130483151b8940980aa4d9922dd1d9",
+    "txHash": "0x3f56a25aa69709c7c99d06dde3d9215471b6e7de8673c388602c51f939e42c14",
     "contractAddress": "0xC45735D63FDa5b9a62D6C0a9bEB50b197200692F",
-    "tokenId": "548",
+    "tokenId": "549",
     "collectionName": "WEN APES",
-    "timestamp": 1749889903,
-    "blockNumber": 18153881,
+    "timestamp": 1749889992,
+    "blockNumber": 18153960,
     "logIndex": 0,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xC45735D63FDa5b9a62D6C0a9bEB50b197200692F548/64",
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xC45735D63FDa5b9a62D6C0a9bEB50b197200692F549/64",
     "isFree": true,
-    "totalContractMints": 3,
+    "totalContractMints": 4,
     "analysis": {
       "contractAddress": "0xC45735D63FDa5b9a62D6C0a9bEB50b197200692F",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "WEN APES #548",
+        "name": "WEN APES #549",
         "description": "Tired of no reveal?? Tired of rugged collections?? Lets stick it to these mfers with WEN APES!",
         "attributes": [
           {
             "trait_type": "Base",
-            "value": "Orange"
+            "value": "Purple"
           },
           {
             "trait_type": "Wen Eyes",
@@ -27,7 +27,7 @@
           },
           {
             "trait_type": "Clothing",
-            "value": "Screenshot_20250606_223108_MetaMask (19) (1) (48)"
+            "value": "Hoodie 1"
           },
           {
             "trait_type": "Trait Count",
@@ -35,7 +35,7 @@
           }
         ],
         "compiler": "nfts2me.com",
-        "image": "ipfs://bafybeibhrt3bqwadpwxswk4aqcue6lwrpkqytv2cpgads4yc5m56xwhxaa/548.webp"
+        "image": "ipfs://bafybeibhrt3bqwadpwxswk4aqcue6lwrpkqytv2cpgads4yc5m56xwhxaa/549.webp"
       },
       "nameSymbolStatus": "ok",
       "collectionNameFromAnalyzer": "WEN APES",
