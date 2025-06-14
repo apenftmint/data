@@ -2,52 +2,52 @@
   {
     "txHash": "0xe74163831492f499af0623aec24433b7881246b7a1992c00c2b1c58c86d4c775",
     "contractAddress": "0x58219061B6a2D1147b09B7b2e3a5B62a4eAaD31a",
-    "tokenId": "157",
+    "tokenId": "90",
     "collectionName": "Peppie",
     "timestamp": 1749906059,
     "blockNumber": 18164263,
-    "logIndex": 96,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x58219061B6a2D1147b09B7b2e3a5B62a4eAaD31a157/64",
+    "logIndex": 29,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x58219061B6a2D1147b09B7b2e3a5B62a4eAaD31a90/64",
     "isFree": true,
-    "totalContractMints": 15,
+    "totalContractMints": 16,
     "analysis": {
       "contractAddress": "0x58219061B6a2D1147b09B7b2e3a5B62a4eAaD31a",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "Peppie #157",
+        "name": "Peppie #90",
         "description": "Bringing the two most influential subcultures together to celebrate their influence had on futures past and present.",
-        "image": "ipfs://bafybeih6773u5hppgz7j6uf2hazxngx5cgcolgqkslysogiou5trmnrwe4/157.png",
-        "dna": "cd9d6c2c38b6847bad19ee2b0dc5df3d4cac19b6",
-        "edition": 157,
-        "date": 1667014213031,
+        "image": "ipfs://bafybeih6773u5hppgz7j6uf2hazxngx5cgcolgqkslysogiou5trmnrwe4/90.png",
+        "dna": "206834e7c0a3a93a0dec7051f78a18279ff1ce3f",
+        "edition": 90,
+        "date": 1667014707471,
         "attributes": [
           {
             "trait_type": "Background",
-            "value": "Dark Purple"
+            "value": "Grey"
           },
           {
             "trait_type": "Body",
-            "value": "Blue Blazer"
+            "value": "Orange Puffer"
           },
           {
             "trait_type": "Skin",
-            "value": "Orange"
+            "value": "Green"
           },
           {
             "trait_type": "Eyes 1",
-            "value": "Sad"
+            "value": "Closed"
           },
           {
             "trait_type": "Hair 1",
-            "value": "Pink Headband"
+            "value": "Blue Messy"
           },
           {
             "trait_type": "Mouth 1",
-            "value": "Vuh"
+            "value": "Tongue Out"
           },
           {
             "trait_type": "Piercing",
-            "value": "Pearl"
+            "value": "Hoop"
           },
           {
             "trait_type": "Accessory 1",
