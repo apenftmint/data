@@ -2,24 +2,24 @@
   {
     "txHash": "0xf560691640e33b6d1381864c680820551e66ad179050b2f050a8cc6d9fbf90ac",
     "contractAddress": "0xb09065aC4a3f721B1a5E271ADeed478b822037DC",
-    "tokenId": "5290",
+    "tokenId": "5251",
     "collectionName": "Midgets",
     "timestamp": 1749895429,
     "blockNumber": 18158233,
-    "logIndex": 72,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xb09065aC4a3f721B1a5E271ADeed478b822037DC5290/64",
+    "logIndex": 33,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xb09065aC4a3f721B1a5E271ADeed478b822037DC5251/64",
     "isFree": true,
-    "totalContractMints": 28,
+    "totalContractMints": 29,
     "analysis": {
       "contractAddress": "0xb09065aC4a3f721B1a5E271ADeed478b822037DC",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "Midgets #5290",
+        "name": "Midgets #5251",
         "description": "Midgets is a collection of 6969 NFTs with +250 unique traits that have landed in the ETH blockchain to be burned and migrated to the ordinals (BTC) blockchain. Not your average NFT project.",
-        "image": "ipfs://bafybeiavrwtwuwpgi4qivbg4xghdgfrehcigfy2mikwqtrlqstyubqaoye/5290.png",
-        "dna": "512196ad59e8b304c3f99f64cb8c8f8016848be0",
-        "edition": 5290,
-        "date": 1686116147894,
+        "image": "ipfs://bafybeiavrwtwuwpgi4qivbg4xghdgfrehcigfy2mikwqtrlqstyubqaoye/5251.png",
+        "dna": "6715b805eae0e0052720bdcbaf3af4fcd1416b19",
+        "edition": 5251,
+        "date": 1686116147260,
         "attributes": [
           {
             "trait_type": "BACKGROUND",
@@ -27,19 +27,19 @@
           },
           {
             "trait_type": "SKIN",
-            "value": "DARK"
+            "value": "ZOMBIE"
           },
           {
             "trait_type": "CLOTHES",
-            "value": "AMONG US ORANGE"
+            "value": "ROBE WHITE"
           },
           {
             "trait_type": "FACE",
-            "value": "LASER"
+            "value": "cry"
           },
           {
             "trait_type": "HEAD",
-            "value": "builder hat black"
+            "value": "bucket head purple"
           }
         ]
       },
