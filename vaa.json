@@ -1,5 +1,72 @@
 [
   {
+    "txHash": "0x56539c83474f9069a160e7514e9711fca2bd17b84203735e1e59510da3309ac8",
+    "contractAddress": "0xb34D8B34214eb75D785353D38a635F84e327372b",
+    "tokenId": "4594",
+    "collectionName": "Peppies",
+    "timestamp": 1749889853,
+    "blockNumber": 18153833,
+    "logIndex": 4,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xb34D8B34214eb75D785353D38a635F84e327372b4594/64",
+    "isFree": true,
+    "totalContractMints": 1,
+    "analysis": {
+      "contractAddress": "0xb34D8B34214eb75D785353D38a635F84e327372b",
+      "metadataStatus": "ok",
+      "fetchedMetadata": {
+        "name": "Peppie #4594",
+        "description": "Bringing the two most influential subcultures together to celebrate their influence had on futures past and present.",
+        "image": "ipfs://bafybeih6773u5hppgz7j6uf2hazxngx5cgcolgqkslysogiou5trmnrwe4/4594.png",
+        "dna": "141385cb37f66f8e74e145b1996dd09f1f880755",
+        "edition": 4594,
+        "date": 1667011571273,
+        "attributes": [
+          {
+            "trait_type": "Background",
+            "value": "Purple"
+          },
+          {
+            "trait_type": "Body",
+            "value": "Yellow Puffer"
+          },
+          {
+            "trait_type": "Skin",
+            "value": "Green"
+          },
+          {
+            "trait_type": "Eyes 1",
+            "value": "Neutral"
+          },
+          {
+            "trait_type": "Hair 1",
+            "value": "Purple Brushcut"
+          },
+          {
+            "trait_type": "Mouth 1",
+            "value": "Wah"
+          },
+          {
+            "trait_type": "Piercing",
+            "value": "Hoop"
+          },
+          {
+            "trait_type": "Accessory 1",
+            "value": "Cobain Glasses"
+          }
+        ],
+        "compiler": "Peppies"
+      },
+      "nameSymbolStatus": "ok",
+      "collectionNameFromAnalyzer": "Peppies",
+      "collectionSymbolFromAnalyzer": "PEP",
+      "finalStatus": "OK",
+      "statusReasons": [
+        "Metadata fetched successfully."
+      ]
+    },
+    "displayStatus": "OK"
+  },
+  {
     "txHash": "0x6f9d465e59a22da5b77d269c885ca98f27b259ac781c5e3ca56687c607e15e41",
     "contractAddress": "0xd1BB26c4850fB87d48d36c16209e4deE2e48CF88",
     "tokenId": "66",
