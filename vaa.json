@@ -1,31 +1,31 @@
 [
   {
-    "txHash": "0x9ef05215d248c7a706441415840067508abe3670863330da67e9f1ffeca30e40",
+    "txHash": "0x02ae9f19df121105cc9c59af2c69e9e621d8a28336682b4df350a94401883ce6",
     "contractAddress": "0x08a24eF3a429c4589a808903cF26cD183B36909e",
-    "tokenId": "59",
+    "tokenId": "61",
     "collectionName": "Mystics ",
-    "timestamp": 1749887355,
-    "blockNumber": 18152108,
-    "logIndex": 4,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x08a24eF3a429c4589a808903cF26cD183B36909e59/64",
+    "timestamp": 1749887397,
+    "blockNumber": 18152139,
+    "logIndex": 1,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x08a24eF3a429c4589a808903cF26cD183B36909e61/64",
     "isFree": false,
     "valueWei": "5250000000000000000",
-    "totalContractMints": 25,
+    "totalContractMints": 26,
     "analysis": {
       "contractAddress": "0x08a24eF3a429c4589a808903cF26cD183B36909e",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "Mystics #59",
-        "image": "ipfs://QmVm7P6fQde14YKYTaSeAUMAgxGz9YeAtALTXmC2A3nPCJ/59.gif",
+        "name": "Mystics #61",
+        "image": "ipfs://QmVm7P6fQde14YKYTaSeAUMAgxGz9YeAtALTXmC2A3nPCJ/61.gif",
         "description": "Mystics is the foundation and first ever membership to The Pier ecosystem. We are the 5000 visionaries working to turn Web3 concepts that the space can still only imagine, into reality.",
         "attributes": [
           {
             "trait_type": "Background",
-            "value": "Light Blue"
+            "value": "Pink"
           },
           {
             "trait_type": "Torso",
-            "value": "Wolf Hoodie"
+            "value": "Yellow Spiked Hoodie"
           },
           {
             "trait_type": "Right Hand",
@@ -33,11 +33,11 @@
           },
           {
             "trait_type": "Backpack",
-            "value": "None"
+            "value": "Peach Spaceship Backpack"
           },
           {
             "trait_type": "Legs",
-            "value": "Purple Shorts Tan"
+            "value": "Purple Ninja Shorts"
           },
           {
             "trait_type": "Shoes",
@@ -45,15 +45,15 @@
           },
           {
             "trait_type": "Waist Bag",
-            "value": "Sherbet Waistbag"
+            "value": "Purple Waistbag"
           },
           {
             "trait_type": "Eyes",
-            "value": "Loopy"
+            "value": "Lovestruck"
           },
           {
             "trait_type": "Left Hand",
-            "value": "Frog"
+            "value": "Cosmic Ball"
           }
         ]
       },
