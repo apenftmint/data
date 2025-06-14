@@ -1,5 +1,72 @@
 [
   {
+    "txHash": "0xab8446e4b5c19fa0c48de211bcfd4cb8e23ea5cd888decf595c68cbd959b37bc",
+    "contractAddress": "0x08a24eF3a429c4589a808903cF26cD183B36909e",
+    "tokenId": "424",
+    "collectionName": "Mystics ",
+    "timestamp": 1749895047,
+    "blockNumber": 18157940,
+    "logIndex": 8,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x08a24eF3a429c4589a808903cF26cD183B36909e424/64",
+    "isFree": true,
+    "totalContractMints": 71,
+    "analysis": {
+      "contractAddress": "0x08a24eF3a429c4589a808903cF26cD183B36909e",
+      "metadataStatus": "ok",
+      "fetchedMetadata": {
+        "name": "Mystics #424",
+        "image": "ipfs://QmVm7P6fQde14YKYTaSeAUMAgxGz9YeAtALTXmC2A3nPCJ/424.gif",
+        "description": "Mystics is the foundation and first ever membership to The Pier ecosystem. We are the 5000 visionaries working to turn Web3 concepts that the space can still only imagine, into reality.",
+        "attributes": [
+          {
+            "trait_type": "Background",
+            "value": "Green"
+          },
+          {
+            "trait_type": "Torso",
+            "value": "Blue Hooded Jacket"
+          },
+          {
+            "trait_type": "Right Hand",
+            "value": "Classic"
+          },
+          {
+            "trait_type": "Backpack",
+            "value": "None"
+          },
+          {
+            "trait_type": "Legs",
+            "value": "Blue Zipper Shorts"
+          },
+          {
+            "trait_type": "Shoes",
+            "value": "Slippers"
+          },
+          {
+            "trait_type": "Waist Bag",
+            "value": "None"
+          },
+          {
+            "trait_type": "Eyes",
+            "value": "Fire"
+          },
+          {
+            "trait_type": "Left Hand",
+            "value": "Balloon Sword"
+          }
+        ]
+      },
+      "nameSymbolStatus": "ok",
+      "collectionNameFromAnalyzer": "Mystics",
+      "collectionSymbolFromAnalyzer": "MYS",
+      "finalStatus": "OK",
+      "statusReasons": [
+        "Metadata fetched successfully."
+      ]
+    },
+    "displayStatus": "OK"
+  },
+  {
     "txHash": "0xbef498bb4b1fa52395a7915f1282a52f7b89fb1579363e4f4f8b7b68a1c9135c",
     "contractAddress": "0x422Af9C3DdECD6c3c3C3f51D6942a9f851cAF6Bc",
     "tokenId": "383",
@@ -135,73 +202,6 @@
     },
     "displayStatus": "OK",
     "mintPriceApe": "0.1000"
-  },
-  {
-    "txHash": "0xa8d57e69687860bae2d0354e0ccb50f8e260cfa39500fec96ed40a61189bbab2",
-    "contractAddress": "0x08a24eF3a429c4589a808903cF26cD183B36909e",
-    "tokenId": "348",
-    "collectionName": "Mystics ",
-    "timestamp": 1749890205,
-    "blockNumber": 18154160,
-    "logIndex": 119,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x08a24eF3a429c4589a808903cF26cD183B36909e348/64",
-    "isFree": true,
-    "totalContractMints": 70,
-    "analysis": {
-      "contractAddress": "0x08a24eF3a429c4589a808903cF26cD183B36909e",
-      "metadataStatus": "ok",
-      "fetchedMetadata": {
-        "name": "Mystics #348",
-        "image": "ipfs://QmVm7P6fQde14YKYTaSeAUMAgxGz9YeAtALTXmC2A3nPCJ/348.gif",
-        "description": "Mystics is the foundation and first ever membership to The Pier ecosystem. We are the 5000 visionaries working to turn Web3 concepts that the space can still only imagine, into reality.",
-        "attributes": [
-          {
-            "trait_type": "Background",
-            "value": "Light Blue"
-          },
-          {
-            "trait_type": "Torso",
-            "value": "X-Ray Hoodie"
-          },
-          {
-            "trait_type": "Right Hand",
-            "value": "Classic"
-          },
-          {
-            "trait_type": "Backpack",
-            "value": "Sherbet Backpack"
-          },
-          {
-            "trait_type": "Legs",
-            "value": "Pink Zipper Shorts"
-          },
-          {
-            "trait_type": "Shoes",
-            "value": "Pink Boots"
-          },
-          {
-            "trait_type": "Waist Bag",
-            "value": "None"
-          },
-          {
-            "trait_type": "Eyes",
-            "value": "Magic"
-          },
-          {
-            "trait_type": "Left Hand",
-            "value": "Snake"
-          }
-        ]
-      },
-      "nameSymbolStatus": "ok",
-      "collectionNameFromAnalyzer": "Mystics",
-      "collectionSymbolFromAnalyzer": "MYS",
-      "finalStatus": "OK",
-      "statusReasons": [
-        "Metadata fetched successfully."
-      ]
-    },
-    "displayStatus": "OK"
   },
   {
     "txHash": "0xfd7c86afe0333cedf7a9cd1202fdd5f69127002d331a0cb0773d2822deaa2e1e",
