@@ -2,32 +2,32 @@
   {
     "txHash": "0xe74163831492f499af0623aec24433b7881246b7a1992c00c2b1c58c86d4c775",
     "contractAddress": "0x58219061B6a2D1147b09B7b2e3a5B62a4eAaD31a",
-    "tokenId": "111",
+    "tokenId": "116",
     "collectionName": "Peppie",
     "timestamp": 1749906059,
     "blockNumber": 18164263,
-    "logIndex": 50,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x58219061B6a2D1147b09B7b2e3a5B62a4eAaD31a111/64",
+    "logIndex": 55,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x58219061B6a2D1147b09B7b2e3a5B62a4eAaD31a116/64",
     "isFree": true,
-    "totalContractMints": 19,
+    "totalContractMints": 20,
     "analysis": {
       "contractAddress": "0x58219061B6a2D1147b09B7b2e3a5B62a4eAaD31a",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "Peppie #111",
+        "name": "Peppie #116",
         "description": "Bringing the two most influential subcultures together to celebrate their influence had on futures past and present.",
-        "image": "ipfs://bafybeih6773u5hppgz7j6uf2hazxngx5cgcolgqkslysogiou5trmnrwe4/111.png",
-        "dna": "8b703cae4c4883d0e827e7786c9e43e2cfbcbd25",
-        "edition": 111,
-        "date": 1667013348073,
+        "image": "ipfs://bafybeih6773u5hppgz7j6uf2hazxngx5cgcolgqkslysogiou5trmnrwe4/116.png",
+        "dna": "13da4e0559d9d1b199be3a4471d97e38c222d881",
+        "edition": 116,
+        "date": 1667013747323,
         "attributes": [
           {
             "trait_type": "Background",
-            "value": "Dark Purple"
+            "value": "Gradient 3"
           },
           {
             "trait_type": "Body",
-            "value": "Orange Collar"
+            "value": "Light Blue Puffer"
           },
           {
             "trait_type": "Skin",
@@ -39,11 +39,11 @@
           },
           {
             "trait_type": "Hair 1",
-            "value": "Blue Toque"
+            "value": "Yellow Bowlcut"
           },
           {
             "trait_type": "Mouth 1",
-            "value": "Tongue Out"
+            "value": "Jovial"
           },
           {
             "trait_type": "Piercing",
