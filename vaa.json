@@ -2,55 +2,47 @@
   {
     "txHash": "0xe74163831492f499af0623aec24433b7881246b7a1992c00c2b1c58c86d4c775",
     "contractAddress": "0x58219061B6a2D1147b09B7b2e3a5B62a4eAaD31a",
-    "tokenId": "137",
+    "tokenId": "174",
     "collectionName": "Peppie",
     "timestamp": 1749906059,
     "blockNumber": 18164263,
-    "logIndex": 76,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x58219061B6a2D1147b09B7b2e3a5B62a4eAaD31a137/64",
+    "logIndex": 113,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x58219061B6a2D1147b09B7b2e3a5B62a4eAaD31a174/64",
     "isFree": true,
-    "totalContractMints": 36,
+    "totalContractMints": 37,
     "analysis": {
       "contractAddress": "0x58219061B6a2D1147b09B7b2e3a5B62a4eAaD31a",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "Peppie #137",
+        "name": "Peppie #174",
         "description": "Bringing the two most influential subcultures together to celebrate their influence had on futures past and present.",
-        "image": "ipfs://bafybeih6773u5hppgz7j6uf2hazxngx5cgcolgqkslysogiou5trmnrwe4/137.png",
-        "dna": "30b91c6944ba2c5abcb4b7ade53a8c5d8a433bbc",
-        "edition": 137,
-        "date": 1667013023636,
+        "image": "ipfs://bafybeih6773u5hppgz7j6uf2hazxngx5cgcolgqkslysogiou5trmnrwe4/174.png",
+        "dna": "de44cbcd4e79ac0becb0118490b90ae8ae197740",
+        "edition": 174,
+        "date": 1667015144822,
         "attributes": [
           {
             "trait_type": "Background",
-            "value": "Gradient"
-          },
-          {
-            "trait_type": "Body",
-            "value": "Yellow Turtleneck"
-          },
-          {
-            "trait_type": "Skin",
             "value": "Green"
           },
           {
-            "trait_type": "Eyes 1",
-            "value": "Wink"
+            "trait_type": "Body",
+            "value": "Pink Backpack"
           },
           {
-            "trait_type": "Hair 1",
-            "value": "Yellow Bowlcut"
+            "trait_type": "Devil",
+            "value": "Devil Green"
+          },
+          {
+            "trait_type": "Eyes 2",
+            "value": "Wide Eyed"
           },
           {
             "trait_type": "Mouth 1",
-            "value": "Jovial"
+            "value": "Wah"
           },
           {
-            "trait_type": "Piercing",
-            "value": "Pearl"
-          },
-          {
-            "trait_type": "Accessory 1",
+            "trait_type": "Accessory 2",
             "value": "None"
           }
         ],
