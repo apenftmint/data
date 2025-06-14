@@ -2,56 +2,52 @@
   {
     "txHash": "0xe74163831492f499af0623aec24433b7881246b7a1992c00c2b1c58c86d4c775",
     "contractAddress": "0x58219061B6a2D1147b09B7b2e3a5B62a4eAaD31a",
-    "tokenId": "322",
+    "tokenId": "282",
     "collectionName": "Peppie",
     "timestamp": 1749906059,
     "blockNumber": 18164263,
-    "logIndex": 261,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x58219061B6a2D1147b09B7b2e3a5B62a4eAaD31a322/64",
+    "logIndex": 221,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x58219061B6a2D1147b09B7b2e3a5B62a4eAaD31a282/64",
     "isFree": true,
-    "totalContractMints": 49,
+    "totalContractMints": 50,
     "analysis": {
       "contractAddress": "0x58219061B6a2D1147b09B7b2e3a5B62a4eAaD31a",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "Peppie #322",
+        "name": "Peppie #282",
         "description": "Bringing the two most influential subcultures together to celebrate their influence had on futures past and present.",
-        "image": "ipfs://bafybeih6773u5hppgz7j6uf2hazxngx5cgcolgqkslysogiou5trmnrwe4/322.png",
-        "dna": "d5f4d1776f8a1cb6d4d7e103e0a295eb8efe1485",
-        "edition": 322,
-        "date": 1667011298809,
+        "image": "ipfs://bafybeih6773u5hppgz7j6uf2hazxngx5cgcolgqkslysogiou5trmnrwe4/282.png",
+        "dna": "e758b2e371014274b53c7d768fe6c192c7f92a90",
+        "edition": 282,
+        "date": 1667015432447,
         "attributes": [
           {
             "trait_type": "Background",
-            "value": "Green"
+            "value": "Purple"
           },
           {
             "trait_type": "Body",
-            "value": "Grey Hoodie"
+            "value": "Orange Puffer"
           },
           {
             "trait_type": "Skin",
-            "value": "Green"
+            "value": "Med"
           },
           {
             "trait_type": "Eyes 1",
-            "value": "Wide eyed"
+            "value": "Neutral"
           },
           {
-            "trait_type": "Hair 1",
-            "value": "Wizard"
+            "trait_type": "Mouth 2",
+            "value": "Dumbfounded"
           },
           {
-            "trait_type": "Mouth 1",
-            "value": "Oh"
+            "trait_type": "Hair 2",
+            "value": "Pink Headband"
           },
           {
-            "trait_type": "Piercing",
-            "value": "Hoop"
-          },
-          {
-            "trait_type": "Accessory 1",
-            "value": "Cobain Glasses"
+            "trait_type": "Mask",
+            "value": "Skelly Viking"
           }
         ],
         "compiler": "Peppies"
