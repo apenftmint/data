@@ -2,29 +2,29 @@
   {
     "txHash": "0x08859dfe311f783cdda86295edf40dfdbde69bd7273a79fc73064f725b1fc2b9",
     "contractAddress": "0x08a24eF3a429c4589a808903cF26cD183B36909e",
-    "tokenId": "83",
+    "tokenId": "93",
     "collectionName": "Mystics ",
     "timestamp": 1749887783,
     "blockNumber": 18152422,
-    "logIndex": 8,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x08a24eF3a429c4589a808903cF26cD183B36909e83/64",
+    "logIndex": 18,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x08a24eF3a429c4589a808903cF26cD183B36909e93/64",
     "isFree": true,
-    "totalContractMints": 52,
+    "totalContractMints": 53,
     "analysis": {
       "contractAddress": "0x08a24eF3a429c4589a808903cF26cD183B36909e",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "Mystics #83",
-        "image": "ipfs://QmVm7P6fQde14YKYTaSeAUMAgxGz9YeAtALTXmC2A3nPCJ/83.gif",
+        "name": "Mystics #93",
+        "image": "ipfs://QmVm7P6fQde14YKYTaSeAUMAgxGz9YeAtALTXmC2A3nPCJ/93.gif",
         "description": "Mystics is the foundation and first ever membership to The Pier ecosystem. We are the 5000 visionaries working to turn Web3 concepts that the space can still only imagine, into reality.",
         "attributes": [
           {
             "trait_type": "Background",
-            "value": "Green"
+            "value": "Neutral"
           },
           {
             "trait_type": "Torso",
-            "value": "Blue Casual Hoodie"
+            "value": "Blue Classic Hoodie"
           },
           {
             "trait_type": "Right Hand",
@@ -32,27 +32,27 @@
           },
           {
             "trait_type": "Backpack",
-            "value": "None"
+            "value": "Purple Big Backpack"
           },
           {
             "trait_type": "Legs",
-            "value": "Purple Zip Pocket Shorts"
+            "value": "Pink Trackpants"
           },
           {
             "trait_type": "Shoes",
-            "value": "Purple Circle Sneakers"
+            "value": "Star Sneakers"
           },
           {
             "trait_type": "Waist Bag",
-            "value": "None"
+            "value": "Blue Waistbag"
           },
           {
             "trait_type": "Eyes",
-            "value": "Guilty"
+            "value": "Squint"
           },
           {
             "trait_type": "Left Hand",
-            "value": "Skull"
+            "value": "Classic"
           }
         ]
       },
