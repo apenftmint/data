@@ -2,26 +2,26 @@
   {
     "txHash": "0x02ae9f19df121105cc9c59af2c69e9e621d8a28336682b4df350a94401883ce6",
     "contractAddress": "0x08a24eF3a429c4589a808903cF26cD183B36909e",
-    "tokenId": "64",
+    "tokenId": "63",
     "collectionName": "Mystics ",
     "timestamp": 1749887397,
     "blockNumber": 18152139,
-    "logIndex": 4,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x08a24eF3a429c4589a808903cF26cD183B36909e64/64",
+    "logIndex": 3,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x08a24eF3a429c4589a808903cF26cD183B36909e63/64",
     "isFree": false,
     "valueWei": "5250000000000000000",
-    "totalContractMints": 28,
+    "totalContractMints": 29,
     "analysis": {
       "contractAddress": "0x08a24eF3a429c4589a808903cF26cD183B36909e",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "Mystics #64",
-        "image": "ipfs://QmVm7P6fQde14YKYTaSeAUMAgxGz9YeAtALTXmC2A3nPCJ/64.gif",
+        "name": "Mystics #63",
+        "image": "ipfs://QmVm7P6fQde14YKYTaSeAUMAgxGz9YeAtALTXmC2A3nPCJ/63.gif",
         "description": "Mystics is the foundation and first ever membership to The Pier ecosystem. We are the 5000 visionaries working to turn Web3 concepts that the space can still only imagine, into reality.",
         "attributes": [
           {
             "trait_type": "Background",
-            "value": "Purple"
+            "value": "Yellow"
           },
           {
             "trait_type": "Torso",
@@ -33,27 +33,27 @@
           },
           {
             "trait_type": "Backpack",
-            "value": "Green Underworld Backpack"
+            "value": "Spider Backpack"
           },
           {
             "trait_type": "Legs",
-            "value": "Purple Zip Pocket Shorts"
+            "value": "Yellow Shorts"
           },
           {
             "trait_type": "Shoes",
-            "value": "Slippers"
+            "value": "Pink Circle Sneakers"
           },
           {
             "trait_type": "Waist Bag",
-            "value": "Purple Waistbag"
+            "value": "None"
           },
           {
             "trait_type": "Eyes",
-            "value": "Classic"
+            "value": "Magic"
           },
           {
             "trait_type": "Left Hand",
-            "value": "Diamond Wand"
+            "value": "Skull"
           }
         ]
       },
