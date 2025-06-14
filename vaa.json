@@ -2,45 +2,45 @@
   {
     "txHash": "0xbf3e894d0df50a2798a9fa2e079ee5cbfc2fd95b4f0558e1b248babd457dd09a",
     "contractAddress": "0xD8fF0EF834587049092A0D6DACF129B37B413030",
-    "tokenId": "1718",
+    "tokenId": "1719",
     "collectionName": "Unnamed Collection",
     "timestamp": 1749895878,
     "blockNumber": 18158579,
-    "logIndex": 1,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xD8fF0EF834587049092A0D6DACF129B37B4130301718/64",
+    "logIndex": 2,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xD8fF0EF834587049092A0D6DACF129B37B4130301719/64",
     "isFree": false,
     "valueWei": "33000000000000000000",
-    "totalContractMints": 4,
+    "totalContractMints": 5,
     "analysis": {
       "contractAddress": "0xD8fF0EF834587049092A0D6DACF129B37B413030",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "The Project #1718",
-        "image": "https://theprojectassets.blob.core.windows.net/images/1718.png?cb=100",
+        "name": "The Project #1719",
+        "image": "https://theprojectassets.blob.core.windows.net/images/1719.png?cb=100",
         "attributes": [
           {
             "trait_type": "Character",
-            "value": "Fox"
+            "value": "Lion"
           },
           {
             "trait_type": "Body",
-            "value": "White"
+            "value": "Patchwork"
           },
           {
             "trait_type": "Clothes",
-            "value": "Banana Shirt"
+            "value": "The Project Mask Hoodie Blue"
           },
           {
             "trait_type": "Hands",
-            "value": "Durian"
+            "value": "DMC"
           },
           {
             "trait_type": "Eyes",
-            "value": "White"
+            "value": "Frustrated"
           },
           {
             "trait_type": "Mouth",
-            "value": "Tongue Out"
+            "value": "Ooze"
           },
           {
             "trait_type": "Hat",
@@ -48,7 +48,7 @@
           },
           {
             "trait_type": "Background",
-            "value": "Greyish"
+            "value": "Pinkish"
           }
         ]
       },
