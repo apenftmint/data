@@ -2,20 +2,20 @@
   {
     "txHash": "0x6f9d465e59a22da5b77d269c885ca98f27b259ac781c5e3ca56687c607e15e41",
     "contractAddress": "0xd1BB26c4850fB87d48d36c16209e4deE2e48CF88",
-    "tokenId": "75",
+    "tokenId": "59",
     "collectionName": "Lil Dickbutts",
     "timestamp": 1749889836,
     "blockNumber": 18153817,
-    "logIndex": 16,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xd1BB26c4850fB87d48d36c16209e4deE2e48CF8875/64",
+    "logIndex": 0,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xd1BB26c4850fB87d48d36c16209e4deE2e48CF8859/64",
     "isFree": false,
     "valueWei": "3000000000000000000",
-    "totalContractMints": 20,
+    "totalContractMints": 21,
     "analysis": {
       "contractAddress": "0xd1BB26c4850fB87d48d36c16209e4deE2e48CF88",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "Lil Dickbutts #75",
+        "name": "Lil Dickbutts #59",
         "description": "Baby Dickbutts entering the world. No Roadmap. No Promises. CCO.",
         "attributes": [
           {
@@ -32,15 +32,15 @@
           },
           {
             "trait_type": "dick",
-            "value": "Tails"
+            "value": "Black"
           },
           {
             "trait_type": "eyes",
-            "value": "Normal"
+            "value": "Red"
           },
           {
             "trait_type": "hair",
-            "value": "None"
+            "value": "Rainbow"
           },
           {
             "trait_type": "mouth",
@@ -55,7 +55,7 @@
             "value": "8"
           }
         ],
-        "image": "ipfs://bafybeidkivgr6mxud5kx3fewrqiajcg5liq4wx545wbms5rjwsbl4pe3l4/75.webp",
+        "image": "ipfs://bafybeidkivgr6mxud5kx3fewrqiajcg5liq4wx545wbms5rjwsbl4pe3l4/59.webp",
         "compiler": "nfts2me.com"
       },
       "nameSymbolStatus": "ok",
