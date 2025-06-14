@@ -2,20 +2,20 @@
   {
     "txHash": "0x7683dec9a3b4863dbea88a56903271a184b712f3cbbd13e64eed4e254ac3d78a",
     "contractAddress": "0xd1BB26c4850fB87d48d36c16209e4deE2e48CF88",
-    "tokenId": "45",
+    "tokenId": "55",
     "collectionName": "Lil Dickbutts",
     "timestamp": 1749885777,
     "blockNumber": 18150948,
-    "logIndex": 7,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xd1BB26c4850fB87d48d36c16209e4deE2e48CF8845/64",
+    "logIndex": 17,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xd1BB26c4850fB87d48d36c16209e4deE2e48CF8855/64",
     "isFree": false,
     "valueWei": "2000000000000000000",
-    "totalContractMints": 3,
+    "totalContractMints": 4,
     "analysis": {
       "contractAddress": "0xd1BB26c4850fB87d48d36c16209e4deE2e48CF88",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "Lil Dickbutts #45",
+        "name": "Lil Dickbutts #55",
         "description": "Baby Dickbutts entering the world. No Roadmap. No Promises. CCO.",
         "attributes": [
           {
@@ -24,19 +24,19 @@
           },
           {
             "trait_type": "body",
-            "value": "Dark"
+            "value": "Light"
           },
           {
             "trait_type": "clothes",
-            "value": "None"
+            "value": "Suit"
           },
           {
             "trait_type": "dick",
-            "value": "Pirate"
+            "value": "Bell"
           },
           {
             "trait_type": "eyes",
-            "value": "Red"
+            "value": "Normal"
           },
           {
             "trait_type": "hair",
@@ -44,7 +44,7 @@
           },
           {
             "trait_type": "mouth",
-            "value": "Gold"
+            "value": "Normal"
           },
           {
             "trait_type": "Weapons",
@@ -55,7 +55,7 @@
             "value": "8"
           }
         ],
-        "image": "ipfs://bafybeidkivgr6mxud5kx3fewrqiajcg5liq4wx545wbms5rjwsbl4pe3l4/45.webp",
+        "image": "ipfs://bafybeidkivgr6mxud5kx3fewrqiajcg5liq4wx545wbms5rjwsbl4pe3l4/55.webp",
         "compiler": "nfts2me.com"
       },
       "nameSymbolStatus": "ok",
