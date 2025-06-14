@@ -2,29 +2,29 @@
   {
     "txHash": "0xa8d57e69687860bae2d0354e0ccb50f8e260cfa39500fec96ed40a61189bbab2",
     "contractAddress": "0x08a24eF3a429c4589a808903cF26cD183B36909e",
-    "tokenId": "383",
+    "tokenId": "358",
     "collectionName": "Mystics ",
     "timestamp": 1749890205,
     "blockNumber": 18154160,
-    "logIndex": 154,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x08a24eF3a429c4589a808903cF26cD183B36909e383/64",
+    "logIndex": 129,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x08a24eF3a429c4589a808903cF26cD183B36909e358/64",
     "isFree": true,
-    "totalContractMints": 66,
+    "totalContractMints": 67,
     "analysis": {
       "contractAddress": "0x08a24eF3a429c4589a808903cF26cD183B36909e",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "Mystics #383",
-        "image": "ipfs://QmVm7P6fQde14YKYTaSeAUMAgxGz9YeAtALTXmC2A3nPCJ/383.gif",
+        "name": "Mystics #358",
+        "image": "ipfs://QmVm7P6fQde14YKYTaSeAUMAgxGz9YeAtALTXmC2A3nPCJ/358.gif",
         "description": "Mystics is the foundation and first ever membership to The Pier ecosystem. We are the 5000 visionaries working to turn Web3 concepts that the space can still only imagine, into reality.",
         "attributes": [
           {
             "trait_type": "Background",
-            "value": "Yellow"
+            "value": "Light Blue"
           },
           {
             "trait_type": "Torso",
-            "value": "Yellow Hooded Jacket"
+            "value": "Yellow Casual Hoodie"
           },
           {
             "trait_type": "Right Hand",
@@ -32,27 +32,27 @@
           },
           {
             "trait_type": "Backpack",
-            "value": "Crystal Backpack"
-          },
-          {
-            "trait_type": "Legs",
-            "value": "Blue Zipper Shorts"
-          },
-          {
-            "trait_type": "Shoes",
-            "value": "Pink Boots"
-          },
-          {
-            "trait_type": "Waist Bag",
             "value": "None"
           },
           {
+            "trait_type": "Legs",
+            "value": "Blue Zip Pocket Shorts"
+          },
+          {
+            "trait_type": "Shoes",
+            "value": "Star Sneakers"
+          },
+          {
+            "trait_type": "Waist Bag",
+            "value": "Sherbet Waistbag"
+          },
+          {
             "trait_type": "Eyes",
-            "value": "Loopy"
+            "value": "Classic"
           },
           {
             "trait_type": "Left Hand",
-            "value": "Snake"
+            "value": "Star Wand"
           }
         ]
       },
