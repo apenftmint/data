@@ -1,5 +1,67 @@
 [
   {
+    "txHash": "0x8d87dd799217d1c7412dc43d60f27fb8367ff14880212a6b882f319402f1c117",
+    "contractAddress": "0x78709205C07A8B167297B65681d332E8f49fe09A",
+    "tokenId": "1286",
+    "collectionName": "Bulls on Ape",
+    "timestamp": 1749880827,
+    "blockNumber": 18147163,
+    "logIndex": 2,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x78709205C07A8B167297B65681d332E8f49fe09A1286/64",
+    "isFree": false,
+    "valueWei": "2500000000000000000",
+    "totalContractMints": 1,
+    "analysis": {
+      "contractAddress": "0x78709205C07A8B167297B65681d332E8f49fe09A",
+      "metadataStatus": "ok",
+      "fetchedMetadata": {
+        "name": "Bulls on Ape #1286",
+        "description": "BOA",
+        "attributes": [
+          {
+            "trait_type": "Backround",
+            "value": "blue"
+          },
+          {
+            "trait_type": "Body",
+            "value": "original"
+          },
+          {
+            "trait_type": "Horns",
+            "value": "ice"
+          },
+          {
+            "trait_type": "Clothes",
+            "value": "pearls"
+          },
+          {
+            "trait_type": "Eyes",
+            "value": "monocle"
+          },
+          {
+            "trait_type": "Hat",
+            "value": "banana"
+          },
+          {
+            "trait_type": "Trait Count",
+            "value": "6"
+          }
+        ],
+        "compiler": "nfts2me.com",
+        "image": "ipfs://bafybeida6rznqwrnq5lfvb6q4oa23aqwefuqrwpymeenjx4d6kfubkrb5y/1286.webp"
+      },
+      "nameSymbolStatus": "ok",
+      "collectionNameFromAnalyzer": "Bulls on Ape",
+      "collectionSymbolFromAnalyzer": "BOA",
+      "finalStatus": "OK",
+      "statusReasons": [
+        "Metadata fetched successfully."
+      ]
+    },
+    "displayStatus": "OK",
+    "mintPriceApe": "2.5000"
+  },
+  {
     "txHash": "0xc82707306ee5d1059582ae842d7f072cd6f9a210f5a4f7fed003ed4fa565896b",
     "contractAddress": "0xF054C94269b4946568244706b981b62E258059c8",
     "tokenId": "2509",
