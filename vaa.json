@@ -2,24 +2,24 @@
   {
     "txHash": "0x56539c83474f9069a160e7514e9711fca2bd17b84203735e1e59510da3309ac8",
     "contractAddress": "0xb34D8B34214eb75D785353D38a635F84e327372b",
-    "tokenId": "4685",
+    "tokenId": "4610",
     "collectionName": "Peppies",
     "timestamp": 1749889853,
     "blockNumber": 18153833,
-    "logIndex": 95,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xb34D8B34214eb75D785353D38a635F84e327372b4685/64",
+    "logIndex": 20,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xb34D8B34214eb75D785353D38a635F84e327372b4610/64",
     "isFree": true,
-    "totalContractMints": 12,
+    "totalContractMints": 13,
     "analysis": {
       "contractAddress": "0xb34D8B34214eb75D785353D38a635F84e327372b",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "Peppie #4685",
+        "name": "Peppie #4610",
         "description": "Bringing the two most influential subcultures together to celebrate their influence had on futures past and present.",
-        "image": "ipfs://bafybeih6773u5hppgz7j6uf2hazxngx5cgcolgqkslysogiou5trmnrwe4/4685.png",
-        "dna": "10302a9f2a017ccc2dd16bf140db40225df95b10",
-        "edition": 4685,
-        "date": 1667013796130,
+        "image": "ipfs://bafybeih6773u5hppgz7j6uf2hazxngx5cgcolgqkslysogiou5trmnrwe4/4610.png",
+        "dna": "cf1b8710b2904cdac170663320aeee26b4ba3729",
+        "edition": 4610,
+        "date": 1667014765924,
         "attributes": [
           {
             "trait_type": "Background",
@@ -27,23 +27,23 @@
           },
           {
             "trait_type": "Body",
-            "value": "Yellow Turtleneck"
+            "value": "Orange Collar"
           },
           {
             "trait_type": "Skin",
-            "value": "Purple"
+            "value": "Med"
           },
           {
             "trait_type": "Eyes 1",
-            "value": "Closed"
+            "value": "Wink"
           },
           {
             "trait_type": "Hair 1",
-            "value": "Yellow Headband"
+            "value": "Blue Alfalfa"
           },
           {
             "trait_type": "Mouth 1",
-            "value": "Wah"
+            "value": "Oh"
           },
           {
             "trait_type": "Piercing",
@@ -51,7 +51,7 @@
           },
           {
             "trait_type": "Accessory 1",
-            "value": "3d Glasses"
+            "value": "Sunglasses"
           }
         ],
         "compiler": "Peppies"
