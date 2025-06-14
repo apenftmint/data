@@ -2,48 +2,48 @@
   {
     "txHash": "0x56539c83474f9069a160e7514e9711fca2bd17b84203735e1e59510da3309ac8",
     "contractAddress": "0xb34D8B34214eb75D785353D38a635F84e327372b",
-    "tokenId": "4593",
+    "tokenId": "4699",
     "collectionName": "Peppies",
     "timestamp": 1749889853,
     "blockNumber": 18153833,
-    "logIndex": 3,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xb34D8B34214eb75D785353D38a635F84e327372b4593/64",
+    "logIndex": 109,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xb34D8B34214eb75D785353D38a635F84e327372b4699/64",
     "isFree": true,
-    "totalContractMints": 3,
+    "totalContractMints": 4,
     "analysis": {
       "contractAddress": "0xb34D8B34214eb75D785353D38a635F84e327372b",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "Peppie #4593",
+        "name": "Peppie #4699",
         "description": "Bringing the two most influential subcultures together to celebrate their influence had on futures past and present.",
-        "image": "ipfs://bafybeih6773u5hppgz7j6uf2hazxngx5cgcolgqkslysogiou5trmnrwe4/4593.png",
-        "dna": "57a61ba7b75ef7e7529ba0f39bd9c4c2d9ef89db",
-        "edition": 4593,
-        "date": 1667012026416,
+        "image": "ipfs://bafybeih6773u5hppgz7j6uf2hazxngx5cgcolgqkslysogiou5trmnrwe4/4699.png",
+        "dna": "5f26c4c2bca2816e56bfbd6a72b0c8127309e625",
+        "edition": 4699,
+        "date": 1667012820167,
         "attributes": [
           {
             "trait_type": "Background",
-            "value": "Pink"
+            "value": "Dark Purple"
           },
           {
             "trait_type": "Body",
-            "value": "Holographic Hoodie"
+            "value": "Pink and White Jacket"
           },
           {
             "trait_type": "Skin",
-            "value": "Pink"
+            "value": "Purple"
           },
           {
             "trait_type": "Eyes 1",
-            "value": "Closed"
+            "value": "Sad"
           },
           {
             "trait_type": "Hair 1",
-            "value": "Sailor Beard"
+            "value": "Yellow Bowlcut"
           },
           {
             "trait_type": "Mouth 1",
-            "value": "Vuh"
+            "value": "Moustache"
           },
           {
             "trait_type": "Piercing",
