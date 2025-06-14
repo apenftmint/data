@@ -2,52 +2,52 @@
   {
     "txHash": "0xe74163831492f499af0623aec24433b7881246b7a1992c00c2b1c58c86d4c775",
     "contractAddress": "0x58219061B6a2D1147b09B7b2e3a5B62a4eAaD31a",
-    "tokenId": "90",
+    "tokenId": "105",
     "collectionName": "Peppie",
     "timestamp": 1749906059,
     "blockNumber": 18164263,
-    "logIndex": 29,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x58219061B6a2D1147b09B7b2e3a5B62a4eAaD31a90/64",
+    "logIndex": 44,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x58219061B6a2D1147b09B7b2e3a5B62a4eAaD31a105/64",
     "isFree": true,
-    "totalContractMints": 16,
+    "totalContractMints": 17,
     "analysis": {
       "contractAddress": "0x58219061B6a2D1147b09B7b2e3a5B62a4eAaD31a",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "Peppie #90",
+        "name": "Peppie #105",
         "description": "Bringing the two most influential subcultures together to celebrate their influence had on futures past and present.",
-        "image": "ipfs://bafybeih6773u5hppgz7j6uf2hazxngx5cgcolgqkslysogiou5trmnrwe4/90.png",
-        "dna": "206834e7c0a3a93a0dec7051f78a18279ff1ce3f",
-        "edition": 90,
-        "date": 1667014707471,
+        "image": "ipfs://bafybeih6773u5hppgz7j6uf2hazxngx5cgcolgqkslysogiou5trmnrwe4/105.png",
+        "dna": "b1a9ee36fe62151299c55a24e7ff5fb315aebd38",
+        "edition": 105,
+        "date": 1667013846663,
         "attributes": [
           {
             "trait_type": "Background",
-            "value": "Grey"
+            "value": "Pink"
           },
           {
             "trait_type": "Body",
-            "value": "Orange Puffer"
+            "value": "Purple Sweater with Satchel"
           },
           {
             "trait_type": "Skin",
-            "value": "Green"
+            "value": "Med"
           },
           {
             "trait_type": "Eyes 1",
-            "value": "Closed"
+            "value": "Sad"
           },
           {
             "trait_type": "Hair 1",
-            "value": "Blue Messy"
+            "value": "Beige Bucket Cap"
           },
           {
             "trait_type": "Mouth 1",
-            "value": "Tongue Out"
+            "value": "Rage"
           },
           {
             "trait_type": "Piercing",
-            "value": "Hoop"
+            "value": "None"
           },
           {
             "trait_type": "Accessory 1",
