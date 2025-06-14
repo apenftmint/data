@@ -64,6 +64,44 @@
     "mintPriceApe": "0.1000"
   },
   {
+    "txHash": "0x4f0277bdab052470f4fcf92f666776edcd58c4fe26eec15d7d6e562b75e53679",
+    "contractAddress": "0x342239362E3EF2561e06010eC7FCBCf2699Bc6e4",
+    "tokenId": "19",
+    "collectionName": "Apepetz",
+    "timestamp": 1749905437,
+    "blockNumber": 18163963,
+    "logIndex": 0,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x342239362E3EF2561e06010eC7FCBCf2699Bc6e419/64",
+    "isFree": false,
+    "valueWei": "150000000000000000",
+    "totalContractMints": 6,
+    "analysis": {
+      "contractAddress": "0x342239362E3EF2561e06010eC7FCBCf2699Bc6e4",
+      "metadataStatus": "ok",
+      "fetchedMetadata": {
+        "name": "Apepetz #19",
+        "description": "55 Petz Ape",
+        "attributes": [
+          {
+            "trait_type": "Trait Count",
+            "value": "0"
+          }
+        ],
+        "image": "ipfs://bafybeifrib7kwwlgaoo2xuevvo27t742bgzfmmkavzrqnf2qpafndz3l4e/19.webp",
+        "compiler": "nfts2me.com"
+      },
+      "nameSymbolStatus": "ok",
+      "collectionNameFromAnalyzer": "Apepetz",
+      "collectionSymbolFromAnalyzer": "PETZ",
+      "finalStatus": "OK",
+      "statusReasons": [
+        "Metadata fetched successfully."
+      ]
+    },
+    "displayStatus": "OK",
+    "mintPriceApe": "0.1500"
+  },
+  {
     "txHash": "0xaeb747c0ff26db1732ce60ccc043ca4ced70843ff1283005159616c7f8ee7af2",
     "contractAddress": "0xA5a996F48FAAA1a20DA604b8201de9F570Fa33e6",
     "tokenId": "3293",
@@ -419,44 +457,6 @@
       ]
     },
     "displayStatus": "OK"
-  },
-  {
-    "txHash": "0xeaae6e75eb5f9a9c34939ffb4b2d293b43dfdaf8efd468a9d82af4e9e0a8c360",
-    "contractAddress": "0x342239362E3EF2561e06010eC7FCBCf2699Bc6e4",
-    "tokenId": "17",
-    "collectionName": "Apepetz",
-    "timestamp": 1749900714,
-    "blockNumber": 18161808,
-    "logIndex": 2,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x342239362E3EF2561e06010eC7FCBCf2699Bc6e417/64",
-    "isFree": false,
-    "valueWei": "450000000000000000",
-    "totalContractMints": 5,
-    "analysis": {
-      "contractAddress": "0x342239362E3EF2561e06010eC7FCBCf2699Bc6e4",
-      "metadataStatus": "ok",
-      "fetchedMetadata": {
-        "name": "Apepetz #17",
-        "description": "55 Petz Ape",
-        "attributes": [
-          {
-            "trait_type": "Trait Count",
-            "value": "0"
-          }
-        ],
-        "image": "ipfs://bafybeifrib7kwwlgaoo2xuevvo27t742bgzfmmkavzrqnf2qpafndz3l4e/17.webp",
-        "compiler": "nfts2me.com"
-      },
-      "nameSymbolStatus": "ok",
-      "collectionNameFromAnalyzer": "Apepetz",
-      "collectionSymbolFromAnalyzer": "PETZ",
-      "finalStatus": "OK",
-      "statusReasons": [
-        "Metadata fetched successfully."
-      ]
-    },
-    "displayStatus": "OK",
-    "mintPriceApe": "0.4500"
   },
   {
     "txHash": "0x8fd1912423de2b7f0bbfdea9a5eeefa363ea29e4e42f4ef28cac556d473e3f0c",
