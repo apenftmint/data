@@ -1,5 +1,69 @@
 [
   {
+    "txHash": "0xbf3e894d0df50a2798a9fa2e079ee5cbfc2fd95b4f0558e1b248babd457dd09a",
+    "contractAddress": "0xD8fF0EF834587049092A0D6DACF129B37B413030",
+    "tokenId": "1718",
+    "collectionName": "Unnamed Collection",
+    "timestamp": 1749895878,
+    "blockNumber": 18158579,
+    "logIndex": 1,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xD8fF0EF834587049092A0D6DACF129B37B4130301718/64",
+    "isFree": false,
+    "valueWei": "33000000000000000000",
+    "totalContractMints": 4,
+    "analysis": {
+      "contractAddress": "0xD8fF0EF834587049092A0D6DACF129B37B413030",
+      "metadataStatus": "ok",
+      "fetchedMetadata": {
+        "name": "The Project #1718",
+        "image": "https://theprojectassets.blob.core.windows.net/images/1718.png?cb=100",
+        "attributes": [
+          {
+            "trait_type": "Character",
+            "value": "Fox"
+          },
+          {
+            "trait_type": "Body",
+            "value": "White"
+          },
+          {
+            "trait_type": "Clothes",
+            "value": "Banana Shirt"
+          },
+          {
+            "trait_type": "Hands",
+            "value": "Durian"
+          },
+          {
+            "trait_type": "Eyes",
+            "value": "White"
+          },
+          {
+            "trait_type": "Mouth",
+            "value": "Tongue Out"
+          },
+          {
+            "trait_type": "Hat",
+            "value": "Earhart"
+          },
+          {
+            "trait_type": "Background",
+            "value": "Greyish"
+          }
+        ]
+      },
+      "nameSymbolStatus": "ok",
+      "collectionNameFromAnalyzer": "The Project",
+      "collectionSymbolFromAnalyzer": "Project",
+      "finalStatus": "OK",
+      "statusReasons": [
+        "Metadata fetched successfully."
+      ]
+    },
+    "displayStatus": "OK",
+    "mintPriceApe": "33.0000"
+  },
+  {
     "txHash": "0xf560691640e33b6d1381864c680820551e66ad179050b2f050a8cc6d9fbf90ac",
     "contractAddress": "0xb09065aC4a3f721B1a5E271ADeed478b822037DC",
     "tokenId": "5225",
@@ -613,70 +677,6 @@
     },
     "displayStatus": "OK",
     "mintPriceApe": "1.2000"
-  },
-  {
-    "txHash": "0xb871da666014af7e39eb23e0f717717327e345c7eca94b4a639f96d6f172c35b",
-    "contractAddress": "0xD8fF0EF834587049092A0D6DACF129B37B413030",
-    "tokenId": "1715",
-    "collectionName": "The Project",
-    "timestamp": 1749886903,
-    "blockNumber": 18151767,
-    "logIndex": 1,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xD8fF0EF834587049092A0D6DACF129B37B4130301715/64",
-    "isFree": false,
-    "valueWei": "33000000000000000000",
-    "totalContractMints": 3,
-    "analysis": {
-      "contractAddress": "0xD8fF0EF834587049092A0D6DACF129B37B413030",
-      "metadataStatus": "ok",
-      "fetchedMetadata": {
-        "name": "The Project #1715",
-        "image": "https://theprojectassets.blob.core.windows.net/images/1715.png?cb=100",
-        "attributes": [
-          {
-            "trait_type": "Character",
-            "value": "Fox"
-          },
-          {
-            "trait_type": "Body",
-            "value": "Pink"
-          },
-          {
-            "trait_type": "Clothes",
-            "value": "Mutant Hoodie"
-          },
-          {
-            "trait_type": "Hands",
-            "value": "Spotted Monkey Head"
-          },
-          {
-            "trait_type": "Eyes",
-            "value": "Red"
-          },
-          {
-            "trait_type": "Mouth",
-            "value": "You're Next"
-          },
-          {
-            "trait_type": "Hat",
-            "value": "Kings Crown"
-          },
-          {
-            "trait_type": "Background",
-            "value": "You'd"
-          }
-        ]
-      },
-      "nameSymbolStatus": "ok",
-      "collectionNameFromAnalyzer": "The Project",
-      "collectionSymbolFromAnalyzer": "Project",
-      "finalStatus": "OK",
-      "statusReasons": [
-        "Metadata fetched successfully."
-      ]
-    },
-    "displayStatus": "OK",
-    "mintPriceApe": "33.0000"
   },
   {
     "txHash": "0x09141ce75c7ff758a1850cd49dc5b5840e279232d5ea92afcb805f88fb6cc772",
