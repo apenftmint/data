@@ -1,5 +1,32 @@
 [
   {
+    "txHash": "0x1e829f0f1febc99bea29b60fa72f626cc2559a71ac9fb1d539efdd680e1caa45",
+    "contractAddress": "0x2d1469E395aCf37E2CfD1853600c542EEEDB266F",
+    "tokenId": "698",
+    "collectionName": "Spirit Ape Directors",
+    "timestamp": 1749891546,
+    "blockNumber": 18155255,
+    "logIndex": 1,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x2d1469E395aCf37E2CfD1853600c542EEEDB266F698/64",
+    "isFree": false,
+    "valueWei": "200000000000000000",
+    "totalContractMints": 1,
+    "analysis": {
+      "contractAddress": "0x2d1469E395aCf37E2CfD1853600c542EEEDB266F",
+      "metadataStatus": "fetch_error",
+      "fetchedMetadata": null,
+      "nameSymbolStatus": "ok",
+      "collectionNameFromAnalyzer": "Spirit Ape Directors",
+      "collectionSymbolFromAnalyzer": "SAD",
+      "finalStatus": "Issues Detected",
+      "statusReasons": [
+        "Error fetching metadata from URI: The operation was aborted due to timeout."
+      ]
+    },
+    "displayStatus": "Issues Detected",
+    "mintPriceApe": "0.2000"
+  },
+  {
     "txHash": "0xa8d57e69687860bae2d0354e0ccb50f8e260cfa39500fec96ed40a61189bbab2",
     "contractAddress": "0x08a24eF3a429c4589a808903cF26cD183B36909e",
     "tokenId": "348",
