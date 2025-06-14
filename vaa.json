@@ -2,48 +2,48 @@
   {
     "txHash": "0xe74163831492f499af0623aec24433b7881246b7a1992c00c2b1c58c86d4c775",
     "contractAddress": "0x58219061B6a2D1147b09B7b2e3a5B62a4eAaD31a",
-    "tokenId": "116",
+    "tokenId": "139",
     "collectionName": "Peppie",
     "timestamp": 1749906059,
     "blockNumber": 18164263,
-    "logIndex": 55,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x58219061B6a2D1147b09B7b2e3a5B62a4eAaD31a116/64",
+    "logIndex": 78,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x58219061B6a2D1147b09B7b2e3a5B62a4eAaD31a139/64",
     "isFree": true,
-    "totalContractMints": 20,
+    "totalContractMints": 21,
     "analysis": {
       "contractAddress": "0x58219061B6a2D1147b09B7b2e3a5B62a4eAaD31a",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "Peppie #116",
+        "name": "Peppie #139",
         "description": "Bringing the two most influential subcultures together to celebrate their influence had on futures past and present.",
-        "image": "ipfs://bafybeih6773u5hppgz7j6uf2hazxngx5cgcolgqkslysogiou5trmnrwe4/116.png",
-        "dna": "13da4e0559d9d1b199be3a4471d97e38c222d881",
-        "edition": 116,
-        "date": 1667013747323,
+        "image": "ipfs://bafybeih6773u5hppgz7j6uf2hazxngx5cgcolgqkslysogiou5trmnrwe4/139.png",
+        "dna": "a3d6432818d1b77dac5935b820661d959b462ed2",
+        "edition": 139,
+        "date": 1667012687587,
         "attributes": [
           {
             "trait_type": "Background",
-            "value": "Gradient 3"
+            "value": "Light Blue"
           },
           {
             "trait_type": "Body",
-            "value": "Light Blue Puffer"
+            "value": "Blue and Yellow Jacket"
           },
           {
             "trait_type": "Skin",
-            "value": "Green"
+            "value": "Med"
           },
           {
             "trait_type": "Eyes 1",
-            "value": "Wink"
+            "value": "X Eyes"
           },
           {
             "trait_type": "Hair 1",
-            "value": "Yellow Bowlcut"
+            "value": "Brown Mullet"
           },
           {
             "trait_type": "Mouth 1",
-            "value": "Jovial"
+            "value": "Gold Grin"
           },
           {
             "trait_type": "Piercing",
@@ -51,7 +51,7 @@
           },
           {
             "trait_type": "Accessory 1",
-            "value": "None"
+            "value": "Designer Glasses"
           }
         ],
         "compiler": "Peppies"
