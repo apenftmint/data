@@ -2,24 +2,24 @@
   {
     "txHash": "0xf560691640e33b6d1381864c680820551e66ad179050b2f050a8cc6d9fbf90ac",
     "contractAddress": "0xb09065aC4a3f721B1a5E271ADeed478b822037DC",
-    "tokenId": "5278",
+    "tokenId": "5243",
     "collectionName": "Midgets",
     "timestamp": 1749895429,
     "blockNumber": 18158233,
-    "logIndex": 60,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xb09065aC4a3f721B1a5E271ADeed478b822037DC5278/64",
+    "logIndex": 25,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xb09065aC4a3f721B1a5E271ADeed478b822037DC5243/64",
     "isFree": true,
-    "totalContractMints": 17,
+    "totalContractMints": 18,
     "analysis": {
       "contractAddress": "0xb09065aC4a3f721B1a5E271ADeed478b822037DC",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "Midgets #5278",
+        "name": "Midgets #5243",
         "description": "Midgets is a collection of 6969 NFTs with +250 unique traits that have landed in the ETH blockchain to be burned and migrated to the ordinals (BTC) blockchain. Not your average NFT project.",
-        "image": "ipfs://bafybeiavrwtwuwpgi4qivbg4xghdgfrehcigfy2mikwqtrlqstyubqaoye/5278.png",
-        "dna": "54db60a06ec02893aba188eff3f1dadc16119770",
-        "edition": 5278,
-        "date": 1686116147706,
+        "image": "ipfs://bafybeiavrwtwuwpgi4qivbg4xghdgfrehcigfy2mikwqtrlqstyubqaoye/5243.png",
+        "dna": "d826044d14872141b88c19f9c0983becd223fab6",
+        "edition": 5243,
+        "date": 1686116147085,
         "attributes": [
           {
             "trait_type": "BACKGROUND",
@@ -27,19 +27,19 @@
           },
           {
             "trait_type": "SKIN",
-            "value": "DARK"
+            "value": "ASIAN"
           },
           {
             "trait_type": "CLOTHES",
-            "value": "npc"
+            "value": "naked"
           },
           {
             "trait_type": "FACE",
-            "value": "EYEPATCH"
+            "value": "FROWN"
           },
           {
             "trait_type": "HEAD",
-            "value": "bucket head green"
+            "value": "mohawk white"
           }
         ]
       },
