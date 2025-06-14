@@ -2,55 +2,43 @@
   {
     "txHash": "0xe74163831492f499af0623aec24433b7881246b7a1992c00c2b1c58c86d4c775",
     "contractAddress": "0x58219061B6a2D1147b09B7b2e3a5B62a4eAaD31a",
-    "tokenId": "244",
+    "tokenId": "151",
     "collectionName": "Peppie",
     "timestamp": 1749906059,
     "blockNumber": 18164263,
-    "logIndex": 183,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x58219061B6a2D1147b09B7b2e3a5B62a4eAaD31a244/64",
+    "logIndex": 90,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x58219061B6a2D1147b09B7b2e3a5B62a4eAaD31a151/64",
     "isFree": true,
-    "totalContractMints": 28,
+    "totalContractMints": 29,
     "analysis": {
       "contractAddress": "0x58219061B6a2D1147b09B7b2e3a5B62a4eAaD31a",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "Peppie #244",
+        "name": "Peppie #151",
         "description": "Bringing the two most influential subcultures together to celebrate their influence had on futures past and present.",
-        "image": "ipfs://bafybeih6773u5hppgz7j6uf2hazxngx5cgcolgqkslysogiou5trmnrwe4/244.png",
-        "dna": "bf4c9563b02c418c2ea83a92dc92ca2989cacd7d",
-        "edition": 244,
-        "date": 1667012994076,
+        "image": "ipfs://bafybeih6773u5hppgz7j6uf2hazxngx5cgcolgqkslysogiou5trmnrwe4/151.png",
+        "dna": "bc5f8c7f26ec63612ec09d2d475f31c796542284",
+        "edition": 151,
+        "date": 1667015729807,
         "attributes": [
           {
             "trait_type": "Background",
-            "value": "Blue"
+            "value": "Gradient 1"
           },
           {
-            "trait_type": "Body",
-            "value": "Navy Sweater"
+            "trait_type": "Popsicle",
+            "value": "Chocolate"
           },
           {
-            "trait_type": "Skin",
-            "value": "Green"
-          },
-          {
-            "trait_type": "Eyes 1",
-            "value": "Bloodshot"
-          },
-          {
-            "trait_type": "Hair 1",
-            "value": "Blue Brushcut"
+            "trait_type": "Eyes 2",
+            "value": "Wink"
           },
           {
             "trait_type": "Mouth 1",
-            "value": "Bucktooth"
+            "value": "Oh"
           },
           {
-            "trait_type": "Piercing",
-            "value": "None"
-          },
-          {
-            "trait_type": "Accessory 1",
+            "trait_type": "Accessory 2",
             "value": "None"
           }
         ],
