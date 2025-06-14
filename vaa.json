@@ -2,55 +2,51 @@
   {
     "txHash": "0xe74163831492f499af0623aec24433b7881246b7a1992c00c2b1c58c86d4c775",
     "contractAddress": "0x58219061B6a2D1147b09B7b2e3a5B62a4eAaD31a",
-    "tokenId": "274",
+    "tokenId": "231",
     "collectionName": "Peppie",
     "timestamp": 1749906059,
     "blockNumber": 18164263,
-    "logIndex": 213,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x58219061B6a2D1147b09B7b2e3a5B62a4eAaD31a274/64",
+    "logIndex": 170,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x58219061B6a2D1147b09B7b2e3a5B62a4eAaD31a231/64",
     "isFree": true,
-    "totalContractMints": 32,
+    "totalContractMints": 33,
     "analysis": {
       "contractAddress": "0x58219061B6a2D1147b09B7b2e3a5B62a4eAaD31a",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "Peppie #274",
+        "name": "Peppie #231",
         "description": "Bringing the two most influential subcultures together to celebrate their influence had on futures past and present.",
-        "image": "ipfs://bafybeih6773u5hppgz7j6uf2hazxngx5cgcolgqkslysogiou5trmnrwe4/274.png",
-        "dna": "05236aaf050a4a51c0ef6723ab5d30c3cd15987a",
-        "edition": 274,
-        "date": 1667013306370,
+        "image": "ipfs://bafybeih6773u5hppgz7j6uf2hazxngx5cgcolgqkslysogiou5trmnrwe4/231.png",
+        "dna": "6dd36d2802f292a5851805726da12130116c6284",
+        "edition": 231,
+        "date": 1667015825877,
         "attributes": [
           {
             "trait_type": "Background",
-            "value": "Gradient 2"
+            "value": "Blue Space"
           },
           {
             "trait_type": "Body",
-            "value": "Pink Puffer"
+            "value": "Pink Backpack"
           },
           {
             "trait_type": "Skin",
-            "value": "Yellow"
+            "value": "Pink"
           },
           {
-            "trait_type": "Eyes 1",
-            "value": "Sad"
+            "trait_type": "Flower",
+            "value": "Flower White"
           },
           {
-            "trait_type": "Hair 1",
-            "value": "Holographic Afro"
+            "trait_type": "Eyes 2",
+            "value": "Closed"
           },
           {
             "trait_type": "Mouth 1",
-            "value": "Grin"
+            "value": "Vuh"
           },
           {
-            "trait_type": "Piercing",
-            "value": "None"
-          },
-          {
-            "trait_type": "Accessory 1",
+            "trait_type": "Accessory 2",
             "value": "None"
           }
         ],
