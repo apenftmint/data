@@ -2,44 +2,44 @@
   {
     "txHash": "0xf065f65b3ba6235cc95b496b17826cafbeb40d15221e609acc072c32b7b8ca2d",
     "contractAddress": "0x58219061B6a2D1147b09B7b2e3a5B62a4eAaD31a",
-    "tokenId": "27",
+    "tokenId": "41",
     "collectionName": "Peppie",
     "timestamp": 1749905857,
     "blockNumber": 18164142,
-    "logIndex": 21,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x58219061B6a2D1147b09B7b2e3a5B62a4eAaD31a27/64",
+    "logIndex": 35,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x58219061B6a2D1147b09B7b2e3a5B62a4eAaD31a41/64",
     "isFree": true,
-    "totalContractMints": 2,
+    "totalContractMints": 3,
     "analysis": {
       "contractAddress": "0x58219061B6a2D1147b09B7b2e3a5B62a4eAaD31a",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "Peppie #27",
+        "name": "Peppie #41",
         "description": "Bringing the two most influential subcultures together to celebrate their influence had on futures past and present.",
-        "image": "ipfs://bafybeih6773u5hppgz7j6uf2hazxngx5cgcolgqkslysogiou5trmnrwe4/27.png",
-        "dna": "569d355b69b12dc2c57118d10ca15109653d81b8",
-        "edition": 27,
-        "date": 1667014574184,
+        "image": "ipfs://bafybeih6773u5hppgz7j6uf2hazxngx5cgcolgqkslysogiou5trmnrwe4/41.png",
+        "dna": "6c38ab6aa05a80c747618e3dd7044d7bc7a37d7d",
+        "edition": 41,
+        "date": 1667011990641,
         "attributes": [
           {
             "trait_type": "Background",
-            "value": "Pink"
+            "value": "Pink Space"
           },
           {
             "trait_type": "Body",
-            "value": "Navy Sweater"
+            "value": "Pink Puffer"
           },
           {
             "trait_type": "Skin",
-            "value": "Gradient 2"
+            "value": "Green"
           },
           {
             "trait_type": "Eyes 1",
-            "value": "Bloodshot"
+            "value": "Neutral"
           },
           {
             "trait_type": "Hair 1",
-            "value": "Halo"
+            "value": "Green Mullet"
           },
           {
             "trait_type": "Mouth 1",
@@ -47,7 +47,7 @@
           },
           {
             "trait_type": "Piercing",
-            "value": "Pearl"
+            "value": "Airpod"
           },
           {
             "trait_type": "Accessory 1",
