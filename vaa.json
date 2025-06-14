@@ -2,19 +2,19 @@
   {
     "txHash": "0x844efde80d42bc6a16b7d8faea6e0b7bfd73c1e7898a45dd776fb2d6e2a21f5c",
     "contractAddress": "0x7e0EE9a8A0E4AcE3fa55886a66EcE0B099dA7Fe2",
-    "tokenId": "636",
+    "tokenId": "640",
     "collectionName": "KFCult",
     "timestamp": 1749881820,
     "blockNumber": 18147932,
-    "logIndex": 1,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x7e0EE9a8A0E4AcE3fa55886a66EcE0B099dA7Fe2636/64",
+    "logIndex": 5,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x7e0EE9a8A0E4AcE3fa55886a66EcE0B099dA7Fe2640/64",
     "isFree": true,
-    "totalContractMints": 1,
+    "totalContractMints": 2,
     "analysis": {
       "contractAddress": "0x7e0EE9a8A0E4AcE3fa55886a66EcE0B099dA7Fe2",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "KFCult #636",
+        "name": "KFCult #640",
         "image": "ipfs://bafybeibtjgg2qn3pmlipvrmko4rukrca3gqrz5vjpjmiqzbqvyr2kyzq3y"
       },
       "nameSymbolStatus": "ok",
