@@ -2,47 +2,55 @@
   {
     "txHash": "0xf065f65b3ba6235cc95b496b17826cafbeb40d15221e609acc072c32b7b8ca2d",
     "contractAddress": "0x58219061B6a2D1147b09B7b2e3a5B62a4eAaD31a",
-    "tokenId": "9",
+    "tokenId": "27",
     "collectionName": "Peppie",
     "timestamp": 1749905857,
     "blockNumber": 18164142,
-    "logIndex": 3,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x58219061B6a2D1147b09B7b2e3a5B62a4eAaD31a9/64",
+    "logIndex": 21,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x58219061B6a2D1147b09B7b2e3a5B62a4eAaD31a27/64",
     "isFree": true,
-    "totalContractMints": 1,
+    "totalContractMints": 2,
     "analysis": {
       "contractAddress": "0x58219061B6a2D1147b09B7b2e3a5B62a4eAaD31a",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "Peppie #9",
+        "name": "Peppie #27",
         "description": "Bringing the two most influential subcultures together to celebrate their influence had on futures past and present.",
-        "image": "ipfs://bafybeih6773u5hppgz7j6uf2hazxngx5cgcolgqkslysogiou5trmnrwe4/9.png",
-        "dna": "c0be08da875829b884688a86fa2f760743ad0fe1",
-        "edition": 9,
-        "date": 1667015161146,
+        "image": "ipfs://bafybeih6773u5hppgz7j6uf2hazxngx5cgcolgqkslysogiou5trmnrwe4/27.png",
+        "dna": "569d355b69b12dc2c57118d10ca15109653d81b8",
+        "edition": 27,
+        "date": 1667014574184,
         "attributes": [
           {
             "trait_type": "Background",
-            "value": "Purple Space"
+            "value": "Pink"
           },
           {
             "trait_type": "Body",
-            "value": "Yellow Backpack"
+            "value": "Navy Sweater"
           },
           {
-            "trait_type": "Devil",
-            "value": "Devil Pink"
+            "trait_type": "Skin",
+            "value": "Gradient 2"
           },
           {
-            "trait_type": "Eyes 2",
-            "value": "Sad"
+            "trait_type": "Eyes 1",
+            "value": "Bloodshot"
+          },
+          {
+            "trait_type": "Hair 1",
+            "value": "Halo"
           },
           {
             "trait_type": "Mouth 1",
-            "value": "Jovial"
+            "value": "Neutral"
           },
           {
-            "trait_type": "Accessory 2",
+            "trait_type": "Piercing",
+            "value": "Pearl"
+          },
+          {
+            "trait_type": "Accessory 1",
             "value": "None"
           }
         ],
