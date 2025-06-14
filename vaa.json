@@ -2,24 +2,24 @@
   {
     "txHash": "0x0c1365e2a8066f19088686ef82a7780f0b65f02e723f1774bd798208122b7a23",
     "contractAddress": "0xb09065aC4a3f721B1a5E271ADeed478b822037DC",
-    "tokenId": "5108",
+    "tokenId": "5090",
     "collectionName": "Midgets",
     "timestamp": 1749889788,
     "blockNumber": 18153785,
-    "logIndex": 35,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xb09065aC4a3f721B1a5E271ADeed478b822037DC5108/64",
+    "logIndex": 17,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xb09065aC4a3f721B1a5E271ADeed478b822037DC5090/64",
     "isFree": true,
-    "totalContractMints": 8,
+    "totalContractMints": 9,
     "analysis": {
       "contractAddress": "0xb09065aC4a3f721B1a5E271ADeed478b822037DC",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "Midgets #5108",
+        "name": "Midgets #5090",
         "description": "Midgets is a collection of 6969 NFTs with +250 unique traits that have landed in the ETH blockchain to be burned and migrated to the ordinals (BTC) blockchain. Not your average NFT project.",
-        "image": "ipfs://bafybeiavrwtwuwpgi4qivbg4xghdgfrehcigfy2mikwqtrlqstyubqaoye/5108.png",
-        "dna": "f10bdd822e7a775144f4c3ca77eada6fb362e818",
-        "edition": 5108,
-        "date": 1686116144856,
+        "image": "ipfs://bafybeiavrwtwuwpgi4qivbg4xghdgfrehcigfy2mikwqtrlqstyubqaoye/5090.png",
+        "dna": "efa4897a20470adaa67c2578d5330a952d0a45f0",
+        "edition": 5090,
+        "date": 1686116144569,
         "attributes": [
           {
             "trait_type": "BACKGROUND",
@@ -27,19 +27,19 @@
           },
           {
             "trait_type": "SKIN",
-            "value": "ASIAN"
+            "value": "LIGHT"
           },
           {
             "trait_type": "CLOTHES",
-            "value": "AMONG US YELLOW"
+            "value": "croptop and pants"
           },
           {
             "trait_type": "FACE",
-            "value": "FACEMASK"
+            "value": "CLOWN"
           },
           {
             "trait_type": "HEAD",
-            "value": "brown beanie"
+            "value": "flat top dulce"
           }
         ]
       },
