@@ -2,28 +2,47 @@
   {
     "txHash": "0x1e829f0f1febc99bea29b60fa72f626cc2559a71ac9fb1d539efdd680e1caa45",
     "contractAddress": "0x2d1469E395aCf37E2CfD1853600c542EEEDB266F",
-    "tokenId": "698",
+    "tokenId": "697",
     "collectionName": "Spirit Ape Directors",
     "timestamp": 1749891546,
     "blockNumber": 18155255,
-    "logIndex": 1,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x2d1469E395aCf37E2CfD1853600c542EEEDB266F698/64",
+    "logIndex": 0,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x2d1469E395aCf37E2CfD1853600c542EEEDB266F697/64",
     "isFree": false,
     "valueWei": "200000000000000000",
-    "totalContractMints": 1,
+    "totalContractMints": 2,
     "analysis": {
       "contractAddress": "0x2d1469E395aCf37E2CfD1853600c542EEEDB266F",
-      "metadataStatus": "fetch_error",
-      "fetchedMetadata": null,
+      "metadataStatus": "ok",
+      "fetchedMetadata": {
+        "name": "Spirit Ape Directors #697",
+        "description": "Spirit Ape Directors is a PFP collection with supply 3333. We want to build a family in the Ape chain, we made this collection without a roadmap, without promises, but have a strong belief that it will grow well in the future",
+        "attributes": [
+          {
+            "trait_type": "RARITY",
+            "value": "COMMON"
+          },
+          {
+            "trait_type": "BACKGROUND",
+            "value": "COMMON"
+          },
+          {
+            "trait_type": "Trait Count",
+            "value": "2"
+          }
+        ],
+        "image": "ipfs://bafybeih2vxhwxmix4pqpl6cgbfflcuqvyc23qjmwx6d7uuxcjydhluy5ki/697.webp",
+        "compiler": "nfts2me.com"
+      },
       "nameSymbolStatus": "ok",
       "collectionNameFromAnalyzer": "Spirit Ape Directors",
       "collectionSymbolFromAnalyzer": "SAD",
-      "finalStatus": "Issues Detected",
+      "finalStatus": "OK",
       "statusReasons": [
-        "Error fetching metadata from URI: The operation was aborted due to timeout."
+        "Metadata fetched successfully."
       ]
     },
-    "displayStatus": "Issues Detected",
+    "displayStatus": "OK",
     "mintPriceApe": "0.2000"
   },
   {
