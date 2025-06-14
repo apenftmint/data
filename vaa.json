@@ -1,16 +1,15 @@
 [
   {
-    "txHash": "0xd36b5bd5448e405d4d3aa34a13c1d3fc1b39d541ba5ffc535892d84312b9d182",
+    "txHash": "0xa82d38d8088300554fe9e421507b7afb69532c77fc02a9f7a5a4f94fa08782f6",
     "contractAddress": "0x422Af9C3DdECD6c3c3C3f51D6942a9f851cAF6Bc",
-    "tokenId": "5",
+    "tokenId": "7",
     "collectionName": "Murashi",
-    "timestamp": 1749888141,
-    "blockNumber": 18152645,
-    "logIndex": 4,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x422Af9C3DdECD6c3c3C3f51D6942a9f851cAF6Bc5/64",
-    "isFree": false,
-    "valueWei": "15250000000000000000",
-    "totalContractMints": 7,
+    "timestamp": 1749888173,
+    "blockNumber": 18152669,
+    "logIndex": 1,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x422Af9C3DdECD6c3c3C3f51D6942a9f851cAF6Bc7/64",
+    "isFree": true,
+    "totalContractMints": 8,
     "analysis": {
       "contractAddress": "0x422Af9C3DdECD6c3c3C3f51D6942a9f851cAF6Bc",
       "metadataStatus": "ok",
@@ -18,26 +17,26 @@
         "attributes": [
           {
             "trait_type": "gender",
-            "value": "male"
+            "value": "LGBTQ"
           },
           {
             "trait_type": "type",
-            "value": "monsters"
+            "value": "aliens"
           }
         ],
         "description": "Murashi is mysterious character.",
         "expires_at": null,
         "extra": null,
-        "image": "ipfs://bafkreicunek2izmr2imwgoik2n3ppctvkp5fbdg4ebt7y4yqc5vf4beb64",
-        "media": "bafkreicunek2izmr2imwgoik2n3ppctvkp5fbdg4ebt7y4yqc5vf4beb64",
+        "image": "ipfs://bafkreidmhlnlu6hqauc7gnhb54sdsfiatlkvospxpozqecu2sevfwa2cza",
+        "media": "bafkreidmhlnlu6hqauc7gnhb54sdsfiatlkvospxpozqecu2sevfwa2cza",
         "media_hash": null,
         "mime_type": "image/gif",
-        "name": "Murashi #5",
-        "rank": 17,
-        "reference": "bafkreicznlr6kjfysjcsecy2jtrfhduahgznvoyaauxmq3vlij2ffv32uq",
+        "name": "Murashi #7",
+        "rank": 29,
+        "reference": "bafkreie4nnrjfykapms3iditsh76erqudjzppupwqmobbzcnm4p72cox5e",
         "reference_hash": null,
         "starts_at": null,
-        "title": "Murashi #5",
+        "title": "Murashi #7",
         "updated_at": null
       },
       "nameSymbolStatus": "ok",
@@ -48,8 +47,7 @@
         "Metadata fetched successfully."
       ]
     },
-    "displayStatus": "OK",
-    "mintPriceApe": "15.2500"
+    "displayStatus": "OK"
   },
   {
     "txHash": "0x08859dfe311f783cdda86295edf40dfdbde69bd7273a79fc73064f725b1fc2b9",
