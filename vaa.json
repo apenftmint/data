@@ -2,29 +2,29 @@
   {
     "txHash": "0x0dbb97924e32e2269d75a3c99cf328b5b484cf4a36fa470813f91aa0181a26ba",
     "contractAddress": "0x08a24eF3a429c4589a808903cF26cD183B36909e",
-    "tokenId": "22",
+    "tokenId": "39",
     "collectionName": "Mystics ",
     "timestamp": 1749887328,
     "blockNumber": 18152085,
-    "logIndex": 16,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x08a24eF3a429c4589a808903cF26cD183B36909e22/64",
+    "logIndex": 33,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x08a24eF3a429c4589a808903cF26cD183B36909e39/64",
     "isFree": true,
-    "totalContractMints": 6,
+    "totalContractMints": 7,
     "analysis": {
       "contractAddress": "0x08a24eF3a429c4589a808903cF26cD183B36909e",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "Mystics #22",
-        "image": "ipfs://QmVm7P6fQde14YKYTaSeAUMAgxGz9YeAtALTXmC2A3nPCJ/22.gif",
+        "name": "Mystics #39",
+        "image": "ipfs://QmVm7P6fQde14YKYTaSeAUMAgxGz9YeAtALTXmC2A3nPCJ/39.gif",
         "description": "Mystics is the foundation and first ever membership to The Pier ecosystem. We are the 5000 visionaries working to turn Web3 concepts that the space can still only imagine, into reality.",
         "attributes": [
           {
             "trait_type": "Background",
-            "value": "Purple"
+            "value": "Pink"
           },
           {
             "trait_type": "Torso",
-            "value": "Yellow Casual Hoodie"
+            "value": "Yellow Hooded Jacket"
           },
           {
             "trait_type": "Right Hand",
@@ -40,7 +40,7 @@
           },
           {
             "trait_type": "Shoes",
-            "value": "Star Sneakers"
+            "value": "Blue Circle Sneakers"
           },
           {
             "trait_type": "Waist Bag",
@@ -48,11 +48,11 @@
           },
           {
             "trait_type": "Eyes",
-            "value": "Fire"
+            "value": "Classic"
           },
           {
             "trait_type": "Left Hand",
-            "value": "Lizard Eye"
+            "value": "Star Wand"
           }
         ]
       },
