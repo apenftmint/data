@@ -2,21 +2,21 @@
   {
     "txHash": "0x3cf415c487dc1c69dd00cc486e626bdc8e0ae7ada64abe7c3eef9bd38c3972b4",
     "contractAddress": "0x961c6D8910d6FBb803eD124F2c4480f3F6070Ec7",
-    "tokenId": "4060",
+    "tokenId": "4059",
     "collectionName": "Part",
     "timestamp": 1749896635,
     "blockNumber": 18159112,
-    "logIndex": 47,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x961c6D8910d6FBb803eD124F2c4480f3F6070Ec74060/64",
+    "logIndex": 46,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x961c6D8910d6FBb803eD124F2c4480f3F6070Ec74059/64",
     "isFree": true,
-    "totalContractMints": 14,
+    "totalContractMints": 15,
     "analysis": {
       "contractAddress": "0x961c6D8910d6FBb803eD124F2c4480f3F6070Ec7",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "Diamond Filler #4060",
+        "name": "Diamond Fuse #4059",
         "description": "EGG$ PARTS are the building blocks of legend.\n\nEach Part is a fragment of EGG$ potential.\n\nUnlocked from CORES, waiting to be revealed, forged, and crafted to make something that didn't exist before you.\n\nThis is the layer where design becomes identity.\nWhere holders guide the evolution.\nWhere culture, community, and protection unlock the rarest forms of design evolution.\nCustom. Curated. Forever expandable.\n\nThe EGG$ don't just evolve.\nYOU shape what they become using these Parts to activate Evolution.",
-        "image": "https://cryptojeweler.s3.us-east-1.amazonaws.com/parts/Grenegg/Yellow Gold/Eden/Keystone/Diamond Filler.png",
+        "image": "https://cryptojeweler.s3.us-east-1.amazonaws.com/parts/Grenegg/Yellow Gold/Aurora/Collar/Diamond Fuse.png",
         "attributes": [
           {
             "trait_type": "Metal Type",
@@ -24,15 +24,15 @@
           },
           {
             "trait_type": "Colorway",
-            "value": "Eden"
+            "value": "Aurora"
           },
           {
             "trait_type": "Part Type",
-            "value": "Keystone"
+            "value": "Collar"
           },
           {
             "trait_type": "Part Value",
-            "value": "Diamond Filler"
+            "value": "Diamond Fuse"
           }
         ]
       },
