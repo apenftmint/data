@@ -2,161 +2,161 @@
   {
     "txHash": "0xdbafa6bc0995594d9e212ba1ee019d0a80201fb8af2637a4667b6eee19941d9d",
     "contractAddress": "0x56974f917a22fE2Ff2b82252cE74B2d3e4023B66",
-    "tokenId": "76",
+    "tokenId": "72",
     "collectionName": "Countryhuman",
     "timestamp": 1749904849,
     "blockNumber": 18163733,
-    "logIndex": 4,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x56974f917a22fE2Ff2b82252cE74B2d3e4023B6676/64",
+    "logIndex": 0,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x56974f917a22fE2Ff2b82252cE74B2d3e4023B6672/64",
     "isFree": false,
     "valueWei": "750000000000000000",
-    "totalContractMints": 2,
+    "totalContractMints": 3,
     "analysis": {
       "contractAddress": "0x56974f917a22fE2Ff2b82252cE74B2d3e4023B66",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "Countryhuman #76",
+        "name": "Countryhuman #72",
         "description": "I have personified all the countries in the world. You can see if your country is here.",
         "attributes": [
           {
             "trait_type": " 0",
-            "value": " 47"
+            "value": " 27"
           },
           {
             "trait_type": " 58",
-            "value": " 127"
+            "value": " 164"
           },
           {
             "trait_type": " 227",
-            "value": " 336"
+            "value": " 337"
           },
           {
             "trait_type": " 374",
-            "value": " 401"
+            "value": " 458"
           },
           {
             "trait_type": " 459",
-            "value": " 464"
+            "value": " 463"
           },
           {
             "trait_type": " 466",
-            "value": " 973"
+            "value": " 519"
           },
           {
             "trait_type": " 989",
-            "value": " 1002"
+            "value": " 1001"
           },
           {
             "trait_type": " 1007",
-            "value": " 1742"
+            "value": " 1571"
           },
           {
             "trait_type": " 1854",
-            "value": " 1986"
+            "value": " 2071"
           },
           {
             "trait_type": " 2701",
-            "value": " 2712"
+            "value": " 2709"
           },
           {
             "trait_type": " 2720",
-            "value": " 2745"
+            "value": " 2839"
           },
           {
             "trait_type": " 2917",
-            "value": " 2919"
+            "value": " 2921"
           },
           {
             "trait_type": " 2974",
-            "value": " 3012"
+            "value": " 3086"
           },
           {
             "trait_type": " 3095",
-            "value": " 3118"
+            "value": " 3103"
           },
           {
             "trait_type": " 3120",
-            "value": " 3140"
+            "value": " 3125"
           },
           {
             "trait_type": " 3148",
-            "value": " 3156"
+            "value": " 3157"
           },
           {
             "trait_type": " 3184",
-            "value": " 3188"
+            "value": " 3193"
           },
           {
             "trait_type": " 3203",
-            "value": " 3212"
+            "value": " 3207"
           },
           {
             "trait_type": " 3218",
-            "value": " 3247"
+            "value": " 3231"
           },
           {
             "trait_type": " 3282",
-            "value": " 3321"
+            "value": " 3325"
           },
           {
             "trait_type": " 3444",
-            "value": " 3584"
+            "value": " 3566"
           },
           {
             "trait_type": " 3613",
-            "value": " 3652"
+            "value": " 3644"
           },
           {
             "trait_type": " 3662",
-            "value": " 3852"
+            "value": " 3854"
           },
           {
             "trait_type": " 4025",
-            "value": " 4044"
+            "value": " 4032"
           },
           {
             "trait_type": " 4062",
-            "value": " 4139"
+            "value": " 4076"
           },
           {
             "trait_type": " 4161",
-            "value": " 4169"
+            "value": " 4167"
           },
           {
             "trait_type": " 4180",
-            "value": " 4185"
+            "value": " 4223"
           },
           {
             "trait_type": " 4231",
-            "value": " 4233"
+            "value": " 4239"
           },
           {
             "trait_type": " 4252",
-            "value": " 4261"
+            "value": " 4255"
           },
           {
             "trait_type": " 4262",
-            "value": " 4263"
+            "value": " 4265"
           },
           {
             "trait_type": " 4271",
-            "value": " 4503"
+            "value": " 4316"
           },
           {
             "trait_type": " 4538",
-            "value": " 4623"
+            "value": " 4627"
           },
           {
             "trait_type": " 4763",
-            "value": " 4775"
+            "value": " 4777"
           },
           {
             "trait_type": " 4779",
-            "value": " 4801"
+            "value": " 4785"
           },
           {
             "trait_type": "Emotions",
-            "value": " 4807"
+            "value": " 4803"
           },
           {
             "trait_type": "Trait Count",
@@ -164,7 +164,7 @@
           }
         ],
         "compiler": "nfts2me.com",
-        "image": "ipfs://bafybeiaqfux4d4mo7kwnw4sxoimdyxiggiitwzesqy4cpefytpjbq5qxsq/76.webp"
+        "image": "ipfs://bafybeiaqfux4d4mo7kwnw4sxoimdyxiggiitwzesqy4cpefytpjbq5qxsq/72.webp"
       },
       "nameSymbolStatus": "ok",
       "collectionNameFromAnalyzer": "Countryhuman",
