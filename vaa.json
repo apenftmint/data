@@ -2,25 +2,25 @@
   {
     "txHash": "0xd0548289dc8833881dc47bf160982a98c6d278d17775eb2129d17928ddb7fe5a",
     "contractAddress": "0xD8fF0EF834587049092A0D6DACF129B37B413030",
-    "tokenId": "1723",
+    "tokenId": "1725",
     "collectionName": "The Project",
     "timestamp": 1749905325,
     "blockNumber": 18163921,
-    "logIndex": 0,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xD8fF0EF834587049092A0D6DACF129B37B4130301723/64",
+    "logIndex": 2,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xD8fF0EF834587049092A0D6DACF129B37B4130301725/64",
     "isFree": false,
     "valueWei": "33000000000000000000",
-    "totalContractMints": 11,
+    "totalContractMints": 12,
     "analysis": {
       "contractAddress": "0xD8fF0EF834587049092A0D6DACF129B37B413030",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "The Project #1723",
-        "image": "https://theprojectassets.blob.core.windows.net/images/1723.png?cb=100",
+        "name": "The Project #1725",
+        "image": "https://theprojectassets.blob.core.windows.net/images/1725.png?cb=100",
         "attributes": [
           {
             "trait_type": "Character",
-            "value": "Goat"
+            "value": "Lion"
           },
           {
             "trait_type": "Body",
@@ -28,30 +28,27 @@
           },
           {
             "trait_type": "Clothes",
-            "value": "Party Suit"
+            "value": "Mutant Hoodie"
           },
           {
             "trait_type": "Hands",
-            "value": "Nanners"
+            "value": "Worthless"
           },
           {
             "trait_type": "Eyes",
-            "value": "Light Show"
+            "value": "White"
           },
           {
             "trait_type": "Mouth",
-            "value": "Colorful, Tongue Out"
+            "value": "Normal"
           },
           {
             "trait_type": "Hat",
-            "value": "Kings Crown"
-          },
-          {
-            "value": "Wings"
+            "value": "Haber Hat"
           },
           {
             "trait_type": "Background",
-            "value": "Orange"
+            "value": "Rojo"
           }
         ]
       },
