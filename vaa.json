@@ -2,20 +2,20 @@
   {
     "txHash": "0xeaae6e75eb5f9a9c34939ffb4b2d293b43dfdaf8efd468a9d82af4e9e0a8c360",
     "contractAddress": "0x342239362E3EF2561e06010eC7FCBCf2699Bc6e4",
-    "tokenId": "15",
+    "tokenId": "17",
     "collectionName": "Apepetz",
     "timestamp": 1749900714,
     "blockNumber": 18161808,
-    "logIndex": 0,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x342239362E3EF2561e06010eC7FCBCf2699Bc6e415/64",
+    "logIndex": 2,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x342239362E3EF2561e06010eC7FCBCf2699Bc6e417/64",
     "isFree": false,
     "valueWei": "450000000000000000",
-    "totalContractMints": 4,
+    "totalContractMints": 5,
     "analysis": {
       "contractAddress": "0x342239362E3EF2561e06010eC7FCBCf2699Bc6e4",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "Apepetz #15",
+        "name": "Apepetz #17",
         "description": "55 Petz Ape",
         "attributes": [
           {
@@ -23,7 +23,7 @@
             "value": "0"
           }
         ],
-        "image": "ipfs://bafybeifrib7kwwlgaoo2xuevvo27t742bgzfmmkavzrqnf2qpafndz3l4e/15.webp",
+        "image": "ipfs://bafybeifrib7kwwlgaoo2xuevvo27t742bgzfmmkavzrqnf2qpafndz3l4e/17.webp",
         "compiler": "nfts2me.com"
       },
       "nameSymbolStatus": "ok",
