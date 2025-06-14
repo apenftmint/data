@@ -2,29 +2,29 @@
   {
     "txHash": "0xab8446e4b5c19fa0c48de211bcfd4cb8e23ea5cd888decf595c68cbd959b37bc",
     "contractAddress": "0x08a24eF3a429c4589a808903cF26cD183B36909e",
-    "tokenId": "434",
+    "tokenId": "505",
     "collectionName": "Mystics ",
     "timestamp": 1749895047,
     "blockNumber": 18157940,
-    "logIndex": 18,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x08a24eF3a429c4589a808903cF26cD183B36909e434/64",
+    "logIndex": 89,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x08a24eF3a429c4589a808903cF26cD183B36909e505/64",
     "isFree": true,
-    "totalContractMints": 74,
+    "totalContractMints": 75,
     "analysis": {
       "contractAddress": "0x08a24eF3a429c4589a808903cF26cD183B36909e",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "Mystics #434",
-        "image": "ipfs://QmVm7P6fQde14YKYTaSeAUMAgxGz9YeAtALTXmC2A3nPCJ/434.gif",
+        "name": "Mystics #505",
+        "image": "ipfs://QmVm7P6fQde14YKYTaSeAUMAgxGz9YeAtALTXmC2A3nPCJ/505.gif",
         "description": "Mystics is the foundation and first ever membership to The Pier ecosystem. We are the 5000 visionaries working to turn Web3 concepts that the space can still only imagine, into reality.",
         "attributes": [
           {
             "trait_type": "Background",
-            "value": "Neutral"
+            "value": "Yellow"
           },
           {
             "trait_type": "Torso",
-            "value": "Yellow Monster Hoodie"
+            "value": "Blue Classic Hoodie"
           },
           {
             "trait_type": "Right Hand",
@@ -32,15 +32,15 @@
           },
           {
             "trait_type": "Backpack",
-            "value": "None"
+            "value": "Locator Backpack"
           },
           {
             "trait_type": "Legs",
-            "value": "Pink Zipper Shorts Tan"
+            "value": "Purple Trackpants"
           },
           {
             "trait_type": "Shoes",
-            "value": "Blue Boots"
+            "value": "Pink Circle Sneakers"
           },
           {
             "trait_type": "Waist Bag",
@@ -52,7 +52,7 @@
           },
           {
             "trait_type": "Left Hand",
-            "value": "Fishing Rod"
+            "value": "Cosmic Wand"
           }
         ]
       },
