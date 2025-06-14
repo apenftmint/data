@@ -1,5 +1,75 @@
 [
   {
+    "txHash": "0x9904e9052488e9ba7048feea33fdf237e4af4a298256cdc51bd8209581e8fa3d",
+    "contractAddress": "0xd1BB26c4850fB87d48d36c16209e4deE2e48CF88",
+    "tokenId": "37",
+    "collectionName": "Lil Dickbutts",
+    "timestamp": 1749885566,
+    "blockNumber": 18150807,
+    "logIndex": 0,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xd1BB26c4850fB87d48d36c16209e4deE2e48CF8837/64",
+    "isFree": false,
+    "valueWei": "100000000000000000",
+    "totalContractMints": 1,
+    "analysis": {
+      "contractAddress": "0xd1BB26c4850fB87d48d36c16209e4deE2e48CF88",
+      "metadataStatus": "ok",
+      "fetchedMetadata": {
+        "name": "Lil Dickbutts #37",
+        "description": "Baby Dickbutts entering the world. No Roadmap. No Promises. CCO.",
+        "attributes": [
+          {
+            "trait_type": "background",
+            "value": "Blue"
+          },
+          {
+            "trait_type": "body",
+            "value": "Light"
+          },
+          {
+            "trait_type": "clothes",
+            "value": "None"
+          },
+          {
+            "trait_type": "dick",
+            "value": "Mushroom"
+          },
+          {
+            "trait_type": "eyes",
+            "value": "Normal"
+          },
+          {
+            "trait_type": "hair",
+            "value": "Blue"
+          },
+          {
+            "trait_type": "mouth",
+            "value": "Smile"
+          },
+          {
+            "trait_type": "Weapons",
+            "value": "None"
+          },
+          {
+            "trait_type": "Trait Count",
+            "value": "8"
+          }
+        ],
+        "image": "ipfs://bafybeidkivgr6mxud5kx3fewrqiajcg5liq4wx545wbms5rjwsbl4pe3l4/37.webp",
+        "compiler": "nfts2me.com"
+      },
+      "nameSymbolStatus": "ok",
+      "collectionNameFromAnalyzer": "Lil Dickbutts",
+      "collectionSymbolFromAnalyzer": "LIL",
+      "finalStatus": "OK",
+      "statusReasons": [
+        "Metadata fetched successfully."
+      ]
+    },
+    "displayStatus": "OK",
+    "mintPriceApe": "0.1000"
+  },
+  {
     "txHash": "0x3b5686ad7c32f992607833b02fb173a32771f40118d7159941a191d4d4f54e4d",
     "contractAddress": "0x49849DE88B949474Decd2656c57b07802EC4F35F",
     "tokenId": "930",
