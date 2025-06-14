@@ -2,27 +2,57 @@
   {
     "txHash": "0xaeb747c0ff26db1732ce60ccc043ca4ced70843ff1283005159616c7f8ee7af2",
     "contractAddress": "0xA5a996F48FAAA1a20DA604b8201de9F570Fa33e6",
-    "tokenId": "3481",
+    "tokenId": "3289",
     "collectionName": "Reepz",
     "timestamp": 1749905328,
     "blockNumber": 18163924,
-    "logIndex": 424,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xA5a996F48FAAA1a20DA604b8201de9F570Fa33e63481/64",
+    "logIndex": 232,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xA5a996F48FAAA1a20DA604b8201de9F570Fa33e63289/64",
     "isFree": true,
-    "totalContractMints": 59,
+    "totalContractMints": 60,
     "analysis": {
       "contractAddress": "0xA5a996F48FAAA1a20DA604b8201de9F570Fa33e6",
-      "metadataStatus": "fetch_error",
-      "fetchedMetadata": null,
+      "metadataStatus": "ok",
+      "fetchedMetadata": {
+        "name": "reepz #3289",
+        "description": "reepz",
+        "image": "ipfs://bafybeigdubkigonfrc57kdv23isfvdtbupsfipd6o3tupioz3gzpj36tiu/3289.png",
+        "attributes": [
+          {
+            "trait_type": "Background",
+            "value": "Purple"
+          },
+          {
+            "trait_type": "Robes",
+            "value": "Regular Robes"
+          },
+          {
+            "trait_type": "Face",
+            "value": "Regular"
+          },
+          {
+            "trait_type": "Eyes",
+            "value": "Shades"
+          },
+          {
+            "trait_type": "Mouth",
+            "value": "Blunt"
+          },
+          {
+            "trait_type": "Head",
+            "value": "Golden Horns"
+          }
+        ]
+      },
       "nameSymbolStatus": "ok",
       "collectionNameFromAnalyzer": "Reepz",
       "collectionSymbolFromAnalyzer": "REE",
-      "finalStatus": "Issues Detected",
+      "finalStatus": "OK",
       "statusReasons": [
-        "Error fetching metadata from URI: The operation was aborted due to timeout."
+        "Metadata fetched successfully."
       ]
     },
-    "displayStatus": "Issues Detected"
+    "displayStatus": "OK"
   },
   {
     "txHash": "0xd0548289dc8833881dc47bf160982a98c6d278d17775eb2129d17928ddb7fe5a",
