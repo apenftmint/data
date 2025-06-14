@@ -2,29 +2,29 @@
   {
     "txHash": "0xa8d57e69687860bae2d0354e0ccb50f8e260cfa39500fec96ed40a61189bbab2",
     "contractAddress": "0x08a24eF3a429c4589a808903cF26cD183B36909e",
-    "tokenId": "408",
+    "tokenId": "374",
     "collectionName": "Mystics ",
     "timestamp": 1749890205,
     "blockNumber": 18154160,
-    "logIndex": 179,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x08a24eF3a429c4589a808903cF26cD183B36909e408/64",
+    "logIndex": 145,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x08a24eF3a429c4589a808903cF26cD183B36909e374/64",
     "isFree": true,
-    "totalContractMints": 68,
+    "totalContractMints": 69,
     "analysis": {
       "contractAddress": "0x08a24eF3a429c4589a808903cF26cD183B36909e",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "Mystics #408",
-        "image": "ipfs://QmVm7P6fQde14YKYTaSeAUMAgxGz9YeAtALTXmC2A3nPCJ/408.gif",
+        "name": "Mystics #374",
+        "image": "ipfs://QmVm7P6fQde14YKYTaSeAUMAgxGz9YeAtALTXmC2A3nPCJ/374.gif",
         "description": "Mystics is the foundation and first ever membership to The Pier ecosystem. We are the 5000 visionaries working to turn Web3 concepts that the space can still only imagine, into reality.",
         "attributes": [
           {
             "trait_type": "Background",
-            "value": "Green"
+            "value": "Purple"
           },
           {
             "trait_type": "Torso",
-            "value": "Blue Spiked Hoodie"
+            "value": "Rain Jacket"
           },
           {
             "trait_type": "Right Hand",
@@ -32,11 +32,11 @@
           },
           {
             "trait_type": "Backpack",
-            "value": "Yellow Big Backpack"
+            "value": "Blue Big Backpack"
           },
           {
             "trait_type": "Legs",
-            "value": "Yellow Zipper Shorts"
+            "value": "Purple Shorts"
           },
           {
             "trait_type": "Shoes",
@@ -48,11 +48,11 @@
           },
           {
             "trait_type": "Eyes",
-            "value": "Adorable"
+            "value": "Classic"
           },
           {
             "trait_type": "Left Hand",
-            "value": "Classic"
+            "value": "Serum"
           }
         ]
       },
