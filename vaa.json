@@ -2,29 +2,29 @@
   {
     "txHash": "0xab8446e4b5c19fa0c48de211bcfd4cb8e23ea5cd888decf595c68cbd959b37bc",
     "contractAddress": "0x08a24eF3a429c4589a808903cF26cD183B36909e",
-    "tokenId": "460",
+    "tokenId": "495",
     "collectionName": "Mystics ",
     "timestamp": 1749895047,
     "blockNumber": 18157940,
-    "logIndex": 44,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x08a24eF3a429c4589a808903cF26cD183B36909e460/64",
+    "logIndex": 79,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x08a24eF3a429c4589a808903cF26cD183B36909e495/64",
     "isFree": true,
-    "totalContractMints": 82,
+    "totalContractMints": 83,
     "analysis": {
       "contractAddress": "0x08a24eF3a429c4589a808903cF26cD183B36909e",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "Mystics #460",
-        "image": "ipfs://QmVm7P6fQde14YKYTaSeAUMAgxGz9YeAtALTXmC2A3nPCJ/460.gif",
+        "name": "Mystics #495",
+        "image": "ipfs://QmVm7P6fQde14YKYTaSeAUMAgxGz9YeAtALTXmC2A3nPCJ/495.gif",
         "description": "Mystics is the foundation and first ever membership to The Pier ecosystem. We are the 5000 visionaries working to turn Web3 concepts that the space can still only imagine, into reality.",
         "attributes": [
           {
             "trait_type": "Background",
-            "value": "Yellow"
+            "value": "Neutral"
           },
           {
             "trait_type": "Torso",
-            "value": "Unicorn Hoodie"
+            "value": "Wolf Hoodie"
           },
           {
             "trait_type": "Right Hand",
@@ -32,15 +32,15 @@
           },
           {
             "trait_type": "Backpack",
-            "value": "Crystal Backpack"
+            "value": "Storm Backpack"
           },
           {
             "trait_type": "Legs",
-            "value": "Purple Shorts Tan"
+            "value": "Yellow Shorts"
           },
           {
             "trait_type": "Shoes",
-            "value": "Slippers"
+            "value": "Pink Circle Sneakers"
           },
           {
             "trait_type": "Waist Bag",
@@ -48,11 +48,11 @@
           },
           {
             "trait_type": "Eyes",
-            "value": "Adorable"
+            "value": "Dragon"
           },
           {
             "trait_type": "Left Hand",
-            "value": "Lizard Eye"
+            "value": "Star Wand"
           }
         ]
       },
