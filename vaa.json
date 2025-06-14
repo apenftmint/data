@@ -1,5 +1,63 @@
 [
   {
+    "txHash": "0xf8e39a50deb6b6f83b3bdcfc37b18b2014b112f59081d6bfbe6ce0f9ae573b0d",
+    "contractAddress": "0xE1523d81dD4b196d2C4506588CEbE78352734711",
+    "tokenId": "3826",
+    "collectionName": "Soldier On Ape",
+    "timestamp": 1749888519,
+    "blockNumber": 18152903,
+    "logIndex": 0,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xE1523d81dD4b196d2C4506588CEbE783527347113826/64",
+    "isFree": false,
+    "valueWei": "100000000000000000",
+    "totalContractMints": 8,
+    "analysis": {
+      "contractAddress": "0xE1523d81dD4b196d2C4506588CEbE78352734711",
+      "metadataStatus": "ok",
+      "fetchedMetadata": {
+        "name": "Soldier On Ape #3826",
+        "description": "The Soldier On Ape are 4444 uniquely generated characters. No two are exactly alike, and each one of them can be officially owned by a single person on the Ape Chain",
+        "attributes": [
+          {
+            "trait_type": "RARITY",
+            "value": "COMMON"
+          },
+          {
+            "trait_type": "FACE",
+            "value": "COMMON"
+          },
+          {
+            "trait_type": "WEAPON",
+            "value": "COMMON"
+          },
+          {
+            "trait_type": "HELMET",
+            "value": "COMMON"
+          },
+          {
+            "trait_type": "BACKGROUND",
+            "value": "COMMON"
+          },
+          {
+            "trait_type": "Trait Count",
+            "value": "5"
+          }
+        ],
+        "image": "ipfs://bafybeiainphfzx26l4za5xzxalgbfxs33d2cupska3qbuc7of2qcv4g3ka/3826.webp",
+        "compiler": "nfts2me.com"
+      },
+      "nameSymbolStatus": "ok",
+      "collectionNameFromAnalyzer": "Soldier On Ape",
+      "collectionSymbolFromAnalyzer": "SOLDIER",
+      "finalStatus": "OK",
+      "statusReasons": [
+        "Metadata fetched successfully."
+      ]
+    },
+    "displayStatus": "OK",
+    "mintPriceApe": "0.1000"
+  },
+  {
     "txHash": "0xda8bbccb770c306901ed0af09ad3ac2e8458bcd78ff70336d8d897696a095585",
     "contractAddress": "0xd1BB26c4850fB87d48d36c16209e4deE2e48CF88",
     "tokenId": "58",
@@ -226,64 +284,6 @@
     },
     "displayStatus": "OK",
     "mintPriceApe": "33.0000"
-  },
-  {
-    "txHash": "0xd5c34c7db5dd1faabc7b5b525a4b713a7101a91ae364ba851c9d08d8b3747107",
-    "contractAddress": "0xE1523d81dD4b196d2C4506588CEbE78352734711",
-    "tokenId": "3821",
-    "collectionName": "Soldier On Ape",
-    "timestamp": 1749886562,
-    "blockNumber": 18151500,
-    "logIndex": 5,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xE1523d81dD4b196d2C4506588CEbE783527347113821/64",
-    "isFree": false,
-    "valueWei": "1000000000000000000",
-    "totalContractMints": 7,
-    "analysis": {
-      "contractAddress": "0xE1523d81dD4b196d2C4506588CEbE78352734711",
-      "metadataStatus": "ok",
-      "fetchedMetadata": {
-        "name": "Soldier On Ape #3821",
-        "description": "The Soldier On Ape are 4444 uniquely generated characters. No two are exactly alike, and each one of them can be officially owned by a single person on the Ape Chain",
-        "attributes": [
-          {
-            "trait_type": "RARITY",
-            "value": "COMMON"
-          },
-          {
-            "trait_type": "FACE",
-            "value": "COMMON"
-          },
-          {
-            "trait_type": "WEAPON",
-            "value": "COMMON"
-          },
-          {
-            "trait_type": "HELMET",
-            "value": "COMMON"
-          },
-          {
-            "trait_type": "BACKGROUND",
-            "value": "COMMON"
-          },
-          {
-            "trait_type": "Trait Count",
-            "value": "5"
-          }
-        ],
-        "image": "ipfs://bafybeiainphfzx26l4za5xzxalgbfxs33d2cupska3qbuc7of2qcv4g3ka/3821.webp",
-        "compiler": "nfts2me.com"
-      },
-      "nameSymbolStatus": "ok",
-      "collectionNameFromAnalyzer": "Soldier On Ape",
-      "collectionSymbolFromAnalyzer": "SOLDIER",
-      "finalStatus": "OK",
-      "statusReasons": [
-        "Metadata fetched successfully."
-      ]
-    },
-    "displayStatus": "OK",
-    "mintPriceApe": "1.0000"
   },
   {
     "txHash": "0x3b5686ad7c32f992607833b02fb173a32771f40118d7159941a191d4d4f54e4d",
