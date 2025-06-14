@@ -50,69 +50,27 @@
   {
     "txHash": "0x56539c83474f9069a160e7514e9711fca2bd17b84203735e1e59510da3309ac8",
     "contractAddress": "0xb34D8B34214eb75D785353D38a635F84e327372b",
-    "tokenId": "4606",
+    "tokenId": "4669",
     "collectionName": "Peppies",
     "timestamp": 1749889853,
     "blockNumber": 18153833,
-    "logIndex": 16,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xb34D8B34214eb75D785353D38a635F84e327372b4606/64",
+    "logIndex": 79,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xb34D8B34214eb75D785353D38a635F84e327372b4669/64",
     "isFree": true,
-    "totalContractMints": 17,
+    "totalContractMints": 18,
     "analysis": {
       "contractAddress": "0xb34D8B34214eb75D785353D38a635F84e327372b",
-      "metadataStatus": "ok",
-      "fetchedMetadata": {
-        "name": "Peppie #4606",
-        "description": "Bringing the two most influential subcultures together to celebrate their influence had on futures past and present.",
-        "image": "ipfs://bafybeih6773u5hppgz7j6uf2hazxngx5cgcolgqkslysogiou5trmnrwe4/4606.png",
-        "dna": "7a7aab85ee520f95aaed3dfc30e894ba58400d1c",
-        "edition": 4606,
-        "date": 1667013064598,
-        "attributes": [
-          {
-            "trait_type": "Background",
-            "value": "Blue"
-          },
-          {
-            "trait_type": "Body",
-            "value": "Yellow Backpack"
-          },
-          {
-            "trait_type": "Skin",
-            "value": "Green"
-          },
-          {
-            "trait_type": "Eyes 1",
-            "value": "Wink"
-          },
-          {
-            "trait_type": "Hair 1",
-            "value": "Purple Cap"
-          },
-          {
-            "trait_type": "Mouth 1",
-            "value": "Rage"
-          },
-          {
-            "trait_type": "Piercing",
-            "value": "None"
-          },
-          {
-            "trait_type": "Accessory 1",
-            "value": "None"
-          }
-        ],
-        "compiler": "Peppies"
-      },
+      "metadataStatus": "fetch_error",
+      "fetchedMetadata": null,
       "nameSymbolStatus": "ok",
       "collectionNameFromAnalyzer": "Peppies",
       "collectionSymbolFromAnalyzer": "PEP",
-      "finalStatus": "OK",
+      "finalStatus": "Issues Detected",
       "statusReasons": [
-        "Metadata fetched successfully."
+        "Error fetching metadata from URI: The operation was aborted due to timeout."
       ]
     },
-    "displayStatus": "OK"
+    "displayStatus": "Issues Detected"
   },
   {
     "txHash": "0x6f9d465e59a22da5b77d269c885ca98f27b259ac781c5e3ca56687c607e15e41",
