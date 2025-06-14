@@ -2,14 +2,14 @@
   {
     "txHash": "0xf560691640e33b6d1381864c680820551e66ad179050b2f050a8cc6d9fbf90ac",
     "contractAddress": "0xb09065aC4a3f721B1a5E271ADeed478b822037DC",
-    "tokenId": "5284",
+    "tokenId": "5225",
     "collectionName": "Midgets",
     "timestamp": 1749895429,
     "blockNumber": 18158233,
-    "logIndex": 66,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xb09065aC4a3f721B1a5E271ADeed478b822037DC5284/64",
+    "logIndex": 7,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xb09065aC4a3f721B1a5E271ADeed478b822037DC5225/64",
     "isFree": true,
-    "totalContractMints": 31,
+    "totalContractMints": 32,
     "analysis": {
       "contractAddress": "0xb09065aC4a3f721B1a5E271ADeed478b822037DC",
       "metadataStatus": "fetch_error",
