@@ -9,7 +9,7 @@
     "logIndex": 8,
     "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x08a24eF3a429c4589a808903cF26cD183B36909e14/64",
     "isFree": true,
-    "totalContractMints": 10,
+    "totalContractMints": 11,
     "analysis": {
       "contractAddress": "0x08a24eF3a429c4589a808903cF26cD183B36909e",
       "metadataStatus": "ok",
