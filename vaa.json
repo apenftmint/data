@@ -50,24 +50,24 @@
   {
     "txHash": "0x56539c83474f9069a160e7514e9711fca2bd17b84203735e1e59510da3309ac8",
     "contractAddress": "0xb34D8B34214eb75D785353D38a635F84e327372b",
-    "tokenId": "4671",
+    "tokenId": "4606",
     "collectionName": "Peppies",
     "timestamp": 1749889853,
     "blockNumber": 18153833,
-    "logIndex": 81,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xb34D8B34214eb75D785353D38a635F84e327372b4671/64",
+    "logIndex": 16,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xb34D8B34214eb75D785353D38a635F84e327372b4606/64",
     "isFree": true,
-    "totalContractMints": 16,
+    "totalContractMints": 17,
     "analysis": {
       "contractAddress": "0xb34D8B34214eb75D785353D38a635F84e327372b",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "Peppie #4671",
+        "name": "Peppie #4606",
         "description": "Bringing the two most influential subcultures together to celebrate their influence had on futures past and present.",
-        "image": "ipfs://bafybeih6773u5hppgz7j6uf2hazxngx5cgcolgqkslysogiou5trmnrwe4/4671.png",
-        "dna": "9c24ceb0053e6a42042d31d81121aeda60caa390",
-        "edition": 4671,
-        "date": 1667014565531,
+        "image": "ipfs://bafybeih6773u5hppgz7j6uf2hazxngx5cgcolgqkslysogiou5trmnrwe4/4606.png",
+        "dna": "7a7aab85ee520f95aaed3dfc30e894ba58400d1c",
+        "edition": 4606,
+        "date": 1667013064598,
         "attributes": [
           {
             "trait_type": "Background",
@@ -75,23 +75,23 @@
           },
           {
             "trait_type": "Body",
-            "value": "White Puffer"
+            "value": "Yellow Backpack"
           },
           {
             "trait_type": "Skin",
-            "value": "Yellow"
+            "value": "Green"
           },
           {
             "trait_type": "Eyes 1",
-            "value": "X Eyes"
+            "value": "Wink"
           },
           {
             "trait_type": "Hair 1",
-            "value": "Beige Bucket Cap"
+            "value": "Purple Cap"
           },
           {
             "trait_type": "Mouth 1",
-            "value": "Gold Grin"
+            "value": "Rage"
           },
           {
             "trait_type": "Piercing",
