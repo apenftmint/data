@@ -2,14 +2,14 @@
   {
     "txHash": "0xfd7c86afe0333cedf7a9cd1202fdd5f69127002d331a0cb0773d2822deaa2e1e",
     "contractAddress": "0x1FB99ae983C26D6dAaF7910BDe118Dc0cA681e78",
-    "tokenId": "9",
+    "tokenId": "39",
     "collectionName": "TABUZU",
     "timestamp": 1749890034,
     "blockNumber": 18154007,
-    "logIndex": 8,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x1FB99ae983C26D6dAaF7910BDe118Dc0cA681e789/64",
+    "logIndex": 38,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x1FB99ae983C26D6dAaF7910BDe118Dc0cA681e7839/64",
     "isFree": true,
-    "totalContractMints": 5,
+    "totalContractMints": 6,
     "analysis": {
       "contractAddress": "0x1FB99ae983C26D6dAaF7910BDe118Dc0cA681e78",
       "metadataStatus": "no_uri_found",
