@@ -2,21 +2,21 @@
   {
     "txHash": "0x7d8e79a2eb51b086fdadd7630b39e4f6576a61ccf2c6e644aef98a2068cbd17d",
     "contractAddress": "0x08a24eF3a429c4589a808903cF26cD183B36909e",
-    "tokenId": "65",
+    "tokenId": "68",
     "collectionName": "Mystics ",
     "timestamp": 1749887445,
     "blockNumber": 18152170,
-    "logIndex": 0,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x08a24eF3a429c4589a808903cF26cD183B36909e65/64",
+    "logIndex": 3,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x08a24eF3a429c4589a808903cF26cD183B36909e68/64",
     "isFree": false,
     "valueWei": "5250000000000000000",
-    "totalContractMints": 34,
+    "totalContractMints": 35,
     "analysis": {
       "contractAddress": "0x08a24eF3a429c4589a808903cF26cD183B36909e",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "Mystics #65",
-        "image": "ipfs://QmVm7P6fQde14YKYTaSeAUMAgxGz9YeAtALTXmC2A3nPCJ/65.gif",
+        "name": "Mystics #68",
+        "image": "ipfs://QmVm7P6fQde14YKYTaSeAUMAgxGz9YeAtALTXmC2A3nPCJ/68.gif",
         "description": "Mystics is the foundation and first ever membership to The Pier ecosystem. We are the 5000 visionaries working to turn Web3 concepts that the space can still only imagine, into reality.",
         "attributes": [
           {
@@ -25,11 +25,11 @@
           },
           {
             "trait_type": "Torso",
-            "value": "Purple Spiked Hoodie"
+            "value": "Purple Monster Hoodie"
           },
           {
             "trait_type": "Right Hand",
-            "value": "Supporting"
+            "value": "Classic"
           },
           {
             "trait_type": "Backpack",
@@ -37,7 +37,7 @@
           },
           {
             "trait_type": "Legs",
-            "value": "Purple Ninja Shorts"
+            "value": "Purple Zip Pocket Shorts"
           },
           {
             "trait_type": "Shoes",
@@ -45,15 +45,15 @@
           },
           {
             "trait_type": "Waist Bag",
-            "value": "None"
+            "value": "Yellow Waistbag"
           },
           {
             "trait_type": "Eyes",
-            "value": "Dragon"
+            "value": "Classic"
           },
           {
             "trait_type": "Left Hand",
-            "value": "Chameleon"
+            "value": "Cosmic Ball"
           }
         ]
       },
