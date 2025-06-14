@@ -1,5 +1,52 @@
 [
   {
+    "txHash": "0x20957766969d108ddfa5c971dfeb327ea1c3d43ff28f7cb8384f7d1ded630706",
+    "contractAddress": "0x961c6D8910d6FBb803eD124F2c4480f3F6070Ec7",
+    "tokenId": "4006",
+    "collectionName": "Part",
+    "timestamp": 1749896595,
+    "blockNumber": 18159087,
+    "logIndex": 40,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x961c6D8910d6FBb803eD124F2c4480f3F6070Ec74006/64",
+    "isFree": true,
+    "totalContractMints": 4,
+    "analysis": {
+      "contractAddress": "0x961c6D8910d6FBb803eD124F2c4480f3F6070Ec7",
+      "metadataStatus": "ok",
+      "fetchedMetadata": {
+        "name": "BTC Diamond Filler #4006",
+        "description": "EGG$ PARTS are the building blocks of legend.\n\nEach Part is a fragment of EGG$ potential.\n\nUnlocked from CORES, waiting to be revealed, forged, and crafted to make something that didn't exist before you.\n\nThis is the layer where design becomes identity.\nWhere holders guide the evolution.\nWhere culture, community, and protection unlock the rarest forms of design evolution.\nCustom. Curated. Forever expandable.\n\nThe EGG$ don't just evolve.\nYOU shape what they become using these Parts to activate Evolution.",
+        "image": "https://cryptojeweler.s3.us-east-1.amazonaws.com/parts/Grenegg/White Gold/Ember/Keystone/BTC Diamond Filler.png",
+        "attributes": [
+          {
+            "trait_type": "Metal Type",
+            "value": "White Gold"
+          },
+          {
+            "trait_type": "Colorway",
+            "value": "Ember"
+          },
+          {
+            "trait_type": "Part Type",
+            "value": "Keystone"
+          },
+          {
+            "trait_type": "Part Value",
+            "value": "BTC Diamond Filler"
+          }
+        ]
+      },
+      "nameSymbolStatus": "ok",
+      "collectionNameFromAnalyzer": "Part",
+      "collectionSymbolFromAnalyzer": "PART",
+      "finalStatus": "OK",
+      "statusReasons": [
+        "Metadata fetched successfully."
+      ]
+    },
+    "displayStatus": "OK"
+  },
+  {
     "txHash": "0xbf3e894d0df50a2798a9fa2e079ee5cbfc2fd95b4f0558e1b248babd457dd09a",
     "contractAddress": "0xD8fF0EF834587049092A0D6DACF129B37B413030",
     "tokenId": "1718",
@@ -420,53 +467,6 @@
     },
     "displayStatus": "OK",
     "mintPriceApe": "19.0845"
-  },
-  {
-    "txHash": "0x8c0476f06ae528c90874fd153a4a4db47106e0c44e57aae8f7ec67694ca4c12b",
-    "contractAddress": "0x961c6D8910d6FBb803eD124F2c4480f3F6070Ec7",
-    "tokenId": "3962",
-    "collectionName": "Part",
-    "timestamp": 1749888614,
-    "blockNumber": 18152971,
-    "logIndex": 4,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x961c6D8910d6FBb803eD124F2c4480f3F6070Ec73962/64",
-    "isFree": true,
-    "totalContractMints": 3,
-    "analysis": {
-      "contractAddress": "0x961c6D8910d6FBb803eD124F2c4480f3F6070Ec7",
-      "metadataStatus": "ok",
-      "fetchedMetadata": {
-        "name": "Aqua Dia Fuse #3962",
-        "description": "EGG$ PARTS are the building blocks of legend.\n\nEach Part is a fragment of EGG$ potential.\n\nUnlocked from CORES, waiting to be revealed, forged, and crafted to make something that didn't exist before you.\n\nThis is the layer where design becomes identity.\nWhere holders guide the evolution.\nWhere culture, community, and protection unlock the rarest forms of design evolution.\nCustom. Curated. Forever expandable.\n\nThe EGG$ don't just evolve.\nYOU shape what they become using these Parts to activate Evolution.",
-        "image": "https://cryptojeweler.s3.us-east-1.amazonaws.com/parts/Grenegg/White Gold/Aurora/Collar/Aqua Dia Fuse.png",
-        "attributes": [
-          {
-            "trait_type": "Metal Type",
-            "value": "White Gold"
-          },
-          {
-            "trait_type": "Colorway",
-            "value": "Aurora"
-          },
-          {
-            "trait_type": "Part Type",
-            "value": "Collar"
-          },
-          {
-            "trait_type": "Part Value",
-            "value": "Aqua Dia Fuse"
-          }
-        ]
-      },
-      "nameSymbolStatus": "ok",
-      "collectionNameFromAnalyzer": "Part",
-      "collectionSymbolFromAnalyzer": "PART",
-      "finalStatus": "OK",
-      "statusReasons": [
-        "Metadata fetched successfully."
-      ]
-    },
-    "displayStatus": "OK"
   },
   {
     "txHash": "0xa70c3081b7f626194130b493d9b59300a9b388962d4e22d8ce624dc2c69deba3",
