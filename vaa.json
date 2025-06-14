@@ -2,20 +2,20 @@
   {
     "txHash": "0x0dbb97924e32e2269d75a3c99cf328b5b484cf4a36fa470813f91aa0181a26ba",
     "contractAddress": "0x08a24eF3a429c4589a808903cF26cD183B36909e",
-    "tokenId": "24",
+    "tokenId": "14",
     "collectionName": "Mystics ",
     "timestamp": 1749887328,
     "blockNumber": 18152085,
-    "logIndex": 18,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x08a24eF3a429c4589a808903cF26cD183B36909e24/64",
+    "logIndex": 8,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x08a24eF3a429c4589a808903cF26cD183B36909e14/64",
     "isFree": true,
-    "totalContractMints": 9,
+    "totalContractMints": 10,
     "analysis": {
       "contractAddress": "0x08a24eF3a429c4589a808903cF26cD183B36909e",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "Mystics #24",
-        "image": "ipfs://QmVm7P6fQde14YKYTaSeAUMAgxGz9YeAtALTXmC2A3nPCJ/24.gif",
+        "name": "Mystics #14",
+        "image": "ipfs://QmVm7P6fQde14YKYTaSeAUMAgxGz9YeAtALTXmC2A3nPCJ/14.gif",
         "description": "Mystics is the foundation and first ever membership to The Pier ecosystem. We are the 5000 visionaries working to turn Web3 concepts that the space can still only imagine, into reality.",
         "attributes": [
           {
@@ -24,23 +24,23 @@
           },
           {
             "trait_type": "Torso",
-            "value": "Blue Monster Hoodie"
+            "value": "Rain Jacket"
           },
           {
             "trait_type": "Right Hand",
-            "value": "Classic"
+            "value": "Snake Staff"
           },
           {
             "trait_type": "Backpack",
-            "value": "None"
+            "value": "Magic Radio Backpack"
           },
           {
             "trait_type": "Legs",
-            "value": "Pink Zip Pocket Shorts"
+            "value": "Blue Zip Pocket Shorts"
           },
           {
             "trait_type": "Shoes",
-            "value": "Purple Circle Sneakers"
+            "value": "Pink Circle Sneakers"
           },
           {
             "trait_type": "Waist Bag",
@@ -48,11 +48,11 @@
           },
           {
             "trait_type": "Eyes",
-            "value": "Guilty"
+            "value": "Squint"
           },
           {
             "trait_type": "Left Hand",
-            "value": "Purple Snake"
+            "value": "Cosmic Wand"
           }
         ]
       },
