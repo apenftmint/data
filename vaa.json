@@ -2,48 +2,56 @@
   {
     "txHash": "0xe74163831492f499af0623aec24433b7881246b7a1992c00c2b1c58c86d4c775",
     "contractAddress": "0x58219061B6a2D1147b09B7b2e3a5B62a4eAaD31a",
-    "tokenId": "313",
+    "tokenId": "287",
     "collectionName": "Peppie",
     "timestamp": 1749906059,
     "blockNumber": 18164263,
-    "logIndex": 252,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x58219061B6a2D1147b09B7b2e3a5B62a4eAaD31a313/64",
+    "logIndex": 226,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x58219061B6a2D1147b09B7b2e3a5B62a4eAaD31a287/64",
     "isFree": true,
-    "totalContractMints": 46,
+    "totalContractMints": 47,
     "analysis": {
       "contractAddress": "0x58219061B6a2D1147b09B7b2e3a5B62a4eAaD31a",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "Peppie #313",
+        "name": "Peppie #287",
         "description": "Bringing the two most influential subcultures together to celebrate their influence had on futures past and present.",
-        "image": "ipfs://bafybeih6773u5hppgz7j6uf2hazxngx5cgcolgqkslysogiou5trmnrwe4/313.png",
-        "dna": "48a579d1dbd69ffc0801a0e44637397733c778f3",
-        "edition": 313,
-        "date": 1667015071927,
+        "image": "ipfs://bafybeih6773u5hppgz7j6uf2hazxngx5cgcolgqkslysogiou5trmnrwe4/287.png",
+        "dna": "03a96312fb35d993c8c0f9966318e543d107fa1b",
+        "edition": 287,
+        "date": 1667012507796,
         "attributes": [
           {
             "trait_type": "Background",
-            "value": "Gradient 3"
+            "value": "Yellow"
           },
           {
             "trait_type": "Body",
-            "value": "Combo 1 Puffer"
+            "value": "Purple Chain"
           },
           {
-            "trait_type": "Devil",
-            "value": "Devil Pink"
+            "trait_type": "Skin",
+            "value": "Green"
           },
           {
-            "trait_type": "Eyes 2",
-            "value": "Bloodshot"
+            "trait_type": "Eyes 1",
+            "value": "X Eyes"
+          },
+          {
+            "trait_type": "Hair 1",
+            "value": "Blue Afro"
           },
           {
             "trait_type": "Mouth 1",
-            "value": "Grin"
+            "value": "Neutral"
           },
           {
-            "trait_type": "Accessory 2",
-            "value": "Sunglasses"
+            "trait_type": "Piercing",
+            "value": "None"
+          },
+          {
+            "trait_type": "Accessory 1",
+            "value": "Designer Glasses"
           }
         ],
         "compiler": "Peppies"
