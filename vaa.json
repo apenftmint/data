@@ -1,5 +1,32 @@
 [
   {
+    "txHash": "0xda8bbccb770c306901ed0af09ad3ac2e8458bcd78ff70336d8d897696a095585",
+    "contractAddress": "0xd1BB26c4850fB87d48d36c16209e4deE2e48CF88",
+    "tokenId": "58",
+    "collectionName": "Lil Dickbutts",
+    "timestamp": 1749888509,
+    "blockNumber": 18152896,
+    "logIndex": 0,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xd1BB26c4850fB87d48d36c16209e4deE2e48CF8858/64",
+    "isFree": false,
+    "valueWei": "100000000000000000",
+    "totalContractMints": 12,
+    "analysis": {
+      "contractAddress": "0xd1BB26c4850fB87d48d36c16209e4deE2e48CF88",
+      "metadataStatus": "fetch_error",
+      "fetchedMetadata": null,
+      "nameSymbolStatus": "ok",
+      "collectionNameFromAnalyzer": "Lil Dickbutts",
+      "collectionSymbolFromAnalyzer": "LIL",
+      "finalStatus": "Issues Detected",
+      "statusReasons": [
+        "Error fetching metadata from URI: The operation was aborted due to timeout."
+      ]
+    },
+    "displayStatus": "Issues Detected",
+    "mintPriceApe": "0.1000"
+  },
+  {
     "txHash": "0x585d4cc3f72462ce7312d7ae02104b5bddc219e9bfc0b71adadd4b4cebe61bba",
     "contractAddress": "0x422Af9C3DdECD6c3c3C3f51D6942a9f851cAF6Bc",
     "tokenId": "116",
@@ -257,33 +284,6 @@
     },
     "displayStatus": "OK",
     "mintPriceApe": "1.0000"
-  },
-  {
-    "txHash": "0x7683dec9a3b4863dbea88a56903271a184b712f3cbbd13e64eed4e254ac3d78a",
-    "contractAddress": "0xd1BB26c4850fB87d48d36c16209e4deE2e48CF88",
-    "tokenId": "46",
-    "collectionName": "Lil Dickbutts",
-    "timestamp": 1749885777,
-    "blockNumber": 18150948,
-    "logIndex": 8,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xd1BB26c4850fB87d48d36c16209e4deE2e48CF8846/64",
-    "isFree": false,
-    "valueWei": "2000000000000000000",
-    "totalContractMints": 11,
-    "analysis": {
-      "contractAddress": "0xd1BB26c4850fB87d48d36c16209e4deE2e48CF88",
-      "metadataStatus": "fetch_error",
-      "fetchedMetadata": null,
-      "nameSymbolStatus": "ok",
-      "collectionNameFromAnalyzer": "Lil Dickbutts",
-      "collectionSymbolFromAnalyzer": "LIL",
-      "finalStatus": "Issues Detected",
-      "statusReasons": [
-        "Error fetching metadata from URI: The operation was aborted due to timeout."
-      ]
-    },
-    "displayStatus": "Issues Detected",
-    "mintPriceApe": "2.0000"
   },
   {
     "txHash": "0x3b5686ad7c32f992607833b02fb173a32771f40118d7159941a191d4d4f54e4d",
