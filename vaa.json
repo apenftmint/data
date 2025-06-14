@@ -2,58 +2,58 @@
   {
     "txHash": "0xf709180320db6ad20d8198681de962aa24f6ade7b99d417ac21739d5a3038839",
     "contractAddress": "0x08a24eF3a429c4589a808903cF26cD183B36909e",
-    "tokenId": "72",
+    "tokenId": "73",
     "collectionName": "Mystics ",
     "timestamp": 1749887728,
     "blockNumber": 18152381,
-    "logIndex": 2,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x08a24eF3a429c4589a808903cF26cD183B36909e72/64",
+    "logIndex": 3,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x08a24eF3a429c4589a808903cF26cD183B36909e73/64",
     "isFree": false,
     "valueWei": "5250000000000000000",
-    "totalContractMints": 39,
+    "totalContractMints": 40,
     "analysis": {
       "contractAddress": "0x08a24eF3a429c4589a808903cF26cD183B36909e",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "Mystics #72",
-        "image": "ipfs://QmVm7P6fQde14YKYTaSeAUMAgxGz9YeAtALTXmC2A3nPCJ/72.gif",
+        "name": "Mystics #73",
+        "image": "ipfs://QmVm7P6fQde14YKYTaSeAUMAgxGz9YeAtALTXmC2A3nPCJ/73.gif",
         "description": "Mystics is the foundation and first ever membership to The Pier ecosystem. We are the 5000 visionaries working to turn Web3 concepts that the space can still only imagine, into reality.",
         "attributes": [
           {
             "trait_type": "Background",
-            "value": "Light Blue"
+            "value": "Yellow"
           },
           {
             "trait_type": "Torso",
-            "value": "Parka"
+            "value": "Blue Monster Hoodie"
           },
           {
             "trait_type": "Right Hand",
-            "value": "Classic"
+            "value": "Scythe"
           },
           {
             "trait_type": "Backpack",
-            "value": "Sherbet Backpack"
-          },
-          {
-            "trait_type": "Legs",
-            "value": "Yellow Trackpants"
-          },
-          {
-            "trait_type": "Shoes",
-            "value": "Blue Circle Sneakers"
-          },
-          {
-            "trait_type": "Waist Bag",
             "value": "None"
           },
           {
+            "trait_type": "Legs",
+            "value": "Yellow Zipper Shorts"
+          },
+          {
+            "trait_type": "Shoes",
+            "value": "Blue Boots"
+          },
+          {
+            "trait_type": "Waist Bag",
+            "value": "Purple Waistbag"
+          },
+          {
             "trait_type": "Eyes",
-            "value": "Magic"
+            "value": "Fire"
           },
           {
             "trait_type": "Left Hand",
-            "value": "Classic"
+            "value": "Balloon Sword"
           }
         ]
       },
