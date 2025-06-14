@@ -2,48 +2,48 @@
   {
     "txHash": "0xe74163831492f499af0623aec24433b7881246b7a1992c00c2b1c58c86d4c775",
     "contractAddress": "0x58219061B6a2D1147b09B7b2e3a5B62a4eAaD31a",
-    "tokenId": "129",
+    "tokenId": "244",
     "collectionName": "Peppie",
     "timestamp": 1749906059,
     "blockNumber": 18164263,
-    "logIndex": 68,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x58219061B6a2D1147b09B7b2e3a5B62a4eAaD31a129/64",
+    "logIndex": 183,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x58219061B6a2D1147b09B7b2e3a5B62a4eAaD31a244/64",
     "isFree": true,
-    "totalContractMints": 27,
+    "totalContractMints": 28,
     "analysis": {
       "contractAddress": "0x58219061B6a2D1147b09B7b2e3a5B62a4eAaD31a",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "Peppie #129",
+        "name": "Peppie #244",
         "description": "Bringing the two most influential subcultures together to celebrate their influence had on futures past and present.",
-        "image": "ipfs://bafybeih6773u5hppgz7j6uf2hazxngx5cgcolgqkslysogiou5trmnrwe4/129.png",
-        "dna": "bd1e3eea91b335954a3c4d2bbfbf3981031c4bdd",
-        "edition": 129,
-        "date": 1667013829659,
+        "image": "ipfs://bafybeih6773u5hppgz7j6uf2hazxngx5cgcolgqkslysogiou5trmnrwe4/244.png",
+        "dna": "bf4c9563b02c418c2ea83a92dc92ca2989cacd7d",
+        "edition": 244,
+        "date": 1667012994076,
         "attributes": [
           {
             "trait_type": "Background",
-            "value": "Orange"
+            "value": "Blue"
           },
           {
             "trait_type": "Body",
-            "value": "Combo 3 Puffer"
+            "value": "Navy Sweater"
           },
           {
             "trait_type": "Skin",
-            "value": "Purple"
+            "value": "Green"
           },
           {
             "trait_type": "Eyes 1",
-            "value": "Neutral"
+            "value": "Bloodshot"
           },
           {
             "trait_type": "Hair 1",
-            "value": "Blue Afro"
+            "value": "Blue Brushcut"
           },
           {
             "trait_type": "Mouth 1",
-            "value": "Pipe"
+            "value": "Bucktooth"
           },
           {
             "trait_type": "Piercing",
