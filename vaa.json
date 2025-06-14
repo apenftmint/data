@@ -2,29 +2,29 @@
   {
     "txHash": "0xab8446e4b5c19fa0c48de211bcfd4cb8e23ea5cd888decf595c68cbd959b37bc",
     "contractAddress": "0x08a24eF3a429c4589a808903cF26cD183B36909e",
-    "tokenId": "457",
+    "tokenId": "460",
     "collectionName": "Mystics ",
     "timestamp": 1749895047,
     "blockNumber": 18157940,
-    "logIndex": 41,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x08a24eF3a429c4589a808903cF26cD183B36909e457/64",
+    "logIndex": 44,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x08a24eF3a429c4589a808903cF26cD183B36909e460/64",
     "isFree": true,
-    "totalContractMints": 81,
+    "totalContractMints": 82,
     "analysis": {
       "contractAddress": "0x08a24eF3a429c4589a808903cF26cD183B36909e",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "Mystics #457",
-        "image": "ipfs://QmVm7P6fQde14YKYTaSeAUMAgxGz9YeAtALTXmC2A3nPCJ/457.gif",
+        "name": "Mystics #460",
+        "image": "ipfs://QmVm7P6fQde14YKYTaSeAUMAgxGz9YeAtALTXmC2A3nPCJ/460.gif",
         "description": "Mystics is the foundation and first ever membership to The Pier ecosystem. We are the 5000 visionaries working to turn Web3 concepts that the space can still only imagine, into reality.",
         "attributes": [
           {
             "trait_type": "Background",
-            "value": "Purple"
+            "value": "Yellow"
           },
           {
             "trait_type": "Torso",
-            "value": "X-Ray Hoodie"
+            "value": "Unicorn Hoodie"
           },
           {
             "trait_type": "Right Hand",
@@ -32,15 +32,15 @@
           },
           {
             "trait_type": "Backpack",
-            "value": "Yellow Big Backpack"
+            "value": "Crystal Backpack"
           },
           {
             "trait_type": "Legs",
-            "value": "Blue Trackpants"
+            "value": "Purple Shorts Tan"
           },
           {
             "trait_type": "Shoes",
-            "value": "Star Sneakers"
+            "value": "Slippers"
           },
           {
             "trait_type": "Waist Bag",
@@ -52,7 +52,7 @@
           },
           {
             "trait_type": "Left Hand",
-            "value": "Cosmic Wand"
+            "value": "Lizard Eye"
           }
         ]
       },
