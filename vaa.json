@@ -2,64 +2,64 @@
   {
     "txHash": "0xc82707306ee5d1059582ae842d7f072cd6f9a210f5a4f7fed003ed4fa565896b",
     "contractAddress": "0xF054C94269b4946568244706b981b62E258059c8",
-    "tokenId": "2510",
+    "tokenId": "2504",
     "collectionName": "NEXA",
     "timestamp": 1749874595,
     "blockNumber": 18142237,
-    "logIndex": 8,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xF054C94269b4946568244706b981b62E258059c82510/64",
+    "logIndex": 2,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xF054C94269b4946568244706b981b62E258059c82504/64",
     "isFree": false,
     "valueWei": "3800000000000000000",
-    "totalContractMints": 12,
+    "totalContractMints": 13,
     "analysis": {
       "contractAddress": "0xF054C94269b4946568244706b981b62E258059c8",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "NEXA #2510",
+        "name": "NEXA #2504",
         "description": "3,333 Nexa 3D PFPs on Apechain. Built for war. Deployed for silence.",
         "attributes": [
           {
             "trait_type": "Accessories",
-            "value": "Aegis Acc"
+            "value": "Neurocrown Acc"
           },
           {
             "trait_type": "Type",
-            "value": "Aetherion"
+            "value": "Cragmite"
           },
           {
             "trait_type": "Chest",
-            "value": "Onslaught"
+            "value": "Gravcore"
           },
           {
             "trait_type": "Color",
-            "value": "Voltgeist"
+            "value": "Sage Alloy"
           },
           {
             "trait_type": "Eyes",
-            "value": "Synthray"
+            "value": "Xylar"
           },
           {
             "trait_type": "Helmet",
-            "value": "Crux"
+            "value": "Neurocrown"
           },
           {
             "trait_type": "Jaws",
-            "value": "Scrapper"
+            "value": "Ironmaw"
           },
           {
             "trait_type": "Mask",
-            "value": "Infernix"
+            "value": "Spectra"
           },
           {
             "trait_type": "Shoulder",
-            "value": "Vantage"
+            "value": "CryoLink"
           },
           {
             "trait_type": "Trait Count",
             "value": "9"
           }
         ],
-        "image": "ipfs://bafybeih2al4jfyneji4n57l5w7ebifzydkr72j7nobdk422y7pm7acwclu/2510.webp",
+        "image": "ipfs://bafybeih2al4jfyneji4n57l5w7ebifzydkr72j7nobdk422y7pm7acwclu/2504.webp",
         "compiler": "nfts2me.com"
       },
       "nameSymbolStatus": "ok",
