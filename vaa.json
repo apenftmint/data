@@ -1,5 +1,69 @@
 [
   {
+    "txHash": "0xb871da666014af7e39eb23e0f717717327e345c7eca94b4a639f96d6f172c35b",
+    "contractAddress": "0xD8fF0EF834587049092A0D6DACF129B37B413030",
+    "tokenId": "1716",
+    "collectionName": "The Project",
+    "timestamp": 1749886903,
+    "blockNumber": 18151767,
+    "logIndex": 2,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xD8fF0EF834587049092A0D6DACF129B37B4130301716/64",
+    "isFree": false,
+    "valueWei": "33000000000000000000",
+    "totalContractMints": 1,
+    "analysis": {
+      "contractAddress": "0xD8fF0EF834587049092A0D6DACF129B37B413030",
+      "metadataStatus": "ok",
+      "fetchedMetadata": {
+        "name": "The Project #1716",
+        "image": "https://theprojectassets.blob.core.windows.net/images/1716.png?cb=100",
+        "attributes": [
+          {
+            "trait_type": "Character",
+            "value": "Dragon"
+          },
+          {
+            "trait_type": "Body",
+            "value": "Pink"
+          },
+          {
+            "trait_type": "Clothes",
+            "value": "Mask Shirt"
+          },
+          {
+            "trait_type": "Hands",
+            "value": "Steak It"
+          },
+          {
+            "trait_type": "Eyes",
+            "value": "Ooze"
+          },
+          {
+            "trait_type": "Mouth",
+            "value": "Sticky"
+          },
+          {
+            "trait_type": "Hat",
+            "value": "Gnome Hat"
+          },
+          {
+            "trait_type": "Background",
+            "value": "Rojo"
+          }
+        ]
+      },
+      "nameSymbolStatus": "ok",
+      "collectionNameFromAnalyzer": "The Project",
+      "collectionSymbolFromAnalyzer": "Project",
+      "finalStatus": "OK",
+      "statusReasons": [
+        "Metadata fetched successfully."
+      ]
+    },
+    "displayStatus": "OK",
+    "mintPriceApe": "33.0000"
+  },
+  {
     "txHash": "0xd5c34c7db5dd1faabc7b5b525a4b713a7101a91ae364ba851c9d08d8b3747107",
     "contractAddress": "0xE1523d81dD4b196d2C4506588CEbE78352734711",
     "tokenId": "3821",
