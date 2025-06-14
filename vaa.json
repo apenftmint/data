@@ -1,5 +1,64 @@
 [
   {
+    "txHash": "0xf065f65b3ba6235cc95b496b17826cafbeb40d15221e609acc072c32b7b8ca2d",
+    "contractAddress": "0x58219061B6a2D1147b09B7b2e3a5B62a4eAaD31a",
+    "tokenId": "9",
+    "collectionName": "Peppie",
+    "timestamp": 1749905857,
+    "blockNumber": 18164142,
+    "logIndex": 3,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x58219061B6a2D1147b09B7b2e3a5B62a4eAaD31a9/64",
+    "isFree": true,
+    "totalContractMints": 1,
+    "analysis": {
+      "contractAddress": "0x58219061B6a2D1147b09B7b2e3a5B62a4eAaD31a",
+      "metadataStatus": "ok",
+      "fetchedMetadata": {
+        "name": "Peppie #9",
+        "description": "Bringing the two most influential subcultures together to celebrate their influence had on futures past and present.",
+        "image": "ipfs://bafybeih6773u5hppgz7j6uf2hazxngx5cgcolgqkslysogiou5trmnrwe4/9.png",
+        "dna": "c0be08da875829b884688a86fa2f760743ad0fe1",
+        "edition": 9,
+        "date": 1667015161146,
+        "attributes": [
+          {
+            "trait_type": "Background",
+            "value": "Purple Space"
+          },
+          {
+            "trait_type": "Body",
+            "value": "Yellow Backpack"
+          },
+          {
+            "trait_type": "Devil",
+            "value": "Devil Pink"
+          },
+          {
+            "trait_type": "Eyes 2",
+            "value": "Sad"
+          },
+          {
+            "trait_type": "Mouth 1",
+            "value": "Jovial"
+          },
+          {
+            "trait_type": "Accessory 2",
+            "value": "None"
+          }
+        ],
+        "compiler": "Peppies"
+      },
+      "nameSymbolStatus": "ok",
+      "collectionNameFromAnalyzer": "Peppie",
+      "collectionSymbolFromAnalyzer": "PEP",
+      "finalStatus": "OK",
+      "statusReasons": [
+        "Metadata fetched successfully."
+      ]
+    },
+    "displayStatus": "OK"
+  },
+  {
     "txHash": "0x8fc74df30a176de22beaacf777f4a65f6670b9f83d46877042568467517a1df3",
     "contractAddress": "0x5B61cA24966CB7E47F634Dee04499743Fc9746b6",
     "tokenId": "1264",
