@@ -2,24 +2,24 @@
   {
     "txHash": "0xf560691640e33b6d1381864c680820551e66ad179050b2f050a8cc6d9fbf90ac",
     "contractAddress": "0xb09065aC4a3f721B1a5E271ADeed478b822037DC",
-    "tokenId": "5265",
+    "tokenId": "5345",
     "collectionName": "Midgets",
     "timestamp": 1749895429,
     "blockNumber": 18158233,
-    "logIndex": 47,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xb09065aC4a3f721B1a5E271ADeed478b822037DC5265/64",
+    "logIndex": 127,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xb09065aC4a3f721B1a5E271ADeed478b822037DC5345/64",
     "isFree": true,
-    "totalContractMints": 25,
+    "totalContractMints": 26,
     "analysis": {
       "contractAddress": "0xb09065aC4a3f721B1a5E271ADeed478b822037DC",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "Midgets #5265",
+        "name": "Midgets #5345",
         "description": "Midgets is a collection of 6969 NFTs with +250 unique traits that have landed in the ETH blockchain to be burned and migrated to the ordinals (BTC) blockchain. Not your average NFT project.",
-        "image": "ipfs://bafybeiavrwtwuwpgi4qivbg4xghdgfrehcigfy2mikwqtrlqstyubqaoye/5265.png",
-        "dna": "3af7af12125881832b5053aee8d87f220d8c09db",
-        "edition": 5265,
-        "date": 1686116147490,
+        "image": "ipfs://bafybeiavrwtwuwpgi4qivbg4xghdgfrehcigfy2mikwqtrlqstyubqaoye/5345.png",
+        "dna": "6a6647f4ebcc538444d44ce37d31da87a404f087",
+        "edition": 5345,
+        "date": 1686116148780,
         "attributes": [
           {
             "trait_type": "BACKGROUND",
@@ -27,19 +27,19 @@
           },
           {
             "trait_type": "SKIN",
-            "value": "LIGHT"
+            "value": "ASIAN"
           },
           {
             "trait_type": "CLOTHES",
-            "value": "ROBE"
+            "value": "INDOOR YELLOW"
           },
           {
             "trait_type": "FACE",
-            "value": "muerte mask"
+            "value": "WINK"
           },
           {
             "trait_type": "HEAD",
-            "value": "flat top red"
+            "value": "PIRATE HAT"
           }
         ]
       },
