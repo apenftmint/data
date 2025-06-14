@@ -2,24 +2,24 @@
   {
     "txHash": "0xf560691640e33b6d1381864c680820551e66ad179050b2f050a8cc6d9fbf90ac",
     "contractAddress": "0xb09065aC4a3f721B1a5E271ADeed478b822037DC",
-    "tokenId": "5243",
+    "tokenId": "5318",
     "collectionName": "Midgets",
     "timestamp": 1749895429,
     "blockNumber": 18158233,
-    "logIndex": 25,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xb09065aC4a3f721B1a5E271ADeed478b822037DC5243/64",
+    "logIndex": 100,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xb09065aC4a3f721B1a5E271ADeed478b822037DC5318/64",
     "isFree": true,
-    "totalContractMints": 18,
+    "totalContractMints": 19,
     "analysis": {
       "contractAddress": "0xb09065aC4a3f721B1a5E271ADeed478b822037DC",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "Midgets #5243",
+        "name": "Midgets #5318",
         "description": "Midgets is a collection of 6969 NFTs with +250 unique traits that have landed in the ETH blockchain to be burned and migrated to the ordinals (BTC) blockchain. Not your average NFT project.",
-        "image": "ipfs://bafybeiavrwtwuwpgi4qivbg4xghdgfrehcigfy2mikwqtrlqstyubqaoye/5243.png",
-        "dna": "d826044d14872141b88c19f9c0983becd223fab6",
-        "edition": 5243,
-        "date": 1686116147085,
+        "image": "ipfs://bafybeiavrwtwuwpgi4qivbg4xghdgfrehcigfy2mikwqtrlqstyubqaoye/5318.png",
+        "dna": "5c7c05d09b8f9fab761e271cbf5589e82ab68b32",
+        "edition": 5318,
+        "date": 1686116148340,
         "attributes": [
           {
             "trait_type": "BACKGROUND",
@@ -27,19 +27,19 @@
           },
           {
             "trait_type": "SKIN",
-            "value": "ASIAN"
+            "value": "LIGHT"
           },
           {
             "trait_type": "CLOTHES",
-            "value": "naked"
+            "value": "croptop and pants"
           },
           {
             "trait_type": "FACE",
-            "value": "FROWN"
+            "value": "red frame ski goggles"
           },
           {
             "trait_type": "HEAD",
-            "value": "mohawk white"
+            "value": "pink beanie"
           }
         ]
       },
