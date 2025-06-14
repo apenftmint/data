@@ -2,21 +2,21 @@
   {
     "txHash": "0x5f05620492048bcd5af2e1060f3e662427e942c584ec014e808db363bc3a2867",
     "contractAddress": "0x961c6D8910d6FBb803eD124F2c4480f3F6070Ec7",
-    "tokenId": "4067",
+    "tokenId": "4079",
     "collectionName": "Part",
     "timestamp": 1749896671,
     "blockNumber": 18159131,
-    "logIndex": 5,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x961c6D8910d6FBb803eD124F2c4480f3F6070Ec74067/64",
+    "logIndex": 17,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x961c6D8910d6FBb803eD124F2c4480f3F6070Ec74079/64",
     "isFree": true,
-    "totalContractMints": 23,
+    "totalContractMints": 24,
     "analysis": {
       "contractAddress": "0x961c6D8910d6FBb803eD124F2c4480f3F6070Ec7",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "BTC Gold Filler #4067",
+        "name": "Ape Aqua Filler #4079",
         "description": "EGG$ PARTS are the building blocks of legend.\n\nEach Part is a fragment of EGG$ potential.\n\nUnlocked from CORES, waiting to be revealed, forged, and crafted to make something that didn't exist before you.\n\nThis is the layer where design becomes identity.\nWhere holders guide the evolution.\nWhere culture, community, and protection unlock the rarest forms of design evolution.\nCustom. Curated. Forever expandable.\n\nThe EGG$ don't just evolve.\nYOU shape what they become using these Parts to activate Evolution.",
-        "image": "https://cryptojeweler.s3.us-east-1.amazonaws.com/parts/Grenegg/Rose Gold/Ember/Keystone/BTC Gold Filler.png",
+        "image": "https://cryptojeweler.s3.us-east-1.amazonaws.com/parts/Grenegg/Rose Gold/Aurora/Keystone/Ape Aqua Filler.png",
         "attributes": [
           {
             "trait_type": "Metal Type",
@@ -24,7 +24,7 @@
           },
           {
             "trait_type": "Colorway",
-            "value": "Ember"
+            "value": "Aurora"
           },
           {
             "trait_type": "Part Type",
@@ -32,7 +32,7 @@
           },
           {
             "trait_type": "Part Value",
-            "value": "BTC Gold Filler"
+            "value": "Ape Aqua Filler"
           }
         ]
       },
