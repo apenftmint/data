@@ -2,20 +2,20 @@
   {
     "txHash": "0x6f9d465e59a22da5b77d269c885ca98f27b259ac781c5e3ca56687c607e15e41",
     "contractAddress": "0xd1BB26c4850fB87d48d36c16209e4deE2e48CF88",
-    "tokenId": "86",
+    "tokenId": "70",
     "collectionName": "Lil Dickbutts",
     "timestamp": 1749889836,
     "blockNumber": 18153817,
-    "logIndex": 27,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xd1BB26c4850fB87d48d36c16209e4deE2e48CF8886/64",
+    "logIndex": 11,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xd1BB26c4850fB87d48d36c16209e4deE2e48CF8870/64",
     "isFree": false,
     "valueWei": "3000000000000000000",
-    "totalContractMints": 16,
+    "totalContractMints": 17,
     "analysis": {
       "contractAddress": "0xd1BB26c4850fB87d48d36c16209e4deE2e48CF88",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "Lil Dickbutts #86",
+        "name": "Lil Dickbutts #70",
         "description": "Baby Dickbutts entering the world. No Roadmap. No Promises. CCO.",
         "attributes": [
           {
@@ -32,7 +32,7 @@
           },
           {
             "trait_type": "dick",
-            "value": "Crackers"
+            "value": "Flowers"
           },
           {
             "trait_type": "eyes",
@@ -40,22 +40,22 @@
           },
           {
             "trait_type": "hair",
-            "value": "Light"
+            "value": "None"
           },
           {
             "trait_type": "mouth",
-            "value": "Cigarette"
+            "value": "Normal"
           },
           {
             "trait_type": "Weapons",
-            "value": "XX"
+            "value": "None"
           },
           {
             "trait_type": "Trait Count",
             "value": "8"
           }
         ],
-        "image": "ipfs://bafybeidkivgr6mxud5kx3fewrqiajcg5liq4wx545wbms5rjwsbl4pe3l4/86.webp",
+        "image": "ipfs://bafybeidkivgr6mxud5kx3fewrqiajcg5liq4wx545wbms5rjwsbl4pe3l4/70.webp",
         "compiler": "nfts2me.com"
       },
       "nameSymbolStatus": "ok",
