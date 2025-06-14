@@ -2,29 +2,29 @@
   {
     "txHash": "0x0dbb97924e32e2269d75a3c99cf328b5b484cf4a36fa470813f91aa0181a26ba",
     "contractAddress": "0x08a24eF3a429c4589a808903cF26cD183B36909e",
-    "tokenId": "43",
+    "tokenId": "48",
     "collectionName": "Mystics ",
     "timestamp": 1749887328,
     "blockNumber": 18152085,
-    "logIndex": 37,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x08a24eF3a429c4589a808903cF26cD183B36909e43/64",
+    "logIndex": 42,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x08a24eF3a429c4589a808903cF26cD183B36909e48/64",
     "isFree": true,
-    "totalContractMints": 15,
+    "totalContractMints": 16,
     "analysis": {
       "contractAddress": "0x08a24eF3a429c4589a808903cF26cD183B36909e",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "Mystics #43",
-        "image": "ipfs://QmVm7P6fQde14YKYTaSeAUMAgxGz9YeAtALTXmC2A3nPCJ/43.gif",
+        "name": "Mystics #48",
+        "image": "ipfs://QmVm7P6fQde14YKYTaSeAUMAgxGz9YeAtALTXmC2A3nPCJ/48.gif",
         "description": "Mystics is the foundation and first ever membership to The Pier ecosystem. We are the 5000 visionaries working to turn Web3 concepts that the space can still only imagine, into reality.",
         "attributes": [
           {
             "trait_type": "Background",
-            "value": "Green"
+            "value": "Pink"
           },
           {
             "trait_type": "Torso",
-            "value": "Blue Classic Hoodie"
+            "value": "Blue Casual Hoodie"
           },
           {
             "trait_type": "Right Hand",
@@ -36,7 +36,7 @@
           },
           {
             "trait_type": "Legs",
-            "value": "Purple Shorts Tan"
+            "value": "Pink Zipper Shorts Tan"
           },
           {
             "trait_type": "Shoes",
@@ -48,11 +48,11 @@
           },
           {
             "trait_type": "Eyes",
-            "value": "Dragon"
+            "value": "Classic"
           },
           {
             "trait_type": "Left Hand",
-            "value": "Lizard Eye"
+            "value": "Fishing Rod"
           }
         ]
       },
