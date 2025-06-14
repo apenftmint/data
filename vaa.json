@@ -2,20 +2,20 @@
   {
     "txHash": "0xce5d17405f08a28eba542512f7907c078157c87d022e3b88896684a0fc130e81",
     "contractAddress": "0xd1BB26c4850fB87d48d36c16209e4deE2e48CF88",
-    "tokenId": "94",
+    "tokenId": "95",
     "collectionName": "Lil Dickbutts",
     "timestamp": 1749896597,
     "blockNumber": 18159090,
-    "logIndex": 4,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xd1BB26c4850fB87d48d36c16209e4deE2e48CF8894/64",
+    "logIndex": 5,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xd1BB26c4850fB87d48d36c16209e4deE2e48CF8895/64",
     "isFree": false,
     "valueWei": "1000000000000000000",
-    "totalContractMints": 25,
+    "totalContractMints": 26,
     "analysis": {
       "contractAddress": "0xd1BB26c4850fB87d48d36c16209e4deE2e48CF88",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "Lil Dickbutts #94",
+        "name": "Lil Dickbutts #95",
         "description": "Baby Dickbutts entering the world. No Roadmap. No Promises. CCO.",
         "attributes": [
           {
@@ -24,27 +24,27 @@
           },
           {
             "trait_type": "body",
-            "value": "Mid"
+            "value": "Dark"
           },
           {
             "trait_type": "clothes",
-            "value": "None"
+            "value": "Orange"
           },
           {
             "trait_type": "dick",
-            "value": "Purple"
+            "value": "Tails"
           },
           {
             "trait_type": "eyes",
-            "value": "Red"
+            "value": "Normal"
           },
           {
             "trait_type": "hair",
-            "value": "None"
+            "value": "Brown"
           },
           {
             "trait_type": "mouth",
-            "value": "Gold"
+            "value": "Normal"
           },
           {
             "trait_type": "Weapons",
@@ -55,7 +55,7 @@
             "value": "8"
           }
         ],
-        "image": "ipfs://bafybeidkivgr6mxud5kx3fewrqiajcg5liq4wx545wbms5rjwsbl4pe3l4/94.webp",
+        "image": "ipfs://bafybeidkivgr6mxud5kx3fewrqiajcg5liq4wx545wbms5rjwsbl4pe3l4/95.webp",
         "compiler": "nfts2me.com"
       },
       "nameSymbolStatus": "ok",
