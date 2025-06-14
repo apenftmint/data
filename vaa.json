@@ -2,51 +2,55 @@
   {
     "txHash": "0xe74163831492f499af0623aec24433b7881246b7a1992c00c2b1c58c86d4c775",
     "contractAddress": "0x58219061B6a2D1147b09B7b2e3a5B62a4eAaD31a",
-    "tokenId": "231",
+    "tokenId": "242",
     "collectionName": "Peppie",
     "timestamp": 1749906059,
     "blockNumber": 18164263,
-    "logIndex": 170,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x58219061B6a2D1147b09B7b2e3a5B62a4eAaD31a231/64",
+    "logIndex": 181,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x58219061B6a2D1147b09B7b2e3a5B62a4eAaD31a242/64",
     "isFree": true,
-    "totalContractMints": 33,
+    "totalContractMints": 34,
     "analysis": {
       "contractAddress": "0x58219061B6a2D1147b09B7b2e3a5B62a4eAaD31a",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "Peppie #231",
+        "name": "Peppie #242",
         "description": "Bringing the two most influential subcultures together to celebrate their influence had on futures past and present.",
-        "image": "ipfs://bafybeih6773u5hppgz7j6uf2hazxngx5cgcolgqkslysogiou5trmnrwe4/231.png",
-        "dna": "6dd36d2802f292a5851805726da12130116c6284",
-        "edition": 231,
-        "date": 1667015825877,
+        "image": "ipfs://bafybeih6773u5hppgz7j6uf2hazxngx5cgcolgqkslysogiou5trmnrwe4/242.png",
+        "dna": "f344d9ffc60c765c2c8eabd12807cd37241b539d",
+        "edition": 242,
+        "date": 1667011622447,
         "attributes": [
           {
             "trait_type": "Background",
-            "value": "Blue Space"
+            "value": "Gradient 4"
           },
           {
             "trait_type": "Body",
-            "value": "Pink Backpack"
+            "value": "Pink Sweater with Satchel"
           },
           {
             "trait_type": "Skin",
-            "value": "Pink"
+            "value": "Gradient 1"
           },
           {
-            "trait_type": "Flower",
-            "value": "Flower White"
-          },
-          {
-            "trait_type": "Eyes 2",
+            "trait_type": "Eyes 1",
             "value": "Closed"
           },
           {
-            "trait_type": "Mouth 1",
-            "value": "Vuh"
+            "trait_type": "Hair 1",
+            "value": "Pink Tidy"
           },
           {
-            "trait_type": "Accessory 2",
+            "trait_type": "Mouth 1",
+            "value": "Neutral"
+          },
+          {
+            "trait_type": "Piercing",
+            "value": "None"
+          },
+          {
+            "trait_type": "Accessory 1",
             "value": "None"
           }
         ],
