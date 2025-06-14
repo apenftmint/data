@@ -1,5 +1,43 @@
 [
   {
+    "txHash": "0x53f40136e9018932daabc81b4e3d4a088114f43db044f5747abdfe682e3f97e2",
+    "contractAddress": "0x81F2a53f6Bc5bCD100807b4f33F34f19b086688e",
+    "tokenId": "175",
+    "collectionName": "Blue Pepes",
+    "timestamp": 1749885441,
+    "blockNumber": 18150714,
+    "logIndex": 27,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x81F2a53f6Bc5bCD100807b4f33F34f19b086688e175/64",
+    "isFree": false,
+    "valueWei": "3000000000000000000",
+    "totalContractMints": 1,
+    "analysis": {
+      "contractAddress": "0x81F2a53f6Bc5bCD100807b4f33F34f19b086688e",
+      "metadataStatus": "ok",
+      "fetchedMetadata": {
+        "name": "Blue Pepes #175",
+        "description": "FEELS GOOD MAN. BLUE PEPE NFTs to celebrate the most memeable cultural icon in existence... PEPE (but blue)",
+        "attributes": [
+          {
+            "trait_type": "Trait Count",
+            "value": "0"
+          }
+        ],
+        "image": "ipfs://bafybeicyzxklflz7bfzte3tiglcanuygifk7mhhjut366lu3hcdt6vfr5u/175.webp",
+        "compiler": "nfts2me.com"
+      },
+      "nameSymbolStatus": "ok",
+      "collectionNameFromAnalyzer": "Blue Pepes",
+      "collectionSymbolFromAnalyzer": "PEPES",
+      "finalStatus": "OK",
+      "statusReasons": [
+        "Metadata fetched successfully."
+      ]
+    },
+    "displayStatus": "OK",
+    "mintPriceApe": "3.0000"
+  },
+  {
     "txHash": "0x7ad10b3e0dd7cd0bea65c67a2c82bfac1c3f441011cd517c79490037f525cdea",
     "contractAddress": "0xC45735D63FDa5b9a62D6C0a9bEB50b197200692F",
     "tokenId": "546",
