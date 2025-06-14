@@ -2,30 +2,30 @@
   {
     "txHash": "0x02ae9f19df121105cc9c59af2c69e9e621d8a28336682b4df350a94401883ce6",
     "contractAddress": "0x08a24eF3a429c4589a808903cF26cD183B36909e",
-    "tokenId": "61",
+    "tokenId": "63",
     "collectionName": "Mystics ",
     "timestamp": 1749887397,
     "blockNumber": 18152139,
-    "logIndex": 1,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x08a24eF3a429c4589a808903cF26cD183B36909e61/64",
+    "logIndex": 3,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x08a24eF3a429c4589a808903cF26cD183B36909e63/64",
     "isFree": false,
     "valueWei": "5250000000000000000",
-    "totalContractMints": 26,
+    "totalContractMints": 27,
     "analysis": {
       "contractAddress": "0x08a24eF3a429c4589a808903cF26cD183B36909e",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "Mystics #61",
-        "image": "ipfs://QmVm7P6fQde14YKYTaSeAUMAgxGz9YeAtALTXmC2A3nPCJ/61.gif",
+        "name": "Mystics #63",
+        "image": "ipfs://QmVm7P6fQde14YKYTaSeAUMAgxGz9YeAtALTXmC2A3nPCJ/63.gif",
         "description": "Mystics is the foundation and first ever membership to The Pier ecosystem. We are the 5000 visionaries working to turn Web3 concepts that the space can still only imagine, into reality.",
         "attributes": [
           {
             "trait_type": "Background",
-            "value": "Pink"
+            "value": "Yellow"
           },
           {
             "trait_type": "Torso",
-            "value": "Yellow Spiked Hoodie"
+            "value": "Frog Hoodie"
           },
           {
             "trait_type": "Right Hand",
@@ -33,27 +33,27 @@
           },
           {
             "trait_type": "Backpack",
-            "value": "Peach Spaceship Backpack"
+            "value": "Spider Backpack"
           },
           {
             "trait_type": "Legs",
-            "value": "Purple Ninja Shorts"
+            "value": "Yellow Shorts"
           },
           {
             "trait_type": "Shoes",
-            "value": "Star Sneakers"
+            "value": "Pink Circle Sneakers"
           },
           {
             "trait_type": "Waist Bag",
-            "value": "Purple Waistbag"
+            "value": "None"
           },
           {
             "trait_type": "Eyes",
-            "value": "Lovestruck"
+            "value": "Magic"
           },
           {
             "trait_type": "Left Hand",
-            "value": "Cosmic Ball"
+            "value": "Skull"
           }
         ]
       },
