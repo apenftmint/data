@@ -2,24 +2,24 @@
   {
     "txHash": "0xf560691640e33b6d1381864c680820551e66ad179050b2f050a8cc6d9fbf90ac",
     "contractAddress": "0xb09065aC4a3f721B1a5E271ADeed478b822037DC",
-    "tokenId": "5270",
+    "tokenId": "5290",
     "collectionName": "Midgets",
     "timestamp": 1749895429,
     "blockNumber": 18158233,
-    "logIndex": 52,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xb09065aC4a3f721B1a5E271ADeed478b822037DC5270/64",
+    "logIndex": 72,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xb09065aC4a3f721B1a5E271ADeed478b822037DC5290/64",
     "isFree": true,
-    "totalContractMints": 27,
+    "totalContractMints": 28,
     "analysis": {
       "contractAddress": "0xb09065aC4a3f721B1a5E271ADeed478b822037DC",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "Midgets #5270",
+        "name": "Midgets #5290",
         "description": "Midgets is a collection of 6969 NFTs with +250 unique traits that have landed in the ETH blockchain to be burned and migrated to the ordinals (BTC) blockchain. Not your average NFT project.",
-        "image": "ipfs://bafybeiavrwtwuwpgi4qivbg4xghdgfrehcigfy2mikwqtrlqstyubqaoye/5270.png",
-        "dna": "841838de2e800d4268128247de1a6fa2d0ca6e51",
-        "edition": 5270,
-        "date": 1686116147574,
+        "image": "ipfs://bafybeiavrwtwuwpgi4qivbg4xghdgfrehcigfy2mikwqtrlqstyubqaoye/5290.png",
+        "dna": "512196ad59e8b304c3f99f64cb8c8f8016848be0",
+        "edition": 5290,
+        "date": 1686116147894,
         "attributes": [
           {
             "trait_type": "BACKGROUND",
@@ -27,19 +27,19 @@
           },
           {
             "trait_type": "SKIN",
-            "value": "LIGHT"
+            "value": "DARK"
           },
           {
             "trait_type": "CLOTHES",
-            "value": "INDOOR WHITE"
+            "value": "AMONG US ORANGE"
           },
           {
             "trait_type": "FACE",
-            "value": "BROWN GLASSES"
+            "value": "LASER"
           },
           {
             "trait_type": "HEAD",
-            "value": "helmet blue"
+            "value": "builder hat black"
           }
         ]
       },
