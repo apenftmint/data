@@ -2,29 +2,29 @@
   {
     "txHash": "0xa8d57e69687860bae2d0354e0ccb50f8e260cfa39500fec96ed40a61189bbab2",
     "contractAddress": "0x08a24eF3a429c4589a808903cF26cD183B36909e",
-    "tokenId": "358",
+    "tokenId": "408",
     "collectionName": "Mystics ",
     "timestamp": 1749890205,
     "blockNumber": 18154160,
-    "logIndex": 129,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x08a24eF3a429c4589a808903cF26cD183B36909e358/64",
+    "logIndex": 179,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x08a24eF3a429c4589a808903cF26cD183B36909e408/64",
     "isFree": true,
-    "totalContractMints": 67,
+    "totalContractMints": 68,
     "analysis": {
       "contractAddress": "0x08a24eF3a429c4589a808903cF26cD183B36909e",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "Mystics #358",
-        "image": "ipfs://QmVm7P6fQde14YKYTaSeAUMAgxGz9YeAtALTXmC2A3nPCJ/358.gif",
+        "name": "Mystics #408",
+        "image": "ipfs://QmVm7P6fQde14YKYTaSeAUMAgxGz9YeAtALTXmC2A3nPCJ/408.gif",
         "description": "Mystics is the foundation and first ever membership to The Pier ecosystem. We are the 5000 visionaries working to turn Web3 concepts that the space can still only imagine, into reality.",
         "attributes": [
           {
             "trait_type": "Background",
-            "value": "Light Blue"
+            "value": "Green"
           },
           {
             "trait_type": "Torso",
-            "value": "Yellow Casual Hoodie"
+            "value": "Blue Spiked Hoodie"
           },
           {
             "trait_type": "Right Hand",
@@ -32,27 +32,27 @@
           },
           {
             "trait_type": "Backpack",
-            "value": "None"
+            "value": "Yellow Big Backpack"
           },
           {
             "trait_type": "Legs",
-            "value": "Blue Zip Pocket Shorts"
+            "value": "Yellow Zipper Shorts"
           },
           {
             "trait_type": "Shoes",
-            "value": "Star Sneakers"
+            "value": "Pink Circle Sneakers"
           },
           {
             "trait_type": "Waist Bag",
-            "value": "Sherbet Waistbag"
+            "value": "None"
           },
           {
             "trait_type": "Eyes",
-            "value": "Classic"
+            "value": "Adorable"
           },
           {
             "trait_type": "Left Hand",
-            "value": "Star Wand"
+            "value": "Classic"
           }
         ]
       },
