@@ -2,33 +2,33 @@
   {
     "txHash": "0xaeb747c0ff26db1732ce60ccc043ca4ced70843ff1283005159616c7f8ee7af2",
     "contractAddress": "0xA5a996F48FAAA1a20DA604b8201de9F570Fa33e6",
-    "tokenId": "3305",
+    "tokenId": "3294",
     "collectionName": "Reepz",
     "timestamp": 1749905328,
     "blockNumber": 18163924,
-    "logIndex": 248,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xA5a996F48FAAA1a20DA604b8201de9F570Fa33e63305/64",
+    "logIndex": 237,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xA5a996F48FAAA1a20DA604b8201de9F570Fa33e63294/64",
     "isFree": true,
-    "totalContractMints": 54,
+    "totalContractMints": 55,
     "analysis": {
       "contractAddress": "0xA5a996F48FAAA1a20DA604b8201de9F570Fa33e6",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "reepz #3305",
+        "name": "reepz #3294",
         "description": "reepz",
-        "image": "ipfs://bafybeigdubkigonfrc57kdv23isfvdtbupsfipd6o3tupioz3gzpj36tiu/3305.png",
+        "image": "ipfs://bafybeigdubkigonfrc57kdv23isfvdtbupsfipd6o3tupioz3gzpj36tiu/3294.png",
         "attributes": [
           {
             "trait_type": "Background",
-            "value": "Red"
+            "value": "Wine"
           },
           {
             "trait_type": "Robes",
-            "value": "Regular Robes"
+            "value": "Dark Robes"
           },
           {
             "trait_type": "Face",
-            "value": "Pepe"
+            "value": "Mutant"
           },
           {
             "trait_type": "Eyes",
@@ -40,7 +40,7 @@
           },
           {
             "trait_type": "Head",
-            "value": "Flaming Eye"
+            "value": "Golden Horns"
           }
         ]
       },
