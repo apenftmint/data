@@ -1,5 +1,62 @@
 [
   {
+    "txHash": "0x52ffc3779893fc8f33de1ac98e7b1731d7e9893eb4191ec5ed75c727e4e2413f",
+    "contractAddress": "0x6794aE7a2996f898332d0257B1EbCd8177AD58Da",
+    "tokenId": "5994",
+    "collectionName": "Other Page Avatars",
+    "timestamp": 1749904566,
+    "blockNumber": 18163644,
+    "logIndex": 0,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x6794aE7a2996f898332d0257B1EbCd8177AD58Da5994/64",
+    "isFree": true,
+    "totalContractMints": 1,
+    "analysis": {
+      "contractAddress": "0x6794aE7a2996f898332d0257B1EbCd8177AD58Da",
+      "metadataStatus": "ok",
+      "fetchedMetadata": {
+        "name": "DEFAULT N-1X #5994",
+        "description": "N-1X is part of the first avatar series, DEFAULTS. This multi-world compatible avatar is designed to seamlessly connect you to Other Page and immersive experiences.",
+        "image": "https://cdn.other.page/m/avatar-n1x.png",
+        "animation_url": "https://cdn.other.page/m/avatar-n1x.3js.glb",
+        "attributes": [
+          {
+            "value": "DEFAULTS",
+            "trait_type": "Series"
+          },
+          {
+            "value": "N-1X",
+            "trait_type": "Model"
+          },
+          {
+            "value": "Stealth",
+            "trait_type": "Skin"
+          },
+          {
+            "trait_type": "Name",
+            "value": "DEFAULT N-1X"
+          },
+          {
+            "trait_type": "Type",
+            "value": "Avatar"
+          },
+          {
+            "trait_type": "Creator",
+            "value": "Other Page"
+          }
+        ],
+        "mml": "https://api.other.page/v1/m/mml/b5edded0-e5e1-4c66-abf1-6efeb97b7b90"
+      },
+      "nameSymbolStatus": "ok",
+      "collectionNameFromAnalyzer": "Other Page Avatars",
+      "collectionSymbolFromAnalyzer": "OPA",
+      "finalStatus": "OK",
+      "statusReasons": [
+        "Metadata fetched successfully."
+      ]
+    },
+    "displayStatus": "OK"
+  },
+  {
     "txHash": "0xeaae6e75eb5f9a9c34939ffb4b2d293b43dfdaf8efd468a9d82af4e9e0a8c360",
     "contractAddress": "0x342239362E3EF2561e06010eC7FCBCf2699Bc6e4",
     "tokenId": "17",
