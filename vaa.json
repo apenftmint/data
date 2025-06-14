@@ -2,20 +2,20 @@
   {
     "txHash": "0x63ca3dcf375fa6e1f1e68b4ba39a0e0869f9c301f26bd44e84b165b7705c812b",
     "contractAddress": "0x2e7949808E6517359393b538CD00845dC4bA0dA5",
-    "tokenId": "494",
+    "tokenId": "497",
     "collectionName": "Chocolate Cool Cats",
     "timestamp": 1749887161,
     "blockNumber": 18151957,
-    "logIndex": 0,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x2e7949808E6517359393b538CD00845dC4bA0dA5494/64",
+    "logIndex": 3,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x2e7949808E6517359393b538CD00845dC4bA0dA5497/64",
     "isFree": false,
     "valueWei": "1200000000000000000",
-    "totalContractMints": 4,
+    "totalContractMints": 5,
     "analysis": {
       "contractAddress": "0x2e7949808E6517359393b538CD00845dC4bA0dA5",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "Chocolate Cool Cats #494",
+        "name": "Chocolate Cool Cats #497",
         "image": "ipfs://bafybeiddg3d2kjwyxspwfldwiyykc6m3nsblwnhhmm6rvgazl66gyjlzmu"
       },
       "nameSymbolStatus": "ok",
