@@ -2,56 +2,44 @@
   {
     "txHash": "0x56539c83474f9069a160e7514e9711fca2bd17b84203735e1e59510da3309ac8",
     "contractAddress": "0xb34D8B34214eb75D785353D38a635F84e327372b",
-    "tokenId": "4674",
+    "tokenId": "4698",
     "collectionName": "Peppies",
     "timestamp": 1749889853,
     "blockNumber": 18153833,
-    "logIndex": 84,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xb34D8B34214eb75D785353D38a635F84e327372b4674/64",
+    "logIndex": 108,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xb34D8B34214eb75D785353D38a635F84e327372b4698/64",
     "isFree": true,
-    "totalContractMints": 7,
+    "totalContractMints": 8,
     "analysis": {
       "contractAddress": "0xb34D8B34214eb75D785353D38a635F84e327372b",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "Peppie #4674",
+        "name": "Peppie #4698",
         "description": "Bringing the two most influential subcultures together to celebrate their influence had on futures past and present.",
-        "image": "ipfs://bafybeih6773u5hppgz7j6uf2hazxngx5cgcolgqkslysogiou5trmnrwe4/4674.png",
-        "dna": "6d2e36c1f20f8b43318325d358010549d6b97cce",
-        "edition": 4674,
-        "date": 1667013448099,
+        "image": "ipfs://bafybeih6773u5hppgz7j6uf2hazxngx5cgcolgqkslysogiou5trmnrwe4/4698.png",
+        "dna": "ce829b1fb0f5913f35b19037de3977da500ca4a2",
+        "edition": 4698,
+        "date": 1667015584559,
         "attributes": [
           {
             "trait_type": "Background",
-            "value": "Deeper Space"
+            "value": "Orange"
           },
           {
-            "trait_type": "Body",
-            "value": "White Collar"
+            "trait_type": "Balloon",
+            "value": "Balloon Pink"
           },
           {
-            "trait_type": "Skin",
-            "value": "Green"
-          },
-          {
-            "trait_type": "Eyes 1",
+            "trait_type": "Eyes 2",
             "value": "Wink"
           },
           {
-            "trait_type": "Hair 1",
-            "value": "Yellow Headband"
-          },
-          {
             "trait_type": "Mouth 1",
-            "value": "Gold Grin"
+            "value": "Vuh"
           },
           {
-            "trait_type": "Piercing",
-            "value": "None"
-          },
-          {
-            "trait_type": "Accessory 1",
-            "value": "None"
+            "trait_type": "Accessory 2",
+            "value": "Sunglasses"
           }
         ],
         "compiler": "Peppies"
