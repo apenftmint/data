@@ -2,24 +2,24 @@
   {
     "txHash": "0x0c1365e2a8066f19088686ef82a7780f0b65f02e723f1774bd798208122b7a23",
     "contractAddress": "0xb09065aC4a3f721B1a5E271ADeed478b822037DC",
-    "tokenId": "5118",
+    "tokenId": "5094",
     "collectionName": "Midgets",
     "timestamp": 1749889788,
     "blockNumber": 18153785,
-    "logIndex": 45,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xb09065aC4a3f721B1a5E271ADeed478b822037DC5118/64",
+    "logIndex": 21,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0xb09065aC4a3f721B1a5E271ADeed478b822037DC5094/64",
     "isFree": true,
-    "totalContractMints": 3,
+    "totalContractMints": 4,
     "analysis": {
       "contractAddress": "0xb09065aC4a3f721B1a5E271ADeed478b822037DC",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "Midgets #5118",
+        "name": "Midgets #5094",
         "description": "Midgets is a collection of 6969 NFTs with +250 unique traits that have landed in the ETH blockchain to be burned and migrated to the ordinals (BTC) blockchain. Not your average NFT project.",
-        "image": "ipfs://bafybeiavrwtwuwpgi4qivbg4xghdgfrehcigfy2mikwqtrlqstyubqaoye/5118.png",
-        "dna": "fbc7f4fa0a361d7ad56191a6fc2e67abec3ba127",
-        "edition": 5118,
-        "date": 1686116145013,
+        "image": "ipfs://bafybeiavrwtwuwpgi4qivbg4xghdgfrehcigfy2mikwqtrlqstyubqaoye/5094.png",
+        "dna": "c4b202e6862196fa0a35d60d22c784a0985282a6",
+        "edition": 5094,
+        "date": 1686116144638,
         "attributes": [
           {
             "trait_type": "BACKGROUND",
@@ -27,19 +27,19 @@
           },
           {
             "trait_type": "SKIN",
-            "value": "LIGHT"
+            "value": "ZOMBIE"
           },
           {
             "trait_type": "CLOTHES",
-            "value": "npc dark brown"
+            "value": "AMONG US YELLOW"
           },
           {
             "trait_type": "FACE",
-            "value": "LASER"
+            "value": "SILVER STUD"
           },
           {
             "trait_type": "HEAD",
-            "value": "bowl cut white"
+            "value": "reverse mohawk blue"
           }
         ]
       },
