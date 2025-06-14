@@ -2,22 +2,22 @@
   {
     "txHash": "0x59a368dd9d4c111d3b24654be6146f98d911da7c06d2d2d23d2006f9f26c6237",
     "contractAddress": "0x422Af9C3DdECD6c3c3C3f51D6942a9f851cAF6Bc",
-    "tokenId": "59",
+    "tokenId": "58",
     "collectionName": "Murashi",
     "timestamp": 1749888229,
     "blockNumber": 18152711,
-    "logIndex": 2,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x422Af9C3DdECD6c3c3C3f51D6942a9f851cAF6Bc59/64",
+    "logIndex": 1,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x422Af9C3DdECD6c3c3C3f51D6942a9f851cAF6Bc58/64",
     "isFree": false,
     "valueWei": "15250000000000000000",
-    "totalContractMints": 25,
+    "totalContractMints": 26,
     "analysis": {
       "contractAddress": "0x422Af9C3DdECD6c3c3C3f51D6942a9f851cAF6Bc",
       "metadataStatus": "ok",
       "fetchedMetadata": {
         "attributes": [
           {
-            "trait_type": "gender",
+            "trait_type": "gender  ",
             "value": "male"
           },
           {
@@ -28,16 +28,16 @@
         "description": "Murashi is mysterious character.",
         "expires_at": null,
         "extra": null,
-        "image": "ipfs://bafkreifow3y66hxc7agtswduw7mba4x36pgo7hes4mc4qbgeawi5kvfp4i",
-        "media": "bafkreifow3y66hxc7agtswduw7mba4x36pgo7hes4mc4qbgeawi5kvfp4i",
+        "image": "ipfs://bafkreihvlkhqqegbws5djekmdqcl4zmojti67aozpruhaciofjurfmizva",
+        "media": "bafkreihvlkhqqegbws5djekmdqcl4zmojti67aozpruhaciofjurfmizva",
         "media_hash": null,
         "mime_type": "image/gif",
-        "name": "Murashi #59",
-        "rank": 36,
-        "reference": "bafkreihs6eiv3oneo375yehh2czddu6cdluo2klqdnufvilocjew52pd6u",
+        "name": "Murashi #58",
+        "rank": 1,
+        "reference": "bafkreier5xtntombdflrm5siu2bl3ct2363ex2ce2yquqqdjhj4dj57vqa",
         "reference_hash": null,
         "starts_at": null,
-        "title": "Murashi #59",
+        "title": "Murashi #58",
         "updated_at": null
       },
       "nameSymbolStatus": "ok",
