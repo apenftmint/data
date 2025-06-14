@@ -2,21 +2,21 @@
   {
     "txHash": "0x5f05620492048bcd5af2e1060f3e662427e942c584ec014e808db363bc3a2867",
     "contractAddress": "0x961c6D8910d6FBb803eD124F2c4480f3F6070Ec7",
-    "tokenId": "4076",
+    "tokenId": "4071",
     "collectionName": "Part",
     "timestamp": 1749896671,
     "blockNumber": 18159131,
-    "logIndex": 14,
-    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x961c6D8910d6FBb803eD124F2c4480f3F6070Ec74076/64",
+    "logIndex": 9,
+    "tokenImagePlaceholderUrl": "https://picsum.photos/seed/0x961c6D8910d6FBb803eD124F2c4480f3F6070Ec74071/64",
     "isFree": true,
-    "totalContractMints": 18,
+    "totalContractMints": 19,
     "analysis": {
       "contractAddress": "0x961c6D8910d6FBb803eD124F2c4480f3F6070Ec7",
       "metadataStatus": "ok",
       "fetchedMetadata": {
-        "name": "Diamond Filler #4076",
+        "name": "Ape Body #4071",
         "description": "EGG$ PARTS are the building blocks of legend.\n\nEach Part is a fragment of EGG$ potential.\n\nUnlocked from CORES, waiting to be revealed, forged, and crafted to make something that didn't exist before you.\n\nThis is the layer where design becomes identity.\nWhere holders guide the evolution.\nWhere culture, community, and protection unlock the rarest forms of design evolution.\nCustom. Curated. Forever expandable.\n\nThe EGG$ don't just evolve.\nYOU shape what they become using these Parts to activate Evolution.",
-        "image": "https://cryptojeweler.s3.us-east-1.amazonaws.com/parts/Grenegg/Rose Gold/Eden/Keystone/Diamond Filler.png",
+        "image": "https://cryptojeweler.s3.us-east-1.amazonaws.com/parts/Grenegg/Rose Gold/Eden/Torso/Ape Body.png",
         "attributes": [
           {
             "trait_type": "Metal Type",
@@ -28,11 +28,11 @@
           },
           {
             "trait_type": "Part Type",
-            "value": "Keystone"
+            "value": "Torso"
           },
           {
             "trait_type": "Part Value",
-            "value": "Diamond Filler"
+            "value": "Ape Body"
           }
         ]
       },
