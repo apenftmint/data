@@ -6816,6 +6816,19 @@
     "supply": null,
     "hashtag": null
   },
+  "435": {
+    "name": "Dillas",
+    "contractAddress": "0x25fca820298ef519b40197a5713ed9d50da38ecf",
+    "tokenId": "899",
+    "price": "Free",
+    "isFree": true,
+    "timestamp": "2025-06-15T10:12:57.046Z",
+    "txHash": "0xd0347740c1a997a303cee31471338f3c79df100f62fb0f3e5ceb190729128786",
+    "imageUrl": "https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&h=200",
+    "mintUrl": null,
+    "supply": null,
+    "hashtag": null
+  },
   "collections": [
     {
       "name": "Contract 0x9d5a...59ba",
