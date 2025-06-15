@@ -1741,6 +1741,20 @@
       "supply": null,
       "hashtag": null,
       "id": 42
+    },
+    {
+      "name": "Ape USD",
+      "contractAddress": "0xa2235d059f80e176d931ef76b6c51953eb3fbef4",
+      "tokenId": "NaN",
+      "price": "Free",
+      "isFree": true,
+      "timestamp": "2025-06-15T04:23:46.854Z",
+      "txHash": "0x2bd9451d69502b0a009fcbab815bb84d116d726641fee053dbb261e4704f6a1e",
+      "imageUrl": "https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&h=200",
+      "mintUrl": null,
+      "supply": null,
+      "hashtag": null,
+      "id": 43
     }
   ]
 }
