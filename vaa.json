@@ -6699,6 +6699,19 @@
     "supply": null,
     "hashtag": null
   },
+  "426": {
+    "name": "Murtis",
+    "contractAddress": "0xb0a563ddd67237e1c8a0995c432d879fa3ecd6fe",
+    "tokenId": "NaN",
+    "price": "Free",
+    "isFree": true,
+    "timestamp": "2025-06-15T10:09:46.646Z",
+    "txHash": "0xe99544bfa7d91bbf28eeb770b3815a638e3ce9aa00d18f80cd6092b724ef932b",
+    "imageUrl": "https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&h=200",
+    "mintUrl": null,
+    "supply": null,
+    "hashtag": null
+  },
   "collections": [
     {
       "name": "Contract 0x9d5a...59ba",
