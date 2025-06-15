@@ -2149,6 +2149,19 @@
     "supply": null,
     "hashtag": null
   },
+  "76": {
+    "name": "GOLD CURTIS",
+    "contractAddress": "0xbedee781d7322ab411e0f00943310d71b7b6cd9b",
+    "tokenId": "NaN",
+    "price": "Free",
+    "isFree": true,
+    "timestamp": "2025-06-15T04:47:33.059Z",
+    "txHash": "0x97bd37383ecd12cbe27cfc5635d005ebea565f9ea21d323c43280b400ab2354f",
+    "imageUrl": "https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&h=200",
+    "mintUrl": null,
+    "supply": null,
+    "hashtag": null
+  },
   "collections": [
     {
       "name": "Contract 0x9d5a...59ba",
