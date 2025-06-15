@@ -6335,6 +6335,19 @@
     "supply": null,
     "hashtag": null
   },
+  "398": {
+    "name": "Gwapes",
+    "contractAddress": "0xed6fc07a471f4dd1878440b0538617b4d0680852",
+    "tokenId": "1684",
+    "price": "Free",
+    "isFree": true,
+    "timestamp": "2025-06-15T09:47:57.515Z",
+    "txHash": "0x9037282bc597f8f99082e72312474480e5f7085c1beea537f8e985d281bce24d",
+    "imageUrl": "https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&h=200",
+    "mintUrl": null,
+    "supply": null,
+    "hashtag": null
+  },
   "collections": [
     {
       "name": "Contract 0x9d5a...59ba",
