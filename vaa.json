@@ -1954,6 +1954,19 @@
     "supply": null,
     "hashtag": null
   },
+  "61": {
+    "name": "RILLAZ",
+    "contractAddress": "0x8954f7a8eb01e94efb10d610837f115fe95aafb1",
+    "tokenId": "3323",
+    "price": "Free",
+    "isFree": true,
+    "timestamp": "2025-06-15T04:40:39.845Z",
+    "txHash": "0xd16fccb2d931576b57d6a5423a11929d7db17d81b2396f99b53503753ac585bb",
+    "imageUrl": "https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&h=200",
+    "mintUrl": null,
+    "supply": null,
+    "hashtag": null
+  },
   "collections": [
     {
       "name": "Contract 0x9d5a...59ba",
