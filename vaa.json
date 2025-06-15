@@ -1811,6 +1811,19 @@
     "supply": null,
     "hashtag": null
   },
+  "50": {
+    "name": "Wrapped ApeCoin",
+    "contractAddress": "0x48b62137edfa95a428d35c09e44256a739f6b557",
+    "tokenId": "NaN",
+    "price": "Free",
+    "isFree": true,
+    "timestamp": "2025-06-15T04:33:22.387Z",
+    "txHash": "0x41636da1bf123022eed444276a9fb342b1822cf843e52145c1ce8dc3c9312e68",
+    "imageUrl": "https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&h=200",
+    "mintUrl": null,
+    "supply": null,
+    "hashtag": null
+  },
   "collections": [
     {
       "name": "Contract 0x9d5a...59ba",
