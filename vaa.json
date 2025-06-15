@@ -7154,6 +7154,19 @@
     "supply": null,
     "hashtag": null
   },
+  "461": {
+    "name": "Ducks on Ape",
+    "contractAddress": "0xb4dc2040e68de6f41c0803d9d552ab13c9161876",
+    "tokenId": "82",
+    "price": "Free",
+    "isFree": true,
+    "timestamp": "2025-06-15T13:34:21.995Z",
+    "txHash": "0xec5b5349b7128ac45090c5711a95e8cd6cd5f20aa6cd1435b5302b200a464a6b",
+    "imageUrl": "https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&h=200",
+    "mintUrl": null,
+    "supply": null,
+    "hashtag": null
+  },
   "collections": [
     {
       "name": "Contract 0x9d5a...59ba",
