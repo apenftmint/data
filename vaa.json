@@ -6595,6 +6595,19 @@
     "supply": null,
     "hashtag": null
   },
+  "418": {
+    "name": "PUNKS (Apes)",
+    "contractAddress": "0x49849de88b949474decd2656c57b07802ec4f35f",
+    "tokenId": "280",
+    "price": "Free",
+    "isFree": true,
+    "timestamp": "2025-06-15T10:02:46.724Z",
+    "txHash": "0xaafa06e28c8fba2c20aa5b78f9f1bf33543edb60b2a273d8e357fc5c9c6fd464",
+    "imageUrl": "https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&h=200",
+    "mintUrl": null,
+    "supply": null,
+    "hashtag": null
+  },
   "collections": [
     {
       "name": "Contract 0x9d5a...59ba",
