@@ -2552,6 +2552,19 @@
     "supply": null,
     "hashtag": null
   },
+  "107": {
+    "name": "BOAR",
+    "contractAddress": "0x11604d39c99faad3061c98e0068e205a3fd99e72",
+    "tokenId": "3175",
+    "price": "Free",
+    "isFree": true,
+    "timestamp": "2025-06-15T05:00:49.791Z",
+    "txHash": "0xc534d056cbda3f2b3c7bc8ee3c1a0254350652e817b7380f1d0fd61406d1ab6e",
+    "imageUrl": "https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&h=200",
+    "mintUrl": null,
+    "supply": null,
+    "hashtag": null
+  },
   "collections": [
     {
       "name": "Contract 0x9d5a...59ba",
