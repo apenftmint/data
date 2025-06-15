@@ -1811,6 +1811,20 @@
       "supply": null,
       "hashtag": null,
       "id": 47
+    },
+    {
+      "name": "Not a Gold Token",
+      "contractAddress": "0x72cddb64a72176b442bdfd9c8bb7968e652d8d1a",
+      "tokenId": "NaN",
+      "price": "Free",
+      "isFree": true,
+      "timestamp": "2025-06-15T04:26:43.583Z",
+      "txHash": "0x79e2ec8c9f1013b5adb6b1cfe7cd7ecf5093516cdd1b423c8daa46fa70f47f5d",
+      "imageUrl": "https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&h=200",
+      "mintUrl": null,
+      "supply": null,
+      "hashtag": null,
+      "id": 48
     }
   ]
 }
