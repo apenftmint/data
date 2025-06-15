@@ -7258,6 +7258,19 @@
     "supply": null,
     "hashtag": null
   },
+  "469": {
+    "name": "JPEG",
+    "contractAddress": "0xf9ef9007d2baf12ba59c3c27e301d7fe83f57f5d",
+    "tokenId": "NaN",
+    "price": "Free",
+    "isFree": true,
+    "timestamp": "2025-06-15T13:39:49.259Z",
+    "txHash": "0xea65979b57b34f159eb69ddacce7b32dcc3b9ed9e7c08981cf1e56f1fed89f03",
+    "imageUrl": "https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&h=200",
+    "mintUrl": null,
+    "supply": null,
+    "hashtag": null
+  },
   "collections": [
     {
       "name": "Contract 0x9d5a...59ba",
