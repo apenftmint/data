@@ -4697,6 +4697,19 @@
     "supply": null,
     "hashtag": null
   },
+  "272": {
+    "name": "typical-tigers",
+    "contractAddress": "0x79f6cc634f14c891d0fea2037d001e39126f01e8",
+    "tokenId": "1092",
+    "price": "Free",
+    "isFree": true,
+    "timestamp": "2025-06-15T06:46:24.552Z",
+    "txHash": "0x6d3c8a7f823c687220388fc59fea6a690544cebf37b3146d0eb016575b3c5a2f",
+    "imageUrl": "https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&h=200",
+    "mintUrl": null,
+    "supply": null,
+    "hashtag": null
+  },
   "collections": [
     {
       "name": "Contract 0x9d5a...59ba",
