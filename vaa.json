@@ -2435,6 +2435,19 @@
     "supply": null,
     "hashtag": null
   },
+  "98": {
+    "name": "Monkaa",
+    "contractAddress": "0x6a557daea8f5f41949477dda7d0c073116cd20ef",
+    "tokenId": "NaN",
+    "price": "Free",
+    "isFree": true,
+    "timestamp": "2025-06-15T04:57:51.379Z",
+    "txHash": "0x9d6f762b446d285a098f3094adf9a037a84f99bc2be259e6f83ee8ba916dac48",
+    "imageUrl": "https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&h=200",
+    "mintUrl": null,
+    "supply": null,
+    "hashtag": null
+  },
   "collections": [
     {
       "name": "Contract 0x9d5a...59ba",
