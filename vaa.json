@@ -3501,6 +3501,19 @@
     "supply": null,
     "hashtag": null
   },
+  "180": {
+    "name": "Curtis",
+    "contractAddress": "0xfc2744a6db0f97c606df786b97255dff6f27e320",
+    "tokenId": "NaN",
+    "price": "Free",
+    "isFree": true,
+    "timestamp": "2025-06-15T05:38:56.431Z",
+    "txHash": "0xe8afb29f3338baf2b6810762ff40bb6e9dc3adb2b2908063f9b88ff5726d5d3d",
+    "imageUrl": "https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&h=200",
+    "mintUrl": null,
+    "supply": null,
+    "hashtag": null
+  },
   "collections": [
     {
       "name": "Contract 0x9d5a...59ba",
