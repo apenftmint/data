@@ -1707,6 +1707,19 @@
     "supply": null,
     "hashtag": null
   },
+  "42": {
+    "name": "Chumps",
+    "contractAddress": "0xe6b2b2daac8bfe8360229aeb3a242b0163ad4465",
+    "tokenId": "559",
+    "price": "Free",
+    "isFree": true,
+    "timestamp": "2025-06-15T04:29:48.422Z",
+    "txHash": "0x58acb62880aa589b77440d9eccfe097e2d9c63c5473cbb8d1b17fe49cdc1d83c",
+    "imageUrl": "https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&h=200",
+    "mintUrl": null,
+    "supply": null,
+    "hashtag": null
+  },
   "collections": [
     {
       "name": "Contract 0x9d5a...59ba",
