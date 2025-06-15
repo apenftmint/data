@@ -3267,6 +3267,19 @@
     "supply": null,
     "hashtag": null
   },
+  "162": {
+    "name": "POOR",
+    "contractAddress": "0x87e377cc48fad5ef5e6b3575d61076f101dc4a19",
+    "tokenId": "NaN",
+    "price": "Free",
+    "isFree": true,
+    "timestamp": "2025-06-15T05:30:47.676Z",
+    "txHash": "0x7b59c7b566c65c9dbb4199e4b331eec4edafd3753b805f22a7d99afa8e2bbf40",
+    "imageUrl": "https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&h=200",
+    "mintUrl": null,
+    "supply": null,
+    "hashtag": null
+  },
   "collections": [
     {
       "name": "Contract 0x9d5a...59ba",
