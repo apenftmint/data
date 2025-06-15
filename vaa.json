@@ -1993,6 +1993,19 @@
     "supply": null,
     "hashtag": null
   },
+  "64": {
+    "name": "MUTANT",
+    "contractAddress": "0xe93d2601b6a10abdadce068a2a7b3a5a0e9a203a",
+    "tokenId": "NaN",
+    "price": "Free",
+    "isFree": true,
+    "timestamp": "2025-06-15T04:42:49.069Z",
+    "txHash": "0xa95bce1fcf4e91882a504ce8925734da6e1223836a619a625517c74b479a9485",
+    "imageUrl": "https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&h=200",
+    "mintUrl": null,
+    "supply": null,
+    "hashtag": null
+  },
   "collections": [
     {
       "name": "Contract 0x9d5a...59ba",
