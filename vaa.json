@@ -3033,6 +3033,19 @@
     "supply": null,
     "hashtag": null
   },
+  "144": {
+    "name": "GHOST MACHINE",
+    "contractAddress": "0x593807746eecfa7e5dbe13d028b9bf8b71972c19",
+    "tokenId": "23342",
+    "price": "Free",
+    "isFree": true,
+    "timestamp": "2025-06-15T05:25:17.575Z",
+    "txHash": "0xd54d5afe507df0a9161b6a642ae25dcc784e979b0f74275ebfa796f26b62ca60",
+    "imageUrl": "https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&h=200",
+    "mintUrl": null,
+    "supply": null,
+    "hashtag": null
+  },
   "collections": [
     {
       "name": "Contract 0x9d5a...59ba",
