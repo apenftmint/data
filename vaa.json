@@ -2877,6 +2877,19 @@
     "supply": null,
     "hashtag": null
   },
+  "132": {
+    "name": "Let's Fucking Go",
+    "contractAddress": "0xe6fe2379d87f0c0da69cd62b38c9061dbb44949a",
+    "tokenId": "NaN",
+    "price": "Free",
+    "isFree": true,
+    "timestamp": "2025-06-15T05:18:16.175Z",
+    "txHash": "0xc8148a52f83e42db465c3b63e61a2c4d372fe2b3d99696eb9bc501be8d77f108",
+    "imageUrl": "https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&h=200",
+    "mintUrl": null,
+    "supply": null,
+    "hashtag": null
+  },
   "collections": [
     {
       "name": "Contract 0x9d5a...59ba",
