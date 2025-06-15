@@ -2383,6 +2383,19 @@
     "supply": null,
     "hashtag": null
   },
+  "94": {
+    "name": "GOLDIE",
+    "contractAddress": "0xd1598b59443103e884d5528e58e004684a00b4a7",
+    "tokenId": "NaN",
+    "price": "Free",
+    "isFree": true,
+    "timestamp": "2025-06-15T04:56:15.976Z",
+    "txHash": "0xa97b5a7c86a7ec83cf1452031d4a8d558f30d29f6afa8971d89eef2c4ea3a4f7",
+    "imageUrl": "https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&h=200",
+    "mintUrl": null,
+    "supply": null,
+    "hashtag": null
+  },
   "collections": [
     {
       "name": "Contract 0x9d5a...59ba",
