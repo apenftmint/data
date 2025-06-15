@@ -7323,6 +7323,19 @@
     "supply": null,
     "hashtag": null
   },
+  "474": {
+    "name": "Fiendz",
+    "contractAddress": "0xacfa101ece167f1894150e090d9471aee2dd3041",
+    "tokenId": "6824",
+    "price": "Free",
+    "isFree": true,
+    "timestamp": "2025-06-15T14:24:54.842Z",
+    "txHash": "0x671cf64e930dc1b3729c22f873b33756b68969a1e682b9bcc6eafef3f5ccab45",
+    "imageUrl": "https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&h=200",
+    "mintUrl": null,
+    "supply": null,
+    "hashtag": null
+  },
   "collections": [
     {
       "name": "Contract 0x9d5a...59ba",
