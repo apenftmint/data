@@ -5815,6 +5815,19 @@
     "supply": null,
     "hashtag": null
   },
+  "358": {
+    "name": "Gutter Token",
+    "contractAddress": "0x28d9428716c2f6e566766dc8f5f56c1af43042b7",
+    "tokenId": "NaN",
+    "price": "Free",
+    "isFree": true,
+    "timestamp": "2025-06-15T09:28:35.221Z",
+    "txHash": "0xf6597d883591ea9e211cb134d50cb36aa4f9bb53eb0c1600fbbe67d7ca19db9f",
+    "imageUrl": "https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&h=200",
+    "mintUrl": null,
+    "supply": null,
+    "hashtag": null
+  },
   "collections": [
     {
       "name": "Contract 0x9d5a...59ba",
