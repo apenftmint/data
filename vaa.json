@@ -3254,6 +3254,19 @@
     "supply": null,
     "hashtag": null
   },
+  "161": {
+    "name": "CrazyCube",
+    "contractAddress": "0x606a47707d5aedae9f616a6f1853fe3075ba740b",
+    "tokenId": "3762",
+    "price": "Free",
+    "isFree": true,
+    "timestamp": "2025-06-15T05:30:14.111Z",
+    "txHash": "0xf9797cb58ff9c7c4b38667d666bc6883cfa0781c7f772bd7073b248eab4f1f10",
+    "imageUrl": "https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&h=200",
+    "mintUrl": null,
+    "supply": null,
+    "hashtag": null
+  },
   "collections": [
     {
       "name": "Contract 0x9d5a...59ba",
