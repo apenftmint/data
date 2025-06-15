@@ -5412,6 +5412,19 @@
     "supply": null,
     "hashtag": null
   },
+  "327": {
+    "name": "Anomalies",
+    "contractAddress": "0x5279c6999027a464946fdabe2757cb7305fafc17",
+    "tokenId": "2279",
+    "price": "Free",
+    "isFree": true,
+    "timestamp": "2025-06-15T07:48:00.000Z",
+    "txHash": "0x9415f3c0c6f0f3dd8a2d15c68bfc4a6b6268a4f3231d3118443574907c8ca98c",
+    "imageUrl": "https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&h=200",
+    "mintUrl": null,
+    "supply": null,
+    "hashtag": null
+  },
   "collections": [
     {
       "name": "Contract 0x9d5a...59ba",
