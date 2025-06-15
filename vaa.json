@@ -1797,6 +1797,20 @@
       "supply": null,
       "hashtag": null,
       "id": 46
+    },
+    {
+      "name": "Franklins",
+      "contractAddress": "0x5d627a6b8e3993b1ca387e9c422b3891913b4ab7",
+      "tokenId": "NaN",
+      "price": "Free",
+      "isFree": true,
+      "timestamp": "2025-06-15T04:26:08.027Z",
+      "txHash": "0x0d48488ce5172c35f43450b6a7c33c77e96054958e735c69be376616e093a712",
+      "imageUrl": "https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&h=200",
+      "mintUrl": null,
+      "supply": null,
+      "hashtag": null,
+      "id": 47
     }
   ]
 }
