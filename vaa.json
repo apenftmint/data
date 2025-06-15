@@ -3787,6 +3787,19 @@
     "supply": null,
     "hashtag": null
   },
+  "202": {
+    "name": "Goobaloo",
+    "contractAddress": "0xdead14d547030f71ed3eed6523525d61e1474807",
+    "tokenId": "1631",
+    "price": "Free",
+    "isFree": true,
+    "timestamp": "2025-06-15T05:48:17.252Z",
+    "txHash": "0x71c351c5dfd30b0a583ecb5235a46411f70ca42ed751bf5e27cb87168832a298",
+    "imageUrl": "https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&h=200",
+    "mintUrl": null,
+    "supply": null,
+    "hashtag": null
+  },
   "collections": [
     {
       "name": "Contract 0x9d5a...59ba",
