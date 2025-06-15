@@ -2942,6 +2942,19 @@
     "supply": null,
     "hashtag": null
   },
+  "137": {
+    "name": "FoxyFam",
+    "contractAddress": "0x312d0349c6b32fc4934e570c795a7bfe6fbf986b",
+    "tokenId": "755",
+    "price": "Free",
+    "isFree": true,
+    "timestamp": "2025-06-15T05:20:31.464Z",
+    "txHash": "0x740d0a8298e7a1825ada76f4e5740a048f5845c9c47d72dca9025230a7da0d20",
+    "imageUrl": "https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&h=200",
+    "mintUrl": null,
+    "supply": null,
+    "hashtag": null
+  },
   "collections": [
     {
       "name": "Contract 0x9d5a...59ba",
