@@ -5880,6 +5880,19 @@
     "supply": null,
     "hashtag": null
   },
+  "363": {
+    "name": "HORSE",
+    "contractAddress": "0x0ebf5680d7436380d6d7da35d7c4b6587878425a",
+    "tokenId": "NaN",
+    "price": "Free",
+    "isFree": true,
+    "timestamp": "2025-06-15T09:30:08.890Z",
+    "txHash": "0x9b7432e96b0802887b8bd85020215f98a143a5b6dcb968430a7bc5c5d5f5b3a4",
+    "imageUrl": "https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&h=200",
+    "mintUrl": null,
+    "supply": null,
+    "hashtag": null
+  },
   "collections": [
     {
       "name": "Contract 0x9d5a...59ba",
