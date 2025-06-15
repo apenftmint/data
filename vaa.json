@@ -7440,6 +7440,19 @@
     "supply": null,
     "hashtag": null
   },
+  "483": {
+    "name": "Yowies",
+    "contractAddress": "0x678f9106d0a3b1158e218870d453bdc42dee15e9",
+    "tokenId": "1137",
+    "price": "Free",
+    "isFree": true,
+    "timestamp": "2025-06-15T18:19:06.206Z",
+    "txHash": "0xcd880cfc2dfcd4ee14aac566415fb4e94990dbca3105b405610e4ae8f7e34a4c",
+    "imageUrl": "https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&h=200",
+    "mintUrl": null,
+    "supply": null,
+    "hashtag": null
+  },
   "collections": [
     {
       "name": "Contract 0x9d5a...59ba",
