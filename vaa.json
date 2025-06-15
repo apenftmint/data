@@ -4333,6 +4333,19 @@
     "supply": null,
     "hashtag": null
   },
+  "244": {
+    "name": "PANIS",
+    "contractAddress": "0x488fc4bb972411a5cb4de00edef4d7e5fdab67bb",
+    "tokenId": "NaN",
+    "price": "Free",
+    "isFree": true,
+    "timestamp": "2025-06-15T06:11:49.144Z",
+    "txHash": "0x5f4f71e57e03a15f761b06884e3218324b4f90e82286d582328ecf54ea8bcb6d",
+    "imageUrl": "https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&h=200",
+    "mintUrl": null,
+    "supply": null,
+    "hashtag": null
+  },
   "collections": [
     {
       "name": "Contract 0x9d5a...59ba",
