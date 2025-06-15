@@ -5828,6 +5828,19 @@
     "supply": null,
     "hashtag": null
   },
+  "359": {
+    "name": "Selfie Punks",
+    "contractAddress": "0x4f35afeb05a5c3a3a71fde1d72561f803a3998be",
+    "tokenId": "2594",
+    "price": "Free",
+    "isFree": true,
+    "timestamp": "2025-06-15T09:28:35.222Z",
+    "txHash": "0x09b551e0b0043e907925d907f1a48412e874f1ea06acd66216ad9ed32f4e2f99",
+    "imageUrl": "https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&h=200",
+    "mintUrl": null,
+    "supply": null,
+    "hashtag": null
+  },
   "collections": [
     {
       "name": "Contract 0x9d5a...59ba",
