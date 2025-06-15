@@ -6491,6 +6491,19 @@
     "supply": null,
     "hashtag": null
   },
+  "410": {
+    "name": "BZUKI",
+    "contractAddress": "0x1b3297123b1a7117a56686cb9b2f6f6e6d611417",
+    "tokenId": "56",
+    "price": "Free",
+    "isFree": true,
+    "timestamp": "2025-06-15T09:55:25.637Z",
+    "txHash": "0xb69863dfe7afcf6ea678f51b378a52e4ca21206eb8ca4e8d3890951c7da91a2b",
+    "imageUrl": "https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&h=200",
+    "mintUrl": null,
+    "supply": null,
+    "hashtag": null
+  },
   "collections": [
     {
       "name": "Contract 0x9d5a...59ba",
