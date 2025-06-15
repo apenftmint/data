@@ -3618,6 +3618,19 @@
     "supply": null,
     "hashtag": null
   },
+  "189": {
+    "name": "Gerden Gooner",
+    "contractAddress": "0x0377bcf2f3de70818892117866775b3a0e79773f",
+    "tokenId": "NaN",
+    "price": "Free",
+    "isFree": true,
+    "timestamp": "2025-06-15T05:41:57.096Z",
+    "txHash": "0x6e92c827448a5c968a8a81fc12971d7fcd37bc84a98e724cf0908a17335917cd",
+    "imageUrl": "https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&h=200",
+    "mintUrl": null,
+    "supply": null,
+    "hashtag": null
+  },
   "collections": [
     {
       "name": "Contract 0x9d5a...59ba",
