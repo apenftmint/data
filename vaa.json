@@ -2266,6 +2266,19 @@
     "supply": null,
     "hashtag": null
   },
+  "85": {
+    "name": "HII BOX S1",
+    "contractAddress": "0x9720aed2929b3b428ad25d3c05418875f8e00124",
+    "tokenId": "35766",
+    "price": "Free",
+    "isFree": true,
+    "timestamp": "2025-06-15T04:51:51.587Z",
+    "txHash": "0x2057b50b096af13df3bc7f498c05bee81502d2a3d6ff22ea9cff4593956a367c",
+    "imageUrl": "https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&h=200",
+    "mintUrl": null,
+    "supply": null,
+    "hashtag": null
+  },
   "collections": [
     {
       "name": "Contract 0x9d5a...59ba",
