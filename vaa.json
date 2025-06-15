@@ -6166,6 +6166,19 @@
     "supply": null,
     "hashtag": null
   },
+  "385": {
+    "name": "Goobies",
+    "contractAddress": "0x22fa4154a32967b8d54ba61ac0ae208b74d2fa0c",
+    "tokenId": "1423",
+    "price": "Free",
+    "isFree": true,
+    "timestamp": "2025-06-15T09:38:06.324Z",
+    "txHash": "0x5a0f5c53811fdcdd3e7880fd86dfdb10fe85393cb8ab9a03f46e9b807ab6c454",
+    "imageUrl": "https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&h=200",
+    "mintUrl": null,
+    "supply": null,
+    "hashtag": null
+  },
   "collections": [
     {
       "name": "Contract 0x9d5a...59ba",
