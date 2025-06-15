@@ -2305,6 +2305,19 @@
     "supply": null,
     "hashtag": null
   },
+  "88": {
+    "name": "Boggy",
+    "contractAddress": "0x5d0563ff947f4ed596a4daa6f2be00f4f326b0bc",
+    "tokenId": "5291",
+    "price": "Free",
+    "isFree": true,
+    "timestamp": "2025-06-15T04:53:17.927Z",
+    "txHash": "0x7b9f7c182e9b5a296ccafcfd27248dc7f68e43b94f9d81944725f6db58a920cb",
+    "imageUrl": "https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&h=200",
+    "mintUrl": null,
+    "supply": null,
+    "hashtag": null
+  },
   "collections": [
     {
       "name": "Contract 0x9d5a...59ba",
