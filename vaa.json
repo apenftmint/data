@@ -3345,6 +3345,19 @@
     "supply": null,
     "hashtag": null
   },
+  "168": {
+    "name": "GORDOG",
+    "contractAddress": "0xa47d12122f661da8c09445e85cc4c2d4a6730bd0",
+    "tokenId": "NaN",
+    "price": "Free",
+    "isFree": true,
+    "timestamp": "2025-06-15T05:32:23.128Z",
+    "txHash": "0x6201c7b1fcce6ed78ddc2e030a185e4ad663be32c714b97a18b9766f24eebd9b",
+    "imageUrl": "https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&h=200",
+    "mintUrl": null,
+    "supply": null,
+    "hashtag": null
+  },
   "collections": [
     {
       "name": "Contract 0x9d5a...59ba",
