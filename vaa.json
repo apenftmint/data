@@ -2682,6 +2682,19 @@
     "supply": null,
     "hashtag": null
   },
+  "117": {
+    "name": "MB Coin",
+    "contractAddress": "0x4f577236564ea3baabbc35d274d8623b81f703eb",
+    "tokenId": "NaN",
+    "price": "Free",
+    "isFree": true,
+    "timestamp": "2025-06-15T05:08:06.823Z",
+    "txHash": "0xed7a147eefb6c4a1f0df1f002049ed7cd87c2a3bf14b1ef2fc7142615f3b9f6a",
+    "imageUrl": "https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&h=200",
+    "mintUrl": null,
+    "supply": null,
+    "hashtag": null
+  },
   "collections": [
     {
       "name": "Contract 0x9d5a...59ba",
