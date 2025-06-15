@@ -2565,6 +2565,19 @@
     "supply": null,
     "hashtag": null
   },
+  "108": {
+    "name": "Dawn of The Duck",
+    "contractAddress": "0x9fadecb791fcd35a9229301819022aaf2383df46",
+    "tokenId": "1047",
+    "price": "Free",
+    "isFree": true,
+    "timestamp": "2025-06-15T05:02:30.697Z",
+    "txHash": "0x634f3955caa205caf5e11d41ea0d1ec7843623f7fccb68d4421457922830af89",
+    "imageUrl": "https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&h=200",
+    "mintUrl": null,
+    "supply": null,
+    "hashtag": null
+  },
   "collections": [
     {
       "name": "Contract 0x9d5a...59ba",
