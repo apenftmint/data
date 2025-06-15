@@ -1727,6 +1727,20 @@
       "supply": null,
       "hashtag": null,
       "id": 41
+    },
+    {
+      "name": "Gold Ore",
+      "contractAddress": "0xd5af802f7300d1be00f175e49b1297e7c9601a9b",
+      "tokenId": "186023",
+      "price": "Free",
+      "isFree": true,
+      "timestamp": "2025-06-15T04:22:37.958Z",
+      "txHash": "0xf09e5b5f7baef2f63dd51e7d7ea0143f13522d139877ad430fd108e0a619fe8b",
+      "imageUrl": "https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&h=200",
+      "mintUrl": null,
+      "supply": null,
+      "hashtag": null,
+      "id": 42
     }
   ]
 }
