@@ -6036,6 +6036,19 @@
     "supply": null,
     "hashtag": null
   },
+  "375": {
+    "name": "Mutant Ape Yacht Club Shadow",
+    "contractAddress": "0x60e4d786628fea6478f785a6d7e704777c86a7c6",
+    "tokenId": "6522",
+    "price": "Free",
+    "isFree": true,
+    "timestamp": "2025-06-15T09:36:02.194Z",
+    "txHash": "0xf3a23ecc93bef3edcac6c4786b0d23c974768285f81e470cb03e6827e74f9933",
+    "imageUrl": "https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&h=200",
+    "mintUrl": null,
+    "supply": null,
+    "hashtag": null
+  },
   "collections": [
     {
       "name": "Contract 0x9d5a...59ba",
