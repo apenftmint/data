@@ -7973,6 +7973,19 @@
     "supply": null,
     "hashtag": null
   },
+  "524": {
+    "name": "Gary",
+    "contractAddress": "0xca6094a1e211a9cf35b2a737896b4ca5a75ba897",
+    "tokenId": "NaN",
+    "price": "Free",
+    "isFree": true,
+    "timestamp": "2025-06-16T15:44:21.439Z",
+    "txHash": "0x43749ed7d66cbd0a50ef477585a16bd7ea4504aa48fc3ab299736e75049d0f4f",
+    "imageUrl": "https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&h=200",
+    "mintUrl": null,
+    "supply": null,
+    "hashtag": null
+  },
   "collections": [
     {
       "name": "Contract 0x9d5a...59ba",
