@@ -8090,6 +8090,19 @@
     "supply": null,
     "hashtag": null
   },
+  "533": {
+    "name": "Bodhi",
+    "contractAddress": "0xcc43c2cfd47b37e3ed71a4c1fb5c11610d2bb4b2",
+    "tokenId": "NaN",
+    "price": "Free",
+    "isFree": true,
+    "timestamp": "2025-06-16T15:53:35.005Z",
+    "txHash": "0x829ab6c0ae1a2a228236aa983ed1d4fcd3bffa1624b90387762c2bae437b43e6",
+    "imageUrl": "https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&h=200",
+    "mintUrl": null,
+    "supply": null,
+    "hashtag": null
+  },
   "collections": [
     {
       "name": "Contract 0x9d5a...59ba",
