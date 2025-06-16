@@ -8025,6 +8025,19 @@
     "supply": null,
     "hashtag": null
   },
+  "528": {
+    "name": "Hop_Starz",
+    "contractAddress": "0xbe0c4f7aef79e41463bcd4e20c66fda4e35a5a19",
+    "tokenId": "6764",
+    "price": "Free",
+    "isFree": true,
+    "timestamp": "2025-06-16T15:47:15.008Z",
+    "txHash": "0x3de7a5c1e2a4bd66f1951cc16e68e8935198178b4b24d9f334f765f868178d2f",
+    "imageUrl": "https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&h=200",
+    "mintUrl": null,
+    "supply": null,
+    "hashtag": null
+  },
   "collections": [
     {
       "name": "Contract 0x9d5a...59ba",
