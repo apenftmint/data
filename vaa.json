@@ -7869,6 +7869,19 @@
     "supply": null,
     "hashtag": null
   },
+  "516": {
+    "name": "MAGA",
+    "contractAddress": "0x7fd110b6821cf49d372c67778a63bff341dd30c2",
+    "tokenId": "NaN",
+    "price": "Free",
+    "isFree": true,
+    "timestamp": "2025-06-16T15:37:58.137Z",
+    "txHash": "0xf92d7003e7b2984bf6d4ee3077ff3d448f71e30b0fa78a0ef5b34ae6f8643235",
+    "imageUrl": "https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&h=200",
+    "mintUrl": null,
+    "supply": null,
+    "hashtag": null
+  },
   "collections": [
     {
       "name": "Contract 0x9d5a...59ba",
