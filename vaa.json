@@ -8116,6 +8116,19 @@
     "supply": null,
     "hashtag": null
   },
+  "535": {
+    "name": "GIZMO",
+    "contractAddress": "0x613a5509b3b097b5b317e8c303a5e230b9e2c95e",
+    "tokenId": "NaN",
+    "price": "Free",
+    "isFree": true,
+    "timestamp": "2025-06-16T15:55:53.521Z",
+    "txHash": "0x21779073da1dec23cd10c0f3ed42b3bc08860ed279ca1d272f13d2db4b2ac8a8",
+    "imageUrl": "https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&h=200",
+    "mintUrl": null,
+    "supply": null,
+    "hashtag": null
+  },
   "collections": [
     {
       "name": "Contract 0x9d5a...59ba",
