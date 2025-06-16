@@ -7986,6 +7986,19 @@
     "supply": null,
     "hashtag": null
   },
+  "525": {
+    "name": "Froglings",
+    "contractAddress": "0xcf2e5437b2944def3fc72b0a7488e87467c7d76c",
+    "tokenId": "1103",
+    "price": "Free",
+    "isFree": true,
+    "timestamp": "2025-06-16T15:44:56.272Z",
+    "txHash": "0x294a675397377144ce2045ce7bdc884ead083ce77df122cad88a16435b22432a",
+    "imageUrl": "https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&h=200",
+    "mintUrl": null,
+    "supply": null,
+    "hashtag": null
+  },
   "collections": [
     {
       "name": "Contract 0x9d5a...59ba",
