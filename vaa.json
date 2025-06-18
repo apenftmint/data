@@ -8753,6 +8753,19 @@
     "supply": null,
     "hashtag": null
   },
+  "584": {
+    "name": "Minions on Ape",
+    "contractAddress": "0x210f8a50f635191508b547a4f98be004be58005e",
+    "tokenId": "69",
+    "price": "Free",
+    "isFree": true,
+    "timestamp": "2025-06-18T16:42:03.021Z",
+    "txHash": "0x23d6ef596d10fd7d5e6f49db3a3cd4644f86d1ccc8f2cbb16e717ac6eba5b540",
+    "imageUrl": "https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&h=200",
+    "mintUrl": null,
+    "supply": null,
+    "hashtag": null
+  },
   "collections": [
     {
       "name": "Contract 0x9d5a...59ba",
