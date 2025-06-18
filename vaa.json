@@ -8636,6 +8636,19 @@
     "supply": null,
     "hashtag": null
   },
+  "575": {
+    "name": "Clutch Puppies",
+    "contractAddress": "0x1b16c0b69d4a30c42c92c873c4873787afcbec5c",
+    "tokenId": "2020",
+    "price": "Free",
+    "isFree": true,
+    "timestamp": "2025-06-18T16:23:07.395Z",
+    "txHash": "0xc6eaa6e09669b1a9cf1bfb92cf4de1902c9c4efd78be25dec97d125b0d9c3cc9",
+    "imageUrl": "https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&h=200",
+    "mintUrl": null,
+    "supply": null,
+    "hashtag": null
+  },
   "collections": [
     {
       "name": "Contract 0x9d5a...59ba",
