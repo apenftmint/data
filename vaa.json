@@ -8818,6 +8818,19 @@
     "supply": null,
     "hashtag": null
   },
+  "589": {
+    "name": "Ape Chain Cities Blocks",
+    "contractAddress": "0x993e5651c67d4befc2cb5dc39f44f0051b4c44e9",
+    "tokenId": "13",
+    "price": "Free",
+    "isFree": true,
+    "timestamp": "2025-06-18T16:43:44.889Z",
+    "txHash": "0x32d7ac4ae55c8fa1d2d0304711103c6accb7a26fc8e5c486d273967be4636075",
+    "imageUrl": "https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&h=200",
+    "mintUrl": null,
+    "supply": null,
+    "hashtag": null
+  },
   "collections": [
     {
       "name": "Contract 0x9d5a...59ba",
