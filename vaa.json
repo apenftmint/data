@@ -8870,6 +8870,19 @@
     "supply": null,
     "hashtag": null
   },
+  "593": {
+    "name": "ParlayNFT",
+    "contractAddress": "0x7f66d16a488eae9e2b61bfb186fd94bba3611416",
+    "tokenId": "905",
+    "price": "Free",
+    "isFree": true,
+    "timestamp": "2025-06-18T17:16:55.178Z",
+    "txHash": "0x66c4498fcca30c9dd28193879f3b01794e131f43868b5d57b53ae5d49a616a67",
+    "imageUrl": "https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&h=200",
+    "mintUrl": null,
+    "supply": null,
+    "hashtag": null
+  },
   "collections": [
     {
       "name": "Contract 0x9d5a...59ba",
