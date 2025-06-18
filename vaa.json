@@ -8545,6 +8545,19 @@
     "supply": null,
     "hashtag": null
   },
+  "568": {
+    "name": "Apekin",
+    "contractAddress": "0x7e41af17346bd0cd23998a71509dfd20938f50a1",
+    "tokenId": "84837",
+    "price": "Free",
+    "isFree": true,
+    "timestamp": "2025-06-18T10:48:24.135Z",
+    "txHash": "0xc69511bd029bde45c4217c1d26ee59bcfc9b71976911a26fa4986ed6bbad385b",
+    "imageUrl": "https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&h=200",
+    "mintUrl": null,
+    "supply": null,
+    "hashtag": null
+  },
   "collections": [
     {
       "name": "Contract 0x9d5a...59ba",
