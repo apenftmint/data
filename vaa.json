@@ -8532,6 +8532,19 @@
     "supply": null,
     "hashtag": null
   },
+  "567": {
+    "name": "Satoshi Capsules",
+    "contractAddress": "0x36268223db537c3b5a4f6145b1667881a6d5911b",
+    "tokenId": "98",
+    "price": "Free",
+    "isFree": true,
+    "timestamp": "2025-06-18T09:29:44.927Z",
+    "txHash": "0x636b20b8713ec4ece7c15a2c3d84ff3ab38d98bc497ed8b4ad5bd61ba7fbd6c6",
+    "imageUrl": "https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&h=200",
+    "mintUrl": null,
+    "supply": null,
+    "hashtag": null
+  },
   "collections": [
     {
       "name": "Contract 0x9d5a...59ba",
