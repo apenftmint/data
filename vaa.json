@@ -8844,6 +8844,19 @@
     "supply": null,
     "hashtag": null
   },
+  "591": {
+    "name": "ZARDS",
+    "contractAddress": "0xf53798f58ec60571d2ca58add7d97621a7bab82c",
+    "tokenId": "NaN",
+    "price": "Free",
+    "isFree": true,
+    "timestamp": "2025-06-18T16:44:18.026Z",
+    "txHash": "0xc28cbaf68df62812a060278f8728b1575e79c9df833e346bdc1e91b272a432c7",
+    "imageUrl": "https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&h=200",
+    "mintUrl": null,
+    "supply": null,
+    "hashtag": null
+  },
   "collections": [
     {
       "name": "Contract 0x9d5a...59ba",
