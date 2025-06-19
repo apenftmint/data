@@ -8948,6 +8948,19 @@
     "supply": null,
     "hashtag": null
   },
+  "599": {
+    "name": "Crypto Is Fun",
+    "contractAddress": "0x70bee7ca89300e9450ecb6c083387132995152dd",
+    "tokenId": "NaN",
+    "price": "Free",
+    "isFree": true,
+    "timestamp": "2025-06-19T05:32:06.570Z",
+    "txHash": "0x6bd73dec0eeaef2cf1eb59ce72b025be8d86d642fd51012413004d0f0e0db373",
+    "imageUrl": "https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&h=200",
+    "mintUrl": null,
+    "supply": null,
+    "hashtag": null
+  },
   "collections": [
     {
       "name": "Contract 0x9d5a...59ba",
